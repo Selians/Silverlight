@@ -5,6 +5,7 @@ screenshots/
 crash-reports/
 
 # Files
-usecache.json
+usercache.json
 usernamecache.json
 options.txt
+imgui.ini
