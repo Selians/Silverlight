@@ -1,0 +1,17 @@
+{
+	id: "06399E88A4E9729B"
+	group: "0B03CCB1271D0381"
+	order_index: 3
+	filename: "all_the_gears"
+	title: "All the gear(s?)"
+	icon: {
+		id: "create_sa:andesite_jetpack_chestplate"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

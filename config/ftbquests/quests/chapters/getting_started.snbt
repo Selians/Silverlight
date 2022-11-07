@@ -1,0 +1,20 @@
+{
+	id: "432AB4877870F541"
+	group: "0B03CCB1271D0381"
+	order_index: 0
+	filename: "getting_started"
+	title: "Getting started"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "Punch tree, no wood?"
+		x: 0.0d
+		y: 0.0d
+		id: "43CB95DD9563DEC6"
+		tasks: [{
+			id: "419C9CC60EBD569C"
+			type: "item"
+			item: "minecraft:stick"
+		}]
+	}]
+}

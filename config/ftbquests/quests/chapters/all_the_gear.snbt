@@ -1,0 +1,17 @@
+{
+	id: "189F2B1A7024F0B6"
+	group: "0B03CCB1271D0381"
+	order_index: 2
+	filename: "all_the_gear"
+	title: "All the gear"
+	icon: {
+		id: "minecraft:diamond_chestplate"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

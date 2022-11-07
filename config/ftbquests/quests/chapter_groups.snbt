@@ -1,3 +1,6 @@
 {
-	chapter_groups: [{ id: "1D8F1A483208D022", title: "End of the journey" }]
+	chapter_groups: [
+		{ id: "0B03CCB1271D0381", title: "The basics" }
+		{ id: "1D8F1A483208D022", title: "End of the journey" }
+	]
 }
