@@ -3,9 +3,12 @@ saves/
 logs/
 screenshots/
 crash-reports/
+config/jei/world/local/
 
 # Files
 usercache.json
 usernamecache.json
 options.txt
 imgui.ini
+logs/kubejs/startup.txt
+logs/kubejs/client.txt
