@@ -1,0 +1,335 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/panoramas/underwater/panorama_0.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-centered
+  x = -112
+  action = movebutton
+  y = 200
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 225
+  action = resizebutton
+  height = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\btn_lrg_sel.png
+  backgroundnormal = silverlight\resources\btn_lrg_nrm.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = top-right
+  x = -64
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  width = 48
+  action = resizebutton
+  height = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\button_accessibility_sel.png
+  backgroundnormal = silverlight\resources\button_accessibility_nrm.png
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = top-right
+  x = -64
+  action = movebutton
+  y = 160
+}
+
+customization {
+  identifier = %id=376322%
+  width = 48
+  action = resizebutton
+  height = 48
+}
+
+customization {
+  identifier = %id=376322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\btn_small_sel.png
+  backgroundnormal = silverlight\resources\btn_small_nrm.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-centered
+  x = -90
+  action = movebutton
+  y = 240
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 180
+  action = resizebutton
+  height = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\btn_med_sel.png
+  backgroundnormal = silverlight\resources\btn_med_nrm.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-centered
+  x = -90
+  action = movebutton
+  y = 280
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 180
+  action = resizebutton
+  height = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\btn_med_sel.png
+  backgroundnormal = silverlight\resources\btn_med_nrm.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-right
+  x = -64
+  action = movebutton
+  y = 16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 48
+  action = resizebutton
+  height = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\button_lang_sel.png
+  backgroundnormal = silverlight\resources\button_lang_nrm.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-centered
+  x = -112
+  action = movebutton
+  y = 160
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 225
+  action = resizebutton
+  height = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\btn_lrg_sel.png
+  backgroundnormal = silverlight\resources\btn_lrg_nrm.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = top-right
+  x = -64
+  action = movebutton
+  y = 112
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 48
+  action = resizebutton
+  height = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = silverlight\resources\btn_small_sel.png
+  backgroundnormal = silverlight\resources\btn_small_nrm.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 02cacad9-26e6-40e9-b665-5b8471e2a5701667853178955
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 0a0dbc51-806b-460a-8f8a-6c4cedf8a90b1667853178960
+  y = 467
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = fc66a3a7-13fb-4351-91bd-027af991489d1667853178960
+  y = 489
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = b9c3b0e2-46de-40f1-9e3f-fb35aca8250a1667853178960
+  y = 229
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = ca023fca-039f-4240-a500-2567b7110ba11667853178960
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = b0f3628b-55a2-4328-8c3d-609b25a319141667853178960
+  y = 0
+  height = 30
+}
+
+customization {
+  path = silverlight/resources/silverlight_wide.png
+  orientation = top-centered
+  x = -158
+  width = 316
+  action = addtexture
+  actionid = eab8ad9a-871c-455d-ae16-6416fe4d3c141667937827117
+  y = 25
+  height = 100
+}
+
+customization {
+  orientation = top-right
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = silverlight\resources\button_social_sel.png
+  label = 
+  loopbackgroundanimations = true
+  x = -64
+  width = 48
+  actionid = 1414e2de-c127-4e59-b802-e213253e88e61667943148213
+  action = addbutton
+  y = 112
+  backgroundnormal = silverlight\resources\button_social_nrm.png
+  value = https://discord.com/channels/788331969908834385/788331972644175885/788431696486858812
+  height = 48
+}
+
