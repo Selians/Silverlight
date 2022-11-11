@@ -160,3 +160,19 @@ key.create_sa.increase_reach
 key.create_sa.decrease_reach
 Reload Menu | CTRL + ALT + 
 Toggle Customization Overlay | CTRL + ALT + 
+key.craftingtweaks.rotate
+key.craftingtweaks.rotate_counter_clockwise
+key.craftingtweaks.balance
+key.craftingtweaks.spread
+key.craftingtweaks.clear
+key.craftingtweaks.force_clear
+key.craftingtweaks.toggleButtons
+key.craftingtweaks.compressOne
+key.craftingtweaks.compressStack
+key.craftingtweaks.compressAll
+key.craftingtweaks.decompressOne
+key.craftingtweaks.decompressStack
+key.craftingtweaks.decompressAll
+key.craftingtweaks.refill_last
+key.craftingtweaks.refill_last_stack
+key.craftingtweaks.transfer_stack

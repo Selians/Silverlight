@@ -1,6 +1,6 @@
 LootJS.modifiers((event) => {
 
-    /* End Remastered eye removals */
+    /* Remove loot from chest */
     event
         .addLootTypeModifier(LootType.CHEST)
         .removeLoot("endrem:black_eye") // Buried treasure
@@ -30,4 +30,9 @@ LootJS.modifiers((event) => {
     event
         .addEntityLootModifier("ob_aquamirae:captain_cornelia")
         .addLoot("endrem:nether_eye");
+    
+    event
+        .addEntityLootModifier("born_in_chaos_v1:felsteed")
+        .addLoot("endrem:undead_eye");
+
 });

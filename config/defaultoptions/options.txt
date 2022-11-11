@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Generated Pack","Supplementaries Generated Pack","quark:emote_resources","file/Better-Leaves-7.1-1.19+.zip","file/Create Style Modded Compats v14.zip","file/Crystal_Sculk_sounds_and_fixes_update.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/EmbellishedStone-1.19-1.0.0.zip","file/Fantasy_Ores_v6_shiny_ores.zip","file/Soft-Weather-1.0-1.19.zip","eatinganimations_compat","create:legacy_copper","resources/silverlight.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Better-Leaves-7.1-1.19+.zip","file/Create Style Modded Compats v14.zip","file/Crystal_Sculk_sounds_and_fixes_update.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/EmbellishedStone-1.19-1.0.0.zip","file/Fantasy_Ores_v6_shiny_ores.zip","file/Soft-Weather-1.0-1.19.zip","eatinganimations_compat","create:legacy_copper","resources/silverlight.zip"]
 incompatibleResourcePacks:["quark:emote_resources","file/Create Style Modded Compats v14.zip"]
 lastServer:
 lang:en_us
