@@ -16,7 +16,7 @@ ServerEvents.recipes(event => {
 	event.remove({output:'blocky_siege:cannon_stand'});
 
 	/* REMOVE BY MODID */
-	event.remove({mod:'arclight'});
+	event.remove({mod:'knight_quest'});
 
 	/* RECIPES */
 
@@ -52,15 +52,4 @@ ServerEvents.tags('item', event => {
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
-})
-
-
-LootJS.modifiers((event) => {
-	event
-		.addEntityLootModifier("ob_aquamirae:captain_cornelia")
-		.addLoot("endrem:coldeye");
-
-	event
-		.addEntityLootModifier("cataclysm:netherite_monstrosity")
-		.addLoot("endrem:nether_eye");
 })

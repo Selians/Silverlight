@@ -1,8 +1,15 @@
 // priority: 0
 
-console.info('Hello, World! (You will only see this line once in console, during startup)')
+console.info('KubeJS is here to fix shit)')
 
 StartupEvents.registry('item', event => {
+	event
+		.create('silverlight_raw')
+		.displayName('Silverlight')
+
+		event
+		.create('silverlight_awakened')
+		.displayName('Awakened Silverlight')
 	// Register new items here
 	// event.create('example_item').displayName('Example Item')
 })
