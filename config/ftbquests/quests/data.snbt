@@ -1,7 +1,13 @@
 {
 	version: 13
-	title: "Tome of Legends"
-	icon: "arclight:angel_helmet"
+	title: "Athena's Guidance"
+	icon: {
+		id: "create_sa:rose_quartz_sword"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
 	default_reward_team: false
 	default_consume_items: false
 	default_autoclaim_rewards: "disabled"

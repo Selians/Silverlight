@@ -1,3 +1,3 @@
-[22:13:50] [INFO ] startup_scripts:script.js:3: KubeJS is here to fix shit)
-[22:13:50] [INFO ] Loaded script startup_scripts:script.js in 0.054 s
-[22:13:50] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.488 s
+[10:19:34] [INFO ] startup_scripts:script.js:3: KubeJS is here to fix shit)
+[10:19:34] [INFO ] Loaded script startup_scripts:script.js in 0.047 s
+[10:19:34] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.46 s

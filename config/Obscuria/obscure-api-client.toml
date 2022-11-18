@@ -1,7 +1,13 @@
 
 [Tooltips]
 	#Display food properties in tooltips
-	displayFoodIcons = true
+	"Food Icons" = true
 	#Display equipment attributes in tooltips
-	displayEquipmentIcons = true
+	"Equipment Icons" = true
+	#Display reduced tooltips for new inventory buttons
+	"Small Tooltips" = true
+	#Range: -1000 ~ 1000
+	"Inventory Buttons Offset X" = 0
+	#Range: -1000 ~ 1000
+	"Inventory Buttons Offset Y" = 0
 

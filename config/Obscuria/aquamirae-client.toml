@@ -1,7 +1,7 @@
 
-[Ambient]
-	spawnParticles = true
-	playAmbientSounds = true
-	playBiomeMusic = true
-	playBossMusic = true
+[IceMazeAmbient]
+	SpawnParticles = true
+	PlayAmbientSounds = true
+	PlayBiomeTheme = true
+	PlayCorneliaTheme = true
 
