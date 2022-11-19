@@ -192,24 +192,14 @@
 				advancement: "ob_aquamirae:the_dead_sea"
 				criterion: ""
 			}]
-			rewards: [
-				{
-					id: "7C81B5A0563F4897"
-					type: "command"
-					auto: "invisible"
-					ignore_reward_blocking: true
-					command: "/sh_difficulty add @p 10"
-					player_command: false
-				}
-				{
-					id: "506C02902153FBDA"
-					type: "command"
-					auto: "invisible"
-					ignore_reward_blocking: true
-					command: "/sh_health add @p 0.5"
-					player_command: false
-				}
-			]
+			rewards: [{
+				id: "7C81B5A0563F4897"
+				type: "command"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				command: "/sh_difficulty add @p 10"
+				player_command: false
+			}]
 		}
 		{
 			x: 1.0d
@@ -541,24 +531,14 @@
 				advancement: "cataclysm:kill_monstrosity"
 				criterion: ""
 			}]
-			rewards: [
-				{
-					id: "5CD26D2E6EA1D6B2"
-					type: "command"
-					auto: "invisible"
-					ignore_reward_blocking: true
-					command: "/sh_difficulty add @p 10"
-					player_command: false
-				}
-				{
-					id: "4318E0110454499E"
-					type: "command"
-					auto: "invisible"
-					ignore_reward_blocking: true
-					command: "/sh_health add @p 0.5"
-					player_command: false
-				}
-			]
+			rewards: [{
+				id: "5CD26D2E6EA1D6B2"
+				type: "command"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				command: "/sh_difficulty add @p 10"
+				player_command: false
+			}]
 		}
 		{
 			x: -7.0d
