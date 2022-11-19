@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Better-Leaves-7.1-1.19+.zip","file/Create Style Modded Compats v14.zip","file/Crystal_Sculk_sounds_and_fixes_update.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/EmbellishedStone-1.19-1.0.0.zip","file/Fantasy_Ores_v6_shiny_ores.zip","file/Soft-Weather-1.0-1.19.zip","eatinganimations_compat","create:legacy_copper"]
-incompatibleResourcePacks:["quark:emote_resources","file/Create Style Modded Compats v14.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Better-Leaves-7.1-1.19+.zip","file/Create Style Modded Compats v14.zip","file/Crystal_Sculk_sounds_and_fixes_update.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/EmbellishedStone-1.19-1.0.0.zip","file/Fantasy_Ores_v6_shiny_ores.zip","file/Soft-Weather-1.0-1.19.zip","eatinganimations_compat","create:legacy_copper","resources/pack.zip","file/Sullys_Peeves-FreshAnimations COMPAT.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/Create Style Modded Compats v14.zip","file/Sullys_Peeves-FreshAnimations COMPAT.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -237,7 +237,7 @@ key_raised.up:key.keyboard.keypad.add
 key_raised.offset.down:key.keyboard.keypad.divide
 key_raised.offset.up:key.keyboard.keypad.multiply
 key_raised.reset:key.keyboard.keypad.enter
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

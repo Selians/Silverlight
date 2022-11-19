@@ -68,7 +68,6 @@
 			dependencies: [
 				"1E699FF6502E4E2A"
 				"79A169842C8FA342"
-				"58EC962927283601"
 				"5B4A9C2942A99362"
 			]
 			id: "162DC2F82A615738"
@@ -292,23 +291,6 @@
 				type: "item"
 				item: {
 					id: "create_sa:blazing_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
-			x: -8.5d
-			y: -9.0d
-			dependencies: ["4D5BA50F595AA6E7"]
-			id: "58EC962927283601"
-			tasks: [{
-				id: "54BCD51D8BD3D412"
-				type: "item"
-				item: {
-					id: "arclight:copper_pickaxe"
 					Count: 1b
 					tag: {
 						Damage: 0
