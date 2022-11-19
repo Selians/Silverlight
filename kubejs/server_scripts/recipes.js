@@ -15,6 +15,8 @@ ServerEvents.recipes(event => {
 	event.remove({output:'blocky_siege:ballista_stand'});
 	event.remove({output:'blocky_siege:cannon_stand'});
 
+	event.remove({output:'miningmaster:gem_forge'});
+
 	/* REMOVE BY MODID */
 	event.remove({mod:'knight_quest'});
 
@@ -42,7 +44,18 @@ ServerEvents.recipes(event => {
 		C: 'minecraft:observer',
 		D: 'create_things_and_misc:radar',
 		E: '#minecraft:logs'
-	})
+	});
+
+	// THIS DOESNT WORK YET
+	event.shaped('miningmaster:gem_forge', [
+		`AAA`,
+		`BCB`,
+		`BBB`
+	], {
+		A: 'kubejs:silverlight_refined',
+		B: 'minecraft:blackstone',
+		C: 'minecraft:lava_bucket'
+	});
 	
 })
 
