@@ -176,3 +176,9 @@ key.craftingtweaks.decompressAll
 key.craftingtweaks.refill_last
 key.craftingtweaks.refill_last_stack
 key.craftingtweaks.transfer_stack
+key.shulkerboxslot.open.desc
+raised.down
+raised.up
+raised.offset.down
+raised.offset.up
+raised.reset
