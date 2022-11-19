@@ -1436,10 +1436,10 @@
 	"Totem Of Holding" = true
 	"Tiny Potato" = true
 	Pipes = true
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	Magnets = true
 	Crate = true
-	Backpack = true
+	Backpack = false
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
@@ -1534,8 +1534,8 @@
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them
 		"Super Op Mode" = false
-		"Enable Ravager Hide" = true
-		"Items In Backpack Tick" = true
+		"Enable Ravager Hide" = false
+		"Items In Backpack Tick" = false
 		"Base Ravager Hide Drop" = 1
 		"Extra Chance Per Looting" = 0.5
 
