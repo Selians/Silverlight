@@ -65,22 +65,6 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: -2.5d
-			id: "300BE8CD7B9D7470"
-			tasks: [{
-				id: "1078052702B175AD"
-				type: "item"
-				item: {
-					id: "minecraft:iron_chestplate"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
 			title: "Quite hard-headed"
 			icon: {
 				id: "minecraft:iron_helmet"
@@ -91,44 +75,13 @@
 			}
 			x: 0.5d
 			y: 0.0d
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "0510BDFAE92ED05C"
 			tasks: [{
 				id: "2F99B56B2EB8F63F"
 				type: "item"
 				item: {
 					id: "minecraft:iron_helmet"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
-			x: 1.0d
-			y: -3.5d
-			id: "24AFE69E77DF8CE0"
-			tasks: [{
-				id: "5B6B4A919129EEC5"
-				type: "item"
-				item: {
-					id: "minecraft:iron_boots"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
-			x: 2.0d
-			y: -2.0d
-			id: "50C8EDAEF2373482"
-			tasks: [{
-				id: "3752D5E7BB73D62A"
-				type: "item"
-				item: {
-					id: "minecraft:iron_leggings"
 					Count: 1b
 					tag: {
 						Damage: 0

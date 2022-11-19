@@ -1,0 +1,106 @@
+{
+	id: "0773648D530FE170"
+	group: ""
+	order_index: 1
+	filename: "sidequests"
+	title: "Sidequests"
+	icon: {
+		id: "minecraft:iron_sword"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: -0.5d
+			id: "4DEF18B12A18D324"
+			tasks: [{
+				id: "2CBE5A7C23C0BDA0"
+				type: "kill"
+				entity: "minecraft:zombie"
+				value: 100L
+			}]
+		}
+		{
+			x: 0.5d
+			y: -4.5d
+			id: "1997F5C098669304"
+			tasks: [{
+				id: "4E0446F87598E2E1"
+				type: "kill"
+				entity: "minecraft:cave_spider"
+				value: 100L
+			}]
+		}
+		{
+			title: "Kill it with fire!"
+			x: -0.5d
+			y: -4.5d
+			id: "3BB0BA8035631128"
+			tasks: [{
+				id: "5EA2977356492438"
+				type: "kill"
+				entity: "minecraft:spider"
+				value: 100L
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.5d
+			id: "49571EFF9D4F5EA6"
+			tasks: [{
+				id: "382BD607423E647E"
+				type: "kill"
+				entity: "minecraft:ghast"
+				value: 100L
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			id: "53A095ADAB2B5485"
+			tasks: [{
+				id: "016EA115CEB13C71"
+				type: "kill"
+				entity: "minecraft:skeleton"
+				value: 100L
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.5d
+			id: "5FBF3C154F16E4D6"
+			tasks: [{
+				id: "2A88F00CB11FD9DC"
+				type: "kill"
+				entity: "minecraft:wither_skeleton"
+				value: 100L
+			}]
+		}
+		{
+			icon: {
+				id: "alexsmobs:spawn_egg_anaconda"
+				Count: 1b
+				tag: { }
+			}
+			x: 0.0d
+			y: -3.5d
+			id: "56E9B04D7EDFBB55"
+			tasks: [{
+				id: "58A3BCFA381C7CF2"
+				type: "kill"
+				icon: {
+					id: "alexsmobs:spawn_egg_anaconda"
+					Count: 1b
+					tag: { }
+				}
+				entity: "alexsmobs:anaconda"
+				value: 10L
+			}]
+		}
+	]
+}

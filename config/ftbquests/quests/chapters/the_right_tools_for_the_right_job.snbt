@@ -38,7 +38,7 @@
 		}
 		{
 			x: -10.0d
-			y: -8.5d
+			y: -9.0d
 			dependencies: [
 				"76361219D9E59C3D"
 				"0D54AC59C79E021F"
@@ -67,7 +67,6 @@
 			y: -8.5d
 			dependencies: [
 				"1E699FF6502E4E2A"
-				"79A169842C8FA342"
 				"5B4A9C2942A99362"
 			]
 			id: "162DC2F82A615738"
@@ -82,10 +81,20 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "7943F20FC6872FEA"
+				type: "item"
+				item: {
+					id: "minecraft:gold_ingot"
+					Count: 1b
+					tag: { }
+				}
+				count: 3
+			}]
 		}
 		{
 			x: -8.5d
-			y: -10.0d
+			y: -7.5d
 			dependencies: ["4D5BA50F595AA6E7"]
 			id: "1E699FF6502E4E2A"
 			tasks: [{
@@ -122,6 +131,16 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "65CD37B61631E57C"
+				type: "item"
+				item: {
+					id: "minecraft:diamond"
+					Count: 1b
+					tag: { }
+				}
+				count: 3
+			}]
 		}
 		{
 			x: -4.0d
@@ -139,6 +158,27 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "198E9AD13D3F23C0"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_ingot"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "1415C2FB0D5CF64E"
+					type: "item"
+					item: {
+						id: "minecraft:diamond"
+						Count: 1b
+						tag: { }
+					}
+					count: 3
+				}
+			]
 		}
 		{
 			x: -2.5d
@@ -258,6 +298,47 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "7D8DB74C63661C24"
+					type: "item"
+					item: {
+						id: "miningmaster:unbreaking_iolite"
+						Count: 1b
+						tag: { }
+					}
+					count: 2
+				}
+				{
+					id: "1FE63D805FB8D4C3"
+					type: "item"
+					item: {
+						id: "miningmaster:lucky_citrine"
+						Count: 1b
+						tag: { }
+					}
+					count: 2
+				}
+				{
+					id: "326FBE9FF125600E"
+					type: "item"
+					item: {
+						id: "miningmaster:fire_ruby"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "0E06C6716841B249"
+					type: "item"
+					item: {
+						id: "miningmaster:haste_peridot"
+						Count: 1b
+						tag: { }
+					}
+					count: 4
+				}
+			]
 		}
 		{
 			x: -11.5d
@@ -283,8 +364,11 @@
 		}
 		{
 			x: -7.0d
-			y: -7.5d
-			dependencies: ["162DC2F82A615738"]
+			y: -9.5d
+			dependencies: [
+				"162DC2F82A615738"
+				"79A169842C8FA342"
+			]
 			id: "5522B2688DBA0FBC"
 			tasks: [{
 				id: "6FEF746FE569A86F"
@@ -297,10 +381,31 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "073626AB6DD95DBD"
+					type: "item"
+					item: {
+						id: "minecraft:gold_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 3
+				}
+				{
+					id: "37B103EF945ADD52"
+					type: "item"
+					item: {
+						id: "create:powdered_obsidian"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
 		}
 		{
 			x: -8.5d
-			y: -8.0d
+			y: -8.5d
 			dependencies: ["4D5BA50F595AA6E7"]
 			id: "5B4A9C2942A99362"
 			tasks: [{
@@ -314,10 +419,20 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "45D9D2736989B49D"
+				type: "item"
+				item: {
+					id: "create:zinc_ingot"
+					Count: 1b
+					tag: { }
+				}
+				count: 3
+			}]
 		}
 		{
 			x: -8.5d
-			y: -7.0d
+			y: -9.5d
 			dependencies: ["4D5BA50F595AA6E7"]
 			id: "79A169842C8FA342"
 			tasks: [{
@@ -330,6 +445,16 @@
 						Damage: 0
 					}
 				}
+			}]
+			rewards: [{
+				id: "28CEF208773DD0F8"
+				type: "item"
+				item: {
+					id: "create:brass_ingot"
+					Count: 1b
+					tag: { }
+				}
+				count: 3
 			}]
 		}
 		{
@@ -347,6 +472,132 @@
 						Damage: 0
 					}
 				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: -7.5d
+			dependencies: ["162DC2F82A615738"]
+			id: "7B10747546F0DF2D"
+			tasks: [{
+				id: "3CB935C0C2302D83"
+				type: "item"
+				item: {
+					id: "spirit:soul_steel_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "6C37ABA99B29D7C5"
+				type: "item"
+				item: {
+					id: "spirit:soul_steel_ingot"
+					Count: 1b
+					tag: { }
+				}
+				count: 3
+			}]
+		}
+		{
+			x: -10.0d
+			y: -8.0d
+			dependencies: ["76361219D9E59C3D"]
+			id: "6B901E53999F4197"
+			tasks: [{
+				id: "4C511EAE2091B193"
+				type: "item"
+				item: {
+					id: "primitivestart:reinforced_bone_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "21EDE382F2336FA1"
+				type: "item"
+				item: {
+					id: "minecraft:raw_copper_block"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -9.5d
+			dependencies: ["5522B2688DBA0FBC"]
+			id: "505B6C2D26889F14"
+			tasks: [{
+				id: "00E71838AD60BFD8"
+				type: "item"
+				item: {
+					id: "create_sa:rose_quartz_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "6C231F932A937AE9"
+					type: "item"
+					item: {
+						id: "minecraft:gold_ingot"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "35A55041E6CEE170"
+					type: "item"
+					item: {
+						id: "create:polished_rose_quartz"
+						Count: 1b
+						tag: { }
+					}
+					count: 4
+				}
+				{
+					id: "46AD2C6C279CEBDE"
+					type: "item"
+					item: {
+						id: "create:iron_sheet"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			x: -5.5d
+			y: -7.5d
+			id: "204D5CFCCE024B24"
+			tasks: [{
+				id: "1308D54C1AF68614"
+				type: "item"
+				item: {
+					id: "aquaculture:neptunium_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "44066B30A308B0AB"
+				type: "item"
+				item: {
+					id: "aquaculture:neptunium_ingot"
+					Count: 1b
+					tag: { }
+				}
+				count: 3
 			}]
 		}
 	]

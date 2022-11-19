@@ -1,0 +1,68 @@
+{
+	id: "5742D07C17B237B3"
+	group: "0B03CCB1271D0381"
+	order_index: 4
+	filename: "hungry_yet"
+	title: "Hungry yet?"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Sushi Go crafting"
+			x: -2.5d
+			y: -4.5d
+			id: "72382DAEB04F7834"
+			tasks: [{
+				id: "1E11FC55A921BABA"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "sushigocrafting:sushigocrafting"
+					}
+				}
+			}]
+		}
+		{
+			title: "Croptopia"
+			x: -2.5d
+			y: -3.5d
+			id: "36B13F4A88ED533A"
+			tasks: [{
+				id: "2CE870A15437429D"
+				type: "custom"
+			}]
+		}
+		{
+			title: "Create confectionary"
+			x: -2.5d
+			y: -2.5d
+			id: "7708CFDCDC24BC08"
+			tasks: [{
+				id: "0802D8EBA892E1B6"
+				type: "custom"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.5d
+			id: "38BAE8AC8E012EC7"
+			tasks: [{
+				id: "1347191A4017CD52"
+				type: "custom"
+				title: "Aquaculture"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -0.5d
+			id: "6C8BD0767A3E6193"
+			tasks: [{
+				id: "6288FFABAA122B32"
+				type: "custom"
+				title: "farmer's delight"
+			}]
+		}
+	]
+}

@@ -16,7 +16,7 @@
 	quests: [
 		{
 			title: "Eye, eye, captain"
-			x: -1.0d
+			x: 1.5d
 			y: 0.0d
 			description: [
 				"This ghost has been a menace, even before she was dead..."
@@ -50,8 +50,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: -1.5d
+			x: -4.5d
+			y: 0.0d
 			id: "0F128842DE224F9E"
 			tasks: [{
 				id: "3D3949FF2D989A00"
