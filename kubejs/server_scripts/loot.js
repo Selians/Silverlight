@@ -19,20 +19,41 @@ LootJS.modifiers((event) => {
         .removeLoot("endrem:undead_eye") // Crafted
         .removeLoot("endrem:exotic_eye"); // Crafted
 
+// ------------------ SILVERLIGHT MOB DROPS ----------------
+    event
+        .addEntityLootModifier("born_in_chaos_v1:supreme_bonecaller")
+        .killedByPlayer()
+        .lightLevel(0.6)
+        .randomChange(0.25)
+        .addLoot(Item.of('kubejs:silverlight', 3));
+
+    event
+        .addEntityLootModifier("born_in_chaos_v1:fallen_chaos_knight")
+        .killedByPlayer()
+        .lightLevel(0.6)
+        .randomChange(0.25)
+        .addLoot(Item.of('kubejs:silverlight', 1));
+
+// ------------------ BOSSES ----------------
+
     event
         .addEntityLootModifier("cataclysm:netherite_monstrosity")
+        .addLoot('kubejs:silverlight_refined')
         .addLoot("endrem:lost_eye");
 
     event
         .addEntityLootModifier("cataclysm:ignis")
+        .addLoot('kubejs:silverlight_refined')
         .addLoot("endrem:nether_eye");
 
     event
         .addEntityLootModifier("ob_aquamirae:captain_cornelia")
+        .addLoot('kubejs:silverlight_refined')
         .addLoot("endrem:nether_eye");
     
     event
         .addEntityLootModifier("born_in_chaos_v1:felsteed")
+        .addLoot('kubejs:silverlight_refined')
         .addLoot("endrem:undead_eye");
 
 });

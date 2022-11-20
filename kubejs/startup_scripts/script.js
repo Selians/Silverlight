@@ -12,7 +12,7 @@ StartupEvents.registry('item', event => {
 
 	event
 		.create('silverlight_refined')
-		.displayName('Refined Silverlight');
+		.displayName('Activated Silverlight');
 	// Register new items here
 	// event.create('example_item').displayName('Example Item')
 });
