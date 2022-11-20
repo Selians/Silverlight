@@ -6,15 +6,78 @@
 	title: "Getting started"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "Punch tree, no wood?"
-		x: 0.0d
-		y: 0.0d
-		id: "43CB95DD9563DEC6"
-		tasks: [{
-			id: "419C9CC60EBD569C"
-			type: "item"
-			item: "minecraft:stick"
-		}]
-	}]
+	quests: [
+		{
+			title: "Punch tree, no wood?"
+			icon: {
+				id: "minecraft:oak_log"
+				Count: 1b
+				tag: { }
+			}
+			x: -2.5d
+			y: -2.0d
+			description: [
+				"Treebark isnt very good for your skin I guess..."
+				"Perhaps punching twigs instead and crafting them into planks is works better."
+			]
+			id: "43CB95DD9563DEC6"
+			tasks: [
+				{
+					id: "419C9CC60EBD569C"
+					type: "item"
+					item: {
+						id: "minecraft:stick"
+						Count: 1b
+						tag: { }
+					}
+					count: 8L
+				}
+				{
+					id: "6828283BB6DFD632"
+					type: "item"
+					item: {
+						id: "minecraft:oak_planks"
+						Count: 1b
+						tag: { }
+					}
+					count: 2L
+				}
+			]
+			rewards: [{
+				id: "315435633BB462E8"
+				type: "item"
+				item: {
+					id: "minecraft:oak_planks"
+					Count: 1b
+					tag: { }
+				}
+				count: 2
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.0d
+			dependencies: ["43CB95DD9563DEC6"]
+			id: "3B7F851B868425EC"
+			tasks: [{
+				id: "7A39AC2A479060F2"
+				type: "item"
+				item: {
+					id: "minecraft:crafting_table"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "0EDCF1419D02B144"
+				type: "item"
+				item: {
+					id: "minecraft:oak_planks"
+					Count: 1b
+					tag: { }
+				}
+				count: 16
+			}]
+		}
+	]
 }

@@ -1,5 +1,32 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "croptopia:guide": {
+      "viewedEntries": [
+        "croptopia:snacks/yoghurt",
+        "croptopia:snacks/toast_with_jam"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "sushigocrafting:sushigocrafting": {
+      "viewedEntries": [
+        "sushigocrafting:getting_started/ingredients",
+        "sushigocrafting:getting_started/effects",
+        "sushigocrafting:getting_started/nori",
+        "sushigocrafting:world/seaweed",
+        "sushigocrafting:world/tobiko",
+        "sushigocrafting:world/avocado",
+        "sushigocrafting:world/crops",
+        "sushigocrafting:world/fish",
+        "sushigocrafting:using_tools/cooler_box",
+        "sushigocrafting:using_tools/cutting_board",
+        "sushigocrafting:using_tools/rice_cooker",
+        "sushigocrafting:using_tools/roller"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

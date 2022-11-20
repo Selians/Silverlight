@@ -13,5 +13,304 @@
 	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			x: -2.5d
+			y: -2.0d
+			id: "01AA3261CB7232B3"
+			tasks: [{
+				id: "12BFFF47816A2DA5"
+				type: "item"
+				item: {
+					id: "minecraft:iron_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.0d
+			id: "7C257EA6BC15BB7C"
+			tasks: [{
+				id: "6F8E0137FBA8893A"
+				type: "item"
+				item: {
+					id: "minecraft:golden_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -2.0d
+			id: "7306D4988F1B8F85"
+			tasks: [{
+				id: "0F551A9B49DEFAE3"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.0d
+			id: "117725C15DEEA02A"
+			tasks: [{
+				id: "13F1CE99E3C18EA0"
+				type: "item"
+				item: {
+					id: "minecraft:netherite_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: -2.0d
+			id: "36A19E8920A49C90"
+			tasks: [{
+				id: "554422B0FAF99E07"
+				type: "item"
+				item: {
+					id: "create_sa:copper_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -1.0d
+			id: "635B22E1AC3DD6EF"
+			tasks: [{
+				id: "07C10D3671A2EBF8"
+				type: "item"
+				item: {
+					id: "create_sa:zinc_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: -1.0d
+			id: "78242353120FF551"
+			tasks: [{
+				id: "7272AD5A5A9E43DE"
+				type: "item"
+				item: {
+					id: "create_sa:brass_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -1.0d
+			id: "7E60BD3C099D6071"
+			tasks: [{
+				id: "27CC600567816E9D"
+				type: "item"
+				item: {
+					id: "byg:ametrine_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.0d
+			id: "78E558C19A5306C3"
+			tasks: [{
+				id: "2C6072940A4E541B"
+				type: "item"
+				item: {
+					id: "minecraft:chainmail_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.0d
+			id: "46ACDCA228E67F2F"
+			tasks: [{
+				id: "14D080BD75359669"
+				type: "item"
+				item: {
+					id: "aquaculture:neptunium_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			id: "6D4F63768E6124DD"
+			tasks: [{
+				id: "25FC10C0A4B2B531"
+				type: "item"
+				item: {
+					id: "savage_and_ravage:griefer_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.0d
+			id: "5424D546FE9D5BA3"
+			tasks: [{
+				id: "28F5CBBA0E257BB9"
+				type: "item"
+				item: {
+					id: "alexsmobs:crocodile_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 1.0d
+			id: "4D694171A1A0DFB1"
+			tasks: [{
+				id: "544B852F9C653D03"
+				type: "item"
+				item: {
+					id: "alexsmobs:rocky_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 1.0d
+			id: "30072446C175B289"
+			tasks: [{
+				id: "1EA65E59C4CF2CD2"
+				type: "item"
+				item: {
+					id: "ob_aquamirae:terrible_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 1.0d
+			id: "1BBA14F717411DC6"
+			tasks: [{
+				id: "28B5C4215E4A091C"
+				type: "item"
+				item: {
+					id: "cataclysm:ignitium_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 1.0d
+			id: "4F5ACB9F3D17EB01"
+			tasks: [{
+				id: "26E696B0107854C2"
+				type: "item"
+				item: {
+					id: "deeperdarker:warden_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -2.0d
+			id: "6C3CEE74F95F77FA"
+			tasks: [{
+				id: "26722FF771B03267"
+				type: "item"
+				item: {
+					id: "biomemakeover:cladded_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -0.5d
+			id: "6FE62CFAA1703B45"
+			tasks: [{
+				id: "66F3A385B7B49165"
+				type: "item"
+				item: {
+					id: "miningmaster:paragon_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								lvl: 5s
+								id: "miningmaster:grace"
+							}
+							{
+								lvl: 4s
+								id: "miningmaster:heartfelt"
+							}
+						]
+					}
+				}
+			}]
+		}
+	]
 }
