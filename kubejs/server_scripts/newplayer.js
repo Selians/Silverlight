@@ -7,9 +7,9 @@
 /**
 
 PlayerEvents.loggedIn(event => {
-  if (!event.player.stages.has('first_start')) 
+  if (!event.player.stages.has('first_start'))
   {
     event.player.stages.add('first_start');
   }
 })
- */
+*/
