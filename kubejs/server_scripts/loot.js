@@ -20,6 +20,7 @@ LootJS.modifiers((event) => {
         .removeLoot("endrem:exotic_eye"); // Crafted
 
 // ------------------ SILVERLIGHT MOB DROPS ----------------
+// May drop silverlight when killed by a player in low light levels
     event
         .addEntityLootModifier("born_in_chaos_v1:supreme_bonecaller")
         .killedByPlayer()
