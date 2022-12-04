@@ -31,7 +31,7 @@ ServerEvents.recipes(event => {
 	event.remove({mod:'orva_alarms'});
 
 
-// ------------------ SHAPED (and some shapeless) --------------------------------
+// ------------------ CUSTOM RECIPES --------------------------------
     
 	// BLOCKY SIEGE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -173,6 +173,20 @@ ServerEvents.recipes(event => {
 	event.shapeless('orva_alarms:prison_alarm',['orva_alarms:alarm', 'minecraft:orange_dye']);
 	event.shapeless('orva_alarms:eas_alarm',['orva_alarms:alarm', 'minecraft:black_dye']);
 	event.shapeless('orva_alarms:v_3_siren',['orva_alarms:alarm', 'minecraft:red_dye']);
+
+
+	// KNIGHT QUEST <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+	event.shaped('knight_quest:kq_goblet_empty', [
+		`A A`,
+		`ABA`,
+		` A `
+	], {
+		A: 'create:copper_nugget',
+		B: 'minecraft:copper_ingot',
+	});
+
+	event.smithing('knight_quest:chalice_state_0', 'minecraft:cauldron', 'minecraft:copper_block')
 
 
 // ------------------ SEQUENCE --------------------------------

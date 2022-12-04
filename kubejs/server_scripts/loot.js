@@ -1,6 +1,6 @@
 LootJS.modifiers((event) => {
 
-    /* Remove loot from chest */
+// Remove loot from chest
     event
         .addLootTypeModifier(LootType.CHEST)
         .removeLoot("endrem:black_eye") // Buried treasure
@@ -19,20 +19,24 @@ LootJS.modifiers((event) => {
         .removeLoot("endrem:undead_eye") // Crafted
         .removeLoot("endrem:exotic_eye"); // Crafted
 
+// Remove from blocks
+    event.addBlockLootModifier("minecraft:spawner")
+        .removeLoot("knight_quest:kq_great_essence");
+
 // ------------------ SILVERLIGHT MOB DROPS ----------------
 // May drop silverlight when killed by a player in low light levels
     event
         .addEntityLootModifier("born_in_chaos_v1:supreme_bonecaller")
         .killedByPlayer()
-        .lightLevel(0.6)
-        .randomChange(0.25)
+        .lightLevel(0, 6)
+        .randomChance(0.25)
         .addLoot(Item.of('kubejs:silverlight', 3));
 
     event
         .addEntityLootModifier("born_in_chaos_v1:fallen_chaos_knight")
         .killedByPlayer()
-        .lightLevel(0.6)
-        .randomChange(0.25)
+        .lightLevel(0, 6)
+        .randomChance(0.25)
         .addLoot(Item.of('kubejs:silverlight', 1));
 
 // ------------------ BOSSES ----------------
