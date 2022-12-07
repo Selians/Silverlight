@@ -29,6 +29,8 @@ ServerEvents.recipes(event => {
 	event.remove({mod:'naturescompass'});
 	event.remove({mod:'structurecompass'});
 	event.remove({mod:'orva_alarms'});
+	event.remove({mod:'scalinghealth'});
+	event.remove({mod: 'extractinator'});
 
 
 // ------------------ CUSTOM RECIPES --------------------------------
@@ -45,17 +47,6 @@ ServerEvents.recipes(event => {
 		C: 'create:rope_pulley',
 		D: 'create_things_and_misc:radar',
 		E: 'minecraft:iron_ingot'
-	});
-
-	event.shaped('blocky_siege:cannon_stand', [
-		' A ',
-		'CCC',
-		'EDE'
-	], {
-		A: 'blocky_siege:cannon',
-		C: 'minecraft:iron_ingot',
-		D: 'create_things_and_misc:radar',
-		E: '#minecraft:logs'
 	});
 
 	// MININGMASTER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -188,6 +179,21 @@ ServerEvents.recipes(event => {
 
 	event.smithing('knight_quest:chalice_state_0', 'minecraft:cauldron', 'minecraft:copper_block')
 
+	// EXTRACTINATOR <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	event.shaped('extractinator:extractinator', [
+		'BAG',
+		'CFD',
+		'HEG'
+	], {
+		A: 'minecraft:hopper',
+		B: 'create:millstone',
+		C: 'create:mechanical_press',
+		D: 'kubejs:silverlight_refined',
+		E: 'minecraft:blast_furnace',
+		F: 'create:mechanical_pump',
+		G: 'minecraft:iron_ingot',
+		H: 'minecraft:copper_block'
+	})
 
 // ------------------ SEQUENCE --------------------------------
 

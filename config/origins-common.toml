@@ -19,7 +19,7 @@
 		"origins:arthropod" = true
 
 	[origins."origins:human"]
-		enabled = true
+		enabled = false
 
 	[origins."origins:blazeborn"]
 		enabled = false
@@ -93,4 +93,25 @@
 
 	[origins."seliansorigins:lapus"]
 		enabled = true
+
+	[origins."silverlight:outrider"]
+		enabled = true
+		"silverlight:passive_speed" = true
+		"silverlight:size_smaller" = true
+
+	[origins."silverlight:bulwark"]
+		enabled = true
+		"silverlight:passive_armor" = true
+		"silverlight:passive_protection" = true
+
+	[origins."silverlight:mechaniker"]
+		enabled = true
+		"silverlight:passive_alteration" = true
+		"silverlight:gem_emerald" = true
+		"silverlight:passive_lowhealth" = true
+		"silverlight:gem_amethyst" = true
+		"silverlight:gem_diamond" = true
+		"silverlight:gem_lapis" = true
+		"silverlight:gem_prismarine" = true
+		"silverlight:gem_quartz" = true
 
