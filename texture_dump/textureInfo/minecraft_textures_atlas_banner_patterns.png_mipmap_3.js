@@ -354,20 +354,20 @@ var textureData =
         "height": 8
     },
     {
-        "name": "minecraft:entity/banner/triangle_top",
-        "animated": false,
-        "x": 24,
-        "y": 40,
-        "width": 8,
-        "height": 8
-    },
-    {
         "name": "supplementaries:entity/flags/gradient",
         "animated": false,
         "x": 4,
         "y": 48,
         "width": 4,
         "height": 2
+    },
+    {
+        "name": "minecraft:entity/banner/triangle_top",
+        "animated": false,
+        "x": 24,
+        "y": 40,
+        "width": 8,
+        "height": 8
     },
     {
         "name": "supplementaries:entity/flags/straight_cross",

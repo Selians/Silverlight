@@ -45690,17 +45690,17 @@ var textureData =
         "height": 4
     },
     {
-        "name": "byg:block/hanging_sythian_roots_plants",
+        "name": "minecraft:block/grindstone_side",
         "animated": false,
-        "x": 956,
+        "x": 880,
         "y": 1832,
         "width": 4,
         "height": 4
     },
     {
-        "name": "minecraft:block/grindstone_side",
+        "name": "byg:block/hanging_sythian_roots_plants",
         "animated": false,
-        "x": 880,
+        "x": 956,
         "y": 1832,
         "width": 4,
         "height": 4

@@ -866,18 +866,18 @@ var textureData =
         "height": 16
     },
     {
-        "name": "minecraft:mob_effect/luck",
-        "animated": false,
-        "x": 232,
-        "y": 0,
-        "width": 18,
-        "height": 18
-    },
-    {
         "name": "infernalexp:mob_effect/luminous",
         "animated": false,
         "x": 232,
         "y": 18,
+        "width": 18,
+        "height": 18
+    },
+    {
+        "name": "minecraft:mob_effect/luck",
+        "animated": false,
+        "x": 232,
+        "y": 0,
         "width": 18,
         "height": 18
     }
