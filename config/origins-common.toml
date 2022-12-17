@@ -114,4 +114,10 @@
 		"silverlight:gem_lapis" = true
 		"silverlight:gem_prismarine" = true
 		"silverlight:gem_quartz" = true
+		"silverlight:size_smaller" = true
+
+	[origins."silverlight:champion"]
+		enabled = true
+		"silverlight:passive_armor" = true
+		"silverlight:passive_speed" = true
 

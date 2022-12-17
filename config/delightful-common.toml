@@ -111,6 +111,8 @@
 	melon_juicing = true
 	#Make pumpkin pies a block with slices rather than an item eaten whole
 	pumpkin_pie_overhaul = true
+	coconut_curry = true
+	sinigang = true
 
 [Generation]
 	#Chance of generating clusters. Smaller value = more frequent (once every ...). To disable, set the item Salmonberries to false above.

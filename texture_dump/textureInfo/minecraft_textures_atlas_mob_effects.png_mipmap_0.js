@@ -20,7 +20,7 @@ var textureData =
     {
         "name": "trolldom:mob_effect/water_boon",
         "animated": false,
-        "x": 36,
+        "x": 180,
         "y": 156,
         "width": 18,
         "height": 18
@@ -36,8 +36,8 @@ var textureData =
     {
         "name": "ecologics:mob_effect/slippery",
         "animated": false,
-        "x": 96,
-        "y": 174,
+        "x": 0,
+        "y": 192,
         "width": 16,
         "height": 16
     },
@@ -60,7 +60,7 @@ var textureData =
     {
         "name": "supplementaries:mob_effect/overencumbered",
         "animated": false,
-        "x": 72,
+        "x": 216,
         "y": 120,
         "width": 18,
         "height": 18
@@ -92,8 +92,8 @@ var textureData =
     {
         "name": "alexsmobs:mob_effect/poison_resistance",
         "animated": false,
-        "x": 108,
-        "y": 120,
+        "x": 18,
+        "y": 138,
         "width": 18,
         "height": 18
     },
@@ -108,7 +108,7 @@ var textureData =
     {
         "name": "alexsmobs:mob_effect/orcas_might",
         "animated": false,
-        "x": 54,
+        "x": 198,
         "y": 120,
         "width": 18,
         "height": 18
@@ -124,7 +124,7 @@ var textureData =
     {
         "name": "vinery:mob_effect/jellie",
         "animated": false,
-        "x": 16,
+        "x": 148,
         "y": 174,
         "width": 16,
         "height": 16
@@ -132,8 +132,8 @@ var textureData =
     {
         "name": "create_confectionery:mob_effect/rest",
         "animated": false,
-        "x": 198,
-        "y": 120,
+        "x": 108,
+        "y": 138,
         "width": 18,
         "height": 18
     },
@@ -196,8 +196,8 @@ var textureData =
     {
         "name": "minecraft:mob_effect/strength",
         "animated": false,
-        "x": 162,
-        "y": 138,
+        "x": 72,
+        "y": 156,
         "width": 18,
         "height": 18
     },
@@ -212,8 +212,16 @@ var textureData =
     {
         "name": "alexsmobs:mob_effect/sunbird_curse",
         "animated": false,
-        "x": 216,
-        "y": 138,
+        "x": 126,
+        "y": 156,
+        "width": 18,
+        "height": 18
+    },
+    {
+        "name": "xaerominimap:mob_effect/no_waypoints",
+        "animated": false,
+        "x": 108,
+        "y": 120,
         "width": 18,
         "height": 18
     },
@@ -236,8 +244,8 @@ var textureData =
     {
         "name": "quark:mob_effect/resilience",
         "animated": false,
-        "x": 162,
-        "y": 120,
+        "x": 72,
+        "y": 138,
         "width": 18,
         "height": 18
     },
@@ -252,23 +260,31 @@ var textureData =
     {
         "name": "simplyswords:mob_effect/wildfire",
         "animated": false,
-        "x": 176,
-        "y": 174,
+        "x": 80,
+        "y": 192,
         "width": 16,
         "height": 16
     },
     {
+        "name": "xaerominimap:mob_effect/no_entity_radar",
+        "animated": false,
+        "x": 36,
+        "y": 120,
+        "width": 18,
+        "height": 18
+    },
+    {
         "name": "alexsmobs:mob_effect/soulsteal",
         "animated": false,
-        "x": 90,
-        "y": 138,
+        "x": 0,
+        "y": 156,
         "width": 18,
         "height": 18
     },
     {
         "name": "ob_aquamirae:mob_effect/armor_decrease",
         "animated": false,
-        "x": 126,
+        "x": 234,
         "y": 156,
         "width": 16,
         "height": 16
@@ -300,7 +316,7 @@ var textureData =
     {
         "name": "biomemakeover:mob_effect/shocked",
         "animated": false,
-        "x": 18,
+        "x": 162,
         "y": 138,
         "width": 18,
         "height": 18
@@ -308,16 +324,16 @@ var textureData =
     {
         "name": "alexsmobs:mob_effect/power_down",
         "animated": false,
-        "x": 126,
-        "y": 120,
+        "x": 36,
+        "y": 138,
         "width": 18,
         "height": 18
     },
     {
         "name": "simplyswords:mob_effect/storm",
         "animated": false,
-        "x": 112,
-        "y": 174,
+        "x": 16,
+        "y": 192,
         "width": 16,
         "height": 16
     },
@@ -356,10 +372,34 @@ var textureData =
     {
         "name": "simplyswords:mob_effect/plague",
         "animated": false,
-        "x": 64,
+        "x": 212,
         "y": 174,
         "width": 16,
         "height": 16
+    },
+    {
+        "name": "xaerominimap:mob_effect/no_cave_maps_harmful",
+        "animated": false,
+        "x": 18,
+        "y": 120,
+        "width": 18,
+        "height": 18
+    },
+    {
+        "name": "xaerominimap:mob_effect/no_minimap_harmful",
+        "animated": false,
+        "x": 90,
+        "y": 120,
+        "width": 18,
+        "height": 18
+    },
+    {
+        "name": "xaerominimap:mob_effect/no_waypoints_harmful",
+        "animated": false,
+        "x": 126,
+        "y": 120,
+        "width": 18,
+        "height": 18
     },
     {
         "name": "born_in_chaos_v1:mob_effect/light_rampage",
@@ -372,23 +412,23 @@ var textureData =
     {
         "name": "sushigocrafting:mob_effect/steady_hands",
         "animated": false,
-        "x": 126,
-        "y": 138,
+        "x": 36,
+        "y": 156,
         "width": 18,
         "height": 18
     },
     {
         "name": "obscure_api:mob_effect/fury",
         "animated": false,
-        "x": 206,
-        "y": 156,
+        "x": 100,
+        "y": 174,
         "width": 16,
         "height": 16
     },
     {
         "name": "minecraft:mob_effect/slowness",
         "animated": false,
-        "x": 54,
+        "x": 198,
         "y": 138,
         "width": 18,
         "height": 18
@@ -396,7 +436,7 @@ var textureData =
     {
         "name": "alexsmobs:mob_effect/tigers_blessing",
         "animated": false,
-        "x": 0,
+        "x": 144,
         "y": 156,
         "width": 18,
         "height": 18
@@ -404,15 +444,15 @@ var textureData =
     {
         "name": "simplyswords:mob_effect/watcher",
         "animated": false,
-        "x": 160,
-        "y": 174,
+        "x": 64,
+        "y": 192,
         "width": 16,
         "height": 16
     },
     {
         "name": "simplyswords:mob_effect/omen",
         "animated": false,
-        "x": 48,
+        "x": 196,
         "y": 174,
         "width": 16,
         "height": 16
@@ -420,7 +460,7 @@ var textureData =
     {
         "name": "farmersdelight:mob_effect/nourishment",
         "animated": false,
-        "x": 18,
+        "x": 162,
         "y": 120,
         "width": 18,
         "height": 18
@@ -428,7 +468,7 @@ var textureData =
     {
         "name": "sushigocrafting:mob_effect/small_bites",
         "animated": false,
-        "x": 72,
+        "x": 216,
         "y": 138,
         "width": 18,
         "height": 18
@@ -436,7 +476,7 @@ var textureData =
     {
         "name": "biomemakeover:mob_effect/nocturnal",
         "animated": false,
-        "x": 0,
+        "x": 144,
         "y": 120,
         "width": 18,
         "height": 18
@@ -452,7 +492,7 @@ var textureData =
     {
         "name": "ob_aquamirae:mob_effect/health_decrease",
         "animated": false,
-        "x": 0,
+        "x": 132,
         "y": 174,
         "width": 16,
         "height": 16
@@ -484,7 +524,7 @@ var textureData =
     {
         "name": "minecraft:mob_effect/unluck",
         "animated": false,
-        "x": 18,
+        "x": 162,
         "y": 156,
         "width": 18,
         "height": 18
@@ -500,7 +540,7 @@ var textureData =
     {
         "name": "obscure_api:mob_effect/rush",
         "animated": false,
-        "x": 80,
+        "x": 228,
         "y": 174,
         "width": 16,
         "height": 16
@@ -524,8 +564,8 @@ var textureData =
     {
         "name": "simplyswords:mob_effect/gravity",
         "animated": false,
-        "x": 222,
-        "y": 156,
+        "x": 116,
+        "y": 174,
         "width": 16,
         "height": 16
     },
@@ -540,8 +580,8 @@ var textureData =
     {
         "name": "minecraft:mob_effect/resistance",
         "animated": false,
-        "x": 180,
-        "y": 120,
+        "x": 90,
+        "y": 138,
         "width": 18,
         "height": 18
     },
@@ -556,7 +596,7 @@ var textureData =
     {
         "name": "minecraft:mob_effect/weakness",
         "animated": false,
-        "x": 72,
+        "x": 216,
         "y": 156,
         "width": 18,
         "height": 18
@@ -580,16 +620,24 @@ var textureData =
     {
         "name": "minecraft:mob_effect/speed",
         "animated": false,
-        "x": 108,
-        "y": 138,
+        "x": 18,
+        "y": 156,
+        "width": 18,
+        "height": 18
+    },
+    {
+        "name": "xaerominimap:mob_effect/no_cave_maps",
+        "animated": false,
+        "x": 0,
+        "y": 120,
         "width": 18,
         "height": 18
     },
     {
         "name": "simplyswords:mob_effect/burn",
         "animated": false,
-        "x": 158,
-        "y": 156,
+        "x": 52,
+        "y": 174,
         "width": 16,
         "height": 16
     },
@@ -604,8 +652,8 @@ var textureData =
     {
         "name": "minecraft:mob_effect/wither",
         "animated": false,
-        "x": 108,
-        "y": 156,
+        "x": 18,
+        "y": 174,
         "width": 18,
         "height": 18
     },
@@ -626,9 +674,17 @@ var textureData =
         "height": 18
     },
     {
-        "name": "minecraft:mob_effect/water_breathing",
+        "name": "xaerominimap:mob_effect/no_entity_radar_harmful",
         "animated": false,
         "x": 54,
+        "y": 120,
+        "width": 18,
+        "height": 18
+    },
+    {
+        "name": "minecraft:mob_effect/water_breathing",
+        "animated": false,
+        "x": 198,
         "y": 156,
         "width": 18,
         "height": 18
@@ -636,8 +692,8 @@ var textureData =
     {
         "name": "alexsmobs:mob_effect/sunbird_blessing",
         "animated": false,
-        "x": 198,
-        "y": 138,
+        "x": 108,
+        "y": 156,
         "width": 18,
         "height": 18
     },
@@ -660,7 +716,7 @@ var textureData =
     {
         "name": "obscure_api:mob_effect/knowledge",
         "animated": false,
-        "x": 32,
+        "x": 164,
         "y": 174,
         "width": 16,
         "height": 16
@@ -668,8 +724,8 @@ var textureData =
     {
         "name": "cataclysm:mob_effect/stun",
         "animated": false,
-        "x": 180,
-        "y": 138,
+        "x": 90,
+        "y": 156,
         "width": 18,
         "height": 18
     },
@@ -684,7 +740,7 @@ var textureData =
     {
         "name": "alexsmobs:mob_effect/oiled",
         "animated": false,
-        "x": 36,
+        "x": 180,
         "y": 120,
         "width": 18,
         "height": 18
@@ -692,7 +748,7 @@ var textureData =
     {
         "name": "deeperdarker:mob_effect/sculk_affinity",
         "animated": false,
-        "x": 0,
+        "x": 144,
         "y": 138,
         "width": 18,
         "height": 18
@@ -700,7 +756,15 @@ var textureData =
     {
         "name": "minecraft:mob_effect/poison",
         "animated": false,
-        "x": 90,
+        "x": 0,
+        "y": 138,
+        "width": 18,
+        "height": 18
+    },
+    {
+        "name": "xaerominimap:mob_effect/no_minimap",
+        "animated": false,
+        "x": 72,
         "y": 120,
         "width": 18,
         "height": 18
@@ -716,15 +780,15 @@ var textureData =
     {
         "name": "savage_and_ravage:mob_effect/weight",
         "animated": false,
-        "x": 90,
-        "y": 156,
+        "x": 0,
+        "y": 174,
         "width": 18,
         "height": 18
     },
     {
         "name": "minecraft:mob_effect/slow_falling",
         "animated": false,
-        "x": 36,
+        "x": 180,
         "y": 138,
         "width": 18,
         "height": 18
@@ -748,8 +812,8 @@ var textureData =
     {
         "name": "scalinghealth:mob_effect/bandaged",
         "animated": false,
-        "x": 142,
-        "y": 156,
+        "x": 36,
+        "y": 174,
         "width": 16,
         "height": 16
     },
@@ -764,10 +828,18 @@ var textureData =
     {
         "name": "create_confectionery:mob_effect/stimulation",
         "animated": false,
-        "x": 144,
-        "y": 138,
+        "x": 54,
+        "y": 156,
         "width": 18,
         "height": 18
+    },
+    {
+        "name": "silverlight:mob_effect/lunar_strength",
+        "animated": false,
+        "x": 180,
+        "y": 174,
+        "width": 16,
+        "height": 16
     },
     {
         "name": "born_in_chaos_v1:mob_effect/gaze_of_terror",
@@ -804,24 +876,24 @@ var textureData =
     {
         "name": "simplyswords:mob_effect/freeze",
         "animated": false,
-        "x": 190,
-        "y": 156,
+        "x": 84,
+        "y": 174,
         "width": 16,
         "height": 16
     },
     {
         "name": "ob_aquamirae:mob_effect/strong_armor",
         "animated": false,
-        "x": 128,
-        "y": 174,
+        "x": 32,
+        "y": 192,
         "width": 16,
         "height": 16
     },
     {
         "name": "ob_aquamirae:mob_effect/swim_speed",
         "animated": false,
-        "x": 144,
-        "y": 174,
+        "x": 48,
+        "y": 192,
         "width": 16,
         "height": 16
     },
@@ -836,16 +908,16 @@ var textureData =
     {
         "name": "minecraft:mob_effect/regeneration",
         "animated": false,
-        "x": 144,
-        "y": 120,
+        "x": 54,
+        "y": 138,
         "width": 18,
         "height": 18
     },
     {
         "name": "minecraft:mob_effect/saturation",
         "animated": false,
-        "x": 216,
-        "y": 120,
+        "x": 126,
+        "y": 138,
         "width": 18,
         "height": 18
     },
@@ -860,8 +932,8 @@ var textureData =
     {
         "name": "vinery:mob_effect/empty",
         "animated": false,
-        "x": 174,
-        "y": 156,
+        "x": 68,
+        "y": 174,
         "width": 16,
         "height": 16
     },

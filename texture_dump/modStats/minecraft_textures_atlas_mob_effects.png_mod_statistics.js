@@ -4,7 +4,7 @@ var modStatistics =
     {
         "resourceDomain": "minecraft",
         "pixelCount": 10948,
-        "percentOfTextureMap": 25.360204696655273,
+        "percentOfTextureMap": 23.790691375732422,
         "modName": "Minecraft",
         "url": "",
         "issueTrackerUrl": "",
@@ -13,7 +13,7 @@ var modStatistics =
     {
         "resourceDomain": "born_in_chaos_v1",
         "pixelCount": 9074,
-        "percentOfTextureMap": 21.01922607421875,
+        "percentOfTextureMap": 19.71837043762207,
         "modName": "Born in Chaos ",
         "url": "",
         "issueTrackerUrl": "",
@@ -22,7 +22,7 @@ var modStatistics =
     {
         "resourceDomain": "alexsmobs",
         "pixelCount": 5832,
-        "percentOfTextureMap": 13.509381294250488,
+        "percentOfTextureMap": 12.673301696777344,
         "modName": "Alex's Mobs",
         "url": "",
         "issueTrackerUrl": "",
@@ -31,8 +31,17 @@ var modStatistics =
     {
         "resourceDomain": "trolldom",
         "pixelCount": 5392,
-        "percentOfTextureMap": 12.490155220031738,
+        "percentOfTextureMap": 11.717154502868652,
         "modName": "Trolldom",
+        "url": "",
+        "issueTrackerUrl": "",
+        "authors": []
+    },
+    {
+        "resourceDomain": "xaerominimap",
+        "pixelCount": 2592,
+        "percentOfTextureMap": 5.632578372955322,
+        "modName": "",
         "url": "",
         "issueTrackerUrl": "",
         "authors": []
@@ -40,7 +49,7 @@ var modStatistics =
     {
         "resourceDomain": "simplyswords",
         "pixelCount": 2048,
-        "percentOfTextureMap": 4.744035243988037,
+        "percentOfTextureMap": 4.450432300567627,
         "modName": "Simply Swords",
         "url": "",
         "issueTrackerUrl": "",
@@ -49,7 +58,7 @@ var modStatistics =
     {
         "resourceDomain": "ob_aquamirae",
         "pixelCount": 1604,
-        "percentOfTextureMap": 3.715543270111084,
+        "percentOfTextureMap": 3.4855926036834717,
         "modName": "Aquamirae",
         "url": "",
         "issueTrackerUrl": "",
@@ -58,7 +67,7 @@ var modStatistics =
     {
         "resourceDomain": "biomemakeover",
         "pixelCount": 972,
-        "percentOfTextureMap": 2.251563549041748,
+        "percentOfTextureMap": 2.1122169494628906,
         "modName": "Biome Makeover",
         "url": "",
         "issueTrackerUrl": "",
@@ -67,7 +76,7 @@ var modStatistics =
     {
         "resourceDomain": "sushigocrafting",
         "pixelCount": 972,
-        "percentOfTextureMap": 2.251563549041748,
+        "percentOfTextureMap": 2.1122169494628906,
         "modName": "Sushi Go Crafting",
         "url": "",
         "issueTrackerUrl": "",
@@ -76,7 +85,7 @@ var modStatistics =
     {
         "resourceDomain": "cataclysm",
         "pixelCount": 972,
-        "percentOfTextureMap": 2.251563549041748,
+        "percentOfTextureMap": 2.1122169494628906,
         "modName": "Cataclysm Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -85,7 +94,7 @@ var modStatistics =
     {
         "resourceDomain": "obscure_api",
         "pixelCount": 768,
-        "percentOfTextureMap": 1.7790131568908691,
+        "percentOfTextureMap": 1.6689121723175049,
         "modName": "Obscure API",
         "url": "",
         "issueTrackerUrl": "",
@@ -94,7 +103,7 @@ var modStatistics =
     {
         "resourceDomain": "farmersdelight",
         "pixelCount": 648,
-        "percentOfTextureMap": 1.501042366027832,
+        "percentOfTextureMap": 1.4081445932388306,
         "modName": "Farmer's Delight",
         "url": "",
         "issueTrackerUrl": "",
@@ -103,7 +112,7 @@ var modStatistics =
     {
         "resourceDomain": "create_confectionery",
         "pixelCount": 648,
-        "percentOfTextureMap": 1.501042366027832,
+        "percentOfTextureMap": 1.4081445932388306,
         "modName": "Create Confectionery",
         "url": "",
         "issueTrackerUrl": "",
@@ -112,7 +121,7 @@ var modStatistics =
     {
         "resourceDomain": "infernalexp",
         "pixelCount": 648,
-        "percentOfTextureMap": 1.501042366027832,
+        "percentOfTextureMap": 1.4081445932388306,
         "modName": "Infernal Expansion",
         "url": "",
         "issueTrackerUrl": "",
@@ -121,7 +130,7 @@ var modStatistics =
     {
         "resourceDomain": "vinery",
         "pixelCount": 512,
-        "percentOfTextureMap": 1.1860088109970093,
+        "percentOfTextureMap": 1.1126080751419067,
         "modName": "Vinery",
         "url": "",
         "issueTrackerUrl": "",
@@ -130,7 +139,7 @@ var modStatistics =
     {
         "resourceDomain": "savage_and_ravage",
         "pixelCount": 324,
-        "percentOfTextureMap": 0.750521183013916,
+        "percentOfTextureMap": 0.7040722966194153,
         "modName": "Savage & Ravage",
         "url": "",
         "issueTrackerUrl": "",
@@ -139,7 +148,7 @@ var modStatistics =
     {
         "resourceDomain": "deeperdarker",
         "pixelCount": 324,
-        "percentOfTextureMap": 0.750521183013916,
+        "percentOfTextureMap": 0.7040722966194153,
         "modName": "Deeper and Darker",
         "url": "",
         "issueTrackerUrl": "",
@@ -148,7 +157,7 @@ var modStatistics =
     {
         "resourceDomain": "knight_quest",
         "pixelCount": 324,
-        "percentOfTextureMap": 0.750521183013916,
+        "percentOfTextureMap": 0.7040722966194153,
         "modName": "Knight Quest",
         "url": "",
         "issueTrackerUrl": "",
@@ -157,7 +166,7 @@ var modStatistics =
     {
         "resourceDomain": "quark",
         "pixelCount": 324,
-        "percentOfTextureMap": 0.750521183013916,
+        "percentOfTextureMap": 0.7040722966194153,
         "modName": "Quark",
         "url": "",
         "issueTrackerUrl": "",
@@ -166,8 +175,17 @@ var modStatistics =
     {
         "resourceDomain": "supplementaries",
         "pixelCount": 324,
-        "percentOfTextureMap": 0.750521183013916,
+        "percentOfTextureMap": 0.7040722966194153,
         "modName": "Supplementaries",
+        "url": "",
+        "issueTrackerUrl": "",
+        "authors": []
+    },
+    {
+        "resourceDomain": "silverlight",
+        "pixelCount": 256,
+        "percentOfTextureMap": 0.5563040375709534,
+        "modName": "Silverlight",
         "url": "",
         "issueTrackerUrl": "",
         "authors": []
@@ -175,7 +193,7 @@ var modStatistics =
     {
         "resourceDomain": "scalinghealth",
         "pixelCount": 256,
-        "percentOfTextureMap": 0.5930044054985046,
+        "percentOfTextureMap": 0.5563040375709534,
         "modName": "Scaling Health",
         "url": "",
         "issueTrackerUrl": "",
@@ -184,7 +202,7 @@ var modStatistics =
     {
         "resourceDomain": "ecologics",
         "pixelCount": 256,
-        "percentOfTextureMap": 0.5930044054985046,
+        "percentOfTextureMap": 0.5563040375709534,
         "modName": "Ecologics",
         "url": "",
         "issueTrackerUrl": "",

@@ -90,18 +90,18 @@ var textureData =
         "height": 16
     },
     {
-        "name": "minecraft:entity/signs/green_enchanted",
-        "animated": false,
-        "x": 160,
-        "y": 64,
-        "width": 32,
-        "height": 16
-    },
-    {
         "name": "biomesoplenty:entity/signs/hellbark",
         "animated": false,
         "x": 160,
         "y": 80,
+        "width": 32,
+        "height": 16
+    },
+    {
+        "name": "minecraft:entity/signs/green_enchanted",
+        "animated": false,
+        "x": 160,
+        "y": 64,
         "width": 32,
         "height": 16
     },

@@ -4,7 +4,7 @@ var modStatistics =
     {
         "resourceDomain": "minecraft",
         "pixelCount": 61037,
-        "percentOfTextureMap": 44.72721862792969,
+        "percentOfTextureMap": 44.22938919067383,
         "modName": "Minecraft",
         "url": "",
         "issueTrackerUrl": "",
@@ -13,7 +13,7 @@ var modStatistics =
     {
         "resourceDomain": "create",
         "pixelCount": 21504,
-        "percentOfTextureMap": 15.75788688659668,
+        "percentOfTextureMap": 15.58249568939209,
         "modName": "Create",
         "url": "",
         "issueTrackerUrl": "",
@@ -22,7 +22,7 @@ var modStatistics =
     {
         "resourceDomain": "supplementaries",
         "pixelCount": 12608,
-        "percentOfTextureMap": 9.238999366760254,
+        "percentOfTextureMap": 9.136165618896484,
         "modName": "Supplementaries",
         "url": "",
         "issueTrackerUrl": "",
@@ -31,7 +31,7 @@ var modStatistics =
     {
         "resourceDomain": "born_in_chaos_v1",
         "pixelCount": 9728,
-        "percentOfTextureMap": 7.128567695617676,
+        "percentOfTextureMap": 7.049224376678467,
         "modName": "Born in Chaos ",
         "url": "",
         "issueTrackerUrl": "",
@@ -40,7 +40,7 @@ var modStatistics =
     {
         "resourceDomain": "blocky_siege",
         "pixelCount": 8192,
-        "percentOfTextureMap": 6.003004550933838,
+        "percentOfTextureMap": 5.936188697814941,
         "modName": "Blocky Siege",
         "url": "",
         "issueTrackerUrl": "",
@@ -49,7 +49,7 @@ var modStatistics =
     {
         "resourceDomain": "alexsmobs",
         "pixelCount": 6464,
-        "percentOfTextureMap": 4.736745834350586,
+        "percentOfTextureMap": 4.684023857116699,
         "modName": "Alex's Mobs",
         "url": "",
         "issueTrackerUrl": "",
@@ -58,7 +58,7 @@ var modStatistics =
     {
         "resourceDomain": "biomemakeover",
         "pixelCount": 5760,
-        "percentOfTextureMap": 4.22086238861084,
+        "percentOfTextureMap": 4.173882961273193,
         "modName": "Biome Makeover",
         "url": "",
         "issueTrackerUrl": "",
@@ -67,7 +67,7 @@ var modStatistics =
     {
         "resourceDomain": "ob_aquamirae",
         "pixelCount": 3814,
-        "percentOfTextureMap": 2.794855833053589,
+        "percentOfTextureMap": 2.7637481689453125,
         "modName": "Aquamirae",
         "url": "",
         "issueTrackerUrl": "",
@@ -76,7 +76,7 @@ var modStatistics =
     {
         "resourceDomain": "farmersdelight",
         "pixelCount": 3136,
-        "percentOfTextureMap": 2.298025131225586,
+        "percentOfTextureMap": 2.272447347640991,
         "modName": "Farmer's Delight",
         "url": "",
         "issueTrackerUrl": "",
@@ -85,8 +85,17 @@ var modStatistics =
     {
         "resourceDomain": "savage_and_ravage",
         "pixelCount": 1856,
-        "percentOfTextureMap": 1.360055685043335,
+        "percentOfTextureMap": 1.3449177742004395,
         "modName": "Savage & Ravage",
+        "url": "",
+        "issueTrackerUrl": "",
+        "authors": []
+    },
+    {
+        "resourceDomain": "silverlight",
+        "pixelCount": 1536,
+        "percentOfTextureMap": 1.1130354404449463,
+        "modName": "Silverlight",
         "url": "",
         "issueTrackerUrl": "",
         "authors": []
@@ -94,7 +103,7 @@ var modStatistics =
     {
         "resourceDomain": "byg",
         "pixelCount": 832,
-        "percentOfTextureMap": 0.6096801161766052,
+        "percentOfTextureMap": 0.6028941869735718,
         "modName": "Oh The Biomes You'll Go",
         "url": "",
         "issueTrackerUrl": "",
@@ -103,7 +112,7 @@ var modStatistics =
     {
         "resourceDomain": "create_sa",
         "pixelCount": 512,
-        "percentOfTextureMap": 0.37518778443336487,
+        "percentOfTextureMap": 0.37101179361343384,
         "modName": "Create Stuff & Additions",
         "url": "",
         "issueTrackerUrl": "",
@@ -112,7 +121,7 @@ var modStatistics =
     {
         "resourceDomain": "infernalexp",
         "pixelCount": 350,
-        "percentOfTextureMap": 0.2564760148525238,
+        "percentOfTextureMap": 0.25362133979797363,
         "modName": "Infernal Expansion",
         "url": "",
         "issueTrackerUrl": "",
@@ -121,7 +130,7 @@ var modStatistics =
     {
         "resourceDomain": "cnb",
         "pixelCount": 336,
-        "percentOfTextureMap": 0.24621698260307312,
+        "percentOfTextureMap": 0.2434764951467514,
         "modName": "Creatures and Beasts",
         "url": "",
         "issueTrackerUrl": "",
@@ -130,7 +139,7 @@ var modStatistics =
     {
         "resourceDomain": "biomesoplenty",
         "pixelCount": 128,
-        "percentOfTextureMap": 0.09379694610834122,
+        "percentOfTextureMap": 0.09275294840335846,
         "modName": "Biomes O' Plenty",
         "url": "",
         "issueTrackerUrl": "",
@@ -139,7 +148,7 @@ var modStatistics =
     {
         "resourceDomain": "trolldom",
         "pixelCount": 64,
-        "percentOfTextureMap": 0.04689847305417061,
+        "percentOfTextureMap": 0.04637647420167923,
         "modName": "Trolldom",
         "url": "",
         "issueTrackerUrl": "",
@@ -148,7 +157,7 @@ var modStatistics =
     {
         "resourceDomain": "cataclysm",
         "pixelCount": 64,
-        "percentOfTextureMap": 0.04689847305417061,
+        "percentOfTextureMap": 0.04637647420167923,
         "modName": "Cataclysm Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -157,7 +166,7 @@ var modStatistics =
     {
         "resourceDomain": "fantasyfurniture",
         "pixelCount": 64,
-        "percentOfTextureMap": 0.04689847305417061,
+        "percentOfTextureMap": 0.04637647420167923,
         "modName": "Fantasy's Furniture",
         "url": "",
         "issueTrackerUrl": "",
@@ -166,7 +175,7 @@ var modStatistics =
     {
         "resourceDomain": "create_things_and_misc",
         "pixelCount": 16,
-        "percentOfTextureMap": 0.011724618263542652,
+        "percentOfTextureMap": 0.011594118550419807,
         "modName": "create: things and misc",
         "url": "",
         "issueTrackerUrl": "",

@@ -226,18 +226,18 @@ var textureData =
         "height": 32
     },
     {
-        "name": "quark:model/chest/dark_oak/left",
-        "animated": false,
-        "x": 416,
-        "y": 96,
-        "width": 32,
-        "height": 32
-    },
-    {
         "name": "quark:model/chest/dark_oak/normal",
         "animated": false,
         "x": 416,
         "y": 128,
+        "width": 32,
+        "height": 32
+    },
+    {
+        "name": "quark:model/chest/dark_oak/left",
+        "animated": false,
+        "x": 416,
+        "y": 96,
         "width": 32,
         "height": 32
     },

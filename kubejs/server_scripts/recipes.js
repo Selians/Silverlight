@@ -56,7 +56,7 @@ ServerEvents.recipes(event => {
 		`BCB`,
 		`BBB`
 	], {
-		A: 'kubejs:silverlight',
+		A: 'silverlight:silverlightraw',
 		B: 'minecraft:blackstone',
 		C: 'minecraft:lava_bucket'
 	});
@@ -68,7 +68,7 @@ ServerEvents.recipes(event => {
 		`ACA`,
 		`BAB`
 	], {
-		A: 'kubejs:silverlight_refined',
+		A: 'silverlight:silverlightraw',
 		B: '#minecraft:saplings',
 		C: 'minecraft:compass'
 	});
@@ -78,7 +78,7 @@ ServerEvents.recipes(event => {
 		`BCB`,
 		`ABA`
 	], {
-		A: 'kubejs:silverlight_refined',
+		A: 'silverlight:silverlightraw',
 		B: 'supplementaries:key',
 		C: 'minecraft:compass'
 	});
@@ -90,7 +90,7 @@ ServerEvents.recipes(event => {
 		`BCB`,
 		`ABA`
 	], {
-		A: 'kubejs:silverlight_refined',
+		A: 'silverlight:silverlightraw',
 		B: 'create:iron_sheet',
 		C: '#forge:netherrack'
 	});
@@ -100,7 +100,7 @@ ServerEvents.recipes(event => {
 		`B  `,
 		`DEA`
 	], {
-		A: 'kubejs:silverlight_refined',
+		A: 'silverlight:silverlightraw',
 		B: 'create:brass_sheet',
 		C: 'create:precision_mechanism',
 		D: 'create_sa:hydraulic_engine',
@@ -112,7 +112,7 @@ ServerEvents.recipes(event => {
 		`BCB`,
 		`BBB`
 	], {
-		A: 'kubejs:silverlight_refined',
+		A: 'silverlight:silverlightraw',
 		B: 'create:andesite_alloy',
 		C: 'create_things_and_misc:vibration_mechanism'
 	});
@@ -122,7 +122,7 @@ ServerEvents.recipes(event => {
 		`BAB`,
 		`CDC`
 	], {
-		A: 'kubejs:silverlight_refined',
+		A: 'silverlight:silverlightraw',
 		B: '#minecraft:logs',
 		C: 'minecraft:smooth_stone',
 		D: 'create_things_and_misc:card_reader',
@@ -151,7 +151,7 @@ ServerEvents.recipes(event => {
 		B: 'minecraft:iron_ingot',
 	});
 
-	event.shapeless('orva_alarms:custom_alarm',['orva_alarms:alarm', 'kubejs:silverlight_refined']);
+	event.shapeless('orva_alarms:custom_alarm',['orva_alarms:alarm', 'silverlight:silverlightraw']);
 	event.shapeless('orva_alarms:smoke_detector',['orva_alarms:alarm', 'minecraft:observer']);
 	event.shapeless('orva_alarms:sc_palarm',['orva_alarms:alarm', 'minecraft:purple_dye']);
 	event.shapeless('orva_alarms:raidsiren',['orva_alarms:alarm', 'minecraft:cyan_dye']);
@@ -188,12 +188,17 @@ ServerEvents.recipes(event => {
 		A: 'minecraft:hopper',
 		B: 'create:millstone',
 		C: 'create:mechanical_press',
-		D: 'kubejs:silverlight_refined',
+		D: 'silverlight:silverlightraw',
 		E: 'minecraft:blast_furnace',
 		F: 'create:mechanical_pump',
 		G: 'minecraft:iron_ingot',
 		H: 'minecraft:copper_block'
 	})
+
+
+// EYES <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+event.shapeless('endrem:black_eye',['#forge:tools/scavenging', 'minecraft:heart_of_the_sea']);
 
 // ------------------ SEQUENCE --------------------------------
 
