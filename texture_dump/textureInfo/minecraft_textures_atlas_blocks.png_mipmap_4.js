@@ -6282,20 +6282,20 @@ var textureData =
         "height": 1
     },
     {
-        "name": "decorative_blocks:block/bonfire",
-        "animated": true,
-        "x": 106,
-        "y": 401,
-        "width": 2,
-        "height": 2
-    },
-    {
         "name": "simplyswords:item/frostfall_strip",
         "animated": true,
         "x": 83,
         "y": 372,
         "width": 25,
         "height": 25
+    },
+    {
+        "name": "decorative_blocks:block/bonfire",
+        "animated": true,
+        "x": 106,
+        "y": 401,
+        "width": 2,
+        "height": 2
     },
     {
         "name": "minecraft:block/grass_block_snow",
@@ -46458,17 +46458,17 @@ var textureData =
         "height": 1
     },
     {
-        "name": "artifacts:item/feral_claws",
+        "name": "delightful:item/field_salad",
         "animated": false,
-        "x": 240,
+        "x": 242,
         "y": 477,
         "width": 1,
         "height": 1
     },
     {
-        "name": "delightful:item/field_salad",
+        "name": "artifacts:item/feral_claws",
         "animated": false,
-        "x": 242,
+        "x": 240,
         "y": 477,
         "width": 1,
         "height": 1
