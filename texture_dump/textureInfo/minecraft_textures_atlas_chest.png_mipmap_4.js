@@ -930,17 +930,17 @@ var textureData =
         "height": 4
     },
     {
-        "name": "compatoplenty:entity/chest/hellbark/trapped_right",
+        "name": "minecraft:entity/chest/ender",
         "animated": false,
-        "x": 24,
+        "x": 12,
         "y": 12,
         "width": 4,
         "height": 4
     },
     {
-        "name": "minecraft:entity/chest/ender",
+        "name": "compatoplenty:entity/chest/hellbark/trapped_right",
         "animated": false,
-        "x": 12,
+        "x": 24,
         "y": 12,
         "width": 4,
         "height": 4

@@ -106,17 +106,17 @@ var textureData =
         "height": 32
     },
     {
-        "name": "infernalexp:painting/pineapple_under_the_lava_sea",
+        "name": "minecraft:painting/pigscene",
         "animated": false,
-        "x": 64,
+        "x": 0,
         "y": 64,
         "width": 64,
         "height": 64
     },
     {
-        "name": "minecraft:painting/pigscene",
+        "name": "infernalexp:painting/pineapple_under_the_lava_sea",
         "animated": false,
-        "x": 0,
+        "x": 64,
         "y": 64,
         "width": 64,
         "height": 64
@@ -538,20 +538,20 @@ var textureData =
         "height": 48
     },
     {
-        "name": "darkpaintings:painting/daybreak",
-        "animated": false,
-        "x": 128,
-        "y": 208,
-        "width": 32,
-        "height": 16
-    },
-    {
         "name": "minecraft:painting/bust",
         "animated": false,
         "x": 192,
         "y": 176,
         "width": 32,
         "height": 32
+    },
+    {
+        "name": "darkpaintings:painting/daybreak",
+        "animated": false,
+        "x": 128,
+        "y": 208,
+        "width": 32,
+        "height": 16
     },
     {
         "name": "darkpaintings:painting/sir_ramfrez_yarn_paradise",
