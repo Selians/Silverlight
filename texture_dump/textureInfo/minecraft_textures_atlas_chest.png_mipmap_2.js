@@ -226,18 +226,18 @@ var textureData =
         "height": 16
     },
     {
-        "name": "quark:model/chest/dark_oak/normal",
-        "animated": false,
-        "x": 208,
-        "y": 64,
-        "width": 16,
-        "height": 16
-    },
-    {
         "name": "quark:model/chest/dark_oak/left",
         "animated": false,
         "x": 208,
         "y": 48,
+        "width": 16,
+        "height": 16
+    },
+    {
+        "name": "quark:model/chest/dark_oak/normal",
+        "animated": false,
+        "x": 208,
+        "y": 64,
         "width": 16,
         "height": 16
     },
@@ -930,17 +930,17 @@ var textureData =
         "height": 16
     },
     {
-        "name": "compatoplenty:entity/chest/hellbark/trapped_right",
+        "name": "minecraft:entity/chest/ender",
         "animated": false,
-        "x": 96,
+        "x": 48,
         "y": 48,
         "width": 16,
         "height": 16
     },
     {
-        "name": "minecraft:entity/chest/ender",
+        "name": "compatoplenty:entity/chest/hellbark/trapped_right",
         "animated": false,
-        "x": 48,
+        "x": 96,
         "y": 48,
         "width": 16,
         "height": 16

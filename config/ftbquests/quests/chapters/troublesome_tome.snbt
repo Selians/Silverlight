@@ -43,23 +43,14 @@
 				advancement: "minecraft:story/shiny_gear"
 				criterion: ""
 			}]
-			rewards: [
-				{
-					id: "738E1A9A97C5FE59"
-					type: "command"
-					auto: "invisible"
-					ignore_reward_blocking: true
-					command: "/sh_difficulty add @p 10"
-					player_command: false
-				}
-				{
-					id: "057C950726B3786A"
-					type: "command"
-					auto: "invisible"
-					command: "/playsound minecraft:item.goat_horn.sound.6 master @p"
-					player_command: true
-				}
-			]
+			rewards: [{
+				id: "738E1A9A97C5FE59"
+				type: "command"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				command: "/sldebuff 10"
+				player_command: false
+			}]
 		}
 		{
 			x: -8.0d
@@ -73,22 +64,13 @@
 				advancement: "minecraft:story/obtain_armor"
 				criterion: ""
 			}]
-			rewards: [
-				{
-					id: "3780579D533852A1"
-					type: "command"
-					auto: "invisible"
-					command: "/sh_difficulty add @p 10"
-					player_command: false
-				}
-				{
-					id: "0A8BADC9F1968706"
-					type: "command"
-					auto: "invisible"
-					command: "/playsound minecraft:item.goat_horn.sound.6 master @p"
-					player_command: true
-				}
-			]
+			rewards: [{
+				id: "3780579D533852A1"
+				type: "command"
+				auto: "invisible"
+				command: "/sldebuff 10"
+				player_command: false
+			}]
 		}
 		{
 			x: -5.0d

@@ -1,3 +1,3 @@
-[22:03:46] [INFO ] startup_scripts:script.js:3: Okeeee letsgo)
-[22:03:46] [INFO ] Loaded script startup_scripts:script.js in 0.091 s
-[22:03:46] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.771 s
+[10:45:48] [INFO ] startup_scripts:script.js:3: Okeeee letsgo)
+[10:45:48] [INFO ] Loaded script startup_scripts:script.js in 0.052 s
+[10:45:48] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.548 s

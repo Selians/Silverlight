@@ -120,4 +120,5 @@
 		enabled = true
 		"silverlight:passive_armor" = true
 		"silverlight:passive_speed" = true
+		"silverlight:passive_health" = true
 

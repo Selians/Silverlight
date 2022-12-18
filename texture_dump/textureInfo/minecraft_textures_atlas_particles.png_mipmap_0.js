@@ -1434,18 +1434,18 @@ var textureData =
         "height": 16
     },
     {
-        "name": "born_in_chaos_v1:particle/intoxicatind_bomb_part",
-        "animated": false,
-        "x": 304,
-        "y": 0,
-        "width": 16,
-        "height": 16
-    },
-    {
         "name": "alexsmobs:particle/invert_dig_0",
         "animated": false,
         "x": 304,
         "y": 16,
+        "width": 16,
+        "height": 16
+    },
+    {
+        "name": "born_in_chaos_v1:particle/intoxicatind_bomb_part",
+        "animated": false,
+        "x": 304,
+        "y": 0,
         "width": 16,
         "height": 16
     },
