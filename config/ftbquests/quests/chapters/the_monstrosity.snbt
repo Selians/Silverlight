@@ -1,0 +1,135 @@
+{
+	id: "6D0A5C0B3DB749AC"
+	group: "1D8F1A483208D022"
+	order_index: 1
+	filename: "the_monstrosity"
+	title: "The Monstrosity"
+	icon: {
+		id: "endrem:nether_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["One gave life to the monstrosity of the Nether Realm"]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -4.0d
+			y: -1.0d
+			id: "1F38577B89FD3209"
+			tasks: [{
+				id: "0DDB53DA23BB4F13"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -2.5d
+			description: ["If you're not sure you can handle this in 1 go, make sure you can respawn"]
+			dependencies: ["1F38577B89FD3209"]
+			id: "09A7643C0A3DB700"
+			tasks: [{
+				id: "32845BF89130BB85"
+				type: "item"
+				item: "minecraft:respawn_anchor"
+			}]
+			rewards: [{
+				id: "37339F30C7C33F59"
+				type: "item"
+				item: "minecraft:glowstone"
+				count: 4
+			}]
+		}
+		{
+			x: -0.5d
+			y: -1.0d
+			dependencies: ["14B1D964ED4730C7"]
+			id: "615FFFF7FEC7EE8D"
+			tasks: [{
+				id: "13414AE7428B7B60"
+				type: "item"
+				item: {
+					id: "endrem:nether_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "5B88F94E56A5153E"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			dependencies: ["1F38577B89FD3209"]
+			id: "14B1D964ED4730C7"
+			tasks: [{
+				id: "42EBB6F54947B8E0"
+				type: "structure"
+				title: "Get to the Blacksmith"
+				icon: {
+					id: "cataclysm:monstrous_helm"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				structure: "cataclysm:soul_black_smith"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.5d
+			description: ["Some of these might also come in handy..."]
+			dependencies: ["1F38577B89FD3209"]
+			id: "15B442A85778E2C5"
+			tasks: [
+				{
+					id: "6F5520C64BE095A8"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+				}
+				{
+					id: "03923D162094554C"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:regeneration"
+						}
+					}
+				}
+				{
+					id: "7831FF4DEB9F0272"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:healing"
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "23152F8115CD8B66"
+				type: "item"
+				item: "minecraft:golden_apple"
+			}]
+		}
+	]
+}

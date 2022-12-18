@@ -1,0 +1,27 @@
+{
+	id: "1AEB60255B0E1A79"
+	order_index: 0
+	title: "Food"
+	icon: "delightful:cheeseburger"
+	loot_size: 1
+	rewards: [
+		{ item: "farmersdelight:baked_cod_stew" }
+		{ item: "croptopia:pizza" }
+		{ item: "croptopia:supreme_pizza" }
+		{ item: "croptopia:cheese_pizza" }
+		{ item: "croptopia:pineapple_pepperoni_pizza" }
+		{ item: "croptopia:anchovy_pizza" }
+		{ item: "croptopia:the_big_breakfast" }
+		{ item: "minecraft:baked_potato", weight: 10 }
+		{ item: "minecraft:beetroot_soup", weight: 10 }
+		{ item: "delightful:deluxe_cheeseburger" }
+		{ item: "croptopia:sweet_crepes" }
+		{ item: "minecraft:bread", weight: 10 }
+		{ item: "minecraft:cake", weight: 2 }
+		{ item: "croptopia:beef_wellington" }
+		{ item: "croptopia:eggplant_parmesan" }
+		{ item: "croptopia:crab_legs" }
+		{ item: "croptopia:steamed_clams" }
+		{ item: "croptopia:steamed_crab" }
+	]
+}

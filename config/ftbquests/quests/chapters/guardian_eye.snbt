@@ -1,0 +1,18 @@
+{
+	id: "738C9E6945FB1E69"
+	group: "1D8F1A483208D022"
+	order_index: 4
+	filename: "guardian_eye"
+	title: "Guardian eye"
+	icon: {
+		id: "endrem:guardian_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["One instilled into a creature guarding sunken temples"]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

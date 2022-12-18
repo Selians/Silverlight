@@ -226,18 +226,18 @@ var textureData =
         "height": 8
     },
     {
-        "name": "quark:model/chest/dark_oak/normal",
-        "animated": false,
-        "x": 104,
-        "y": 32,
-        "width": 8,
-        "height": 8
-    },
-    {
         "name": "quark:model/chest/dark_oak/left",
         "animated": false,
         "x": 104,
         "y": 24,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "name": "quark:model/chest/dark_oak/normal",
+        "animated": false,
+        "x": 104,
+        "y": 32,
         "width": 8,
         "height": 8
     },
@@ -402,18 +402,18 @@ var textureData =
         "height": 8
     },
     {
-        "name": "compatoplenty:entity/chest/cherry/trapped_right",
-        "animated": false,
-        "x": 16,
-        "y": 8,
-        "width": 8,
-        "height": 8
-    },
-    {
         "name": "compatoplenty:entity/chest/dead/normal",
         "animated": false,
         "x": 8,
         "y": 16,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "name": "compatoplenty:entity/chest/cherry/trapped_right",
+        "animated": false,
+        "x": 16,
+        "y": 8,
         "width": 8,
         "height": 8
     },

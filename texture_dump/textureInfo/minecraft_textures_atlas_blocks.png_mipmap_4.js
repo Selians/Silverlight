@@ -46458,17 +46458,17 @@ var textureData =
         "height": 1
     },
     {
-        "name": "delightful:item/field_salad",
+        "name": "artifacts:item/feral_claws",
         "animated": false,
-        "x": 242,
+        "x": 240,
         "y": 477,
         "width": 1,
         "height": 1
     },
     {
-        "name": "artifacts:item/feral_claws",
+        "name": "delightful:item/field_salad",
         "animated": false,
-        "x": 240,
+        "x": 242,
         "y": 477,
         "width": 1,
         "height": 1
