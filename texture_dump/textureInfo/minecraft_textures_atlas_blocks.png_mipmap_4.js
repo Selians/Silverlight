@@ -12,7 +12,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_yellow_leggings_icon",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 486,
         "width": 1,
         "height": 1
@@ -60,7 +60,7 @@ var textureData =
     {
         "name": "nebs:items/fire_rebuke",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 485,
         "width": 1,
         "height": 1
@@ -108,8 +108,8 @@ var textureData =
     {
         "name": "ecologics:item/flowering_azalea_boat",
         "animated": false,
-        "x": 255,
-        "y": 477,
+        "x": 2,
+        "y": 478,
         "width": 1,
         "height": 1
     },
@@ -148,7 +148,7 @@ var textureData =
     {
         "name": "minecraft:item/fishing_rod_cast",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 477,
         "width": 1,
         "height": 1
@@ -156,7 +156,7 @@ var textureData =
     {
         "name": "create_sa:items/incomplete_heat_engine",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 485,
         "width": 1,
         "height": 1
@@ -180,7 +180,7 @@ var textureData =
     {
         "name": "croptopia:item/the_big_breakfast",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 483,
         "width": 1,
         "height": 1
@@ -196,7 +196,7 @@ var textureData =
     {
         "name": "knight_quest:items/silverfish_leggings_icon",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 487,
         "width": 1,
         "height": 1
@@ -252,7 +252,7 @@ var textureData =
     {
         "name": "quark:item/red_rune",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 481,
         "width": 1,
         "height": 1
@@ -284,7 +284,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/fairy_lights_1_tint",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 488,
         "width": 1,
         "height": 1
@@ -316,7 +316,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/maki/crab_maki",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 479,
         "width": 1,
         "height": 1
@@ -444,7 +444,7 @@ var textureData =
     {
         "name": "farmersdelight:item/honey_glazed_ham",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 478,
         "width": 1,
         "height": 1
@@ -468,7 +468,7 @@ var textureData =
     {
         "name": "minecraft:item/mojang_banner_pattern",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 480,
         "width": 1,
         "height": 1
@@ -484,7 +484,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_holly",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 485,
         "width": 1,
         "height": 1
@@ -492,7 +492,7 @@ var textureData =
     {
         "name": "primitivestart:items/reinforced_bone_shovel",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 486,
         "width": 1,
         "height": 1
@@ -532,7 +532,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_horse_armor",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 479,
         "width": 1,
         "height": 1
@@ -556,7 +556,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_brown",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 482,
         "width": 1,
         "height": 1
@@ -588,7 +588,7 @@ var textureData =
     {
         "name": "croptopia:item/peanut_butter_with_celery",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 481,
         "width": 1,
         "height": 1
@@ -684,7 +684,7 @@ var textureData =
     {
         "name": "farmersdelight:item/smoked_ham",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 482,
         "width": 1,
         "height": 1
@@ -708,7 +708,7 @@ var textureData =
     {
         "name": "biomemakeover:item/purple_petals",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 481,
         "width": 1,
         "height": 1
@@ -748,7 +748,7 @@ var textureData =
     {
         "name": "nebs:items/mending",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 486,
         "width": 1,
         "height": 1
@@ -764,7 +764,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/apple_pie_slice_1",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 477,
         "width": 1,
         "height": 1
@@ -796,7 +796,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/apple_pie_slice_2",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 477,
         "width": 1,
         "height": 1
@@ -812,7 +812,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/apple_pie_slice_0",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 477,
         "width": 1,
         "height": 1
@@ -836,7 +836,7 @@ var textureData =
     {
         "name": "artifacts:item/flippers",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 477,
         "width": 1,
         "height": 1
@@ -876,7 +876,7 @@ var textureData =
     {
         "name": "create_confectionery:items/black_chocolate_candy_1",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 484,
         "width": 1,
         "height": 1
@@ -884,7 +884,7 @@ var textureData =
     {
         "name": "create_confectionery:items/black_chocolate_candy_2",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 484,
         "width": 1,
         "height": 1
@@ -892,7 +892,7 @@ var textureData =
     {
         "name": "create_confectionery:items/black_chocolate_candy_3",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 484,
         "width": 1,
         "height": 1
@@ -900,7 +900,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/bolts_of_cloth",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 488,
         "width": 1,
         "height": 1
@@ -916,7 +916,7 @@ var textureData =
     {
         "name": "artifacts:item/villager_hat",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 483,
         "width": 1,
         "height": 1
@@ -924,7 +924,7 @@ var textureData =
     {
         "name": "artifacts:item/shock_pendant",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 482,
         "width": 1,
         "height": 1
@@ -948,7 +948,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/nordic_mead_bottle",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 488,
         "width": 1,
         "height": 1
@@ -980,7 +980,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_spruce",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 480,
         "width": 1,
         "height": 1
@@ -1044,7 +1044,7 @@ var textureData =
     {
         "name": "nebs:items/excavating",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 485,
         "width": 1,
         "height": 1
@@ -1164,7 +1164,7 @@ var textureData =
     {
         "name": "create_confectionery:items/ruby_chocolate_glazed_berries",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 486,
         "width": 1,
         "height": 1
@@ -1212,7 +1212,7 @@ var textureData =
     {
         "name": "create_confectionery:items/bar_of_black_chocolate",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 484,
         "width": 1,
         "height": 1
@@ -1228,7 +1228,7 @@ var textureData =
     {
         "name": "create:item/filter",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 477,
         "width": 1,
         "height": 1
@@ -1236,7 +1236,7 @@ var textureData =
     {
         "name": "cataclysm:items/witherite_ingot",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 488,
         "width": 1,
         "height": 1
@@ -1260,7 +1260,7 @@ var textureData =
     {
         "name": "nebs:items/sever",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 487,
         "width": 1,
         "height": 1
@@ -1308,7 +1308,7 @@ var textureData =
     {
         "name": "minecraft:item/poisonous_potato",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 481,
         "width": 1,
         "height": 1
@@ -1356,7 +1356,7 @@ var textureData =
     {
         "name": "cataclysm:items/ignitium_chestplate",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 485,
         "width": 1,
         "height": 1
@@ -1404,7 +1404,7 @@ var textureData =
     {
         "name": "croptopia:item/roasted_squash",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 482,
         "width": 1,
         "height": 1
@@ -1420,7 +1420,7 @@ var textureData =
     {
         "name": "create:item/property_filter",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 481,
         "width": 1,
         "height": 1
@@ -1428,7 +1428,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/darcpos",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 485,
         "width": 1,
         "height": 1
@@ -1436,7 +1436,7 @@ var textureData =
     {
         "name": "nebs:items/hunter",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 485,
         "width": 1,
         "height": 1
@@ -1484,7 +1484,7 @@ var textureData =
     {
         "name": "minecraft:item/rabbit",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 481,
         "width": 1,
         "height": 1
@@ -1500,7 +1500,7 @@ var textureData =
     {
         "name": "crittersandcompanions:item/koi_fish",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 479,
         "width": 1,
         "height": 1
@@ -1524,7 +1524,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/nitcos",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 486,
         "width": 1,
         "height": 1
@@ -1612,7 +1612,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_silver_main_icon",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 486,
         "width": 1,
         "height": 1
@@ -1676,7 +1676,7 @@ var textureData =
     {
         "name": "farmersdelight:item/sweet_berry_cheesecake_slice",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 483,
         "width": 1,
         "height": 1
@@ -1692,7 +1692,7 @@ var textureData =
     {
         "name": "nebs:items/recharge",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 486,
         "width": 1,
         "height": 1
@@ -1708,7 +1708,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/palm_boat",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 480,
         "width": 1,
         "height": 1
@@ -1716,7 +1716,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_red3_leggings_icon",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 486,
         "width": 1,
         "height": 1
@@ -1724,7 +1724,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/light_gray",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 484,
         "width": 1,
         "height": 1
@@ -1740,7 +1740,7 @@ var textureData =
     {
         "name": "minecraft:item/purple_dye",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 481,
         "width": 1,
         "height": 1
@@ -1796,7 +1796,7 @@ var textureData =
     {
         "name": "croptopia:item/milk_bottle",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 480,
         "width": 1,
         "height": 1
@@ -1844,7 +1844,7 @@ var textureData =
     {
         "name": "supplementaries:items/ash",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 484,
         "width": 1,
         "height": 1
@@ -1868,7 +1868,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_warped",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 485,
         "width": 1,
         "height": 1
@@ -1940,7 +1940,7 @@ var textureData =
     {
         "name": "croptopia:item/water_bottle",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 483,
         "width": 1,
         "height": 1
@@ -1948,7 +1948,7 @@ var textureData =
     {
         "name": "nebs:items/sixth_sense",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 487,
         "width": 1,
         "height": 1
@@ -1988,7 +1988,7 @@ var textureData =
     {
         "name": "quark:item/orange_shard",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 480,
         "width": 1,
         "height": 1
@@ -2044,7 +2044,7 @@ var textureData =
     {
         "name": "farmersdelight:item/pasta_with_mutton_chop",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 481,
         "width": 1,
         "height": 1
@@ -2084,7 +2084,7 @@ var textureData =
     {
         "name": "vinery:item/red_grape_seeds",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 481,
         "width": 1,
         "height": 1
@@ -2092,7 +2092,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_pigstep",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 480,
         "width": 1,
         "height": 1
@@ -2228,7 +2228,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_witch_hazel",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 485,
         "width": 1,
         "height": 1
@@ -2284,7 +2284,7 @@ var textureData =
     {
         "name": "alexsmobs:item/lobster_tail",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 479,
         "width": 1,
         "height": 1
@@ -2340,7 +2340,7 @@ var textureData =
     {
         "name": "nebs:items/stalking",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 487,
         "width": 1,
         "height": 1
@@ -2404,7 +2404,7 @@ var textureData =
     {
         "name": "alexsdelight:item/loose_moose_rib",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 479,
         "width": 1,
         "height": 1
@@ -2468,7 +2468,7 @@ var textureData =
     {
         "name": "create_confectionery:items/marshmallow",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 486,
         "width": 1,
         "height": 1
@@ -2492,7 +2492,7 @@ var textureData =
     {
         "name": "croptopia:item/stir_fry",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 482,
         "width": 1,
         "height": 1
@@ -2500,7 +2500,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/poisoned_blade",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 486,
         "width": 1,
         "height": 1
@@ -2516,7 +2516,7 @@ var textureData =
     {
         "name": "nebs:items/grace",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 485,
         "width": 1,
         "height": 1
@@ -2540,7 +2540,7 @@ var textureData =
     {
         "name": "byg:item/fir/door",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 477,
         "width": 1,
         "height": 1
@@ -2548,7 +2548,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_clock",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 480,
         "width": 1,
         "height": 1
@@ -2596,7 +2596,7 @@ var textureData =
     {
         "name": "nebs:items/fuse_cutter",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 485,
         "width": 1,
         "height": 1
@@ -2604,7 +2604,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_red_boots_icon",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 484,
         "width": 1,
         "height": 1
@@ -2684,8 +2684,8 @@ var textureData =
     {
         "name": "nebs:items/scout",
         "animated": false,
-        "x": 254,
-        "y": 486,
+        "x": 1,
+        "y": 487,
         "width": 1,
         "height": 1
     },
@@ -2716,7 +2716,7 @@ var textureData =
     {
         "name": "croptopia:item/molasses",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 480,
         "width": 1,
         "height": 1
@@ -2740,7 +2740,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/mahogany_sign",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 479,
         "width": 1,
         "height": 1
@@ -2756,7 +2756,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pumpkin_slice_2",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 477,
         "width": 1,
         "height": 1
@@ -2772,7 +2772,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pumpkin_slice_1",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 477,
         "width": 1,
         "height": 1
@@ -2780,7 +2780,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pumpkin_slice_0",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 477,
         "width": 1,
         "height": 1
@@ -2828,7 +2828,7 @@ var textureData =
     {
         "name": "nebs:items/rebounding",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 486,
         "width": 1,
         "height": 1
@@ -2852,7 +2852,7 @@ var textureData =
     {
         "name": "majruszsaccessories:item/tamed_potato_beetle",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 483,
         "width": 1,
         "height": 1
@@ -2860,7 +2860,7 @@ var textureData =
     {
         "name": "create_sa:items/medium_fueling_tank",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 486,
         "width": 1,
         "height": 1
@@ -2868,7 +2868,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_pink",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 478,
         "width": 1,
         "height": 1
@@ -2924,7 +2924,7 @@ var textureData =
     {
         "name": "biomemakeover:item/magenta_petals",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 479,
         "width": 1,
         "height": 1
@@ -2964,7 +2964,7 @@ var textureData =
     {
         "name": "knight_quest:items/zombie_main_icon",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 488,
         "width": 1,
         "height": 1
@@ -3012,7 +3012,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/ice_unit",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 478,
         "width": 1,
         "height": 1
@@ -3060,7 +3060,7 @@ var textureData =
     {
         "name": "create_confectionery:items/ruby_chocolate_candy",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 486,
         "width": 1,
         "height": 1
@@ -3076,7 +3076,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/rusty_sheet_metal",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 482,
         "width": 1,
         "height": 1
@@ -3124,7 +3124,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_enderman_boots_icon",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 486,
         "width": 1,
         "height": 1
@@ -3156,7 +3156,7 @@ var textureData =
     {
         "name": "minecraft:item/light_blue_dye",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 479,
         "width": 1,
         "height": 1
@@ -3204,7 +3204,7 @@ var textureData =
     {
         "name": "croptopia:item/flour",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 477,
         "width": 1,
         "height": 1
@@ -3220,7 +3220,7 @@ var textureData =
     {
         "name": "spirit:item/soul_crystal",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 482,
         "width": 1,
         "height": 1
@@ -3260,7 +3260,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_umbran",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 485,
         "width": 1,
         "height": 1
@@ -3292,7 +3292,7 @@ var textureData =
     {
         "name": "byg:item/glowstone_lantern",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 478,
         "width": 1,
         "height": 1
@@ -3372,7 +3372,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk_main_icon",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 486,
         "width": 1,
         "height": 1
@@ -3396,7 +3396,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/twigs",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 483,
         "width": 1,
         "height": 1
@@ -3404,7 +3404,7 @@ var textureData =
     {
         "name": "nebs:items/immunity_frame",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 485,
         "width": 1,
         "height": 1
@@ -3412,7 +3412,7 @@ var textureData =
     {
         "name": "supplementaries:items/timber_brace",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 487,
         "width": 1,
         "height": 1
@@ -3452,7 +3452,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/bonsilc",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 484,
         "width": 1,
         "height": 1
@@ -3460,7 +3460,7 @@ var textureData =
     {
         "name": "create_sa:items/medium_filling_tank",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 486,
         "width": 1,
         "height": 1
@@ -3508,7 +3508,7 @@ var textureData =
     {
         "name": "knight_quest:items/evoker_helmet_icon",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 485,
         "width": 1,
         "height": 1
@@ -3580,7 +3580,7 @@ var textureData =
     {
         "name": "farmersdelight:item/pink_canvas_sign",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 481,
         "width": 1,
         "height": 1
@@ -3588,7 +3588,7 @@ var textureData =
     {
         "name": "farmersdelight:item/rope",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 482,
         "width": 1,
         "height": 1
@@ -3596,7 +3596,7 @@ var textureData =
     {
         "name": "nethersdelight:item/raw_stuffed_hoglin",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 481,
         "width": 1,
         "height": 1
@@ -3604,7 +3604,7 @@ var textureData =
     {
         "name": "nebs:items/true_shot",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 487,
         "width": 1,
         "height": 1
@@ -3612,7 +3612,7 @@ var textureData =
     {
         "name": "miningmaster:item/ice_sapphire_sword",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 478,
         "width": 1,
         "height": 1
@@ -3652,7 +3652,7 @@ var textureData =
     {
         "name": "nebs:items/stepping",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 487,
         "width": 1,
         "height": 1
@@ -3692,7 +3692,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_drips",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 480,
         "width": 1,
         "height": 1
@@ -3716,7 +3716,7 @@ var textureData =
     {
         "name": "nebs:items/gluttonous",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 485,
         "width": 1,
         "height": 1
@@ -3732,7 +3732,7 @@ var textureData =
     {
         "name": "eatinganimation:item/tropical_fish_eating_2",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 483,
         "width": 1,
         "height": 1
@@ -3740,7 +3740,7 @@ var textureData =
     {
         "name": "eatinganimation:item/tropical_fish_eating_1",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 483,
         "width": 1,
         "height": 1
@@ -3748,7 +3748,7 @@ var textureData =
     {
         "name": "eatinganimation:item/tropical_fish_eating_0",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 483,
         "width": 1,
         "height": 1
@@ -3764,7 +3764,7 @@ var textureData =
     {
         "name": "artifacts:item/superstitious_hat",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 483,
         "width": 1,
         "height": 1
@@ -3788,7 +3788,7 @@ var textureData =
     {
         "name": "create_sa:items/fan_component",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 485,
         "width": 1,
         "height": 1
@@ -3796,7 +3796,7 @@ var textureData =
     {
         "name": "knight_quest:items/pirate_boots_icon",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 486,
         "width": 1,
         "height": 1
@@ -3836,7 +3836,7 @@ var textureData =
     {
         "name": "cnb:items/sporeling_backpack",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 487,
         "width": 1,
         "height": 1
@@ -3860,7 +3860,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/abyssal_leggings",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 484,
         "width": 1,
         "height": 1
@@ -3908,7 +3908,7 @@ var textureData =
     {
         "name": "nebs:items/damage_villager",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 485,
         "width": 1,
         "height": 1
@@ -3932,7 +3932,7 @@ var textureData =
     {
         "name": "nebs:items/bulwark",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 484,
         "width": 1,
         "height": 1
@@ -3964,7 +3964,7 @@ var textureData =
     {
         "name": "byg:item/white_puffball_stew",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 483,
         "width": 1,
         "height": 1
@@ -4012,7 +4012,7 @@ var textureData =
     {
         "name": "biomemakeover:item/scuttler_tail",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 482,
         "width": 1,
         "height": 1
@@ -4044,7 +4044,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_horse_armor",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 481,
         "width": 1,
         "height": 1
@@ -4068,7 +4068,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_apple",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 478,
         "width": 1,
         "height": 1
@@ -4100,7 +4100,7 @@ var textureData =
     {
         "name": "create_confectionery:items/full_black_chocolate_bar",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 485,
         "width": 1,
         "height": 1
@@ -4108,7 +4108,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_axe",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 483,
         "width": 1,
         "height": 1
@@ -4172,7 +4172,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_helmet_icon_-_copy_4",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 486,
         "width": 1,
         "height": 1
@@ -4188,7 +4188,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_helmet_icon_-_copy_2",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 486,
         "width": 1,
         "height": 1
@@ -4196,7 +4196,7 @@ var textureData =
     {
         "name": "croptopia:item/tea_seed",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 483,
         "width": 1,
         "height": 1
@@ -4204,7 +4204,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/experience_sheet",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 485,
         "width": 1,
         "height": 1
@@ -4212,7 +4212,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_helmet_icon_-_copy_3",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 486,
         "width": 1,
         "height": 1
@@ -4372,7 +4372,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_magenta",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 478,
         "width": 1,
         "height": 1
@@ -4388,7 +4388,7 @@ var textureData =
     {
         "name": "create_sa:items/creative_filling_tank",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 484,
         "width": 1,
         "height": 1
@@ -4420,7 +4420,7 @@ var textureData =
     {
         "name": "ecologics:item/walnut",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 483,
         "width": 1,
         "height": 1
@@ -4492,7 +4492,7 @@ var textureData =
     {
         "name": "minecraft:item/red_candle",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 481,
         "width": 1,
         "height": 1
@@ -4540,7 +4540,7 @@ var textureData =
     {
         "name": "minecraft:item/light_gray_candle",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 479,
         "width": 1,
         "height": 1
@@ -4564,7 +4564,7 @@ var textureData =
     {
         "name": "nebs:items/shadow_protection",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 487,
         "width": 1,
         "height": 1
@@ -4572,7 +4572,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_birch",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 480,
         "width": 1,
         "height": 1
@@ -4628,7 +4628,7 @@ var textureData =
     {
         "name": "croptopia:item/peach",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 481,
         "width": 1,
         "height": 1
@@ -4652,7 +4652,7 @@ var textureData =
     {
         "name": "croptopia:item/sweet_potato_fries",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 483,
         "width": 1,
         "height": 1
@@ -4708,7 +4708,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_forze_helmet_icon",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 486,
         "width": 1,
         "height": 1
@@ -4756,7 +4756,7 @@ var textureData =
     {
         "name": "create_confectionery:items/bar_of_white_chocolate",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 484,
         "width": 1,
         "height": 1
@@ -4812,7 +4812,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/redwood_sign",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 481,
         "width": 1,
         "height": 1
@@ -4844,7 +4844,7 @@ var textureData =
     {
         "name": "minecraft:item/fire_charge",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 477,
         "width": 1,
         "height": 1
@@ -4892,7 +4892,7 @@ var textureData =
     {
         "name": "cnb:items/little_grebe_spawn_egg",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 486,
         "width": 1,
         "height": 1
@@ -4932,7 +4932,7 @@ var textureData =
     {
         "name": "nebs:items/silk_touch",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 487,
         "width": 1,
         "height": 1
@@ -5004,7 +5004,7 @@ var textureData =
     {
         "name": "croptopia:item/mango_ice_cream",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 479,
         "width": 1,
         "height": 1
@@ -5036,7 +5036,7 @@ var textureData =
     {
         "name": "farmersdelight:item/wheat_dough",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 483,
         "width": 1,
         "height": 1
@@ -5052,7 +5052,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_leaf_1",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 477,
         "width": 1,
         "height": 1
@@ -5060,7 +5060,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_leaf_2",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 477,
         "width": 1,
         "height": 1
@@ -5092,7 +5092,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_leaf_0",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 477,
         "width": 1,
         "height": 1
@@ -5100,7 +5100,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_bat_main_icon",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 486,
         "width": 1,
         "height": 1
@@ -5116,7 +5116,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_baobab",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 485,
         "width": 1,
         "height": 1
@@ -5132,7 +5132,7 @@ var textureData =
     {
         "name": "knight_quest:items/warlord_boots_icon",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 487,
         "width": 1,
         "height": 1
@@ -5164,7 +5164,7 @@ var textureData =
     {
         "name": "create_sa:items/blazing_shovel",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 484,
         "width": 1,
         "height": 1
@@ -5188,7 +5188,7 @@ var textureData =
     {
         "name": "croptopia:item/stuffed_poblanos",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 483,
         "width": 1,
         "height": 1
@@ -5228,7 +5228,7 @@ var textureData =
     {
         "name": "supplementaries:items/candy",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 484,
         "width": 1,
         "height": 1
@@ -5252,7 +5252,7 @@ var textureData =
     {
         "name": "alexsmobs:item/farseer_arm",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 477,
         "width": 1,
         "height": 1
@@ -5308,7 +5308,7 @@ var textureData =
     {
         "name": "artifacts:item/golden_hook",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 478,
         "width": 1,
         "height": 1
@@ -5332,7 +5332,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/wasabi_paste",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 479,
         "width": 1,
         "height": 1
@@ -5380,7 +5380,7 @@ var textureData =
     {
         "name": "artifacts:item/panic_necklace",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 480,
         "width": 1,
         "height": 1
@@ -5428,7 +5428,7 @@ var textureData =
     {
         "name": "eatinganimation:item/spider_eye_eating_1",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 482,
         "width": 1,
         "height": 1
@@ -5444,7 +5444,7 @@ var textureData =
     {
         "name": "eatinganimation:item/spider_eye_eating_2",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 482,
         "width": 1,
         "height": 1
@@ -5452,7 +5452,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/born_in_chaos_v1/sign_post_scorched",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 487,
         "width": 1,
         "height": 1
@@ -5468,7 +5468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/spider_eye_eating_0",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 482,
         "width": 1,
         "height": 1
@@ -5476,7 +5476,7 @@ var textureData =
     {
         "name": "alexsmobs:item/froststalker_horn",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 478,
         "width": 1,
         "height": 1
@@ -5508,7 +5508,7 @@ var textureData =
     {
         "name": "byg:item/joshua_fruit",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 479,
         "width": 1,
         "height": 1
@@ -5516,7 +5516,7 @@ var textureData =
     {
         "name": "create_confectionery:items/ruby_chocolate_glazed_marshmallow",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 486,
         "width": 1,
         "height": 1
@@ -5540,7 +5540,7 @@ var textureData =
     {
         "name": "byg:item/jacaranda/door",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 479,
         "width": 1,
         "height": 1
@@ -5564,7 +5564,7 @@ var textureData =
     {
         "name": "nebs:items/turning",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 487,
         "width": 1,
         "height": 1
@@ -5596,7 +5596,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_hollow_helmet",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 486,
         "width": 1,
         "height": 1
@@ -5684,7 +5684,7 @@ var textureData =
     {
         "name": "create:item/train_door",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 483,
         "width": 1,
         "height": 1
@@ -5700,7 +5700,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/preservation_chamber",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 481,
         "width": 1,
         "height": 1
@@ -5708,7 +5708,7 @@ var textureData =
     {
         "name": "nebs:items/trueshot",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 487,
         "width": 1,
         "height": 1
@@ -5732,7 +5732,7 @@ var textureData =
     {
         "name": "alexsmobs:item/froststalker_helmet",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 478,
         "width": 1,
         "height": 1
@@ -5828,7 +5828,7 @@ var textureData =
     {
         "name": "nebs:items/gourmand",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 485,
         "width": 1,
         "height": 1
@@ -5836,7 +5836,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_pickaxe",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 483,
         "width": 1,
         "height": 1
@@ -5852,7 +5852,7 @@ var textureData =
     {
         "name": "scalinghealth:item/medkit",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 479,
         "width": 1,
         "height": 1
@@ -5876,7 +5876,7 @@ var textureData =
     {
         "name": "croptopia:item/raspberry",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 481,
         "width": 1,
         "height": 1
@@ -5908,7 +5908,7 @@ var textureData =
     {
         "name": "croptopia:item/knife",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 479,
         "width": 1,
         "height": 1
@@ -5916,7 +5916,7 @@ var textureData =
     {
         "name": "create:item/furnace_minecart_contraption",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 478,
         "width": 1,
         "height": 1
@@ -5956,7 +5956,7 @@ var textureData =
     {
         "name": "artifacts:item/pocket_piston",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 481,
         "width": 1,
         "height": 1
@@ -5964,7 +5964,7 @@ var textureData =
     {
         "name": "majruszsaccessories:item/lucky_rock",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 479,
         "width": 1,
         "height": 1
@@ -6036,7 +6036,7 @@ var textureData =
     {
         "name": "minecraft:item/feather",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6084,7 +6084,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/ai",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 484,
         "width": 1,
         "height": 1
@@ -6108,7 +6108,7 @@ var textureData =
     {
         "name": "farmersdelight:item/milk_bottle",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 480,
         "width": 1,
         "height": 1
@@ -6140,7 +6140,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_redwood",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 487,
         "width": 1,
         "height": 1
@@ -6292,7 +6292,7 @@ var textureData =
     {
         "name": "croptopia:item/nutmeg",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 480,
         "width": 1,
         "height": 1
@@ -6396,7 +6396,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/tiemnyinaghrudnik",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 487,
         "width": 1,
         "height": 1
@@ -6452,7 +6452,7 @@ var textureData =
     {
         "name": "knight_quest:items/phantom_helmet_icon",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 486,
         "width": 1,
         "height": 1
@@ -6476,7 +6476,7 @@ var textureData =
     {
         "name": "nebs:items/tilling",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 487,
         "width": 1,
         "height": 1
@@ -6524,7 +6524,7 @@ var textureData =
     {
         "name": "nebs:items/serpentfriend",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 487,
         "width": 1,
         "height": 1
@@ -6556,7 +6556,7 @@ var textureData =
     {
         "name": "create_confectionery:items/black_chocolate_glazed_berries",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 484,
         "width": 1,
         "height": 1
@@ -6564,7 +6564,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_blue2_leggings_icon",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 486,
         "width": 1,
         "height": 1
@@ -6572,7 +6572,7 @@ var textureData =
     {
         "name": "croptopia:item/pumpkin_bars",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 481,
         "width": 1,
         "height": 1
@@ -6628,7 +6628,7 @@ var textureData =
     {
         "name": "knight_quest:items/path_main_icon",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 486,
         "width": 1,
         "height": 1
@@ -6644,7 +6644,7 @@ var textureData =
     {
         "name": "biomemakeover:item/lightning_bug_in_a_bottle",
         "animated": true,
-        "x": 171,
+        "x": 174,
         "y": 479,
         "width": 1,
         "height": 1
@@ -6660,7 +6660,7 @@ var textureData =
     {
         "name": "nebs:items/mana_blade",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 486,
         "width": 1,
         "height": 1
@@ -6676,7 +6676,7 @@ var textureData =
     {
         "name": "croptopia:item/soy_sauce",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 482,
         "width": 1,
         "height": 1
@@ -6684,7 +6684,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_salmon_slice_2",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6700,7 +6700,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_bacon_1",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6716,7 +6716,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_bacon_0",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6724,7 +6724,7 @@ var textureData =
     {
         "name": "nebs:items/deflection",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 485,
         "width": 1,
         "height": 1
@@ -6740,7 +6740,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_salmon_slice_1",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6748,7 +6748,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_bacon_2",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6756,7 +6756,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_salmon_slice_0",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6772,7 +6772,7 @@ var textureData =
     {
         "name": "alexsmobs:item/music_disc_thime",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 480,
         "width": 1,
         "height": 1
@@ -6812,7 +6812,7 @@ var textureData =
     {
         "name": "nebs:items/detonation",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 485,
         "width": 1,
         "height": 1
@@ -6828,7 +6828,7 @@ var textureData =
     {
         "name": "farmersdelight:item/kelp_roll",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 479,
         "width": 1,
         "height": 1
@@ -6860,7 +6860,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_chicken_cuts_2",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6868,7 +6868,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_chicken_cuts_1",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6876,7 +6876,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_chicken_cuts_0",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6892,7 +6892,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_mellohi",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 480,
         "width": 1,
         "height": 1
@@ -6900,7 +6900,7 @@ var textureData =
     {
         "name": "create:item/linked_controller",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 479,
         "width": 1,
         "height": 1
@@ -6908,7 +6908,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_leggings_icon",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 484,
         "width": 1,
         "height": 1
@@ -6932,7 +6932,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/sweet_berry_cheesecake_slice_1",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6940,7 +6940,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/fin",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 485,
         "width": 1,
         "height": 1
@@ -6956,7 +6956,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/sweet_berry_cheesecake_slice_2",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 477,
         "width": 1,
         "height": 1
@@ -6964,7 +6964,7 @@ var textureData =
     {
         "name": "deeperdarker:item/sculk_bone",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 482,
         "width": 1,
         "height": 1
@@ -6972,7 +6972,7 @@ var textureData =
     {
         "name": "aquaculture:item/stone_fillet_knife",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 482,
         "width": 1,
         "height": 1
@@ -6988,7 +6988,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/quark/hanging_sign_blossom",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 485,
         "width": 1,
         "height": 1
@@ -6996,7 +6996,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/sweet_berry_cheesecake_slice_0",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 477,
         "width": 1,
         "height": 1
@@ -7004,7 +7004,7 @@ var textureData =
     {
         "name": "minecraft:item/tropical_fish",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 483,
         "width": 1,
         "height": 1
@@ -7012,7 +7012,7 @@ var textureData =
     {
         "name": "nebs:items/mithridatism",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 486,
         "width": 1,
         "height": 1
@@ -7020,7 +7020,7 @@ var textureData =
     {
         "name": "manyideas_core:item/saws/saw_iron",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 482,
         "width": 1,
         "height": 1
@@ -7036,7 +7036,7 @@ var textureData =
     {
         "name": "miningmaster:item/ultima_sword",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 483,
         "width": 1,
         "height": 1
@@ -7068,7 +7068,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_hellbark",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 487,
         "width": 1,
         "height": 1
@@ -7132,7 +7132,7 @@ var textureData =
     {
         "name": "minecraft:item/seagrass",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 482,
         "width": 1,
         "height": 1
@@ -7204,7 +7204,7 @@ var textureData =
     {
         "name": "nebs:items/blight_curse",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 484,
         "width": 1,
         "height": 1
@@ -7220,7 +7220,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/willow_chest_boat",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 483,
         "width": 1,
         "height": 1
@@ -7228,7 +7228,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomemakeover/sign_post_swamp_cypress",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 487,
         "width": 1,
         "height": 1
@@ -7236,7 +7236,7 @@ var textureData =
     {
         "name": "sushigocrafting:rewards/salmon_back",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 488,
         "width": 1,
         "height": 1
@@ -7276,7 +7276,7 @@ var textureData =
     {
         "name": "croptopia:item/hashed_brown",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 478,
         "width": 1,
         "height": 1
@@ -7404,7 +7404,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/crushed_magma",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 484,
         "width": 1,
         "height": 1
@@ -7436,7 +7436,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_hoe",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 484,
         "width": 1,
         "height": 1
@@ -7468,7 +7468,7 @@ var textureData =
     {
         "name": "nebs:items/depth_miner",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 485,
         "width": 1,
         "height": 1
@@ -7476,7 +7476,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/willow_sign",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 483,
         "width": 1,
         "height": 1
@@ -7556,7 +7556,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_fillet_knife",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 480,
         "width": 1,
         "height": 1
@@ -7580,8 +7580,8 @@ var textureData =
     {
         "name": "nebs:items/curse_breaking",
         "animated": false,
-        "x": 253,
-        "y": 484,
+        "x": 0,
+        "y": 485,
         "width": 1,
         "height": 1
     },
@@ -7604,7 +7604,7 @@ var textureData =
     {
         "name": "create:item/incomplete_precision_mechanism",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 478,
         "width": 1,
         "height": 1
@@ -7620,7 +7620,7 @@ var textureData =
     {
         "name": "nebs:items/gold_fuelled",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 485,
         "width": 1,
         "height": 1
@@ -7668,7 +7668,7 @@ var textureData =
     {
         "name": "minecraft:item/firework_rocket",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 477,
         "width": 1,
         "height": 1
@@ -7748,7 +7748,7 @@ var textureData =
     {
         "name": "croptopia:item/garlic_seed",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 478,
         "width": 1,
         "height": 1
@@ -7772,7 +7772,7 @@ var textureData =
     {
         "name": "nethersdelight:item/hoglin_loin",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 478,
         "width": 1,
         "height": 1
@@ -7788,7 +7788,7 @@ var textureData =
     {
         "name": "biomemakeover:item/music_disc_red_rose",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 480,
         "width": 1,
         "height": 1
@@ -7804,7 +7804,7 @@ var textureData =
     {
         "name": "knight_quest:items/godstave",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 485,
         "width": 1,
         "height": 1
@@ -7812,7 +7812,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_hoe",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 480,
         "width": 1,
         "height": 1
@@ -7820,7 +7820,7 @@ var textureData =
     {
         "name": "croptopia:item/vanilla_seeds",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 483,
         "width": 1,
         "height": 1
@@ -7828,7 +7828,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/domum_ornamentum/hanging_sign_cactus",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 485,
         "width": 1,
         "height": 1
@@ -7844,7 +7844,7 @@ var textureData =
     {
         "name": "infernalexp:item/music_disc_flush",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 480,
         "width": 1,
         "height": 1
@@ -7868,7 +7868,7 @@ var textureData =
     {
         "name": "primitivestart:items/reinforced_bone_pickaxe",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 486,
         "width": 1,
         "height": 1
@@ -7900,7 +7900,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/redwood_door",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 481,
         "width": 1,
         "height": 1
@@ -7924,7 +7924,7 @@ var textureData =
     {
         "name": "croptopia:item/lettuce",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 479,
         "width": 1,
         "height": 1
@@ -7940,7 +7940,7 @@ var textureData =
     {
         "name": "knight_quest:items/husk2_helmet_icon",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 485,
         "width": 1,
         "height": 1
@@ -7980,7 +7980,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/book_stack",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 488,
         "width": 1,
         "height": 1
@@ -7996,7 +7996,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fish_stew_0",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 477,
         "width": 1,
         "height": 1
@@ -8004,7 +8004,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fish_stew_2",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 477,
         "width": 1,
         "height": 1
@@ -8012,7 +8012,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fish_stew_1",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 477,
         "width": 1,
         "height": 1
@@ -8076,7 +8076,7 @@ var textureData =
     {
         "name": "nebs:items/backstabbing",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 484,
         "width": 1,
         "height": 1
@@ -8084,7 +8084,7 @@ var textureData =
     {
         "name": "knight_quest:items/zombie_boots_icon",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 488,
         "width": 1,
         "height": 1
@@ -8124,7 +8124,7 @@ var textureData =
     {
         "name": "vinery:item/red_grapejuice_wine_bottle",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 481,
         "width": 1,
         "height": 1
@@ -8260,7 +8260,7 @@ var textureData =
     {
         "name": "structurize:items/sceptersteel",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 486,
         "width": 1,
         "height": 1
@@ -8276,7 +8276,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/industrial_iron_billet",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 478,
         "width": 1,
         "height": 1
@@ -8284,7 +8284,7 @@ var textureData =
     {
         "name": "nebs:items/undead_curse",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 487,
         "width": 1,
         "height": 1
@@ -8380,7 +8380,7 @@ var textureData =
     {
         "name": "croptopia:item/plum",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 481,
         "width": 1,
         "height": 1
@@ -8388,7 +8388,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_yellow",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 478,
         "width": 1,
         "height": 1
@@ -8396,7 +8396,7 @@ var textureData =
     {
         "name": "aquaculture:item/pink_salmon",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 481,
         "width": 1,
         "height": 1
@@ -8420,7 +8420,7 @@ var textureData =
     {
         "name": "croptopia:item/starfruit",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 482,
         "width": 1,
         "height": 1
@@ -8428,7 +8428,7 @@ var textureData =
     {
         "name": "nebs:items/stonebreaker",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 487,
         "width": 1,
         "height": 1
@@ -8476,7 +8476,7 @@ var textureData =
     {
         "name": "nebs:items/true_infinity",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 487,
         "width": 1,
         "height": 1
@@ -8492,7 +8492,7 @@ var textureData =
     {
         "name": "alexsmobs:item/tarantula_hawk_elytra_broken",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 483,
         "width": 1,
         "height": 1
@@ -8524,7 +8524,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_nether_main_icon",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 486,
         "width": 1,
         "height": 1
@@ -8540,7 +8540,7 @@ var textureData =
     {
         "name": "create_confectionery:items/ruby_chocolate_bucket",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 486,
         "width": 1,
         "height": 1
@@ -8676,7 +8676,7 @@ var textureData =
     {
         "name": "nebs:items/magic_edge",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 486,
         "width": 1,
         "height": 1
@@ -8684,7 +8684,7 @@ var textureData =
     {
         "name": "biomemakeover:item/mycelium_sprouts",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 480,
         "width": 1,
         "height": 1
@@ -8708,7 +8708,7 @@ var textureData =
     {
         "name": "minecraft:item/lime_candle",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 479,
         "width": 1,
         "height": 1
@@ -8724,7 +8724,7 @@ var textureData =
     {
         "name": "aquaculture:item/jungle_fish_mount",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 479,
         "width": 1,
         "height": 1
@@ -8732,7 +8732,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/treasure_pouch",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 487,
         "width": 1,
         "height": 1
@@ -8780,7 +8780,7 @@ var textureData =
     {
         "name": "supplementaries:items/lead_door",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 486,
         "width": 1,
         "height": 1
@@ -8788,7 +8788,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/seashells",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 482,
         "width": 1,
         "height": 1
@@ -8804,7 +8804,7 @@ var textureData =
     {
         "name": "itemfilters:item/xor",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 483,
         "width": 1,
         "height": 1
@@ -8852,7 +8852,7 @@ var textureData =
     {
         "name": "artifacts:item/power_glove",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 481,
         "width": 1,
         "height": 1
@@ -8860,7 +8860,7 @@ var textureData =
     {
         "name": "ecologics:item/sandcastle",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 482,
         "width": 1,
         "height": 1
@@ -8916,7 +8916,7 @@ var textureData =
     {
         "name": "create_confectionery:items/black_chocolate_glazed_marshmallow",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 484,
         "width": 1,
         "height": 1
@@ -8940,7 +8940,7 @@ var textureData =
     {
         "name": "create:item/extendo_grip",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 477,
         "width": 1,
         "height": 1
@@ -9028,7 +9028,7 @@ var textureData =
     {
         "name": "ecologics:item/music_disc_coconut",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 480,
         "width": 1,
         "height": 1
@@ -9068,7 +9068,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_axe",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 488,
         "width": 1,
         "height": 1
@@ -9084,7 +9084,7 @@ var textureData =
     {
         "name": "croptopia:item/saguaro_seed",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9108,7 +9108,7 @@ var textureData =
     {
         "name": "spirit:item/soul_bow_pulling_2",
         "animated": true,
-        "x": 168,
+        "x": 171,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9132,7 +9132,7 @@ var textureData =
     {
         "name": "spirit:item/soul_bow_pulling_1",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9140,7 +9140,7 @@ var textureData =
     {
         "name": "spirit:item/soul_bow_pulling_0",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9172,7 +9172,7 @@ var textureData =
     {
         "name": "croptopia:item/saucy_chips",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9212,7 +9212,7 @@ var textureData =
     {
         "name": "nebs:items/hops",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 485,
         "width": 1,
         "height": 1
@@ -9228,7 +9228,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/royal",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 488,
         "width": 1,
         "height": 1
@@ -9284,7 +9284,7 @@ var textureData =
     {
         "name": "alexsmobs:item/falconry_hood",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 477,
         "width": 1,
         "height": 1
@@ -9308,7 +9308,7 @@ var textureData =
     {
         "name": "minecraft:item/pink_dye",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 481,
         "width": 1,
         "height": 1
@@ -9356,7 +9356,7 @@ var textureData =
     {
         "name": "aquaculture:item/tambaqui",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 483,
         "width": 1,
         "height": 1
@@ -9372,7 +9372,7 @@ var textureData =
     {
         "name": "endrem:items/cursed_eye",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 485,
         "width": 1,
         "height": 1
@@ -9396,7 +9396,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_shovel",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 480,
         "width": 1,
         "height": 1
@@ -9428,7 +9428,7 @@ var textureData =
     {
         "name": "nebs:items/reinforced_tip",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 486,
         "width": 1,
         "height": 1
@@ -9452,7 +9452,7 @@ var textureData =
     {
         "name": "alexsmobs:item/moose_ribs",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 480,
         "width": 1,
         "height": 1
@@ -9460,7 +9460,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/yellow",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 484,
         "width": 1,
         "height": 1
@@ -9476,7 +9476,7 @@ var textureData =
     {
         "name": "quark:item/ravager_hide",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 481,
         "width": 1,
         "height": 1
@@ -9500,7 +9500,7 @@ var textureData =
     {
         "name": "vinery:item/solaris_wine",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9508,7 +9508,7 @@ var textureData =
     {
         "name": "alexsmobs:item/roadrunner_boots",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9524,7 +9524,7 @@ var textureData =
     {
         "name": "croptopia:item/strawberry_seed",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 483,
         "width": 1,
         "height": 1
@@ -9540,7 +9540,7 @@ var textureData =
     {
         "name": "alexsmobs:item/rattlesnake_rattle",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 481,
         "width": 1,
         "height": 1
@@ -9556,7 +9556,7 @@ var textureData =
     {
         "name": "minecraft:item/saddle",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9564,7 +9564,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/umbran_boat",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 483,
         "width": 1,
         "height": 1
@@ -9572,7 +9572,7 @@ var textureData =
     {
         "name": "eatinganimation:item/mutton_eating_0",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 480,
         "width": 1,
         "height": 1
@@ -9580,7 +9580,7 @@ var textureData =
     {
         "name": "delightful:item/silver_knife",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9596,7 +9596,7 @@ var textureData =
     {
         "name": "eatinganimation:item/mutton_eating_2",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 480,
         "width": 1,
         "height": 1
@@ -9620,7 +9620,7 @@ var textureData =
     {
         "name": "eatinganimation:item/mutton_eating_1",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 480,
         "width": 1,
         "height": 1
@@ -9676,7 +9676,7 @@ var textureData =
     {
         "name": "create_sa:items/rose_quartz_sword",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 486,
         "width": 1,
         "height": 1
@@ -9772,7 +9772,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/smoked_flesh",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 487,
         "width": 1,
         "height": 1
@@ -9796,7 +9796,7 @@ var textureData =
     {
         "name": "alexsmobs:item/stink_bottle",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 482,
         "width": 1,
         "height": 1
@@ -9852,7 +9852,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/raw_tuna",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 481,
         "width": 1,
         "height": 1
@@ -9876,7 +9876,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/furniture_station",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 488,
         "width": 1,
         "height": 1
@@ -9892,7 +9892,7 @@ var textureData =
     {
         "name": "supplementaries:items/brass_lantern",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 484,
         "width": 1,
         "height": 1
@@ -9972,7 +9972,7 @@ var textureData =
     {
         "name": "cnb:items/cinder_sword_3",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 484,
         "width": 1,
         "height": 1
@@ -9980,7 +9980,7 @@ var textureData =
     {
         "name": "artifacts:item/umbrella_in_inventory",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 483,
         "width": 1,
         "height": 1
@@ -9988,7 +9988,7 @@ var textureData =
     {
         "name": "cnb:items/cinder_sword_2",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 484,
         "width": 1,
         "height": 1
@@ -9996,7 +9996,7 @@ var textureData =
     {
         "name": "cnb:items/cinder_sword_1",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 484,
         "width": 1,
         "height": 1
@@ -10004,7 +10004,7 @@ var textureData =
     {
         "name": "croptopia:item/onion_seed",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 480,
         "width": 1,
         "height": 1
@@ -10012,7 +10012,7 @@ var textureData =
     {
         "name": "cnb:items/cinder_sword_4",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 484,
         "width": 1,
         "height": 1
@@ -10028,7 +10028,7 @@ var textureData =
     {
         "name": "byg:item/green_apple",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 478,
         "width": 1,
         "height": 1
@@ -10052,7 +10052,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_umbran_boat",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 479,
         "width": 1,
         "height": 1
@@ -10060,7 +10060,7 @@ var textureData =
     {
         "name": "alexsmobs:item/moose_antler",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 480,
         "width": 1,
         "height": 1
@@ -10092,7 +10092,7 @@ var textureData =
     {
         "name": "delightful:item/osmium_knife",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 480,
         "width": 1,
         "height": 1
@@ -10116,7 +10116,7 @@ var textureData =
     {
         "name": "infernalexp:item/glowsilk_bow",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 478,
         "width": 1,
         "height": 1
@@ -10180,7 +10180,7 @@ var textureData =
     {
         "name": "create_confectionery:items/crushed_cocoa",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 484,
         "width": 1,
         "height": 1
@@ -10196,7 +10196,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_strad",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 480,
         "width": 1,
         "height": 1
@@ -10324,7 +10324,7 @@ var textureData =
     {
         "name": "farmersdelight:item/stuffed_pumpkin",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 483,
         "width": 1,
         "height": 1
@@ -10356,7 +10356,7 @@ var textureData =
     {
         "name": "cnb:items/cindershell_bucket",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 484,
         "width": 1,
         "height": 1
@@ -10364,7 +10364,7 @@ var textureData =
     {
         "name": "aquaculture:item/piranha",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 481,
         "width": 1,
         "height": 1
@@ -10372,7 +10372,7 @@ var textureData =
     {
         "name": "nebs:items/human_slayer",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 485,
         "width": 1,
         "height": 1
@@ -10380,7 +10380,7 @@ var textureData =
     {
         "name": "cataclysm:items/music_disc_ender_guardian",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 486,
         "width": 1,
         "height": 1
@@ -10388,7 +10388,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_hoe",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 479,
         "width": 1,
         "height": 1
@@ -10412,7 +10412,7 @@ var textureData =
     {
         "name": "nethersdelight:item/hoglin_mount",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 478,
         "width": 1,
         "height": 1
@@ -10428,7 +10428,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/quark/hanging_sign_azalea",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 485,
         "width": 1,
         "height": 1
@@ -10452,7 +10452,7 @@ var textureData =
     {
         "name": "nebs:items/herding",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 485,
         "width": 1,
         "height": 1
@@ -10484,7 +10484,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk_boots_icon",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 486,
         "width": 1,
         "height": 1
@@ -10492,7 +10492,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/cyan",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 484,
         "width": 1,
         "height": 1
@@ -10500,7 +10500,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_rice_2",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 477,
         "width": 1,
         "height": 1
@@ -10508,7 +10508,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/snowballs",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 488,
         "width": 1,
         "height": 1
@@ -10532,7 +10532,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_rice_1",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 477,
         "width": 1,
         "height": 1
@@ -10540,7 +10540,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_rice_0",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 477,
         "width": 1,
         "height": 1
@@ -10548,7 +10548,7 @@ var textureData =
     {
         "name": "create:item/whisk",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 483,
         "width": 1,
         "height": 1
@@ -10660,7 +10660,7 @@ var textureData =
     {
         "name": "byg:item/mahogany/door",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 479,
         "width": 1,
         "height": 1
@@ -10684,7 +10684,7 @@ var textureData =
     {
         "name": "croptopia:item/onion_rings",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 480,
         "width": 1,
         "height": 1
@@ -10748,7 +10748,7 @@ var textureData =
     {
         "name": "knight_quest:items/scale",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 486,
         "width": 1,
         "height": 1
@@ -10764,7 +10764,7 @@ var textureData =
     {
         "name": "nebs:items/swift_sneak",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 487,
         "width": 1,
         "height": 1
@@ -10772,7 +10772,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_white_mangrove",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 487,
         "width": 1,
         "height": 1
@@ -10780,7 +10780,7 @@ var textureData =
     {
         "name": "nebs:items/fireproof",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 485,
         "width": 1,
         "height": 1
@@ -10788,7 +10788,7 @@ var textureData =
     {
         "name": "nebs:items/multi_jump",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 486,
         "width": 1,
         "height": 1
@@ -10796,7 +10796,7 @@ var textureData =
     {
         "name": "quark:item/seed_pouch_items",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 482,
         "width": 1,
         "height": 1
@@ -10860,7 +10860,7 @@ var textureData =
     {
         "name": "structurize:items/shapetool",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 487,
         "width": 1,
         "height": 1
@@ -10876,7 +10876,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_red_leggings_icon",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 486,
         "width": 1,
         "height": 1
@@ -10892,7 +10892,7 @@ var textureData =
     {
         "name": "artifacts:item/night_vision_goggles",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 480,
         "width": 1,
         "height": 1
@@ -10908,7 +10908,7 @@ var textureData =
     {
         "name": "curios:slot/empty_necklace_slot",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 488,
         "width": 1,
         "height": 1
@@ -10932,7 +10932,7 @@ var textureData =
     {
         "name": "create_sa:items/incomplete_book",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 485,
         "width": 1,
         "height": 1
@@ -10996,7 +10996,7 @@ var textureData =
     {
         "name": "minecraft:missingno",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 488,
         "width": 1,
         "height": 1
@@ -11020,7 +11020,7 @@ var textureData =
     {
         "name": "croptopia:item/tuna_sandwich",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 483,
         "width": 1,
         "height": 1
@@ -11036,7 +11036,7 @@ var textureData =
     {
         "name": "nebs:items/curse_mercy",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 485,
         "width": 1,
         "height": 1
@@ -11068,7 +11068,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/sheet_metal_door",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 482,
         "width": 1,
         "height": 1
@@ -11076,7 +11076,7 @@ var textureData =
     {
         "name": "minecraft:item/painting",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 480,
         "width": 1,
         "height": 1
@@ -11116,7 +11116,7 @@ var textureData =
     {
         "name": "knight_quest:items/squire_boots_icon",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 487,
         "width": 1,
         "height": 1
@@ -11140,7 +11140,7 @@ var textureData =
     {
         "name": "croptopia:item/rutabaga",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 482,
         "width": 1,
         "height": 1
@@ -11172,7 +11172,7 @@ var textureData =
     {
         "name": "artifacts:item/thorn_pendant",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 483,
         "width": 1,
         "height": 1
@@ -11204,7 +11204,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/fairy_lights_1",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 488,
         "width": 1,
         "height": 1
@@ -11284,7 +11284,7 @@ var textureData =
     {
         "name": "croptopia:item/kiwi_sorbet",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 479,
         "width": 1,
         "height": 1
@@ -11292,7 +11292,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_mangrove",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 487,
         "width": 1,
         "height": 1
@@ -11316,7 +11316,7 @@ var textureData =
     {
         "name": "cnb:items/pink_waterlily",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 486,
         "width": 1,
         "height": 1
@@ -11356,7 +11356,7 @@ var textureData =
     {
         "name": "eatinganimation:item/honey_bottle_drinking_2",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 478,
         "width": 1,
         "height": 1
@@ -11364,7 +11364,7 @@ var textureData =
     {
         "name": "alexsmobs:item/unsettling_kimono",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 483,
         "width": 1,
         "height": 1
@@ -11372,7 +11372,7 @@ var textureData =
     {
         "name": "eatinganimation:item/honey_bottle_drinking_1",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 478,
         "width": 1,
         "height": 1
@@ -11380,7 +11380,7 @@ var textureData =
     {
         "name": "eatinganimation:item/honey_bottle_drinking_0",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 478,
         "width": 1,
         "height": 1
@@ -11404,7 +11404,7 @@ var textureData =
     {
         "name": "croptopia:item/tuna",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 483,
         "width": 1,
         "height": 1
@@ -11476,7 +11476,7 @@ var textureData =
     {
         "name": "alexsmobs:item/ghostly_pickaxe",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 478,
         "width": 1,
         "height": 1
@@ -11564,7 +11564,7 @@ var textureData =
     {
         "name": "nebs:items/blast_protection",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 484,
         "width": 1,
         "height": 1
@@ -11588,7 +11588,7 @@ var textureData =
     {
         "name": "knight_quest:items/phantom_boots_icon",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 486,
         "width": 1,
         "height": 1
@@ -11628,7 +11628,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_mahogany",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 485,
         "width": 1,
         "height": 1
@@ -11636,7 +11636,7 @@ var textureData =
     {
         "name": "alexsmobs:item/vine_lasso",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 483,
         "width": 1,
         "height": 1
@@ -11660,7 +11660,7 @@ var textureData =
     {
         "name": "knight_quest:items/wateraxe",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 487,
         "width": 1,
         "height": 1
@@ -11732,7 +11732,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/magic_boat",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 479,
         "width": 1,
         "height": 1
@@ -11780,7 +11780,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk3_helmet_icon",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 486,
         "width": 1,
         "height": 1
@@ -11828,7 +11828,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/raw_pasta_1",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 477,
         "width": 1,
         "height": 1
@@ -11844,7 +11844,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/raw_pasta_2",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 477,
         "width": 1,
         "height": 1
@@ -11860,7 +11860,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/raw_pasta_0",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 477,
         "width": 1,
         "height": 1
@@ -11868,7 +11868,7 @@ var textureData =
     {
         "name": "ecologics:item/penguin_feather",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 481,
         "width": 1,
         "height": 1
@@ -11876,7 +11876,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_green_enchanted",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 487,
         "width": 1,
         "height": 1
@@ -11884,7 +11884,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/royal_chalices",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 488,
         "width": 1,
         "height": 1
@@ -11916,7 +11916,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/red",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 484,
         "width": 1,
         "height": 1
@@ -11932,7 +11932,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/nordic_sweetrolls",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 488,
         "width": 1,
         "height": 1
@@ -11956,7 +11956,7 @@ var textureData =
     {
         "name": "delightful:item/green_apple_pie_slice",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 478,
         "width": 1,
         "height": 1
@@ -11988,7 +11988,7 @@ var textureData =
     {
         "name": "farmersdelight:item/squid_ink_pasta",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 482,
         "width": 1,
         "height": 1
@@ -12012,7 +12012,7 @@ var textureData =
     {
         "name": "quark:item/lime_rune",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 479,
         "width": 1,
         "height": 1
@@ -12172,7 +12172,7 @@ var textureData =
     {
         "name": "minecraft:item/ghast_tear",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 478,
         "width": 1,
         "height": 1
@@ -12196,7 +12196,7 @@ var textureData =
     {
         "name": "farmersdelight:item/magenta_canvas_sign",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 479,
         "width": 1,
         "height": 1
@@ -12228,7 +12228,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/tiemnyishliem",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 487,
         "width": 1,
         "height": 1
@@ -12284,7 +12284,7 @@ var textureData =
     {
         "name": "nebs:items/curse_fool",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 485,
         "width": 1,
         "height": 1
@@ -12300,7 +12300,7 @@ var textureData =
     {
         "name": "croptopia:item/salt",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 482,
         "width": 1,
         "height": 1
@@ -12380,7 +12380,7 @@ var textureData =
     {
         "name": "cnb:items/flower_crown",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 485,
         "width": 1,
         "height": 1
@@ -12388,7 +12388,7 @@ var textureData =
     {
         "name": "knight_quest:items/evoker_leggings_icon",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 485,
         "width": 1,
         "height": 1
@@ -12460,7 +12460,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/slot_pot",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 482,
         "width": 1,
         "height": 1
@@ -12492,7 +12492,7 @@ var textureData =
     {
         "name": "delightful:item/pumpkin_pie_slice",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 481,
         "width": 1,
         "height": 1
@@ -12500,7 +12500,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_boots",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 480,
         "width": 1,
         "height": 1
@@ -12596,7 +12596,7 @@ var textureData =
     {
         "name": "delightful:item/salmonberry_pie_slice",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 482,
         "width": 1,
         "height": 1
@@ -12620,7 +12620,7 @@ var textureData =
     {
         "name": "quark:item/white_shard",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 483,
         "width": 1,
         "height": 1
@@ -12748,7 +12748,7 @@ var textureData =
     {
         "name": "quark:model/tiny_potato/sus",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 488,
         "width": 1,
         "height": 1
@@ -12868,7 +12868,7 @@ var textureData =
     {
         "name": "byg:item/willow/boat",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 483,
         "width": 1,
         "height": 1
@@ -12876,7 +12876,7 @@ var textureData =
     {
         "name": "croptopia:item/glowing_calamari",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 478,
         "width": 1,
         "height": 1
@@ -12900,7 +12900,7 @@ var textureData =
     {
         "name": "minecraft:item/scute",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 482,
         "width": 1,
         "height": 1
@@ -12916,8 +12916,8 @@ var textureData =
     {
         "name": "strawstatues:item/straw_statue",
         "animated": false,
-        "x": 253,
-        "y": 482,
+        "x": 0,
+        "y": 483,
         "width": 1,
         "height": 1
     },
@@ -12932,7 +12932,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_leggings_icon",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 484,
         "width": 1,
         "height": 1
@@ -12940,7 +12940,7 @@ var textureData =
     {
         "name": "create_confectionery:items/full_ruby_chocolate_bar",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 485,
         "width": 1,
         "height": 1
@@ -12948,7 +12948,7 @@ var textureData =
     {
         "name": "knight_quest:items/goblet1",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 485,
         "width": 1,
         "height": 1
@@ -12956,7 +12956,7 @@ var textureData =
     {
         "name": "knight_quest:items/goblet2",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 485,
         "width": 1,
         "height": 1
@@ -12964,7 +12964,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_axe",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 484,
         "width": 1,
         "height": 1
@@ -12988,7 +12988,7 @@ var textureData =
     {
         "name": "create:item/shadow_steel",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 482,
         "width": 1,
         "height": 1
@@ -13028,7 +13028,7 @@ var textureData =
     {
         "name": "knight_quest:items/ghostdrop",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 485,
         "width": 1,
         "height": 1
@@ -13044,7 +13044,7 @@ var textureData =
     {
         "name": "quark:item/green_rune",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 478,
         "width": 1,
         "height": 1
@@ -13076,7 +13076,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_jacaranda",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 485,
         "width": 1,
         "height": 1
@@ -13132,7 +13132,7 @@ var textureData =
     {
         "name": "knight_quest:items/strawhat_boots_icon",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 487,
         "width": 1,
         "height": 1
@@ -13148,7 +13148,7 @@ var textureData =
     {
         "name": "knight_quest:items/spider_main_icon",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 487,
         "width": 1,
         "height": 1
@@ -13156,7 +13156,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_orange",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 482,
         "width": 1,
         "height": 1
@@ -13172,7 +13172,7 @@ var textureData =
     {
         "name": "aquaculture:item/message_in_a_bottle",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 480,
         "width": 1,
         "height": 1
@@ -13220,7 +13220,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/earth1",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 478,
         "width": 1,
         "height": 1
@@ -13228,7 +13228,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/terrible_helmet",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 487,
         "width": 1,
         "height": 1
@@ -13244,7 +13244,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/earth2",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 478,
         "width": 1,
         "height": 1
@@ -13252,7 +13252,7 @@ var textureData =
     {
         "name": "minecraft:item/potion_overlay",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 481,
         "width": 1,
         "height": 1
@@ -13268,7 +13268,7 @@ var textureData =
     {
         "name": "minecraft:item/stone_axe",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 482,
         "width": 1,
         "height": 1
@@ -13276,7 +13276,7 @@ var textureData =
     {
         "name": "create_sa:items/blazing_pickaxe",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 484,
         "width": 1,
         "height": 1
@@ -13284,7 +13284,7 @@ var textureData =
     {
         "name": "knight_quest:items/waterstave",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 487,
         "width": 1,
         "height": 1
@@ -13308,7 +13308,7 @@ var textureData =
     {
         "name": "farmersdelight:item/netherite_knife",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 480,
         "width": 1,
         "height": 1
@@ -13364,7 +13364,7 @@ var textureData =
     {
         "name": "delightful:item/large_amethyst_knife",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 479,
         "width": 1,
         "height": 1
@@ -13372,7 +13372,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_boots",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 484,
         "width": 1,
         "height": 1
@@ -13428,7 +13428,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/shattered_skull",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 487,
         "width": 1,
         "height": 1
@@ -13452,7 +13452,7 @@ var textureData =
     {
         "name": "cnb:items/lizard_item_jungle",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 486,
         "width": 1,
         "height": 1
@@ -13468,7 +13468,7 @@ var textureData =
     {
         "name": "nebs:items/frost_aspect",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 485,
         "width": 1,
         "height": 1
@@ -13476,7 +13476,7 @@ var textureData =
     {
         "name": "minecraft:item/splash_potion",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 482,
         "width": 1,
         "height": 1
@@ -13492,7 +13492,7 @@ var textureData =
     {
         "name": "minecraft:item/lime_dye",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 479,
         "width": 1,
         "height": 1
@@ -13500,7 +13500,7 @@ var textureData =
     {
         "name": "endrem:items/wither_eye",
         "animated": true,
-        "x": 4,
+        "x": 7,
         "y": 488,
         "width": 1,
         "height": 1
@@ -13532,7 +13532,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/wasabi_seeds",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 483,
         "width": 1,
         "height": 1
@@ -13548,7 +13548,7 @@ var textureData =
     {
         "name": "aquaculture:item/light_hook",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 479,
         "width": 1,
         "height": 1
@@ -13692,7 +13692,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/sferpriz",
         "animated": true,
-        "x": 5,
+        "x": 8,
         "y": 487,
         "width": 1,
         "height": 1
@@ -13828,7 +13828,7 @@ var textureData =
     {
         "name": "farmersdelight:item/fried_rice",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 478,
         "width": 1,
         "height": 1
@@ -13900,7 +13900,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_acacia",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 480,
         "width": 1,
         "height": 1
@@ -13964,7 +13964,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/nether_salad_2",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 477,
         "width": 1,
         "height": 1
@@ -13972,7 +13972,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/nether_salad_1",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 477,
         "width": 1,
         "height": 1
@@ -13988,7 +13988,7 @@ var textureData =
     {
         "name": "knight_quest:items/tengu_helmet_icon",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 487,
         "width": 1,
         "height": 1
@@ -14012,7 +14012,7 @@ var textureData =
     {
         "name": "nebs:items/nimble",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 486,
         "width": 1,
         "height": 1
@@ -14044,7 +14044,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/tiemnyieponozhi",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 487,
         "width": 1,
         "height": 1
@@ -14076,7 +14076,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_helmet_icon",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 484,
         "width": 1,
         "height": 1
@@ -14100,7 +14100,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/magicarrowskull",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 486,
         "width": 1,
         "height": 1
@@ -14124,7 +14124,7 @@ var textureData =
     {
         "name": "primitivestart:items/bone_arrow",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 484,
         "width": 1,
         "height": 1
@@ -14172,8 +14172,8 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/konf",
         "animated": false,
-        "x": 255,
-        "y": 485,
+        "x": 2,
+        "y": 486,
         "width": 1,
         "height": 1
     },
@@ -14196,7 +14196,7 @@ var textureData =
     {
         "name": "farmersdelight:item/mutton_wrap",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 480,
         "width": 1,
         "height": 1
@@ -14220,7 +14220,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pasta_with_meatballs_0",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 477,
         "width": 1,
         "height": 1
@@ -14236,7 +14236,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pasta_with_meatballs_1",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 477,
         "width": 1,
         "height": 1
@@ -14268,7 +14268,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pasta_with_meatballs_2",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 477,
         "width": 1,
         "height": 1
@@ -14300,7 +14300,7 @@ var textureData =
     {
         "name": "farmersdelight:item/rice_roll_medley_block",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 482,
         "width": 1,
         "height": 1
@@ -14308,7 +14308,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/rusty_sheet_metal_door",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 482,
         "width": 1,
         "height": 1
@@ -14364,7 +14364,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/nether_salad_0",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 477,
         "width": 1,
         "height": 1
@@ -14412,7 +14412,7 @@ var textureData =
     {
         "name": "knight_quest:items/blaze_helmet_icon",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 484,
         "width": 1,
         "height": 1
@@ -14444,7 +14444,7 @@ var textureData =
     {
         "name": "infernalexp:item/moth_dust",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 480,
         "width": 1,
         "height": 1
@@ -14452,7 +14452,7 @@ var textureData =
     {
         "name": "minecraft:item/warped_sign",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 483,
         "width": 1,
         "height": 1
@@ -14460,7 +14460,7 @@ var textureData =
     {
         "name": "nethersdelight:item/stuffed_hoglin",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 483,
         "width": 1,
         "height": 1
@@ -14484,7 +14484,7 @@ var textureData =
     {
         "name": "farmersdelight:item/tomato_seeds",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 483,
         "width": 1,
         "height": 1
@@ -14500,8 +14500,8 @@ var textureData =
     {
         "name": "minecraft:item/flower_pot",
         "animated": false,
-        "x": 253,
-        "y": 477,
+        "x": 0,
+        "y": 478,
         "width": 1,
         "height": 1
     },
@@ -14524,7 +14524,7 @@ var textureData =
     {
         "name": "croptopia:item/raspberry_jam",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 481,
         "width": 1,
         "height": 1
@@ -14644,7 +14644,7 @@ var textureData =
     {
         "name": "spirit:item/soul_steel_shovel",
         "animated": true,
-        "x": 185,
+        "x": 188,
         "y": 482,
         "width": 1,
         "height": 1
@@ -14700,7 +14700,7 @@ var textureData =
     {
         "name": "nebs:items/aqua_affinity",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 484,
         "width": 1,
         "height": 1
@@ -14740,7 +14740,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/music_disc_wanderer",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 480,
         "width": 1,
         "height": 1
@@ -14748,7 +14748,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/potion_bottles_dyeable",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 488,
         "width": 1,
         "height": 1
@@ -14780,7 +14780,7 @@ var textureData =
     {
         "name": "knight_quest:items/shinobi_main_icon",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 487,
         "width": 1,
         "height": 1
@@ -14812,7 +14812,7 @@ var textureData =
     {
         "name": "croptopia:item/fig",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 477,
         "width": 1,
         "height": 1
@@ -14836,8 +14836,8 @@ var textureData =
     {
         "name": "ob_aquamirae:items/sea_casserole",
         "animated": false,
-        "x": 255,
-        "y": 486,
+        "x": 2,
+        "y": 487,
         "width": 1,
         "height": 1
     },
@@ -14868,7 +14868,7 @@ var textureData =
     {
         "name": "croptopia:item/grapefruit",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 478,
         "width": 1,
         "height": 1
@@ -14940,7 +14940,7 @@ var textureData =
     {
         "name": "minecraft:item/water_bucket",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 483,
         "width": 1,
         "height": 1
@@ -14956,7 +14956,7 @@ var textureData =
     {
         "name": "croptopia:item/spinach_seed",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 482,
         "width": 1,
         "height": 1
@@ -15036,7 +15036,7 @@ var textureData =
     {
         "name": "croptopia:item/zucchini_seed",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 484,
         "width": 1,
         "height": 1
@@ -15052,7 +15052,7 @@ var textureData =
     {
         "name": "alexsmobs:item/mimicream",
         "animated": true,
-        "x": 13,
+        "x": 16,
         "y": 480,
         "width": 1,
         "height": 1
@@ -15060,7 +15060,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/redstone_lantern",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 481,
         "width": 1,
         "height": 1
@@ -15084,7 +15084,7 @@ var textureData =
     {
         "name": "croptopia:item/pecan",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 481,
         "width": 1,
         "height": 1
@@ -15132,7 +15132,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mixed_salad_2",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 477,
         "width": 1,
         "height": 1
@@ -15180,7 +15180,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mixed_salad_1",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 477,
         "width": 1,
         "height": 1
@@ -15188,7 +15188,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/fir_sign",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 477,
         "width": 1,
         "height": 1
@@ -15196,7 +15196,7 @@ var textureData =
     {
         "name": "ecologics:item/walnut_door",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 483,
         "width": 1,
         "height": 1
@@ -15204,7 +15204,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mixed_salad_0",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 477,
         "width": 1,
         "height": 1
@@ -15212,7 +15212,7 @@ var textureData =
     {
         "name": "nebs:items/life_mending",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 486,
         "width": 1,
         "height": 1
@@ -15220,7 +15220,7 @@ var textureData =
     {
         "name": "quark:item/lime_shard",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 479,
         "width": 1,
         "height": 1
@@ -15244,7 +15244,7 @@ var textureData =
     {
         "name": "deeperdarker:item/heart_of_the_deep",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 478,
         "width": 1,
         "height": 1
@@ -15252,7 +15252,7 @@ var textureData =
     {
         "name": "byg:item/rainbow_eucalyptus/door",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 481,
         "width": 1,
         "height": 1
@@ -15260,7 +15260,7 @@ var textureData =
     {
         "name": "minecraft:item/jungle_boat",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 479,
         "width": 1,
         "height": 1
@@ -15276,7 +15276,7 @@ var textureData =
     {
         "name": "aquaculture:item/iron_fishing_rod_cast",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 479,
         "width": 1,
         "height": 1
@@ -15284,7 +15284,7 @@ var textureData =
     {
         "name": "knight_quest:items/paladinsword",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 486,
         "width": 1,
         "height": 1
@@ -15300,7 +15300,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_zinc_reinforcement",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 478,
         "width": 1,
         "height": 1
@@ -15316,7 +15316,7 @@ var textureData =
     {
         "name": "obscure_api:items/vial_of_knowledge",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 487,
         "width": 1,
         "height": 1
@@ -15324,7 +15324,7 @@ var textureData =
     {
         "name": "nebs:items/poison_resistance",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 486,
         "width": 1,
         "height": 1
@@ -15380,7 +15380,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/vibration_mechanism2",
         "animated": true,
-        "x": 218,
+        "x": 221,
         "y": 487,
         "width": 1,
         "height": 1
@@ -15404,7 +15404,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/watergrass",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 483,
         "width": 1,
         "height": 1
@@ -15444,7 +15444,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/tiemnyiboty",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 487,
         "width": 1,
         "height": 1
@@ -15476,7 +15476,7 @@ var textureData =
     {
         "name": "byg:item/vermilion_sculk_tendrils",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 483,
         "width": 1,
         "height": 1
@@ -15644,7 +15644,7 @@ var textureData =
     {
         "name": "cnb:items/lizard_egg",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 486,
         "width": 1,
         "height": 1
@@ -15676,7 +15676,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/soy_seeds",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 482,
         "width": 1,
         "height": 1
@@ -15692,7 +15692,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/bronze_chain",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 488,
         "width": 1,
         "height": 1
@@ -15700,7 +15700,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_5",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 480,
         "width": 1,
         "height": 1
@@ -15732,7 +15732,7 @@ var textureData =
     {
         "name": "create_sa:items/experience_pickaxe",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 485,
         "width": 1,
         "height": 1
@@ -15756,7 +15756,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/red_sandstone_rocks",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 481,
         "width": 1,
         "height": 1
@@ -15772,7 +15772,7 @@ var textureData =
     {
         "name": "eatinganimation:item/milk_bucket_drinking_0",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 480,
         "width": 1,
         "height": 1
@@ -15796,7 +15796,7 @@ var textureData =
     {
         "name": "eatinganimation:item/milk_bucket_drinking_1",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 480,
         "width": 1,
         "height": 1
@@ -15820,7 +15820,7 @@ var textureData =
     {
         "name": "minecraft:item/rabbit_hide",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 481,
         "width": 1,
         "height": 1
@@ -15844,7 +15844,7 @@ var textureData =
     {
         "name": "cnb:items/yeti_hide",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 488,
         "width": 1,
         "height": 1
@@ -15852,7 +15852,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/maki/salmon_maki",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 479,
         "width": 1,
         "height": 1
@@ -15876,7 +15876,7 @@ var textureData =
     {
         "name": "spirit:item/soul_steel_hoe",
         "animated": true,
-        "x": 183,
+        "x": 186,
         "y": 482,
         "width": 1,
         "height": 1
@@ -15916,7 +15916,7 @@ var textureData =
     {
         "name": "eatinganimation:item/milk_bucket_drinking_2",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 480,
         "width": 1,
         "height": 1
@@ -15932,7 +15932,7 @@ var textureData =
     {
         "name": "artifacts:item/obsidian_skull",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 480,
         "width": 1,
         "height": 1
@@ -15964,7 +15964,7 @@ var textureData =
     {
         "name": "alexsmobs:item/stink_ray_empty",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 482,
         "width": 1,
         "height": 1
@@ -15988,7 +15988,7 @@ var textureData =
     {
         "name": "minecraft:item/nether_sprouts",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 480,
         "width": 1,
         "height": 1
@@ -16060,7 +16060,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/coin_stack_gold",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 488,
         "width": 1,
         "height": 1
@@ -16068,7 +16068,7 @@ var textureData =
     {
         "name": "aquaculture:item/perch",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 481,
         "width": 1,
         "height": 1
@@ -16100,7 +16100,7 @@ var textureData =
     {
         "name": "artifacts:item/lucky_scarf",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 479,
         "width": 1,
         "height": 1
@@ -16132,7 +16132,7 @@ var textureData =
     {
         "name": "vinery:item/mellohi_wine",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 479,
         "width": 1,
         "height": 1
@@ -16228,7 +16228,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/slitoktiemnoistali",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 487,
         "width": 1,
         "height": 1
@@ -16260,7 +16260,7 @@ var textureData =
     {
         "name": "croptopia:item/goulash",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 478,
         "width": 1,
         "height": 1
@@ -16292,7 +16292,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_hoe",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 481,
         "width": 1,
         "height": 1
@@ -16308,7 +16308,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_blue_enchanted",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 485,
         "width": 1,
         "height": 1
@@ -16340,7 +16340,7 @@ var textureData =
     {
         "name": "croptopia:item/vanilla",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 483,
         "width": 1,
         "height": 1
@@ -16380,8 +16380,8 @@ var textureData =
     {
         "name": "nebs:items/curse_butterfingers",
         "animated": false,
-        "x": 254,
-        "y": 484,
+        "x": 1,
+        "y": 485,
         "width": 1,
         "height": 1
     },
@@ -16484,7 +16484,7 @@ var textureData =
     {
         "name": "minecraft:item/glowstone_dust",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 478,
         "width": 1,
         "height": 1
@@ -16500,7 +16500,7 @@ var textureData =
     {
         "name": "nebs:items/immaturity_curse",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 485,
         "width": 1,
         "height": 1
@@ -16516,7 +16516,7 @@ var textureData =
     {
         "name": "deeperdarker:item/soul_dust",
         "animated": true,
-        "x": 173,
+        "x": 176,
         "y": 482,
         "width": 1,
         "height": 1
@@ -16580,7 +16580,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_iron_reinforcement",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 478,
         "width": 1,
         "height": 1
@@ -16588,7 +16588,7 @@ var textureData =
     {
         "name": "aquaculture:item/wooden_fillet_knife",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 483,
         "width": 1,
         "height": 1
@@ -16604,7 +16604,7 @@ var textureData =
     {
         "name": "nebs:items/soulbinding",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 487,
         "width": 1,
         "height": 1
@@ -16628,7 +16628,7 @@ var textureData =
     {
         "name": "biomemakeover:item/music_disc_swamp_jives",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 480,
         "width": 1,
         "height": 1
@@ -16644,7 +16644,7 @@ var textureData =
     {
         "name": "create_confectionery:items/caramel_glazed_berries",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 484,
         "width": 1,
         "height": 1
@@ -16676,7 +16676,7 @@ var textureData =
     {
         "name": "farmersdelight:item/rotten_tomato",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 482,
         "width": 1,
         "height": 1
@@ -16684,7 +16684,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/gravestone",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 488,
         "width": 1,
         "height": 1
@@ -16700,7 +16700,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_cyan",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 482,
         "width": 1,
         "height": 1
@@ -16756,7 +16756,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/deeperdarker/hanging_sign_echo",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 485,
         "width": 1,
         "height": 1
@@ -16796,7 +16796,7 @@ var textureData =
     {
         "name": "nethersdelight:item/iron_machete",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 479,
         "width": 1,
         "height": 1
@@ -16812,7 +16812,7 @@ var textureData =
     {
         "name": "croptopia:item/oat_seed",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 480,
         "width": 1,
         "height": 1
@@ -16844,7 +16844,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/nordic_soul_gems_light",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 488,
         "width": 1,
         "height": 1
@@ -16876,7 +16876,7 @@ var textureData =
     {
         "name": "croptopia:item/fried_chicken",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 478,
         "width": 1,
         "height": 1
@@ -16884,7 +16884,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/terrible_leggings",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 487,
         "width": 1,
         "height": 1
@@ -16948,7 +16948,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_helmet_icon",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 486,
         "width": 1,
         "height": 1
@@ -16972,7 +16972,7 @@ var textureData =
     {
         "name": "croptopia:item/macaron",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 479,
         "width": 1,
         "height": 1
@@ -17028,7 +17028,7 @@ var textureData =
     {
         "name": "nebs:items/stone_mending",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 487,
         "width": 1,
         "height": 1
@@ -17044,7 +17044,7 @@ var textureData =
     {
         "name": "create_sa:items/slime_helmet",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 487,
         "width": 1,
         "height": 1
@@ -17052,7 +17052,7 @@ var textureData =
     {
         "name": "minecraft:item/popped_chorus_fruit",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 481,
         "width": 1,
         "height": 1
@@ -17108,7 +17108,7 @@ var textureData =
     {
         "name": "nebs:items/looting",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 486,
         "width": 1,
         "height": 1
@@ -17140,7 +17140,7 @@ var textureData =
     {
         "name": "biomemakeover:item/roasted_bulbus_root",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 482,
         "width": 1,
         "height": 1
@@ -17148,7 +17148,7 @@ var textureData =
     {
         "name": "biomemakeover:item/water_lily",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 483,
         "width": 1,
         "height": 1
@@ -17156,7 +17156,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_helmet",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 480,
         "width": 1,
         "height": 1
@@ -17172,7 +17172,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_chestplate",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 484,
         "width": 1,
         "height": 1
@@ -17196,7 +17196,7 @@ var textureData =
     {
         "name": "alexsmobs:item/squid_grapple",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 482,
         "width": 1,
         "height": 1
@@ -17220,7 +17220,7 @@ var textureData =
     {
         "name": "minecraft:item/magma_cream",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 479,
         "width": 1,
         "height": 1
@@ -17236,7 +17236,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/bombbotl",
         "animated": true,
-        "x": 107,
+        "x": 110,
         "y": 484,
         "width": 1,
         "height": 1
@@ -17252,7 +17252,7 @@ var textureData =
     {
         "name": "supplementaries:items/goblet",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 485,
         "width": 1,
         "height": 1
@@ -17324,7 +17324,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_bat_boots_icon",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 486,
         "width": 1,
         "height": 1
@@ -17364,7 +17364,7 @@ var textureData =
     {
         "name": "primitivestart:items/reinforced_bone_axe",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 486,
         "width": 1,
         "height": 1
@@ -17396,7 +17396,7 @@ var textureData =
     {
         "name": "aquaculture:item/synodontis",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 483,
         "width": 1,
         "height": 1
@@ -17428,7 +17428,7 @@ var textureData =
     {
         "name": "alexsmobs:item/fish_bones",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 477,
         "width": 1,
         "height": 1
@@ -17436,7 +17436,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_pine",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 485,
         "width": 1,
         "height": 1
@@ -17452,7 +17452,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_shovel",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 481,
         "width": 1,
         "height": 1
@@ -17468,7 +17468,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/jacaranda_sign",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 479,
         "width": 1,
         "height": 1
@@ -17508,7 +17508,7 @@ var textureData =
     {
         "name": "nebs:items/sturdy",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 487,
         "width": 1,
         "height": 1
@@ -17548,7 +17548,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/music_disc",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 486,
         "width": 1,
         "height": 1
@@ -17556,7 +17556,7 @@ var textureData =
     {
         "name": "minecraft:item/mangrove_chest_boat",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 479,
         "width": 1,
         "height": 1
@@ -17580,7 +17580,7 @@ var textureData =
     {
         "name": "alexsmobs:item/tarantula_hawk_wing_fragment",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 483,
         "width": 1,
         "height": 1
@@ -17604,7 +17604,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/abyssal_heaume",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 484,
         "width": 1,
         "height": 1
@@ -17660,7 +17660,7 @@ var textureData =
     {
         "name": "minecraft:item/warped_door",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 483,
         "width": 1,
         "height": 1
@@ -17668,7 +17668,7 @@ var textureData =
     {
         "name": "nebs:items/wallrunenchantment",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 487,
         "width": 1,
         "height": 1
@@ -17692,7 +17692,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_warped",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 480,
         "width": 1,
         "height": 1
@@ -17724,7 +17724,7 @@ var textureData =
     {
         "name": "croptopia:item/squash_seed",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 482,
         "width": 1,
         "height": 1
@@ -17756,7 +17756,7 @@ var textureData =
     {
         "name": "curios:slot/empty_hands_slot",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 488,
         "width": 1,
         "height": 1
@@ -17796,7 +17796,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/chaoss2",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 484,
         "width": 1,
         "height": 1
@@ -17908,7 +17908,7 @@ var textureData =
     {
         "name": "infernalexp:item/magma_cube_bucket",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 479,
         "width": 1,
         "height": 1
@@ -17940,7 +17940,7 @@ var textureData =
     {
         "name": "minecraft:item/experience_bottle",
         "animated": false,
-        "x": 253,
+        "x": 254,
         "y": 476,
         "width": 1,
         "height": 1
@@ -17988,7 +17988,7 @@ var textureData =
     {
         "name": "nebs:items/smite",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 487,
         "width": 1,
         "height": 1
@@ -18004,7 +18004,7 @@ var textureData =
     {
         "name": "infernalexp:item/spirit_eye",
         "animated": true,
-        "x": 207,
+        "x": 210,
         "y": 482,
         "width": 1,
         "height": 1
@@ -18020,7 +18020,7 @@ var textureData =
     {
         "name": "nebs:items/leaping",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 486,
         "width": 1,
         "height": 1
@@ -18076,7 +18076,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_dark_oak",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 485,
         "width": 1,
         "height": 1
@@ -18100,7 +18100,7 @@ var textureData =
     {
         "name": "compatoplenty:item/magic_furnace_boat",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 479,
         "width": 1,
         "height": 1
@@ -18140,7 +18140,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/ecologics/sign_post_flowering_azalea",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 487,
         "width": 1,
         "height": 1
@@ -18148,7 +18148,7 @@ var textureData =
     {
         "name": "croptopia:item/pineapple",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 481,
         "width": 1,
         "height": 1
@@ -18180,7 +18180,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_fir",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 485,
         "width": 1,
         "height": 1
@@ -18204,7 +18204,7 @@ var textureData =
     {
         "name": "ecologics:item/prickly_pear",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 481,
         "width": 1,
         "height": 1
@@ -18212,7 +18212,7 @@ var textureData =
     {
         "name": "croptopia:item/rhubarb_pie",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 482,
         "width": 1,
         "height": 1
@@ -18252,7 +18252,7 @@ var textureData =
     {
         "name": "alexsmobs:item/poison_bottle",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 481,
         "width": 1,
         "height": 1
@@ -18276,7 +18276,7 @@ var textureData =
     {
         "name": "ecologics:item/walnut_sign",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 483,
         "width": 1,
         "height": 1
@@ -18348,7 +18348,7 @@ var textureData =
     {
         "name": "knight_quest:items/steelaxe",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 487,
         "width": 1,
         "height": 1
@@ -18364,7 +18364,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_deepslate_marbled_helmet_icon",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 486,
         "width": 1,
         "height": 1
@@ -18380,7 +18380,7 @@ var textureData =
     {
         "name": "croptopia:item/soybean_seed",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 482,
         "width": 1,
         "height": 1
@@ -18388,7 +18388,7 @@ var textureData =
     {
         "name": "farmersdelight:item/vegetable_noodles",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 483,
         "width": 1,
         "height": 1
@@ -18468,7 +18468,7 @@ var textureData =
     {
         "name": "farmersdelight:item/stuffed_potato",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 483,
         "width": 1,
         "height": 1
@@ -18516,7 +18516,7 @@ var textureData =
     {
         "name": "create:item/minecart_contraption",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 480,
         "width": 1,
         "height": 1
@@ -18524,7 +18524,7 @@ var textureData =
     {
         "name": "nebs:items/smelting",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 487,
         "width": 1,
         "height": 1
@@ -18532,7 +18532,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/ecologics/sign_post_azalea",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 487,
         "width": 1,
         "height": 1
@@ -18636,7 +18636,7 @@ var textureData =
     {
         "name": "solcarrot:items/food_book",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 485,
         "width": 1,
         "height": 1
@@ -18732,7 +18732,7 @@ var textureData =
     {
         "name": "minecraft:item/salmon",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 482,
         "width": 1,
         "height": 1
@@ -18764,7 +18764,7 @@ var textureData =
     {
         "name": "delightful:item/nickel_knife",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 480,
         "width": 1,
         "height": 1
@@ -18796,7 +18796,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/vegetable_soup_0",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 477,
         "width": 1,
         "height": 1
@@ -18820,7 +18820,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/vegetable_soup_1",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 477,
         "width": 1,
         "height": 1
@@ -18828,7 +18828,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/vegetable_soup_2",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 477,
         "width": 1,
         "height": 1
@@ -18836,7 +18836,7 @@ var textureData =
     {
         "name": "nethersdelight:item/netherite_machete",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 480,
         "width": 1,
         "height": 1
@@ -18860,7 +18860,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_oak",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 485,
         "width": 1,
         "height": 1
@@ -18868,7 +18868,7 @@ var textureData =
     {
         "name": "structurize:items/sceptertag",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 486,
         "width": 1,
         "height": 1
@@ -18884,7 +18884,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/ecologics/sign_post_walnut",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 487,
         "width": 1,
         "height": 1
@@ -18924,7 +18924,7 @@ var textureData =
     {
         "name": "minecraft:item/soul_lantern",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 482,
         "width": 1,
         "height": 1
@@ -18980,7 +18980,7 @@ var textureData =
     {
         "name": "aquaculture:item/gar",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 478,
         "width": 1,
         "height": 1
@@ -19132,7 +19132,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_bow_pulling_0",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 480,
         "width": 1,
         "height": 1
@@ -19140,7 +19140,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_holly",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 487,
         "width": 1,
         "height": 1
@@ -19148,7 +19148,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_bow_pulling_2",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 480,
         "width": 1,
         "height": 1
@@ -19156,7 +19156,7 @@ var textureData =
     {
         "name": "miningmaster:item/paragon_leggings",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 481,
         "width": 1,
         "height": 1
@@ -19172,7 +19172,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_bow_pulling_1",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 480,
         "width": 1,
         "height": 1
@@ -19212,7 +19212,7 @@ var textureData =
     {
         "name": "byg:item/subzero_crystal_shard",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 483,
         "width": 1,
         "height": 1
@@ -19260,7 +19260,7 @@ var textureData =
     {
         "name": "alexsmobs:item/stink_ray",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 482,
         "width": 1,
         "height": 1
@@ -19300,7 +19300,7 @@ var textureData =
     {
         "name": "minecraft:item/hopper",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 478,
         "width": 1,
         "height": 1
@@ -19316,7 +19316,7 @@ var textureData =
     {
         "name": "nebs:items/sea_infusion",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 487,
         "width": 1,
         "height": 1
@@ -19324,7 +19324,7 @@ var textureData =
     {
         "name": "croptopia:item/steamed_crab",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 482,
         "width": 1,
         "height": 1
@@ -19356,7 +19356,7 @@ var textureData =
     {
         "name": "knight_quest:items/evoker_main_icon",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 485,
         "width": 1,
         "height": 1
@@ -19404,7 +19404,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_main_icon",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 484,
         "width": 1,
         "height": 1
@@ -19436,7 +19436,7 @@ var textureData =
     {
         "name": "knight_quest:items/steelsword",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 487,
         "width": 1,
         "height": 1
@@ -19476,7 +19476,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_leggings_overlay",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 479,
         "width": 1,
         "height": 1
@@ -19604,7 +19604,7 @@ var textureData =
     {
         "name": "delightful:item/marshmallow_stick",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 479,
         "width": 1,
         "height": 1
@@ -19612,7 +19612,7 @@ var textureData =
     {
         "name": "crittersandcompanions:item/koi_fish_bucket",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 479,
         "width": 1,
         "height": 1
@@ -19636,7 +19636,7 @@ var textureData =
     {
         "name": "alexsmobs:item/pocket_sand",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 481,
         "width": 1,
         "height": 1
@@ -19676,7 +19676,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_zelkova",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 487,
         "width": 1,
         "height": 1
@@ -19708,7 +19708,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/stackable_pumpkins",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 488,
         "width": 1,
         "height": 1
@@ -19716,7 +19716,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/soy_sauce",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 479,
         "width": 1,
         "height": 1
@@ -19724,8 +19724,8 @@ var textureData =
     {
         "name": "minecraft:item/paper",
         "animated": false,
-        "x": 253,
-        "y": 480,
+        "x": 0,
+        "y": 481,
         "width": 1,
         "height": 1
     },
@@ -19740,7 +19740,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_green",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 482,
         "width": 1,
         "height": 1
@@ -19748,7 +19748,7 @@ var textureData =
     {
         "name": "savage_and_ravage:item/griefer_boots",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 478,
         "width": 1,
         "height": 1
@@ -19828,7 +19828,7 @@ var textureData =
     {
         "name": "aquaculture:item/oak_fish_mount",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 480,
         "width": 1,
         "height": 1
@@ -19836,7 +19836,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_white",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 482,
         "width": 1,
         "height": 1
@@ -19860,7 +19860,7 @@ var textureData =
     {
         "name": "byg:item/tall_cryptic_vent",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 483,
         "width": 1,
         "height": 1
@@ -19948,7 +19948,7 @@ var textureData =
     {
         "name": "primitivestart:items/bone_axe",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 484,
         "width": 1,
         "height": 1
@@ -20004,7 +20004,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rotten_flesh_eating_1",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 482,
         "width": 1,
         "height": 1
@@ -20012,7 +20012,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rotten_flesh_eating_2",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 482,
         "width": 1,
         "height": 1
@@ -20020,7 +20020,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_leggings",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 484,
         "width": 1,
         "height": 1
@@ -20044,7 +20044,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rotten_flesh_eating_0",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 482,
         "width": 1,
         "height": 1
@@ -20084,7 +20084,7 @@ var textureData =
     {
         "name": "minecraft:item/yellow_candle",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 483,
         "width": 1,
         "height": 1
@@ -20092,7 +20092,7 @@ var textureData =
     {
         "name": "delightful:item/raw_goat",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 481,
         "width": 1,
         "height": 1
@@ -20108,7 +20108,7 @@ var textureData =
     {
         "name": "croptopia:item/snicker_doodle",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 482,
         "width": 1,
         "height": 1
@@ -20140,7 +20140,7 @@ var textureData =
     {
         "name": "nebs:items/momentum",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 486,
         "width": 1,
         "height": 1
@@ -20156,7 +20156,7 @@ var textureData =
     {
         "name": "eatinganimation:item/sweet_berries_eating_2",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 483,
         "width": 1,
         "height": 1
@@ -20172,7 +20172,7 @@ var textureData =
     {
         "name": "eatinganimation:item/sweet_berries_eating_1",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 483,
         "width": 1,
         "height": 1
@@ -20204,7 +20204,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_rain",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 480,
         "width": 1,
         "height": 1
@@ -20212,7 +20212,7 @@ var textureData =
     {
         "name": "eatinganimation:item/sweet_berries_eating_0",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 483,
         "width": 1,
         "height": 1
@@ -20284,7 +20284,7 @@ var textureData =
     {
         "name": "create_sa:items/experience_shovel",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 485,
         "width": 1,
         "height": 1
@@ -20300,7 +20300,7 @@ var textureData =
     {
         "name": "byg:item/redwood/boat",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 481,
         "width": 1,
         "height": 1
@@ -20308,7 +20308,7 @@ var textureData =
     {
         "name": "nebs:items/guardian_angel",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 485,
         "width": 1,
         "height": 1
@@ -20324,7 +20324,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/royal_chalices_tint",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 488,
         "width": 1,
         "height": 1
@@ -20348,7 +20348,7 @@ var textureData =
     {
         "name": "delightful:item/matcha_ice_cream",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 479,
         "width": 1,
         "height": 1
@@ -20356,7 +20356,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_pickaxe",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 484,
         "width": 1,
         "height": 1
@@ -20404,7 +20404,7 @@ var textureData =
     {
         "name": "minecraft:item/pumpkin_seeds",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 481,
         "width": 1,
         "height": 1
@@ -20460,7 +20460,7 @@ var textureData =
     {
         "name": "croptopia:item/hamburger",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 478,
         "width": 1,
         "height": 1
@@ -20476,7 +20476,7 @@ var textureData =
     {
         "name": "create_sa:items/experience_sword",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 485,
         "width": 1,
         "height": 1
@@ -20484,7 +20484,7 @@ var textureData =
     {
         "name": "nebs:items/obliteration",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 486,
         "width": 1,
         "height": 1
@@ -20516,7 +20516,7 @@ var textureData =
     {
         "name": "nebs:items/furrowing",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 485,
         "width": 1,
         "height": 1
@@ -20524,7 +20524,7 @@ var textureData =
     {
         "name": "supplementaries:items/bomb_spiky",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 484,
         "width": 1,
         "height": 1
@@ -20548,7 +20548,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk_helmet_icon",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 486,
         "width": 1,
         "height": 1
@@ -20756,7 +20756,7 @@ var textureData =
     {
         "name": "knight_quest:items/trickyessence",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 487,
         "width": 1,
         "height": 1
@@ -20764,7 +20764,7 @@ var textureData =
     {
         "name": "supplementaries:items/sconce_ender",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 486,
         "width": 1,
         "height": 1
@@ -20780,7 +20780,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/glowcap",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 478,
         "width": 1,
         "height": 1
@@ -20956,7 +20956,7 @@ var textureData =
     {
         "name": "byg:item/nightshade/door",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 480,
         "width": 1,
         "height": 1
@@ -20988,7 +20988,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_chestplate",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 484,
         "width": 1,
         "height": 1
@@ -21164,7 +21164,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_drill_head",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 484,
         "width": 1,
         "height": 1
@@ -21244,7 +21244,7 @@ var textureData =
     {
         "name": "biomemakeover:item/raw_toad",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 481,
         "width": 1,
         "height": 1
@@ -21284,7 +21284,7 @@ var textureData =
     {
         "name": "minecraft:item/spider_eye",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 482,
         "width": 1,
         "height": 1
@@ -21316,7 +21316,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/diamondtglas",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 485,
         "width": 1,
         "height": 1
@@ -21356,7 +21356,7 @@ var textureData =
     {
         "name": "create_sa:items/experience_axe",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 485,
         "width": 1,
         "height": 1
@@ -21420,7 +21420,7 @@ var textureData =
     {
         "name": "alexsmobs:item/skreecher_soul",
         "animated": true,
-        "x": 126,
+        "x": 129,
         "y": 482,
         "width": 1,
         "height": 1
@@ -21452,7 +21452,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/willow_door",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 483,
         "width": 1,
         "height": 1
@@ -21460,7 +21460,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/magic_chest_boat",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 479,
         "width": 1,
         "height": 1
@@ -21468,7 +21468,7 @@ var textureData =
     {
         "name": "quark:item/pink_rune",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 481,
         "width": 1,
         "height": 1
@@ -21476,7 +21476,7 @@ var textureData =
     {
         "name": "knight_quest:items/spider_leggings_icon",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 487,
         "width": 1,
         "height": 1
@@ -21484,7 +21484,7 @@ var textureData =
     {
         "name": "croptopia:item/orange_juice",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 480,
         "width": 1,
         "height": 1
@@ -21516,7 +21516,7 @@ var textureData =
     {
         "name": "create_confectionery:items/white_chocolate_glazed_marshmallow",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 487,
         "width": 1,
         "height": 1
@@ -21532,7 +21532,7 @@ var textureData =
     {
         "name": "curios:slot/empty_head_slot",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 488,
         "width": 1,
         "height": 1
@@ -21556,7 +21556,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_dead",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 485,
         "width": 1,
         "height": 1
@@ -21668,7 +21668,7 @@ var textureData =
     {
         "name": "quark:item/magenta_rune",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 479,
         "width": 1,
         "height": 1
@@ -21676,7 +21676,7 @@ var textureData =
     {
         "name": "croptopia:item/tostada",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 483,
         "width": 1,
         "height": 1
@@ -21692,7 +21692,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_acacia",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 485,
         "width": 1,
         "height": 1
@@ -21700,7 +21700,7 @@ var textureData =
     {
         "name": "croptopia:item/greenbean_seed",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 478,
         "width": 1,
         "height": 1
@@ -21716,7 +21716,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/fin_cutter",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 485,
         "width": 1,
         "height": 1
@@ -21724,7 +21724,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_mahogany",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 487,
         "width": 1,
         "height": 1
@@ -21844,7 +21844,7 @@ var textureData =
     {
         "name": "farmersdelight:item/gray_canvas_sign",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 478,
         "width": 1,
         "height": 1
@@ -21852,7 +21852,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/temaki/tuna_temaki",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 483,
         "width": 1,
         "height": 1
@@ -21924,7 +21924,7 @@ var textureData =
     {
         "name": "knight_quest:items/tablet2",
         "animated": true,
-        "x": 167,
+        "x": 170,
         "y": 487,
         "width": 1,
         "height": 1
@@ -21956,7 +21956,7 @@ var textureData =
     {
         "name": "delightful:item/matcha_latte",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 479,
         "width": 1,
         "height": 1
@@ -21988,7 +21988,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_enderman_leggings_icon",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 486,
         "width": 1,
         "height": 1
@@ -21996,7 +21996,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_dragon_helmet_icon",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 486,
         "width": 1,
         "height": 1
@@ -22020,7 +22020,7 @@ var textureData =
     {
         "name": "aquaculture:item/worm",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 483,
         "width": 1,
         "height": 1
@@ -22036,7 +22036,7 @@ var textureData =
     {
         "name": "curios:slot/empty_curio_slot",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 488,
         "width": 1,
         "height": 1
@@ -22068,7 +22068,7 @@ var textureData =
     {
         "name": "alexsmobs:item/roadrunner_feather",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 482,
         "width": 1,
         "height": 1
@@ -22092,7 +22092,7 @@ var textureData =
     {
         "name": "endrem:items/nether_eye",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 486,
         "width": 1,
         "height": 1
@@ -22148,7 +22148,7 @@ var textureData =
     {
         "name": "supplementaries:items/quiver_model_overlay",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 486,
         "width": 1,
         "height": 1
@@ -22164,7 +22164,7 @@ var textureData =
     {
         "name": "croptopia:item/leek_soup",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 479,
         "width": 1,
         "height": 1
@@ -22236,7 +22236,7 @@ var textureData =
     {
         "name": "minecraft:item/nether_wart",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 480,
         "width": 1,
         "height": 1
@@ -22260,7 +22260,7 @@ var textureData =
     {
         "name": "create_sa:items/rose_quartz_pickaxe",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 486,
         "width": 1,
         "height": 1
@@ -22300,7 +22300,7 @@ var textureData =
     {
         "name": "aquaculture:item/gold_fishing_rod_uncast",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 478,
         "width": 1,
         "height": 1
@@ -22308,7 +22308,7 @@ var textureData =
     {
         "name": "nebs:items/crush",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 484,
         "width": 1,
         "height": 1
@@ -22324,7 +22324,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/potion_bottles_dyeable_tint",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 488,
         "width": 1,
         "height": 1
@@ -22332,7 +22332,7 @@ var textureData =
     {
         "name": "nebs:items/multi_roll",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 486,
         "width": 1,
         "height": 1
@@ -22380,7 +22380,7 @@ var textureData =
     {
         "name": "decorative_blocks:item/soul_brazier",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 482,
         "width": 1,
         "height": 1
@@ -22388,7 +22388,7 @@ var textureData =
     {
         "name": "croptopia:item/trail_mix",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 483,
         "width": 1,
         "height": 1
@@ -22396,7 +22396,7 @@ var textureData =
     {
         "name": "alexsmobs:item/tarantula_hawk_elytra",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 483,
         "width": 1,
         "height": 1
@@ -22404,7 +22404,7 @@ var textureData =
     {
         "name": "endrem:items/cryptic_eye",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 484,
         "width": 1,
         "height": 1
@@ -22444,7 +22444,7 @@ var textureData =
     {
         "name": "eatinganimation:item/melon_slice_eating_2",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 480,
         "width": 1,
         "height": 1
@@ -22468,7 +22468,7 @@ var textureData =
     {
         "name": "byg:item/holly/door",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 478,
         "width": 1,
         "height": 1
@@ -22476,7 +22476,7 @@ var textureData =
     {
         "name": "eatinganimation:item/melon_slice_eating_0",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 480,
         "width": 1,
         "height": 1
@@ -22492,7 +22492,7 @@ var textureData =
     {
         "name": "eatinganimation:item/melon_slice_eating_1",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 480,
         "width": 1,
         "height": 1
@@ -22516,7 +22516,7 @@ var textureData =
     {
         "name": "supplementaries:items/netherite_door",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 486,
         "width": 1,
         "height": 1
@@ -22524,7 +22524,7 @@ var textureData =
     {
         "name": "minecraft:item/oak_sign",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 480,
         "width": 1,
         "height": 1
@@ -22556,7 +22556,7 @@ var textureData =
     {
         "name": "miningmaster:item/power_pyrite",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 481,
         "width": 1,
         "height": 1
@@ -22572,7 +22572,7 @@ var textureData =
     {
         "name": "quark:item/light_gray_shard",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 479,
         "width": 1,
         "height": 1
@@ -22612,7 +22612,7 @@ var textureData =
     {
         "name": "knight_quest:items/conquistador3_helmet_icon",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 484,
         "width": 1,
         "height": 1
@@ -22620,7 +22620,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_hoe",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 484,
         "width": 1,
         "height": 1
@@ -22636,7 +22636,7 @@ var textureData =
     {
         "name": "nebs:items/deep_pockets",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 485,
         "width": 1,
         "height": 1
@@ -22668,7 +22668,7 @@ var textureData =
     {
         "name": "croptopia:item/toast_with_jam",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 483,
         "width": 1,
         "height": 1
@@ -22740,7 +22740,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/mending_rune",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 486,
         "width": 1,
         "height": 1
@@ -22764,7 +22764,7 @@ var textureData =
     {
         "name": "nebs:items/flame",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 485,
         "width": 1,
         "height": 1
@@ -22772,7 +22772,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_oak",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 487,
         "width": 1,
         "height": 1
@@ -22804,7 +22804,7 @@ var textureData =
     {
         "name": "structurize:items/caliper",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 484,
         "width": 1,
         "height": 1
@@ -22820,7 +22820,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_mahogany",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 485,
         "width": 1,
         "height": 1
@@ -22836,7 +22836,7 @@ var textureData =
     {
         "name": "quark:item/soul_bead",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 482,
         "width": 1,
         "height": 1
@@ -22852,7 +22852,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/magenta",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 484,
         "width": 1,
         "height": 1
@@ -22892,7 +22892,7 @@ var textureData =
     {
         "name": "minecraft:item/rabbit_stew",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 481,
         "width": 1,
         "height": 1
@@ -22916,7 +22916,7 @@ var textureData =
     {
         "name": "croptopia:item/kale_smoothie",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 479,
         "width": 1,
         "height": 1
@@ -22932,7 +22932,7 @@ var textureData =
     {
         "name": "knight_quest:items/strawhat_main_icon",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 487,
         "width": 1,
         "height": 1
@@ -22940,7 +22940,7 @@ var textureData =
     {
         "name": "infernalexp:item/glowsilk",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 478,
         "width": 1,
         "height": 1
@@ -23020,7 +23020,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_red2_leggings_icon",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 486,
         "width": 1,
         "height": 1
@@ -23132,7 +23132,7 @@ var textureData =
     {
         "name": "byg:item/lament/door",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 479,
         "width": 1,
         "height": 1
@@ -23148,7 +23148,7 @@ var textureData =
     {
         "name": "endrem:items/cold_eye",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 484,
         "width": 1,
         "height": 1
@@ -23228,7 +23228,7 @@ var textureData =
     {
         "name": "croptopia:item/tres_leche_cake",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 483,
         "width": 1,
         "height": 1
@@ -23260,7 +23260,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_ether",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 485,
         "width": 1,
         "height": 1
@@ -23364,7 +23364,7 @@ var textureData =
     {
         "name": "knight_quest:items/ghast_main_icon",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 485,
         "width": 1,
         "height": 1
@@ -23404,7 +23404,7 @@ var textureData =
     {
         "name": "create_confectionery:items/black_chocolate_bucket",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 484,
         "width": 1,
         "height": 1
@@ -23420,7 +23420,7 @@ var textureData =
     {
         "name": "minecraft:item/filled_map",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 477,
         "width": 1,
         "height": 1
@@ -23428,7 +23428,7 @@ var textureData =
     {
         "name": "croptopia:item/yam",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 483,
         "width": 1,
         "height": 1
@@ -23460,7 +23460,7 @@ var textureData =
     {
         "name": "croptopia:item/roasted_nuts",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 482,
         "width": 1,
         "height": 1
@@ -23476,7 +23476,7 @@ var textureData =
     {
         "name": "nebs:items/psychic_wall",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 486,
         "width": 1,
         "height": 1
@@ -23484,7 +23484,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_spruce",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 487,
         "width": 1,
         "height": 1
@@ -23572,7 +23572,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/bowl_of_porridge",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 484,
         "width": 1,
         "height": 1
@@ -23652,7 +23652,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/spider_webs",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 488,
         "width": 1,
         "height": 1
@@ -23716,7 +23716,7 @@ var textureData =
     {
         "name": "minecraft:item/sugar",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 483,
         "width": 1,
         "height": 1
@@ -23732,7 +23732,7 @@ var textureData =
     {
         "name": "croptopia:item/stuffed_artichoke",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 483,
         "width": 1,
         "height": 1
@@ -23796,7 +23796,7 @@ var textureData =
     {
         "name": "alexsmobs:item/rocky_chestplate",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 482,
         "width": 1,
         "height": 1
@@ -23804,7 +23804,7 @@ var textureData =
     {
         "name": "alexsmobs:item/straddle_saddle",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 482,
         "width": 1,
         "height": 1
@@ -23820,7 +23820,7 @@ var textureData =
     {
         "name": "miningmaster:item/lucky_citrine_sword",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 479,
         "width": 1,
         "height": 1
@@ -23876,7 +23876,7 @@ var textureData =
     {
         "name": "alexsdelight:item/raw_bunfungus_drumstick",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 481,
         "width": 1,
         "height": 1
@@ -23900,7 +23900,7 @@ var textureData =
     {
         "name": "create_sa:items/large_filling_tank",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 486,
         "width": 1,
         "height": 1
@@ -23924,7 +23924,7 @@ var textureData =
     {
         "name": "croptopia:item/melon_juice",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 479,
         "width": 1,
         "height": 1
@@ -23932,7 +23932,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_diamond_reinforcement",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 478,
         "width": 1,
         "height": 1
@@ -23940,7 +23940,7 @@ var textureData =
     {
         "name": "knight_quest:items/uchigatana",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 487,
         "width": 1,
         "height": 1
@@ -23972,7 +23972,7 @@ var textureData =
     {
         "name": "supplementaries:items/flute_model",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 485,
         "width": 1,
         "height": 1
@@ -24020,7 +24020,7 @@ var textureData =
     {
         "name": "miningmaster:item/ultima_axe",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 483,
         "width": 1,
         "height": 1
@@ -24028,7 +24028,7 @@ var textureData =
     {
         "name": "nebs:items/voodoo",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 487,
         "width": 1,
         "height": 1
@@ -24036,7 +24036,7 @@ var textureData =
     {
         "name": "croptopia:item/steamed_clams",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24060,7 +24060,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_scraps",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 481,
         "width": 1,
         "height": 1
@@ -24068,7 +24068,7 @@ var textureData =
     {
         "name": "knight_quest:items/repair1",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 486,
         "width": 1,
         "height": 1
@@ -24084,7 +24084,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/rusty_iron_ingot",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24092,7 +24092,7 @@ var textureData =
     {
         "name": "knight_quest:items/repair2",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 486,
         "width": 1,
         "height": 1
@@ -24108,7 +24108,7 @@ var textureData =
     {
         "name": "nebs:items/blazing_walker",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 484,
         "width": 1,
         "height": 1
@@ -24116,7 +24116,7 @@ var textureData =
     {
         "name": "nebs:items/piercing",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 486,
         "width": 1,
         "height": 1
@@ -24132,7 +24132,7 @@ var textureData =
     {
         "name": "biomemakeover:item/glowfish_bucket",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 478,
         "width": 1,
         "height": 1
@@ -24140,7 +24140,7 @@ var textureData =
     {
         "name": "nebs:items/lumberjack",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 486,
         "width": 1,
         "height": 1
@@ -24148,7 +24148,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_lament",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 487,
         "width": 1,
         "height": 1
@@ -24156,7 +24156,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/bone",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 488,
         "width": 1,
         "height": 1
@@ -24180,7 +24180,7 @@ var textureData =
     {
         "name": "croptopia:item/roasted_sunflower_seeds",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24204,7 +24204,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/music_disc_forsaken_drownage",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 486,
         "width": 1,
         "height": 1
@@ -24220,7 +24220,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/purple",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 484,
         "width": 1,
         "height": 1
@@ -24252,7 +24252,7 @@ var textureData =
     {
         "name": "nebs:items/night_vision",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 486,
         "width": 1,
         "height": 1
@@ -24308,7 +24308,7 @@ var textureData =
     {
         "name": "supplementaries:items/bamboo_spikes_overlay",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 484,
         "width": 1,
         "height": 1
@@ -24388,7 +24388,7 @@ var textureData =
     {
         "name": "nebs:items/health_boost",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 485,
         "width": 1,
         "height": 1
@@ -24436,7 +24436,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_stal",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 480,
         "width": 1,
         "height": 1
@@ -24444,7 +24444,7 @@ var textureData =
     {
         "name": "nebs:items/volley",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 487,
         "width": 1,
         "height": 1
@@ -24468,7 +24468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/minced_beef_0",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 477,
         "width": 1,
         "height": 1
@@ -24476,7 +24476,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/minced_beef_1",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 477,
         "width": 1,
         "height": 1
@@ -24492,7 +24492,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/minced_beef_2",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 477,
         "width": 1,
         "height": 1
@@ -24532,7 +24532,7 @@ var textureData =
     {
         "name": "croptopia:item/oatmeal",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 480,
         "width": 1,
         "height": 1
@@ -24628,7 +24628,7 @@ var textureData =
     {
         "name": "nebs:items/binding_curse",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 484,
         "width": 1,
         "height": 1
@@ -24652,7 +24652,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_redwood",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 485,
         "width": 1,
         "height": 1
@@ -24668,7 +24668,7 @@ var textureData =
     {
         "name": "croptopia:item/sticky_toffee_pudding",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24708,7 +24708,7 @@ var textureData =
     {
         "name": "delightful:item/salmonberries",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24732,7 +24732,7 @@ var textureData =
     {
         "name": "create_sa:items/heat_engine",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 485,
         "width": 1,
         "height": 1
@@ -24828,7 +24828,7 @@ var textureData =
     {
         "name": "create_sa:items/steam_engine",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 487,
         "width": 1,
         "height": 1
@@ -24892,7 +24892,7 @@ var textureData =
     {
         "name": "farmersdelight:item/shepherds_pie",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24900,7 +24900,7 @@ var textureData =
     {
         "name": "croptopia:item/sausage",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24908,7 +24908,7 @@ var textureData =
     {
         "name": "endrem:items/old_eye",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 486,
         "width": 1,
         "height": 1
@@ -24932,7 +24932,7 @@ var textureData =
     {
         "name": "ecologics:item/seashell",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 482,
         "width": 1,
         "height": 1
@@ -24940,7 +24940,7 @@ var textureData =
     {
         "name": "alexsmobs:item/kangaroo_hide",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 479,
         "width": 1,
         "height": 1
@@ -25060,7 +25060,7 @@ var textureData =
     {
         "name": "minecraft:item/flint",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 477,
         "width": 1,
         "height": 1
@@ -25108,7 +25108,7 @@ var textureData =
     {
         "name": "minecraft:item/glow_ink_sac",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 478,
         "width": 1,
         "height": 1
@@ -25132,7 +25132,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/quark/sign_post_blossom",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 487,
         "width": 1,
         "height": 1
@@ -25196,7 +25196,7 @@ var textureData =
     {
         "name": "farmersdelight:item/stuffed_pumpkin_block",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 483,
         "width": 1,
         "height": 1
@@ -25204,7 +25204,7 @@ var textureData =
     {
         "name": "nebs:items/feather_falling",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 485,
         "width": 1,
         "height": 1
@@ -25212,7 +25212,7 @@ var textureData =
     {
         "name": "nebs:items/straddle_jump",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 487,
         "width": 1,
         "height": 1
@@ -25236,7 +25236,7 @@ var textureData =
     {
         "name": "nebs:items/uppercutting",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 487,
         "width": 1,
         "height": 1
@@ -25300,7 +25300,7 @@ var textureData =
     {
         "name": "nethersdelight:item/propelpearl",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 481,
         "width": 1,
         "height": 1
@@ -25332,7 +25332,7 @@ var textureData =
     {
         "name": "primitivestart:items/bone_shears",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 484,
         "width": 1,
         "height": 1
@@ -25364,7 +25364,7 @@ var textureData =
     {
         "name": "delightful:item/steeleaf_knife",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 482,
         "width": 1,
         "height": 1
@@ -25372,7 +25372,7 @@ var textureData =
     {
         "name": "croptopia:item/trifle",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 483,
         "width": 1,
         "height": 1
@@ -25428,7 +25428,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_mall",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 480,
         "width": 1,
         "height": 1
@@ -25444,7 +25444,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/iron_bar_door",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 479,
         "width": 1,
         "height": 1
@@ -25508,7 +25508,7 @@ var textureData =
     {
         "name": "manyideas_core:item/plates/plate_gold",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 481,
         "width": 1,
         "height": 1
@@ -25540,7 +25540,7 @@ var textureData =
     {
         "name": "nebs:items/incompatibility_curse",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 485,
         "width": 1,
         "height": 1
@@ -25564,7 +25564,7 @@ var textureData =
     {
         "name": "minecraft:item/magenta_candle",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 479,
         "width": 1,
         "height": 1
@@ -25572,7 +25572,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_boots_icon",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 484,
         "width": 1,
         "height": 1
@@ -25604,7 +25604,7 @@ var textureData =
     {
         "name": "cnb:items/pink_minipad_flower",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 486,
         "width": 1,
         "height": 1
@@ -25636,7 +25636,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_soup_2",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 477,
         "width": 1,
         "height": 1
@@ -25652,7 +25652,7 @@ var textureData =
     {
         "name": "croptopia:item/fruit_smoothie",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 478,
         "width": 1,
         "height": 1
@@ -25668,7 +25668,7 @@ var textureData =
     {
         "name": "minecraft:item/snowball",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 482,
         "width": 1,
         "height": 1
@@ -25676,7 +25676,7 @@ var textureData =
     {
         "name": "croptopia:item/mortar_and_pestle",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 480,
         "width": 1,
         "height": 1
@@ -25692,7 +25692,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_soup_0",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 477,
         "width": 1,
         "height": 1
@@ -25708,7 +25708,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_soup_1",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 477,
         "width": 1,
         "height": 1
@@ -25764,7 +25764,7 @@ var textureData =
     {
         "name": "quark:item/rainbow_rune",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 481,
         "width": 1,
         "height": 1
@@ -25788,7 +25788,7 @@ var textureData =
     {
         "name": "cataclysm:items/void_scatter_arrow",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 487,
         "width": 1,
         "height": 1
@@ -25796,7 +25796,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_blue",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 482,
         "width": 1,
         "height": 1
@@ -25868,7 +25868,7 @@ var textureData =
     {
         "name": "croptopia:item/supreme_pizza",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 483,
         "width": 1,
         "height": 1
@@ -25876,7 +25876,7 @@ var textureData =
     {
         "name": "croptopia:item/grilled_cheese",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 478,
         "width": 1,
         "height": 1
@@ -25900,7 +25900,7 @@ var textureData =
     {
         "name": "byg:item/white_mangrove/boat",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 483,
         "width": 1,
         "height": 1
@@ -25980,7 +25980,7 @@ var textureData =
     {
         "name": "croptopia:item/peanut_butter_and_jam",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 481,
         "width": 1,
         "height": 1
@@ -25988,7 +25988,7 @@ var textureData =
     {
         "name": "nebs:items/harvester",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 485,
         "width": 1,
         "height": 1
@@ -26020,7 +26020,7 @@ var textureData =
     {
         "name": "artifacts:item/novelty_drinking_hat",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 480,
         "width": 1,
         "height": 1
@@ -26044,7 +26044,7 @@ var textureData =
     {
         "name": "cnb:items/heal_spell_book_1",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 485,
         "width": 1,
         "height": 1
@@ -26084,7 +26084,7 @@ var textureData =
     {
         "name": "croptopia:item/fried_frog_legs",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 478,
         "width": 1,
         "height": 1
@@ -26092,7 +26092,7 @@ var textureData =
     {
         "name": "create_confectionery:items/chocolate_candy",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 484,
         "width": 1,
         "height": 1
@@ -26124,7 +26124,7 @@ var textureData =
     {
         "name": "cnb:items/heal_spell_book_3",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 485,
         "width": 1,
         "height": 1
@@ -26132,7 +26132,7 @@ var textureData =
     {
         "name": "cnb:items/heal_spell_book_2",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 485,
         "width": 1,
         "height": 1
@@ -26196,7 +26196,7 @@ var textureData =
     {
         "name": "minecraft:item/gray_candle",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 478,
         "width": 1,
         "height": 1
@@ -26308,7 +26308,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_blue",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 478,
         "width": 1,
         "height": 1
@@ -26396,7 +26396,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_ingot",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 480,
         "width": 1,
         "height": 1
@@ -26412,7 +26412,7 @@ var textureData =
     {
         "name": "supplementaries:items/sconce_green",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 486,
         "width": 1,
         "height": 1
@@ -26436,7 +26436,7 @@ var textureData =
     {
         "name": "nethersdelight:item/ground_strider",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 478,
         "width": 1,
         "height": 1
@@ -26484,7 +26484,7 @@ var textureData =
     {
         "name": "nebs:items/combo",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 484,
         "width": 1,
         "height": 1
@@ -26492,7 +26492,7 @@ var textureData =
     {
         "name": "knight_quest:items/path_helmet_icon",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 486,
         "width": 1,
         "height": 1
@@ -26540,7 +26540,7 @@ var textureData =
     {
         "name": "farmersdelight:item/roasted_mutton_chops",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 482,
         "width": 1,
         "height": 1
@@ -26620,7 +26620,7 @@ var textureData =
     {
         "name": "quark:item/slime_in_a_bucket",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 482,
         "width": 1,
         "height": 1
@@ -26660,7 +26660,7 @@ var textureData =
     {
         "name": "knight_quest:items/pirate3_helmet_icon",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 486,
         "width": 1,
         "height": 1
@@ -26684,7 +26684,7 @@ var textureData =
     {
         "name": "miningmaster:item/haste_peridot_pickaxe",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 478,
         "width": 1,
         "height": 1
@@ -26692,7 +26692,7 @@ var textureData =
     {
         "name": "delightful:item/green_tea_leaf",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 478,
         "width": 1,
         "height": 1
@@ -26724,7 +26724,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/darcsvor",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 485,
         "width": 1,
         "height": 1
@@ -26756,7 +26756,7 @@ var textureData =
     {
         "name": "aquaculture:item/gold_fishing_rod_cast",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 478,
         "width": 1,
         "height": 1
@@ -26788,7 +26788,7 @@ var textureData =
     {
         "name": "croptopia:item/olive_oil",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 480,
         "width": 1,
         "height": 1
@@ -26812,7 +26812,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/lapis_reinforcement",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 479,
         "width": 1,
         "height": 1
@@ -26844,7 +26844,7 @@ var textureData =
     {
         "name": "endrem:items/undead_eye",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 487,
         "width": 1,
         "height": 1
@@ -26884,7 +26884,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/necrolord",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 488,
         "width": 1,
         "height": 1
@@ -26900,7 +26900,7 @@ var textureData =
     {
         "name": "knight_quest:items/ghast_helmet_icon",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 485,
         "width": 1,
         "height": 1
@@ -26908,7 +26908,7 @@ var textureData =
     {
         "name": "delightful:item/tin_knife",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 483,
         "width": 1,
         "height": 1
@@ -26916,7 +26916,7 @@ var textureData =
     {
         "name": "nebs:items/agility",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 484,
         "width": 1,
         "height": 1
@@ -26956,7 +26956,7 @@ var textureData =
     {
         "name": "minecraft:item/mangrove_propagule",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 479,
         "width": 1,
         "height": 1
@@ -26964,15 +26964,15 @@ var textureData =
     {
         "name": "deeperdarker:item/reinforced_echo_shard",
         "animated": false,
-        "x": 254,
-        "y": 481,
+        "x": 1,
+        "y": 482,
         "width": 1,
         "height": 1
     },
     {
         "name": "biomesoplenty:item/eyebulb",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 477,
         "width": 1,
         "height": 1
@@ -26996,7 +26996,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_cherry",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 487,
         "width": 1,
         "height": 1
@@ -27004,7 +27004,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_lime",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 482,
         "width": 1,
         "height": 1
@@ -27020,7 +27020,7 @@ var textureData =
     {
         "name": "minecraft:item/magenta_dye",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 479,
         "width": 1,
         "height": 1
@@ -27028,7 +27028,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_sythian",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27036,7 +27036,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/royal_wall_mirror_small_tint",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 488,
         "width": 1,
         "height": 1
@@ -27068,7 +27068,7 @@ var textureData =
     {
         "name": "nebs:items/breaking_curse",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 484,
         "width": 1,
         "height": 1
@@ -27100,7 +27100,7 @@ var textureData =
     {
         "name": "endrem:items/black_eye",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 484,
         "width": 1,
         "height": 1
@@ -27108,7 +27108,7 @@ var textureData =
     {
         "name": "create_sa:items/rose_quartz_shovel",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 486,
         "width": 1,
         "height": 1
@@ -27124,7 +27124,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/hair",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 478,
         "width": 1,
         "height": 1
@@ -27132,7 +27132,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/echo",
         "animated": true,
-        "x": 33,
+        "x": 36,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27212,7 +27212,7 @@ var textureData =
     {
         "name": "knight_quest:items/squire_leggings_icon",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 487,
         "width": 1,
         "height": 1
@@ -27244,7 +27244,7 @@ var textureData =
     {
         "name": "nebs:items/shield_bash",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 487,
         "width": 1,
         "height": 1
@@ -27252,7 +27252,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/venthyr_tea_cups",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 488,
         "width": 1,
         "height": 1
@@ -27308,8 +27308,8 @@ var textureData =
     {
         "name": "farmersdelight:item/melon_popsicle",
         "animated": false,
-        "x": 254,
-        "y": 479,
+        "x": 1,
+        "y": 480,
         "width": 1,
         "height": 1
     },
@@ -27332,7 +27332,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/dead_sea_scroll",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27364,7 +27364,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/fire1",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 478,
         "width": 1,
         "height": 1
@@ -27380,7 +27380,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/fire2",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 478,
         "width": 1,
         "height": 1
@@ -27412,7 +27412,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/elodea",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27492,7 +27492,7 @@ var textureData =
     {
         "name": "nethersdelight:item/golden_machete",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 478,
         "width": 1,
         "height": 1
@@ -27564,7 +27564,7 @@ var textureData =
     {
         "name": "alexsmobs:item/shark_tooth",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 482,
         "width": 1,
         "height": 1
@@ -27580,7 +27580,7 @@ var textureData =
     {
         "name": "knight_quest:items/husk_leggings_icon",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27636,7 +27636,7 @@ var textureData =
     {
         "name": "supplementaries:items/gold_door",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27700,7 +27700,7 @@ var textureData =
     {
         "name": "alexsmobs:item/serrated_shark_tooth",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 482,
         "width": 1,
         "height": 1
@@ -27708,7 +27708,7 @@ var textureData =
     {
         "name": "nebs:items/gotta_mine_fast",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27724,7 +27724,7 @@ var textureData =
     {
         "name": "alexsmobs:item/warped_mixture",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 483,
         "width": 1,
         "height": 1
@@ -27788,7 +27788,7 @@ var textureData =
     {
         "name": "croptopia:item/nutty_cookie",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 480,
         "width": 1,
         "height": 1
@@ -27812,7 +27812,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/venthyr",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 488,
         "width": 1,
         "height": 1
@@ -27820,7 +27820,7 @@ var textureData =
     {
         "name": "alexsmobs:item/novelty_hat",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 480,
         "width": 1,
         "height": 1
@@ -27836,7 +27836,7 @@ var textureData =
     {
         "name": "cnb:items/light_pink_minipad_flower",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 486,
         "width": 1,
         "height": 1
@@ -27844,7 +27844,7 @@ var textureData =
     {
         "name": "minecraft:item/mangrove_sign",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 479,
         "width": 1,
         "height": 1
@@ -27860,7 +27860,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_palm",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27868,7 +27868,7 @@ var textureData =
     {
         "name": "delightful:item/salmonberry_ice_cream",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 482,
         "width": 1,
         "height": 1
@@ -27884,7 +27884,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/sea_oats_item",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 482,
         "width": 1,
         "height": 1
@@ -27948,7 +27948,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_fir",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 485,
         "width": 1,
         "height": 1
@@ -27996,7 +27996,7 @@ var textureData =
     {
         "name": "create:item/propeller",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 481,
         "width": 1,
         "height": 1
@@ -28116,7 +28116,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_chatter",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 480,
         "width": 1,
         "height": 1
@@ -28124,7 +28124,7 @@ var textureData =
     {
         "name": "minecraft:item/shulker_shell",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 482,
         "width": 1,
         "height": 1
@@ -28148,7 +28148,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/umbran_chest_boat",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 483,
         "width": 1,
         "height": 1
@@ -28156,7 +28156,7 @@ var textureData =
     {
         "name": "create_sa:items/incomplete_steam_engine",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 485,
         "width": 1,
         "height": 1
@@ -28188,7 +28188,7 @@ var textureData =
     {
         "name": "minecraft:item/structure_void",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 483,
         "width": 1,
         "height": 1
@@ -28196,7 +28196,7 @@ var textureData =
     {
         "name": "moonlight:soft_fluids/dragon_breath_liquid",
         "animated": true,
-        "x": 106,
+        "x": 109,
         "y": 488,
         "width": 1,
         "height": 1
@@ -28260,15 +28260,15 @@ var textureData =
     {
         "name": "miningmaster:item/paragon_boots",
         "animated": false,
-        "x": 255,
-        "y": 480,
+        "x": 2,
+        "y": 481,
         "width": 1,
         "height": 1
     },
     {
         "name": "deeperdarker:item/sculk_transmitter",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 482,
         "width": 1,
         "height": 1
@@ -28292,7 +28292,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_orange",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 478,
         "width": 1,
         "height": 1
@@ -28300,7 +28300,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_blue3_leggings_icon",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 486,
         "width": 1,
         "height": 1
@@ -28308,7 +28308,7 @@ var textureData =
     {
         "name": "vinery:item/gloves",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 478,
         "width": 1,
         "height": 1
@@ -28316,7 +28316,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_palm",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 487,
         "width": 1,
         "height": 1
@@ -28500,7 +28500,7 @@ var textureData =
     {
         "name": "minecraft:item/mushroom_stew",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 480,
         "width": 1,
         "height": 1
@@ -28532,7 +28532,7 @@ var textureData =
     {
         "name": "delightful:item/warden_knife",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 483,
         "width": 1,
         "height": 1
@@ -28628,7 +28628,7 @@ var textureData =
     {
         "name": "supplementaries:items/bubble_blower_using",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 484,
         "width": 1,
         "height": 1
@@ -28636,7 +28636,7 @@ var textureData =
     {
         "name": "quark:item/green_shard",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 478,
         "width": 1,
         "height": 1
@@ -28652,7 +28652,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/roasted_mutton_chops_0",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 477,
         "width": 1,
         "height": 1
@@ -28660,7 +28660,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_bat_leggings_icon",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 486,
         "width": 1,
         "height": 1
@@ -28684,7 +28684,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/roasted_mutton_chops_2",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 477,
         "width": 1,
         "height": 1
@@ -28692,7 +28692,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/roasted_mutton_chops_1",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 477,
         "width": 1,
         "height": 1
@@ -28716,7 +28716,7 @@ var textureData =
     {
         "name": "biomemakeover:item/illunite_shard",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 478,
         "width": 1,
         "height": 1
@@ -28724,7 +28724,7 @@ var textureData =
     {
         "name": "minecraft:item/prismarine_crystals",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 481,
         "width": 1,
         "height": 1
@@ -28732,7 +28732,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomemakeover/hanging_sign_willow",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 485,
         "width": 1,
         "height": 1
@@ -28740,7 +28740,7 @@ var textureData =
     {
         "name": "croptopia:item/leafy_salad",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 479,
         "width": 1,
         "height": 1
@@ -28748,7 +28748,7 @@ var textureData =
     {
         "name": "minecraft:item/wooden_shovel",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 483,
         "width": 1,
         "height": 1
@@ -28756,7 +28756,7 @@ var textureData =
     {
         "name": "croptopia:item/kiwi",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 479,
         "width": 1,
         "height": 1
@@ -28788,7 +28788,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_willow",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 487,
         "width": 1,
         "height": 1
@@ -28812,7 +28812,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/cooked_rice",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 478,
         "width": 1,
         "height": 1
@@ -28844,7 +28844,7 @@ var textureData =
     {
         "name": "croptopia:item/pepperoni",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 481,
         "width": 1,
         "height": 1
@@ -28884,7 +28884,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/gunkan/salmon_gunkan",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 478,
         "width": 1,
         "height": 1
@@ -28916,7 +28916,7 @@ var textureData =
     {
         "name": "alexsmobs:item/halo",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 478,
         "width": 1,
         "height": 1
@@ -28948,7 +28948,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/maki/cucumber_maki",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 479,
         "width": 1,
         "height": 1
@@ -28996,7 +28996,7 @@ var textureData =
     {
         "name": "croptopia:item/pepper",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 481,
         "width": 1,
         "height": 1
@@ -29020,7 +29020,7 @@ var textureData =
     {
         "name": "majruszsaccessories:item/secret_ingredient",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 482,
         "width": 1,
         "height": 1
@@ -29044,7 +29044,7 @@ var textureData =
     {
         "name": "croptopia:item/sweetpotato",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 483,
         "width": 1,
         "height": 1
@@ -29060,7 +29060,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/slot_saucepan",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 482,
         "width": 1,
         "height": 1
@@ -29084,7 +29084,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_jetpack",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 484,
         "width": 1,
         "height": 1
@@ -29100,7 +29100,7 @@ var textureData =
     {
         "name": "alexsmobs:item/tendon_whip",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 483,
         "width": 1,
         "height": 1
@@ -29116,7 +29116,7 @@ var textureData =
     {
         "name": "deeperdarker:item/soul_elytra",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 482,
         "width": 1,
         "height": 1
@@ -29148,7 +29148,7 @@ var textureData =
     {
         "name": "nebs:items/smelter",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 487,
         "width": 1,
         "height": 1
@@ -29196,7 +29196,7 @@ var textureData =
     {
         "name": "nebs:items/doublejumpenchantment",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 485,
         "width": 1,
         "height": 1
@@ -29244,7 +29244,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/pirate_pouch",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 486,
         "width": 1,
         "height": 1
@@ -29252,7 +29252,7 @@ var textureData =
     {
         "name": "knight_quest:items/shield_leggings_icon",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 487,
         "width": 1,
         "height": 1
@@ -29292,7 +29292,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_shovel",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 483,
         "width": 1,
         "height": 1
@@ -29324,7 +29324,7 @@ var textureData =
     {
         "name": "croptopia:item/persimmon",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 481,
         "width": 1,
         "height": 1
@@ -29332,7 +29332,7 @@ var textureData =
     {
         "name": "create_confectionery:items/soothing_hot_chocolate",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 487,
         "width": 1,
         "height": 1
@@ -29348,7 +29348,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/maki/avocado_maki",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 479,
         "width": 1,
         "height": 1
@@ -29388,7 +29388,7 @@ var textureData =
     {
         "name": "nebs:items/charisma",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 484,
         "width": 1,
         "height": 1
@@ -29436,7 +29436,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/radar",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 486,
         "width": 1,
         "height": 1
@@ -29460,7 +29460,7 @@ var textureData =
     {
         "name": "alexsmobs:item/sombrero_upside_down",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 482,
         "width": 1,
         "height": 1
@@ -29468,7 +29468,7 @@ var textureData =
     {
         "name": "knight_quest:items/greatessence",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 485,
         "width": 1,
         "height": 1
@@ -29476,7 +29476,7 @@ var textureData =
     {
         "name": "croptopia:item/pumpkin_soup",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 481,
         "width": 1,
         "height": 1
@@ -29508,7 +29508,7 @@ var textureData =
     {
         "name": "sushigocrafting:rewards/tuna_back",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 488,
         "width": 1,
         "height": 1
@@ -29556,7 +29556,7 @@ var textureData =
     {
         "name": "eatinganimation:item/salmon_eating_2",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 482,
         "width": 1,
         "height": 1
@@ -29564,7 +29564,7 @@ var textureData =
     {
         "name": "eatinganimation:item/salmon_eating_0",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 482,
         "width": 1,
         "height": 1
@@ -29572,7 +29572,7 @@ var textureData =
     {
         "name": "eatinganimation:item/salmon_eating_1",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 482,
         "width": 1,
         "height": 1
@@ -29588,7 +29588,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_jacaranda",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 485,
         "width": 1,
         "height": 1
@@ -29628,7 +29628,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_leggings",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 479,
         "width": 1,
         "height": 1
@@ -29636,7 +29636,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_boots",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 488,
         "width": 1,
         "height": 1
@@ -29668,7 +29668,7 @@ var textureData =
     {
         "name": "nebs:items/lightweight",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 486,
         "width": 1,
         "height": 1
@@ -29684,7 +29684,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_leggings",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 480,
         "width": 1,
         "height": 1
@@ -29692,8 +29692,8 @@ var textureData =
     {
         "name": "nebs:items/curse_death",
         "animated": false,
-        "x": 255,
-        "y": 484,
+        "x": 2,
+        "y": 485,
         "width": 1,
         "height": 1
     },
@@ -29708,7 +29708,7 @@ var textureData =
     {
         "name": "croptopia:item/whipping_cream",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 483,
         "width": 1,
         "height": 1
@@ -29716,7 +29716,7 @@ var textureData =
     {
         "name": "croptopia:item/hops_seed",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 478,
         "width": 1,
         "height": 1
@@ -29724,7 +29724,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_leggings",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 480,
         "width": 1,
         "height": 1
@@ -29740,7 +29740,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_blue_helmet_icon",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 484,
         "width": 1,
         "height": 1
@@ -29796,7 +29796,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_boots",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 479,
         "width": 1,
         "height": 1
@@ -29804,7 +29804,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/grilled_salmon_0",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 477,
         "width": 1,
         "height": 1
@@ -29812,7 +29812,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/grilled_salmon_1",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 477,
         "width": 1,
         "height": 1
@@ -29820,7 +29820,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/grilled_salmon_2",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 477,
         "width": 1,
         "height": 1
@@ -29836,7 +29836,7 @@ var textureData =
     {
         "name": "nebs:items/persistence",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 486,
         "width": 1,
         "height": 1
@@ -29844,7 +29844,7 @@ var textureData =
     {
         "name": "minecraft:item/wooden_pickaxe",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 483,
         "width": 1,
         "height": 1
@@ -29852,7 +29852,7 @@ var textureData =
     {
         "name": "miningmaster:item/heart_rhodonite",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 478,
         "width": 1,
         "height": 1
@@ -29900,7 +29900,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_sea_helmet_icon",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 486,
         "width": 1,
         "height": 1
@@ -29908,7 +29908,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/luminescent_lamp_item",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 486,
         "width": 1,
         "height": 1
@@ -29916,8 +29916,8 @@ var textureData =
     {
         "name": "farmersdelight:item/melon_juice",
         "animated": false,
-        "x": 253,
-        "y": 479,
+        "x": 0,
+        "y": 480,
         "width": 1,
         "height": 1
     },
@@ -29964,7 +29964,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/magic_sign",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 479,
         "width": 1,
         "height": 1
@@ -29988,7 +29988,7 @@ var textureData =
     {
         "name": "miningmaster:item/kinetic_opal_axe",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 479,
         "width": 1,
         "height": 1
@@ -29996,7 +29996,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_spruce",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 485,
         "width": 1,
         "height": 1
@@ -30052,7 +30052,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/slot_skillet",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 482,
         "width": 1,
         "height": 1
@@ -30076,7 +30076,7 @@ var textureData =
     {
         "name": "eatinganimation:item/golden_carrot_eating_0",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 478,
         "width": 1,
         "height": 1
@@ -30100,7 +30100,7 @@ var textureData =
     {
         "name": "eatinganimation:item/golden_carrot_eating_2",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 478,
         "width": 1,
         "height": 1
@@ -30108,7 +30108,7 @@ var textureData =
     {
         "name": "eatinganimation:item/golden_carrot_eating_1",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 478,
         "width": 1,
         "height": 1
@@ -30164,7 +30164,7 @@ var textureData =
     {
         "name": "croptopia:item/pork_and_beans",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 481,
         "width": 1,
         "height": 1
@@ -30188,7 +30188,7 @@ var textureData =
     {
         "name": "biomemakeover:item/swamp_cypress_chestboat",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 483,
         "width": 1,
         "height": 1
@@ -30204,7 +30204,7 @@ var textureData =
     {
         "name": "farmersdelight:item/noodle_soup",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 480,
         "width": 1,
         "height": 1
@@ -30220,7 +30220,7 @@ var textureData =
     {
         "name": "croptopia:item/orange",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 480,
         "width": 1,
         "height": 1
@@ -30236,7 +30236,7 @@ var textureData =
     {
         "name": "alexsmobs:item/fedora",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 477,
         "width": 1,
         "height": 1
@@ -30244,7 +30244,7 @@ var textureData =
     {
         "name": "knight_quest:items/evoker_boots_icon",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 485,
         "width": 1,
         "height": 1
@@ -30300,7 +30300,7 @@ var textureData =
     {
         "name": "aquaculture:item/tin_can",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 483,
         "width": 1,
         "height": 1
@@ -30364,7 +30364,7 @@ var textureData =
     {
         "name": "croptopia:item/steamed_green_beans",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 482,
         "width": 1,
         "height": 1
@@ -30396,7 +30396,7 @@ var textureData =
     {
         "name": "minecraft:item/red_dye",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 481,
         "width": 1,
         "height": 1
@@ -30428,7 +30428,7 @@ var textureData =
     {
         "name": "croptopia:item/yam_seed",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 483,
         "width": 1,
         "height": 1
@@ -30452,7 +30452,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/plant/rice",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 481,
         "width": 1,
         "height": 1
@@ -30476,7 +30476,7 @@ var textureData =
     {
         "name": "minecraft:item/powder_snow_bucket",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 481,
         "width": 1,
         "height": 1
@@ -30548,7 +30548,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/duhbutil",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 485,
         "width": 1,
         "height": 1
@@ -30596,7 +30596,7 @@ var textureData =
     {
         "name": "blocky_siege:items/chain_shot_2",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 484,
         "width": 1,
         "height": 1
@@ -30612,7 +30612,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/dunmer",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 488,
         "width": 1,
         "height": 1
@@ -30684,7 +30684,7 @@ var textureData =
     {
         "name": "minecraft:item/gunpowder",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 478,
         "width": 1,
         "height": 1
@@ -30716,7 +30716,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pasta_with_mutton_chop_2",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 477,
         "width": 1,
         "height": 1
@@ -30724,7 +30724,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pasta_with_mutton_chop_1",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 477,
         "width": 1,
         "height": 1
@@ -30740,7 +30740,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pasta_with_mutton_chop_0",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 477,
         "width": 1,
         "height": 1
@@ -30756,7 +30756,7 @@ var textureData =
     {
         "name": "itemfilters:item/tag",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 483,
         "width": 1,
         "height": 1
@@ -30820,7 +30820,7 @@ var textureData =
     {
         "name": "alexsmobs:item/gongylidia",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 478,
         "width": 1,
         "height": 1
@@ -30836,7 +30836,7 @@ var textureData =
     {
         "name": "alexsmobs:item/shark_tooth_arrow",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 482,
         "width": 1,
         "height": 1
@@ -30844,7 +30844,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/esca",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 485,
         "width": 1,
         "height": 1
@@ -30852,7 +30852,7 @@ var textureData =
     {
         "name": "miningmaster:item/lucky_citrine_pickaxe",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 479,
         "width": 1,
         "height": 1
@@ -30868,7 +30868,7 @@ var textureData =
     {
         "name": "minecraft:item/oak_door",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 480,
         "width": 1,
         "height": 1
@@ -30892,7 +30892,7 @@ var textureData =
     {
         "name": "supplementaries:items/candy_christmas",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 484,
         "width": 1,
         "height": 1
@@ -30900,15 +30900,15 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/koghotstalkiera",
         "animated": false,
-        "x": 254,
-        "y": 485,
+        "x": 1,
+        "y": 486,
         "width": 1,
         "height": 1
     },
     {
         "name": "knight_quest:items/skeleton_boots_icon",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 487,
         "width": 1,
         "height": 1
@@ -30980,7 +30980,7 @@ var textureData =
     {
         "name": "alexsdelight:item/lobster_pasta",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 479,
         "width": 1,
         "height": 1
@@ -30988,7 +30988,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_aspen",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 487,
         "width": 1,
         "height": 1
@@ -31004,7 +31004,7 @@ var textureData =
     {
         "name": "alexsmobs:item/large_catfish_bucket",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 479,
         "width": 1,
         "height": 1
@@ -31052,7 +31052,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/rusty_iron_nugget",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 482,
         "width": 1,
         "height": 1
@@ -31084,8 +31084,8 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/nori_sheets",
         "animated": false,
-        "x": 254,
-        "y": 478,
+        "x": 1,
+        "y": 479,
         "width": 1,
         "height": 1
     },
@@ -31100,7 +31100,7 @@ var textureData =
     {
         "name": "croptopia:item/tofuburger",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 483,
         "width": 1,
         "height": 1
@@ -31108,7 +31108,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/antimob",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 484,
         "width": 1,
         "height": 1
@@ -31196,7 +31196,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/staffofmagicarrows",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 487,
         "width": 1,
         "height": 1
@@ -31236,7 +31236,7 @@ var textureData =
     {
         "name": "minecraft:item/purple_candle",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 481,
         "width": 1,
         "height": 1
@@ -31244,7 +31244,7 @@ var textureData =
     {
         "name": "create_sa:items/blazing_axe",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 484,
         "width": 1,
         "height": 1
@@ -31252,8 +31252,8 @@ var textureData =
     {
         "name": "nebs:items/knowledge",
         "animated": false,
-        "x": 253,
-        "y": 485,
+        "x": 0,
+        "y": 486,
         "width": 1,
         "height": 1
     },
@@ -31324,7 +31324,7 @@ var textureData =
     {
         "name": "aquaculture:item/heavy_hook",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 478,
         "width": 1,
         "height": 1
@@ -31356,7 +31356,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/wisteria_small_item",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 487,
         "width": 1,
         "height": 1
@@ -31380,7 +31380,7 @@ var textureData =
     {
         "name": "byg:item/skyris/door",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 482,
         "width": 1,
         "height": 1
@@ -31396,7 +31396,7 @@ var textureData =
     {
         "name": "create:item/wrench",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 483,
         "width": 1,
         "height": 1
@@ -31404,7 +31404,7 @@ var textureData =
     {
         "name": "artifacts:item/scarf_of_invisibility",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 482,
         "width": 1,
         "height": 1
@@ -31412,7 +31412,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_crickets",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 480,
         "width": 1,
         "height": 1
@@ -31452,7 +31452,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/cheese",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 478,
         "width": 1,
         "height": 1
@@ -31468,7 +31468,7 @@ var textureData =
     {
         "name": "byg:item/zelkova/door",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 484,
         "width": 1,
         "height": 1
@@ -31476,7 +31476,7 @@ var textureData =
     {
         "name": "supplementaries:items/pancake",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 486,
         "width": 1,
         "height": 1
@@ -31492,7 +31492,7 @@ var textureData =
     {
         "name": "nebs:items/speedboost",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 487,
         "width": 1,
         "height": 1
@@ -31500,7 +31500,7 @@ var textureData =
     {
         "name": "infernalexp:item/infernal_painting",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 478,
         "width": 1,
         "height": 1
@@ -31532,7 +31532,7 @@ var textureData =
     {
         "name": "minecraft:item/lantern",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 479,
         "width": 1,
         "height": 1
@@ -31580,7 +31580,7 @@ var textureData =
     {
         "name": "cnb:items/entity_net",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 485,
         "width": 1,
         "height": 1
@@ -31596,7 +31596,7 @@ var textureData =
     {
         "name": "knight_quest:items/firestave",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 485,
         "width": 1,
         "height": 1
@@ -31644,7 +31644,7 @@ var textureData =
     {
         "name": "croptopia:item/toast",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 483,
         "width": 1,
         "height": 1
@@ -31652,7 +31652,7 @@ var textureData =
     {
         "name": "knight_quest:items/pirate2_helmet_icon",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 486,
         "width": 1,
         "height": 1
@@ -31684,7 +31684,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_blue_main_icon",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 484,
         "width": 1,
         "height": 1
@@ -31692,7 +31692,7 @@ var textureData =
     {
         "name": "nebs:items/end_veil",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 485,
         "width": 1,
         "height": 1
@@ -31700,7 +31700,7 @@ var textureData =
     {
         "name": "nebs:items/exp_boost",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 485,
         "width": 1,
         "height": 1
@@ -31708,7 +31708,7 @@ var textureData =
     {
         "name": "nebs:items/dashing",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 485,
         "width": 1,
         "height": 1
@@ -31748,7 +31748,7 @@ var textureData =
     {
         "name": "minecraft:item/spyglass",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 482,
         "width": 1,
         "height": 1
@@ -31764,7 +31764,7 @@ var textureData =
     {
         "name": "create:item/zinc_ingot",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 484,
         "width": 1,
         "height": 1
@@ -31772,7 +31772,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_lament",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 485,
         "width": 1,
         "height": 1
@@ -31780,7 +31780,7 @@ var textureData =
     {
         "name": "farmersdelight:item/rice_panicle",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 482,
         "width": 1,
         "height": 1
@@ -31796,7 +31796,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/tuna_bucket",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 483,
         "width": 1,
         "height": 1
@@ -31804,7 +31804,7 @@ var textureData =
     {
         "name": "minecraft:item/light_blue_candle",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 479,
         "width": 1,
         "height": 1
@@ -31812,7 +31812,7 @@ var textureData =
     {
         "name": "croptopia:item/pork_jerky",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 481,
         "width": 1,
         "height": 1
@@ -31820,7 +31820,7 @@ var textureData =
     {
         "name": "quark:item/gray_shard",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 478,
         "width": 1,
         "height": 1
@@ -31876,7 +31876,7 @@ var textureData =
     {
         "name": "minecraft:item/shears",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 482,
         "width": 1,
         "height": 1
@@ -31900,7 +31900,7 @@ var textureData =
     {
         "name": "create_sa:items/hydraulic_engine",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 485,
         "width": 1,
         "height": 1
@@ -31964,7 +31964,7 @@ var textureData =
     {
         "name": "nebs:items/archmage",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 484,
         "width": 1,
         "height": 1
@@ -31972,7 +31972,7 @@ var textureData =
     {
         "name": "alexsmobs:item/void_worm_eye",
         "animated": true,
-        "x": 162,
+        "x": 165,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32004,7 +32004,7 @@ var textureData =
     {
         "name": "ecologics:item/flowering_azalea_door",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 478,
         "width": 1,
         "height": 1
@@ -32020,7 +32020,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_fir",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 487,
         "width": 1,
         "height": 1
@@ -32028,7 +32028,7 @@ var textureData =
     {
         "name": "deeperdarker:item/soul_elytra_broken",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 482,
         "width": 1,
         "height": 1
@@ -32076,7 +32076,7 @@ var textureData =
     {
         "name": "croptopia:item/tamales",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32108,7 +32108,7 @@ var textureData =
     {
         "name": "primitivestart:items/bone_hoe",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 484,
         "width": 1,
         "height": 1
@@ -32140,7 +32140,7 @@ var textureData =
     {
         "name": "cataclysm:items/ignitium_helmet",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 485,
         "width": 1,
         "height": 1
@@ -32172,7 +32172,7 @@ var textureData =
     {
         "name": "alexsmobs:item/mosquito_larva",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 480,
         "width": 1,
         "height": 1
@@ -32180,7 +32180,7 @@ var textureData =
     {
         "name": "nebs:items/homing",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 485,
         "width": 1,
         "height": 1
@@ -32188,7 +32188,7 @@ var textureData =
     {
         "name": "alexsmobs:item/void_worm_beak",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32212,7 +32212,7 @@ var textureData =
     {
         "name": "nebs:items/cavalier",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 484,
         "width": 1,
         "height": 1
@@ -32220,7 +32220,7 @@ var textureData =
     {
         "name": "knight_quest:items/skeleton_leggings_icon",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 487,
         "width": 1,
         "height": 1
@@ -32252,7 +32252,7 @@ var textureData =
     {
         "name": "nebs:items/doublejump",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 485,
         "width": 1,
         "height": 1
@@ -32276,7 +32276,7 @@ var textureData =
     {
         "name": "byg:item/therium_lantern",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32284,7 +32284,7 @@ var textureData =
     {
         "name": "nebs:items/angler",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 484,
         "width": 1,
         "height": 1
@@ -32300,7 +32300,7 @@ var textureData =
     {
         "name": "alexsmobs:item/tarantula_hawk_wing",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32348,7 +32348,7 @@ var textureData =
     {
         "name": "minecraft:item/pink_candle",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 481,
         "width": 1,
         "height": 1
@@ -32364,7 +32364,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/gold_chain",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 478,
         "width": 1,
         "height": 1
@@ -32420,7 +32420,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_skyris",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 485,
         "width": 1,
         "height": 1
@@ -32444,7 +32444,7 @@ var textureData =
     {
         "name": "croptopia:item/radish",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 481,
         "width": 1,
         "height": 1
@@ -32484,7 +32484,7 @@ var textureData =
     {
         "name": "croptopia:item/strawberry_smoothie",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32500,7 +32500,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/large_gold_chain",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 479,
         "width": 1,
         "height": 1
@@ -32516,7 +32516,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/mahogany_door",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 479,
         "width": 1,
         "height": 1
@@ -32532,7 +32532,7 @@ var textureData =
     {
         "name": "nebs:items/hell_infusion",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 485,
         "width": 1,
         "height": 1
@@ -32556,7 +32556,7 @@ var textureData =
     {
         "name": "farmersdelight:item/salmon_slice",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 482,
         "width": 1,
         "height": 1
@@ -32580,7 +32580,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_bulbis",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 485,
         "width": 1,
         "height": 1
@@ -32588,7 +32588,7 @@ var textureData =
     {
         "name": "create_confectionery:items/white_chocolate_glazed_berries",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 487,
         "width": 1,
         "height": 1
@@ -32604,7 +32604,7 @@ var textureData =
     {
         "name": "curios:slot/empty_cosmetic_slot",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 488,
         "width": 1,
         "height": 1
@@ -32644,7 +32644,7 @@ var textureData =
     {
         "name": "croptopia:item/pecan_ice_cream",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 481,
         "width": 1,
         "height": 1
@@ -32700,7 +32700,7 @@ var textureData =
     {
         "name": "minecraft:item/minecart",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 480,
         "width": 1,
         "height": 1
@@ -32716,7 +32716,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/mushrooms_red",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 488,
         "width": 1,
         "height": 1
@@ -32740,7 +32740,7 @@ var textureData =
     {
         "name": "alexsdelight:item/raw_bison",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 481,
         "width": 1,
         "height": 1
@@ -32780,7 +32780,7 @@ var textureData =
     {
         "name": "minecraft:item/spawn_egg",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 482,
         "width": 1,
         "height": 1
@@ -32796,7 +32796,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/ham_0",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 477,
         "width": 1,
         "height": 1
@@ -32804,7 +32804,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_sword",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32820,7 +32820,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/ham_2",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 477,
         "width": 1,
         "height": 1
@@ -32836,7 +32836,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/ham_1",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 477,
         "width": 1,
         "height": 1
@@ -32852,7 +32852,7 @@ var textureData =
     {
         "name": "croptopia:item/lime",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 479,
         "width": 1,
         "height": 1
@@ -32860,7 +32860,7 @@ var textureData =
     {
         "name": "knight_quest:items/conquistador2_helmet_icon",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 484,
         "width": 1,
         "height": 1
@@ -32884,7 +32884,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_horse_armor",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 478,
         "width": 1,
         "height": 1
@@ -32900,7 +32900,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/bonruk",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 484,
         "width": 1,
         "height": 1
@@ -32948,7 +32948,7 @@ var textureData =
     {
         "name": "croptopia:item/tomato",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 483,
         "width": 1,
         "height": 1
@@ -32972,7 +32972,7 @@ var textureData =
     {
         "name": "alexsmobs:item/lost_tentacle",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 479,
         "width": 1,
         "height": 1
@@ -32996,7 +32996,7 @@ var textureData =
     {
         "name": "spirit:item/soul_steel_pickaxe",
         "animated": true,
-        "x": 184,
+        "x": 187,
         "y": 482,
         "width": 1,
         "height": 1
@@ -33092,7 +33092,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/kozhamonstra",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 486,
         "width": 1,
         "height": 1
@@ -33100,7 +33100,7 @@ var textureData =
     {
         "name": "nebs:items/soul_speed",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 487,
         "width": 1,
         "height": 1
@@ -33124,7 +33124,7 @@ var textureData =
     {
         "name": "cnb:items/cinder_sword",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 484,
         "width": 1,
         "height": 1
@@ -33252,7 +33252,7 @@ var textureData =
     {
         "name": "alexsmobs:item/skelewag_sword",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 482,
         "width": 1,
         "height": 1
@@ -33284,7 +33284,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_exoskeleton",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 484,
         "width": 1,
         "height": 1
@@ -33292,7 +33292,7 @@ var textureData =
     {
         "name": "farmersdelight:item/shepherds_pie_block",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 482,
         "width": 1,
         "height": 1
@@ -33364,7 +33364,7 @@ var textureData =
     {
         "name": "minecraft:item/fermented_spider_eye",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 477,
         "width": 1,
         "height": 1
@@ -33388,7 +33388,7 @@ var textureData =
     {
         "name": "croptopia:item/wine",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 483,
         "width": 1,
         "height": 1
@@ -33428,7 +33428,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/light_blue",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 484,
         "width": 1,
         "height": 1
@@ -33452,7 +33452,7 @@ var textureData =
     {
         "name": "ftbquests:item/lootcrate/top_outline",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 479,
         "width": 1,
         "height": 1
@@ -33460,7 +33460,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/pinecones",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 481,
         "width": 1,
         "height": 1
@@ -33484,7 +33484,7 @@ var textureData =
     {
         "name": "nebs:items/curse_aquaphobia",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 484,
         "width": 1,
         "height": 1
@@ -33492,7 +33492,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/nordic_sweetrolls",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 488,
         "width": 1,
         "height": 1
@@ -33516,7 +33516,7 @@ var textureData =
     {
         "name": "alexsmobs:item/shrimp_fried_rice",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 482,
         "width": 1,
         "height": 1
@@ -33548,7 +33548,7 @@ var textureData =
     {
         "name": "aquaculture:item/fishing_spool",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 477,
         "width": 1,
         "height": 1
@@ -33556,7 +33556,7 @@ var textureData =
     {
         "name": "spirit:item/mob_crystal_filled",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 480,
         "width": 1,
         "height": 1
@@ -33604,7 +33604,7 @@ var textureData =
     {
         "name": "croptopia:item/food_press",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 478,
         "width": 1,
         "height": 1
@@ -33636,7 +33636,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_jungle",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 485,
         "width": 1,
         "height": 1
@@ -33692,7 +33692,7 @@ var textureData =
     {
         "name": "nebs:items/vorpal",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 487,
         "width": 1,
         "height": 1
@@ -33708,7 +33708,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_sword",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 484,
         "width": 1,
         "height": 1
@@ -33724,7 +33724,7 @@ var textureData =
     {
         "name": "croptopia:item/rhubarb_seed",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 482,
         "width": 1,
         "height": 1
@@ -33748,7 +33748,7 @@ var textureData =
     {
         "name": "nebs:items/dodge",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 485,
         "width": 1,
         "height": 1
@@ -33756,7 +33756,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_helmet",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 480,
         "width": 1,
         "height": 1
@@ -33764,7 +33764,7 @@ var textureData =
     {
         "name": "deeperdarker:item/wanderers_notebook",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 483,
         "width": 1,
         "height": 1
@@ -33804,7 +33804,7 @@ var textureData =
     {
         "name": "manyideas_core:item/plates/plate_iron",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 481,
         "width": 1,
         "height": 1
@@ -33852,7 +33852,7 @@ var textureData =
     {
         "name": "croptopia:item/mustard",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 480,
         "width": 1,
         "height": 1
@@ -33876,7 +33876,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/deeperdarker/sign_post_echo",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 487,
         "width": 1,
         "height": 1
@@ -33884,7 +33884,7 @@ var textureData =
     {
         "name": "cnb:items/yellow_minipad_flower",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 488,
         "width": 1,
         "height": 1
@@ -33892,7 +33892,7 @@ var textureData =
     {
         "name": "knight_quest:items/blaze_boots_icon",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 484,
         "width": 1,
         "height": 1
@@ -33908,7 +33908,7 @@ var textureData =
     {
         "name": "croptopia:item/greenonion",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 478,
         "width": 1,
         "height": 1
@@ -33940,7 +33940,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_helmet",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 484,
         "width": 1,
         "height": 1
@@ -33956,7 +33956,7 @@ var textureData =
     {
         "name": "nebs:items/alleviating",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 484,
         "width": 1,
         "height": 1
@@ -34012,7 +34012,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_light_gray",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 482,
         "width": 1,
         "height": 1
@@ -34020,7 +34020,7 @@ var textureData =
     {
         "name": "alexsdelight:item/raw_catfish_slice",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 481,
         "width": 1,
         "height": 1
@@ -34036,7 +34036,7 @@ var textureData =
     {
         "name": "farmersdelight:item/purple_canvas_sign",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 481,
         "width": 1,
         "height": 1
@@ -34052,7 +34052,7 @@ var textureData =
     {
         "name": "scalinghealth:item/heart_crystal_shard",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 478,
         "width": 1,
         "height": 1
@@ -34076,7 +34076,7 @@ var textureData =
     {
         "name": "nebs:items/reflective",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 486,
         "width": 1,
         "height": 1
@@ -34108,7 +34108,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_hoe",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 480,
         "width": 1,
         "height": 1
@@ -34132,7 +34132,7 @@ var textureData =
     {
         "name": "croptopia:item/soy_milk",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 482,
         "width": 1,
         "height": 1
@@ -34140,7 +34140,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_forze2_leggings_icon",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 486,
         "width": 1,
         "height": 1
@@ -34156,7 +34156,7 @@ var textureData =
     {
         "name": "croptopia:item/pear",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 481,
         "width": 1,
         "height": 1
@@ -34172,7 +34172,7 @@ var textureData =
     {
         "name": "alexsmobs:item/sombrero",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 482,
         "width": 1,
         "height": 1
@@ -34196,7 +34196,7 @@ var textureData =
     {
         "name": "cnb:items/lizard_item_desert",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 486,
         "width": 1,
         "height": 1
@@ -34252,7 +34252,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_mahogany",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 487,
         "width": 1,
         "height": 1
@@ -34268,7 +34268,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pie_crust_1",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 477,
         "width": 1,
         "height": 1
@@ -34284,7 +34284,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pie_crust_2",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 477,
         "width": 1,
         "height": 1
@@ -34300,7 +34300,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pie_crust_0",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 477,
         "width": 1,
         "height": 1
@@ -34332,7 +34332,7 @@ var textureData =
     {
         "name": "minecraft:item/raw_iron",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 481,
         "width": 1,
         "height": 1
@@ -34340,7 +34340,7 @@ var textureData =
     {
         "name": "nebs:items/tethered_teleport",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 487,
         "width": 1,
         "height": 1
@@ -34356,7 +34356,7 @@ var textureData =
     {
         "name": "minecraft:item/warped_fungus_on_a_stick",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 483,
         "width": 1,
         "height": 1
@@ -34388,7 +34388,7 @@ var textureData =
     {
         "name": "alexsmobs:item/maraca",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 479,
         "width": 1,
         "height": 1
@@ -34396,7 +34396,7 @@ var textureData =
     {
         "name": "knight_quest:items/warlord_leggings_icon",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 487,
         "width": 1,
         "height": 1
@@ -34428,7 +34428,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/abyssal_tiara",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 484,
         "width": 1,
         "height": 1
@@ -34436,7 +34436,7 @@ var textureData =
     {
         "name": "scalinghealth:item/power_crystal",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 481,
         "width": 1,
         "height": 1
@@ -34476,7 +34476,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_birch",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 480,
         "width": 1,
         "height": 1
@@ -34484,7 +34484,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_sea_leggings_icon",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 486,
         "width": 1,
         "height": 1
@@ -34588,7 +34588,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/beef_stew_1",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 477,
         "width": 1,
         "height": 1
@@ -34596,7 +34596,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/beef_stew_2",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 477,
         "width": 1,
         "height": 1
@@ -34604,7 +34604,7 @@ var textureData =
     {
         "name": "aquaculture:item/lower_bucket",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 479,
         "width": 1,
         "height": 1
@@ -34628,7 +34628,7 @@ var textureData =
     {
         "name": "croptopia:item/roasted_asparagus",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 482,
         "width": 1,
         "height": 1
@@ -34660,7 +34660,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/beef_stew_0",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 477,
         "width": 1,
         "height": 1
@@ -34708,7 +34708,7 @@ var textureData =
     {
         "name": "byg:item/jacaranda/boat",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 479,
         "width": 1,
         "height": 1
@@ -34716,7 +34716,7 @@ var textureData =
     {
         "name": "croptopia:item/turnip",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 483,
         "width": 1,
         "height": 1
@@ -34724,7 +34724,7 @@ var textureData =
     {
         "name": "nebs:items/horse_protection",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 485,
         "width": 1,
         "height": 1
@@ -34732,7 +34732,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_fishing_rod_cast",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 480,
         "width": 1,
         "height": 1
@@ -34764,7 +34764,7 @@ var textureData =
     {
         "name": "croptopia:item/grape_juice",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 478,
         "width": 1,
         "height": 1
@@ -34788,7 +34788,7 @@ var textureData =
     {
         "name": "croptopia:item/veggie_salad",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 483,
         "width": 1,
         "height": 1
@@ -34844,7 +34844,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_cika",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 487,
         "width": 1,
         "height": 1
@@ -34892,7 +34892,7 @@ var textureData =
     {
         "name": "nebs:items/lifesteal",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 486,
         "width": 1,
         "height": 1
@@ -34908,7 +34908,7 @@ var textureData =
     {
         "name": "farmersdelight:item/pumpkin_soup",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 481,
         "width": 1,
         "height": 1
@@ -34956,7 +34956,7 @@ var textureData =
     {
         "name": "croptopia:item/saguaro_juice",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 482,
         "width": 1,
         "height": 1
@@ -34972,7 +34972,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_helmet",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 488,
         "width": 1,
         "height": 1
@@ -34988,7 +34988,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/willow_boat",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 483,
         "width": 1,
         "height": 1
@@ -35028,7 +35028,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/water2",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 478,
         "width": 1,
         "height": 1
@@ -35044,7 +35044,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/water1",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 478,
         "width": 1,
         "height": 1
@@ -35060,7 +35060,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/slot_bakeware",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 482,
         "width": 1,
         "height": 1
@@ -35092,7 +35092,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/slime_bucket",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 487,
         "width": 1,
         "height": 1
@@ -35108,7 +35108,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_pickaxe",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 478,
         "width": 1,
         "height": 1
@@ -35124,7 +35124,7 @@ var textureData =
     {
         "name": "farmersdelight:item/minced_beef",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 480,
         "width": 1,
         "height": 1
@@ -35180,7 +35180,7 @@ var textureData =
     {
         "name": "delightful:item/venison_chops",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 483,
         "width": 1,
         "height": 1
@@ -35188,7 +35188,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/lime",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 484,
         "width": 1,
         "height": 1
@@ -35252,7 +35252,7 @@ var textureData =
     {
         "name": "farmersdelight:item/light_blue_canvas_sign",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 479,
         "width": 1,
         "height": 1
@@ -35268,7 +35268,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/shepherds_pie_2",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 477,
         "width": 1,
         "height": 1
@@ -35276,7 +35276,7 @@ var textureData =
     {
         "name": "supplementaries:items/crimson_lantern",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 484,
         "width": 1,
         "height": 1
@@ -35300,7 +35300,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/shepherds_pie_0",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 477,
         "width": 1,
         "height": 1
@@ -35308,7 +35308,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/shepherds_pie_1",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 477,
         "width": 1,
         "height": 1
@@ -35316,7 +35316,7 @@ var textureData =
     {
         "name": "knight_quest:items/pirate_main_icon",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 486,
         "width": 1,
         "height": 1
@@ -35372,7 +35372,7 @@ var textureData =
     {
         "name": "minecraft:item/trident",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 483,
         "width": 1,
         "height": 1
@@ -35380,7 +35380,7 @@ var textureData =
     {
         "name": "minecraft:item/rabbit_foot",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 481,
         "width": 1,
         "height": 1
@@ -35396,7 +35396,7 @@ var textureData =
     {
         "name": "alexsmobs:item/hemolymph_sac",
         "animated": true,
-        "x": 188,
+        "x": 191,
         "y": 478,
         "width": 1,
         "height": 1
@@ -35500,7 +35500,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_willow",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 485,
         "width": 1,
         "height": 1
@@ -35508,7 +35508,7 @@ var textureData =
     {
         "name": "curios:slot/empty_body_slot",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 488,
         "width": 1,
         "height": 1
@@ -35516,7 +35516,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_ether",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 487,
         "width": 1,
         "height": 1
@@ -35524,7 +35524,7 @@ var textureData =
     {
         "name": "crittersandcompanions:item/sea_bunny_bucket_1",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 482,
         "width": 1,
         "height": 1
@@ -35596,7 +35596,7 @@ var textureData =
     {
         "name": "crittersandcompanions:item/sea_bunny_bucket_2",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 482,
         "width": 1,
         "height": 1
@@ -35644,7 +35644,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_horse_armor",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 479,
         "width": 1,
         "height": 1
@@ -35652,7 +35652,7 @@ var textureData =
     {
         "name": "delightful:item/salmonberry_pie",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 482,
         "width": 1,
         "height": 1
@@ -35732,7 +35732,7 @@ var textureData =
     {
         "name": "create_sa:items/incomplete_hydraulic_engine",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 485,
         "width": 1,
         "height": 1
@@ -35796,7 +35796,7 @@ var textureData =
     {
         "name": "create_confectionery:items/white_chocolate_candy",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 487,
         "width": 1,
         "height": 1
@@ -35804,7 +35804,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/blue",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 484,
         "width": 1,
         "height": 1
@@ -35812,7 +35812,7 @@ var textureData =
     {
         "name": "aquaculture:item/minnow",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 480,
         "width": 1,
         "height": 1
@@ -35836,7 +35836,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cod_slice_2",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 477,
         "width": 1,
         "height": 1
@@ -35844,7 +35844,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cod_slice_1",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 477,
         "width": 1,
         "height": 1
@@ -35868,7 +35868,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cod_slice_0",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 477,
         "width": 1,
         "height": 1
@@ -35884,7 +35884,7 @@ var textureData =
     {
         "name": "nebs:items/vengeance",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 487,
         "width": 1,
         "height": 1
@@ -35908,7 +35908,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/grudatiemnoistali",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 485,
         "width": 1,
         "height": 1
@@ -35956,7 +35956,7 @@ var textureData =
     {
         "name": "create_confectionery:items/ruby_chocolate_candy_1",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 486,
         "width": 1,
         "height": 1
@@ -35972,7 +35972,7 @@ var textureData =
     {
         "name": "create_confectionery:items/ruby_chocolate_candy_3",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 486,
         "width": 1,
         "height": 1
@@ -35980,7 +35980,7 @@ var textureData =
     {
         "name": "create_confectionery:items/ruby_chocolate_candy_2",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 486,
         "width": 1,
         "height": 1
@@ -36124,7 +36124,7 @@ var textureData =
     {
         "name": "croptopia:item/lettuce_seed",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 479,
         "width": 1,
         "height": 1
@@ -36140,7 +36140,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/rusty_iron_door",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 482,
         "width": 1,
         "height": 1
@@ -36188,7 +36188,7 @@ var textureData =
     {
         "name": "farmersdelight:item/grilled_salmon",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 478,
         "width": 1,
         "height": 1
@@ -36196,7 +36196,7 @@ var textureData =
     {
         "name": "croptopia:item/olive",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 480,
         "width": 1,
         "height": 1
@@ -36260,7 +36260,7 @@ var textureData =
     {
         "name": "nebs:items/tinted",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 487,
         "width": 1,
         "height": 1
@@ -36308,7 +36308,7 @@ var textureData =
     {
         "name": "nebs:items/infamy_curse",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 485,
         "width": 1,
         "height": 1
@@ -36332,7 +36332,7 @@ var textureData =
     {
         "name": "croptopia:item/tomatillo",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 483,
         "width": 1,
         "height": 1
@@ -36340,7 +36340,7 @@ var textureData =
     {
         "name": "create_confectionery:items/gingerbread_man",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 485,
         "width": 1,
         "height": 1
@@ -36412,7 +36412,7 @@ var textureData =
     {
         "name": "biomemakeover:item/swamp_cypress_boat",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 483,
         "width": 1,
         "height": 1
@@ -36420,7 +36420,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/honey_cookie_1",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 477,
         "width": 1,
         "height": 1
@@ -36428,7 +36428,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/honey_cookie_2",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 477,
         "width": 1,
         "height": 1
@@ -36444,7 +36444,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/honey_cookie_0",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 477,
         "width": 1,
         "height": 1
@@ -36500,7 +36500,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_ingot",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 479,
         "width": 1,
         "height": 1
@@ -36548,7 +36548,7 @@ var textureData =
     {
         "name": "curios:slot/empty_ring_slot",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 488,
         "width": 1,
         "height": 1
@@ -36588,7 +36588,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_aspen",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 485,
         "width": 1,
         "height": 1
@@ -36596,7 +36596,7 @@ var textureData =
     {
         "name": "farmersdelight:item/vegetable_soup",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 483,
         "width": 1,
         "height": 1
@@ -36628,7 +36628,7 @@ var textureData =
     {
         "name": "nebs:items/fatigue_curse",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 485,
         "width": 1,
         "height": 1
@@ -36652,7 +36652,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/palm_door",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 480,
         "width": 1,
         "height": 1
@@ -36676,7 +36676,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_netherite_reinforcement",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 478,
         "width": 1,
         "height": 1
@@ -36692,7 +36692,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_fir_boat",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 479,
         "width": 1,
         "height": 1
@@ -36724,7 +36724,7 @@ var textureData =
     {
         "name": "croptopia:item/treacle_tart",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 483,
         "width": 1,
         "height": 1
@@ -36732,7 +36732,7 @@ var textureData =
     {
         "name": "croptopia:item/turmeric",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 483,
         "width": 1,
         "height": 1
@@ -36756,7 +36756,7 @@ var textureData =
     {
         "name": "nebs:items/total_recall",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 487,
         "width": 1,
         "height": 1
@@ -36764,7 +36764,7 @@ var textureData =
     {
         "name": "aquaculture:item/sushi",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 483,
         "width": 1,
         "height": 1
@@ -36796,7 +36796,7 @@ var textureData =
     {
         "name": "knight_quest:items/nailsword",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 486,
         "width": 1,
         "height": 1
@@ -36804,7 +36804,7 @@ var textureData =
     {
         "name": "farmersdelight:item/orange_canvas_sign",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 480,
         "width": 1,
         "height": 1
@@ -36852,7 +36852,7 @@ var textureData =
     {
         "name": "deeperdarker:item/soul_crystal",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 482,
         "width": 1,
         "height": 1
@@ -36868,7 +36868,7 @@ var textureData =
     {
         "name": "knight_quest:items/bow_helmet_icon",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 484,
         "width": 1,
         "height": 1
@@ -36876,7 +36876,7 @@ var textureData =
     {
         "name": "nebs:items/capacity",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 484,
         "width": 1,
         "height": 1
@@ -36884,7 +36884,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/collectible_paiting",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 484,
         "width": 1,
         "height": 1
@@ -36948,7 +36948,7 @@ var textureData =
     {
         "name": "supplementaries:items/quiver_model_overlay_dyed",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 486,
         "width": 1,
         "height": 1
@@ -37004,7 +37004,7 @@ var textureData =
     {
         "name": "aquaculture:item/lockbox",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 479,
         "width": 1,
         "height": 1
@@ -37044,7 +37044,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/rice_0",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 477,
         "width": 1,
         "height": 1
@@ -37060,7 +37060,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/rice_1",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 477,
         "width": 1,
         "height": 1
@@ -37124,7 +37124,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_axe",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 478,
         "width": 1,
         "height": 1
@@ -37132,7 +37132,7 @@ var textureData =
     {
         "name": "nebs:items/crabs_favor",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 484,
         "width": 1,
         "height": 1
@@ -37156,7 +37156,7 @@ var textureData =
     {
         "name": "alexsmobs:item/fish_oil",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 477,
         "width": 1,
         "height": 1
@@ -37172,7 +37172,7 @@ var textureData =
     {
         "name": "farmersdelight:item/mushroom_rice",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 480,
         "width": 1,
         "height": 1
@@ -37212,7 +37212,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/rice_2",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 477,
         "width": 1,
         "height": 1
@@ -37244,7 +37244,7 @@ var textureData =
     {
         "name": "aquaculture:item/treasure_chest",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 483,
         "width": 1,
         "height": 1
@@ -37444,7 +37444,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/plant/avocado",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 481,
         "width": 1,
         "height": 1
@@ -37548,7 +37548,7 @@ var textureData =
     {
         "name": "aquaculture:item/pollock",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 481,
         "width": 1,
         "height": 1
@@ -37580,7 +37580,7 @@ var textureData =
     {
         "name": "vinery:item/vinemaker_boots",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 483,
         "width": 1,
         "height": 1
@@ -37596,7 +37596,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/three_bolt_helmet",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 487,
         "width": 1,
         "height": 1
@@ -37652,7 +37652,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_axe",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 484,
         "width": 1,
         "height": 1
@@ -37668,7 +37668,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/vinery/sign_post_cherry",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 487,
         "width": 1,
         "height": 1
@@ -37676,7 +37676,7 @@ var textureData =
     {
         "name": "minecraft:item/lingering_potion",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 479,
         "width": 1,
         "height": 1
@@ -37692,7 +37692,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk_marbled_helmet_icon",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 486,
         "width": 1,
         "height": 1
@@ -37716,7 +37716,7 @@ var textureData =
     {
         "name": "delightful:item/lapis_lazuli_knife",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 479,
         "width": 1,
         "height": 1
@@ -37724,7 +37724,7 @@ var textureData =
     {
         "name": "miningmaster:item/spider_kunzite",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 482,
         "width": 1,
         "height": 1
@@ -37732,7 +37732,7 @@ var textureData =
     {
         "name": "croptopia:item/tortilla",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 483,
         "width": 1,
         "height": 1
@@ -37740,7 +37740,7 @@ var textureData =
     {
         "name": "cnb:items/lizard_item_mushroom",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 486,
         "width": 1,
         "height": 1
@@ -37780,7 +37780,7 @@ var textureData =
     {
         "name": "croptopia:item/potato_soup",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 481,
         "width": 1,
         "height": 1
@@ -37836,7 +37836,7 @@ var textureData =
     {
         "name": "delightful:item/lead_knife",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 479,
         "width": 1,
         "height": 1
@@ -37844,7 +37844,7 @@ var textureData =
     {
         "name": "byg:item/fir/boat",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 477,
         "width": 1,
         "height": 1
@@ -37852,7 +37852,7 @@ var textureData =
     {
         "name": "croptopia:item/taco",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 483,
         "width": 1,
         "height": 1
@@ -37860,7 +37860,7 @@ var textureData =
     {
         "name": "knight_quest:items/conquistador_boots_icon",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 484,
         "width": 1,
         "height": 1
@@ -37876,7 +37876,7 @@ var textureData =
     {
         "name": "biomemakeover:item/willow_boat",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 483,
         "width": 1,
         "height": 1
@@ -37908,7 +37908,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_red_helmet_icon",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 484,
         "width": 1,
         "height": 1
@@ -37924,7 +37924,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/air2",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 478,
         "width": 1,
         "height": 1
@@ -37948,7 +37948,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/air1",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 478,
         "width": 1,
         "height": 1
@@ -37956,7 +37956,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_endermosh",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 480,
         "width": 1,
         "height": 1
@@ -37996,7 +37996,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_white_mangrove",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 485,
         "width": 1,
         "height": 1
@@ -38012,7 +38012,7 @@ var textureData =
     {
         "name": "scalinghealth:item/power_crystal_shard",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 481,
         "width": 1,
         "height": 1
@@ -38020,7 +38020,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/cookie_jar",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 488,
         "width": 1,
         "height": 1
@@ -38068,7 +38068,7 @@ var textureData =
     {
         "name": "croptopia:item/pecan_pie",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 481,
         "width": 1,
         "height": 1
@@ -38076,7 +38076,7 @@ var textureData =
     {
         "name": "supplementaries:items/sconce_glow",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 486,
         "width": 1,
         "height": 1
@@ -38100,7 +38100,7 @@ var textureData =
     {
         "name": "nebs:items/horse_projectile_protection",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 485,
         "width": 1,
         "height": 1
@@ -38124,7 +38124,7 @@ var textureData =
     {
         "name": "eatinganimation:item/suspicious_stew_eating_0",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 483,
         "width": 1,
         "height": 1
@@ -38156,7 +38156,7 @@ var textureData =
     {
         "name": "eatinganimation:item/suspicious_stew_eating_1",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 483,
         "width": 1,
         "height": 1
@@ -38164,7 +38164,7 @@ var textureData =
     {
         "name": "eatinganimation:item/suspicious_stew_eating_2",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 483,
         "width": 1,
         "height": 1
@@ -38220,7 +38220,7 @@ var textureData =
     {
         "name": "create:item/unprocessed_obsidian_sheet",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 483,
         "width": 1,
         "height": 1
@@ -38324,7 +38324,7 @@ var textureData =
     {
         "name": "knight_quest:items/silverfish_helmet_icon",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 487,
         "width": 1,
         "height": 1
@@ -38348,7 +38348,7 @@ var textureData =
     {
         "name": "infernalexp:item/glow_torch",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 478,
         "width": 1,
         "height": 1
@@ -38356,7 +38356,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/umbran_door",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 483,
         "width": 1,
         "height": 1
@@ -38372,7 +38372,7 @@ var textureData =
     {
         "name": "nebs:items/linked_inventory",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 486,
         "width": 1,
         "height": 1
@@ -38444,7 +38444,7 @@ var textureData =
     {
         "name": "moonlight:soft_fluids/honey_liquid",
         "animated": true,
-        "x": 107,
+        "x": 110,
         "y": 488,
         "width": 1,
         "height": 1
@@ -38468,7 +38468,7 @@ var textureData =
     {
         "name": "croptopia:item/fruit_salad",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 478,
         "width": 1,
         "height": 1
@@ -38476,7 +38476,7 @@ var textureData =
     {
         "name": "recall:items/item_recall",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 485,
         "width": 1,
         "height": 1
@@ -38628,7 +38628,7 @@ var textureData =
     {
         "name": "croptopia:item/kumquat",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 479,
         "width": 1,
         "height": 1
@@ -38700,7 +38700,7 @@ var textureData =
     {
         "name": "delightful:item/invar_knife",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 479,
         "width": 1,
         "height": 1
@@ -38708,7 +38708,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_lime",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 478,
         "width": 1,
         "height": 1
@@ -38724,7 +38724,7 @@ var textureData =
     {
         "name": "croptopia:item/raspberry_seed",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 481,
         "width": 1,
         "height": 1
@@ -38772,7 +38772,7 @@ var textureData =
     {
         "name": "minecraft:item/item_frame",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 479,
         "width": 1,
         "height": 1
@@ -38796,7 +38796,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mutton_chops_0",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 477,
         "width": 1,
         "height": 1
@@ -38804,7 +38804,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mutton_chops_1",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 477,
         "width": 1,
         "height": 1
@@ -38820,7 +38820,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mutton_chops_2",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 477,
         "width": 1,
         "height": 1
@@ -38860,8 +38860,8 @@ var textureData =
     {
         "name": "supplementaries:items/sconce_soul",
         "animated": false,
-        "x": 253,
-        "y": 486,
+        "x": 0,
+        "y": 487,
         "width": 1,
         "height": 1
     },
@@ -38924,7 +38924,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_forze_main_icon",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 486,
         "width": 1,
         "height": 1
@@ -39020,7 +39020,7 @@ var textureData =
     {
         "name": "farmersdelight:item/pumpkin_slice",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 481,
         "width": 1,
         "height": 1
@@ -39044,7 +39044,7 @@ var textureData =
     {
         "name": "compatoplenty:item/willow_furnace_boat",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 483,
         "width": 1,
         "height": 1
@@ -39116,7 +39116,7 @@ var textureData =
     {
         "name": "nebs:items/bane_of_illagers",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 484,
         "width": 1,
         "height": 1
@@ -39124,7 +39124,7 @@ var textureData =
     {
         "name": "nethersdelight:item/hoglin_hide",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 478,
         "width": 1,
         "height": 1
@@ -39132,7 +39132,7 @@ var textureData =
     {
         "name": "supplementaries:items/sconce_lever",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 486,
         "width": 1,
         "height": 1
@@ -39140,7 +39140,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/hanging_herbs",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 488,
         "width": 1,
         "height": 1
@@ -39148,7 +39148,7 @@ var textureData =
     {
         "name": "minecraft:item/potion",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 481,
         "width": 1,
         "height": 1
@@ -39156,7 +39156,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_nightshade",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 485,
         "width": 1,
         "height": 1
@@ -39172,7 +39172,7 @@ var textureData =
     {
         "name": "knight_quest:items/polar_bear_leggings_icon",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 486,
         "width": 1,
         "height": 1
@@ -39268,7 +39268,7 @@ var textureData =
     {
         "name": "byg:item/green_apple_pie",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 478,
         "width": 1,
         "height": 1
@@ -39276,7 +39276,7 @@ var textureData =
     {
         "name": "croptopia:item/tofu_and_dumplings",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 483,
         "width": 1,
         "height": 1
@@ -39284,7 +39284,7 @@ var textureData =
     {
         "name": "croptopia:item/frying_pan",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 478,
         "width": 1,
         "height": 1
@@ -39300,7 +39300,7 @@ var textureData =
     {
         "name": "create:item/zinc_nugget",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 484,
         "width": 1,
         "height": 1
@@ -39308,7 +39308,7 @@ var textureData =
     {
         "name": "blocky_siege:items/cannon_ball",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 484,
         "width": 1,
         "height": 1
@@ -39428,7 +39428,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/domum_ornamentum/sign_post_cactus",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 487,
         "width": 1,
         "height": 1
@@ -39444,7 +39444,7 @@ var textureData =
     {
         "name": "supplementaries:items/sconce",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 486,
         "width": 1,
         "height": 1
@@ -39508,7 +39508,7 @@ var textureData =
     {
         "name": "supplementaries:items/wrench",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 488,
         "width": 1,
         "height": 1
@@ -39732,7 +39732,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/sesame_seed",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 479,
         "width": 1,
         "height": 1
@@ -39748,7 +39748,7 @@ var textureData =
     {
         "name": "nebs:items/telekinesis",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 487,
         "width": 1,
         "height": 1
@@ -39756,7 +39756,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/berry_basket",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 488,
         "width": 1,
         "height": 1
@@ -39812,7 +39812,7 @@ var textureData =
     {
         "name": "byg:item/white_puffball_spores",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 483,
         "width": 1,
         "height": 1
@@ -39868,7 +39868,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_bat_helmet_icon",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 486,
         "width": 1,
         "height": 1
@@ -39948,7 +39948,7 @@ var textureData =
     {
         "name": "croptopia:item/fried_calamari",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 478,
         "width": 1,
         "height": 1
@@ -39956,7 +39956,7 @@ var textureData =
     {
         "name": "mcwroofs:item/roofing_hammer",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 482,
         "width": 1,
         "height": 1
@@ -40028,7 +40028,7 @@ var textureData =
     {
         "name": "croptopia:item/pizza",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 481,
         "width": 1,
         "height": 1
@@ -40044,7 +40044,7 @@ var textureData =
     {
         "name": "biomemakeover:item/tadpole_bucket",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 483,
         "width": 1,
         "height": 1
@@ -40116,7 +40116,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/hot_cocoa_1",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 477,
         "width": 1,
         "height": 1
@@ -40124,7 +40124,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/hot_cocoa_0",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 477,
         "width": 1,
         "height": 1
@@ -40148,7 +40148,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/hot_cocoa_2",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 477,
         "width": 1,
         "height": 1
@@ -40156,7 +40156,7 @@ var textureData =
     {
         "name": "nethersdelight:item/strider_slice",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 483,
         "width": 1,
         "height": 1
@@ -40188,7 +40188,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_chestplate",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 479,
         "width": 1,
         "height": 1
@@ -40220,7 +40220,7 @@ var textureData =
     {
         "name": "ecologics:item/flowering_azalea_sign",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 478,
         "width": 1,
         "height": 1
@@ -40268,7 +40268,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_green_boots_icon",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 484,
         "width": 1,
         "height": 1
@@ -40300,7 +40300,7 @@ var textureData =
     {
         "name": "byg:item/sythian_stalk",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 483,
         "width": 1,
         "height": 1
@@ -40548,7 +40548,7 @@ var textureData =
     {
         "name": "structurize:items/sceptergold",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 486,
         "width": 1,
         "height": 1
@@ -40564,7 +40564,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_palm",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 487,
         "width": 1,
         "height": 1
@@ -40572,7 +40572,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_cherry",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 485,
         "width": 1,
         "height": 1
@@ -40580,7 +40580,7 @@ var textureData =
     {
         "name": "savage_and_ravage:item/wand_of_freezing",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 483,
         "width": 1,
         "height": 1
@@ -40604,7 +40604,7 @@ var textureData =
     {
         "name": "nebs:items/capturing",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 484,
         "width": 1,
         "height": 1
@@ -40644,7 +40644,7 @@ var textureData =
     {
         "name": "croptopia:item/meringue",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 480,
         "width": 1,
         "height": 1
@@ -40692,7 +40692,7 @@ var textureData =
     {
         "name": "croptopia:item/steamed_rice",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 482,
         "width": 1,
         "height": 1
@@ -40700,7 +40700,7 @@ var textureData =
     {
         "name": "compatoplenty:item/palm_furnace_boat",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 480,
         "width": 1,
         "height": 1
@@ -40708,7 +40708,7 @@ var textureData =
     {
         "name": "curios:slot/empty_back_slot",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 488,
         "width": 1,
         "height": 1
@@ -40724,7 +40724,7 @@ var textureData =
     {
         "name": "nebs:items/timeless",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 487,
         "width": 1,
         "height": 1
@@ -40772,7 +40772,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/gunkan/tuna_gunkan",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 478,
         "width": 1,
         "height": 1
@@ -40780,7 +40780,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_ward",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 480,
         "width": 1,
         "height": 1
@@ -40804,7 +40804,7 @@ var textureData =
     {
         "name": "simplyswords:item/ribbon_wrap",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 482,
         "width": 1,
         "height": 1
@@ -40820,7 +40820,7 @@ var textureData =
     {
         "name": "knight_quest:items/skeleton_main_icon",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 487,
         "width": 1,
         "height": 1
@@ -40836,7 +40836,7 @@ var textureData =
     {
         "name": "create:item/goggles",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 478,
         "width": 1,
         "height": 1
@@ -40844,7 +40844,7 @@ var textureData =
     {
         "name": "eatinganimation:item/pumpkin_pie_eating_2",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 481,
         "width": 1,
         "height": 1
@@ -40852,7 +40852,7 @@ var textureData =
     {
         "name": "eatinganimation:item/pumpkin_pie_eating_1",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 481,
         "width": 1,
         "height": 1
@@ -40916,7 +40916,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_chestplate_overlay",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 479,
         "width": 1,
         "height": 1
@@ -40924,7 +40924,7 @@ var textureData =
     {
         "name": "eatinganimation:item/pumpkin_pie_eating_0",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 481,
         "width": 1,
         "height": 1
@@ -40940,7 +40940,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_cherry_boat",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 479,
         "width": 1,
         "height": 1
@@ -40980,7 +40980,7 @@ var textureData =
     {
         "name": "croptopia:item/hops",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 478,
         "width": 1,
         "height": 1
@@ -41020,7 +41020,7 @@ var textureData =
     {
         "name": "alexsmobs:item/music_disc_daze",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 480,
         "width": 1,
         "height": 1
@@ -41044,7 +41044,7 @@ var textureData =
     {
         "name": "nebs:items/shadow_hands",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 487,
         "width": 1,
         "height": 1
@@ -41084,7 +41084,7 @@ var textureData =
     {
         "name": "nebs:items/sparkling",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 487,
         "width": 1,
         "height": 1
@@ -41108,7 +41108,7 @@ var textureData =
     {
         "name": "croptopia:item/nectarine",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 480,
         "width": 1,
         "height": 1
@@ -41116,7 +41116,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/heating_unit",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 478,
         "width": 1,
         "height": 1
@@ -41124,7 +41124,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/card_reader",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 484,
         "width": 1,
         "height": 1
@@ -41132,7 +41132,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/muffins_sweetberry",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 488,
         "width": 1,
         "height": 1
@@ -41156,7 +41156,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_ingot",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 481,
         "width": 1,
         "height": 1
@@ -41228,7 +41228,7 @@ var textureData =
     {
         "name": "farmersdelight:item/half_tatami_mat",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 478,
         "width": 1,
         "height": 1
@@ -41284,7 +41284,7 @@ var textureData =
     {
         "name": "nethersdelight:item/strider_moss_stew",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 483,
         "width": 1,
         "height": 1
@@ -41332,7 +41332,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_battleaxe",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 481,
         "width": 1,
         "height": 1
@@ -41340,7 +41340,7 @@ var textureData =
     {
         "name": "croptopia:item/pineapple_seed",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 481,
         "width": 1,
         "height": 1
@@ -41372,7 +41372,7 @@ var textureData =
     {
         "name": "delightful:item/kiwano_knife",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 479,
         "width": 1,
         "height": 1
@@ -41404,7 +41404,7 @@ var textureData =
     {
         "name": "nebs:items/horse_swiftness",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 485,
         "width": 1,
         "height": 1
@@ -41428,7 +41428,7 @@ var textureData =
     {
         "name": "endrem:items/guardian_eye",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 485,
         "width": 1,
         "height": 1
@@ -41476,7 +41476,7 @@ var textureData =
     {
         "name": "minecraft:item/fishing_rod",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 477,
         "width": 1,
         "height": 1
@@ -41508,7 +41508,7 @@ var textureData =
     {
         "name": "ecologics:item/flowering_azalea_chest_boat",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 478,
         "width": 1,
         "height": 1
@@ -41556,7 +41556,7 @@ var textureData =
     {
         "name": "delightful:item/onyx_knife",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 480,
         "width": 1,
         "height": 1
@@ -41580,7 +41580,7 @@ var textureData =
     {
         "name": "infernalexp:item/soul_salt_clump",
         "animated": true,
-        "x": 180,
+        "x": 183,
         "y": 482,
         "width": 1,
         "height": 1
@@ -41596,7 +41596,7 @@ var textureData =
     {
         "name": "ftbquests:item/lootcrate/front",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 479,
         "width": 1,
         "height": 1
@@ -41628,7 +41628,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_light_blue",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 478,
         "width": 1,
         "height": 1
@@ -41684,7 +41684,7 @@ var textureData =
     {
         "name": "quark:item/magenta_shard",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 479,
         "width": 1,
         "height": 1
@@ -41692,7 +41692,7 @@ var textureData =
     {
         "name": "idas:item/music_disc_calidum",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 480,
         "width": 1,
         "height": 1
@@ -41812,7 +41812,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_wait",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 480,
         "width": 1,
         "height": 1
@@ -41892,7 +41892,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_axe",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 479,
         "width": 1,
         "height": 1
@@ -41948,7 +41948,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_helmet",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 479,
         "width": 1,
         "height": 1
@@ -41956,7 +41956,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/nordic_boiled_creme_treats",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 488,
         "width": 1,
         "height": 1
@@ -41988,7 +41988,7 @@ var textureData =
     {
         "name": "biomemakeover:item/moth_blossom",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42012,7 +42012,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/oxygelium",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 486,
         "width": 1,
         "height": 1
@@ -42028,7 +42028,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/melon_popsicle_2",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 477,
         "width": 1,
         "height": 1
@@ -42044,7 +42044,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/melon_popsicle_1",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 477,
         "width": 1,
         "height": 1
@@ -42052,7 +42052,7 @@ var textureData =
     {
         "name": "minecraft:item/milk_bucket",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42060,7 +42060,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/melon_popsicle_0",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 477,
         "width": 1,
         "height": 1
@@ -42108,7 +42108,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/wheat_dough_1",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 477,
         "width": 1,
         "height": 1
@@ -42132,7 +42132,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/wheat_dough_0",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 477,
         "width": 1,
         "height": 1
@@ -42148,7 +42148,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/wheat_dough_2",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 477,
         "width": 1,
         "height": 1
@@ -42156,7 +42156,7 @@ var textureData =
     {
         "name": "croptopia:item/shepherds_pie",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 482,
         "width": 1,
         "height": 1
@@ -42172,7 +42172,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_31",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42180,7 +42180,7 @@ var textureData =
     {
         "name": "byg:item/pine/door",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 481,
         "width": 1,
         "height": 1
@@ -42196,7 +42196,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_30",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42236,7 +42236,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_jungle",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 487,
         "width": 1,
         "height": 1
@@ -42292,7 +42292,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_26",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42308,7 +42308,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_25",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42316,7 +42316,7 @@ var textureData =
     {
         "name": "minecraft:item/phantom_membrane",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 481,
         "width": 1,
         "height": 1
@@ -42340,7 +42340,7 @@ var textureData =
     {
         "name": "vinery:item/flower_box",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 477,
         "width": 1,
         "height": 1
@@ -42348,7 +42348,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_24",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42356,7 +42356,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/sheet_metal",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 482,
         "width": 1,
         "height": 1
@@ -42364,7 +42364,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_23",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42372,7 +42372,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_29",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42380,7 +42380,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_28",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42388,7 +42388,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_27",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42436,7 +42436,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_22",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42444,7 +42444,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_21",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42452,7 +42452,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_20",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 480,
         "width": 1,
         "height": 1
@@ -42486,6 +42486,14 @@ var textureData =
         "animated": false,
         "x": 110,
         "y": 458,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "name": "vitalize:item/experience_cubed",
+        "animated": false,
+        "x": 255,
+        "y": 476,
         "width": 1,
         "height": 1
     },
@@ -42548,7 +42556,7 @@ var textureData =
     {
         "name": "byg:item/imparius/door",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 478,
         "width": 1,
         "height": 1
@@ -42564,7 +42572,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_brass_reinforcement",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 478,
         "width": 1,
         "height": 1
@@ -42628,7 +42636,7 @@ var textureData =
     {
         "name": "minecraft:item/knowledge_book",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 479,
         "width": 1,
         "height": 1
@@ -42668,7 +42676,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_hellbark",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 485,
         "width": 1,
         "height": 1
@@ -42700,7 +42708,7 @@ var textureData =
     {
         "name": "vinery:item/straw_hat_item",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 482,
         "width": 1,
         "height": 1
@@ -42708,7 +42716,7 @@ var textureData =
     {
         "name": "minecraft:item/written_book",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 483,
         "width": 1,
         "height": 1
@@ -42740,7 +42748,7 @@ var textureData =
     {
         "name": "nebs:items/complexity",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 484,
         "width": 1,
         "height": 1
@@ -42796,7 +42804,7 @@ var textureData =
     {
         "name": "byg:item/willow/door",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 483,
         "width": 1,
         "height": 1
@@ -42964,7 +42972,7 @@ var textureData =
     {
         "name": "nebs:items/mana_shield",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 486,
         "width": 1,
         "height": 1
@@ -42988,7 +42996,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/dager",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 485,
         "width": 1,
         "height": 1
@@ -43012,7 +43020,7 @@ var textureData =
     {
         "name": "farmersdelight:item/honey_glazed_ham_block",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 478,
         "width": 1,
         "height": 1
@@ -43020,7 +43028,7 @@ var textureData =
     {
         "name": "croptopia:item/tomato_juice",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 483,
         "width": 1,
         "height": 1
@@ -43076,7 +43084,7 @@ var textureData =
     {
         "name": "nebs:items/intervention",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 485,
         "width": 1,
         "height": 1
@@ -43084,7 +43092,7 @@ var textureData =
     {
         "name": "ftbquests:item/lootcrate/side",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 479,
         "width": 1,
         "height": 1
@@ -43148,7 +43156,7 @@ var textureData =
     {
         "name": "nebs:items/healing_aura",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 485,
         "width": 1,
         "height": 1
@@ -43164,7 +43172,7 @@ var textureData =
     {
         "name": "endrem:items/exotic_eye",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 485,
         "width": 1,
         "height": 1
@@ -43180,7 +43188,7 @@ var textureData =
     {
         "name": "farmersdelight:item/roast_chicken_block",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 482,
         "width": 1,
         "height": 1
@@ -43188,7 +43196,7 @@ var textureData =
     {
         "name": "knight_quest:items/silverfish_main_icon",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 487,
         "width": 1,
         "height": 1
@@ -43236,7 +43244,7 @@ var textureData =
     {
         "name": "nebs:items/displacement",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 485,
         "width": 1,
         "height": 1
@@ -43268,7 +43276,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_chestplate",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 483,
         "width": 1,
         "height": 1
@@ -43332,7 +43340,7 @@ var textureData =
     {
         "name": "croptopia:item/turmeric_seed",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 483,
         "width": 1,
         "height": 1
@@ -43356,7 +43364,7 @@ var textureData =
     {
         "name": "nebs:items/bane_of_arthropods",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 484,
         "width": 1,
         "height": 1
@@ -43380,7 +43388,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_blocks",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 480,
         "width": 1,
         "height": 1
@@ -43396,7 +43404,7 @@ var textureData =
     {
         "name": "nebs:items/depth_strider",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 485,
         "width": 1,
         "height": 1
@@ -43412,7 +43420,7 @@ var textureData =
     {
         "name": "knight_quest:items/conquistador_main_icon",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 484,
         "width": 1,
         "height": 1
@@ -43428,7 +43436,7 @@ var textureData =
     {
         "name": "nebs:items/vampire",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 487,
         "width": 1,
         "height": 1
@@ -43468,7 +43476,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/stringy_cobweb",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 483,
         "width": 1,
         "height": 1
@@ -43524,7 +43532,7 @@ var textureData =
     {
         "name": "nebs:items/stasis",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 487,
         "width": 1,
         "height": 1
@@ -43540,7 +43548,7 @@ var textureData =
     {
         "name": "quark:item/purple_shard",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 481,
         "width": 1,
         "height": 1
@@ -43548,7 +43556,7 @@ var textureData =
     {
         "name": "quark:item/white_rune",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 483,
         "width": 1,
         "height": 1
@@ -43556,7 +43564,7 @@ var textureData =
     {
         "name": "minecraft:item/soul_campfire",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 482,
         "width": 1,
         "height": 1
@@ -43572,7 +43580,7 @@ var textureData =
     {
         "name": "alexsdelight:item/kangaroo_shank",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 479,
         "width": 1,
         "height": 1
@@ -43580,7 +43588,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/magic_door",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 479,
         "width": 1,
         "height": 1
@@ -43612,7 +43620,7 @@ var textureData =
     {
         "name": "supplementaries:items/bomb_blue",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 484,
         "width": 1,
         "height": 1
@@ -43628,7 +43636,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_hoe",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 488,
         "width": 1,
         "height": 1
@@ -43644,7 +43652,7 @@ var textureData =
     {
         "name": "create:item/honey_bucket",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 478,
         "width": 1,
         "height": 1
@@ -43652,7 +43660,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_ingot",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 480,
         "width": 1,
         "height": 1
@@ -43716,7 +43724,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/ecologics/sign_post_coconut",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 487,
         "width": 1,
         "height": 1
@@ -43748,7 +43756,7 @@ var textureData =
     {
         "name": "minecraft:item/glistering_melon_slice",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 478,
         "width": 1,
         "height": 1
@@ -43772,7 +43780,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_zelkova",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 485,
         "width": 1,
         "height": 1
@@ -43812,7 +43820,7 @@ var textureData =
     {
         "name": "croptopia:item/kale_seed",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 479,
         "width": 1,
         "height": 1
@@ -43844,7 +43852,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_golden_reinforcement",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 478,
         "width": 1,
         "height": 1
@@ -43868,7 +43876,7 @@ var textureData =
     {
         "name": "savage_and_ravage:item/mischief_arrow",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 480,
         "width": 1,
         "height": 1
@@ -43956,7 +43964,7 @@ var textureData =
     {
         "name": "farmersdelight:item/salmon_roll",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 482,
         "width": 1,
         "height": 1
@@ -44036,7 +44044,7 @@ var textureData =
     {
         "name": "knight_quest:items/bow_main_icon",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 484,
         "width": 1,
         "height": 1
@@ -44076,7 +44084,7 @@ var textureData =
     {
         "name": "farmersdelight:item/pasta_with_meatballs",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 481,
         "width": 1,
         "height": 1
@@ -44124,7 +44132,7 @@ var textureData =
     {
         "name": "vinery:item/wine_bottle",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 483,
         "width": 1,
         "height": 1
@@ -44164,7 +44172,7 @@ var textureData =
     {
         "name": "farmersdelight:item/tomato_sauce",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 483,
         "width": 1,
         "height": 1
@@ -44196,7 +44204,7 @@ var textureData =
     {
         "name": "nebs:items/splitting",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 487,
         "width": 1,
         "height": 1
@@ -44244,7 +44252,7 @@ var textureData =
     {
         "name": "infernalexp:item/glowcoal",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 478,
         "width": 1,
         "height": 1
@@ -44316,7 +44324,7 @@ var textureData =
     {
         "name": "croptopia:item/limeade",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 479,
         "width": 1,
         "height": 1
@@ -44364,7 +44372,7 @@ var textureData =
     {
         "name": "nebs:items/horse_blast_protection",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 485,
         "width": 1,
         "height": 1
@@ -44452,7 +44460,7 @@ var textureData =
     {
         "name": "farmersdelight:item/pie_crust",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 481,
         "width": 1,
         "height": 1
@@ -44460,7 +44468,7 @@ var textureData =
     {
         "name": "nebs:items/shocking",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 487,
         "width": 1,
         "height": 1
@@ -44492,7 +44500,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_magenta",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 482,
         "width": 1,
         "height": 1
@@ -44524,7 +44532,7 @@ var textureData =
     {
         "name": "biomemakeover:item/stunt_powder",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 483,
         "width": 1,
         "height": 1
@@ -44532,7 +44540,7 @@ var textureData =
     {
         "name": "minecraft:item/orange_dye",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 480,
         "width": 1,
         "height": 1
@@ -44556,7 +44564,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/mushrooms_brown",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 488,
         "width": 1,
         "height": 1
@@ -44604,7 +44612,7 @@ var textureData =
     {
         "name": "quark:item/trowel",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 483,
         "width": 1,
         "height": 1
@@ -44652,7 +44660,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fried_rice_0",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 477,
         "width": 1,
         "height": 1
@@ -44660,7 +44668,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fried_rice_2",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 477,
         "width": 1,
         "height": 1
@@ -44668,7 +44676,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fried_rice_1",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 477,
         "width": 1,
         "height": 1
@@ -44732,7 +44740,7 @@ var textureData =
     {
         "name": "quark:item/pickarang",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 481,
         "width": 1,
         "height": 1
@@ -44764,7 +44772,7 @@ var textureData =
     {
         "name": "byg:item/nightshade_berries",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 480,
         "width": 1,
         "height": 1
@@ -44772,7 +44780,7 @@ var textureData =
     {
         "name": "artifacts:item/steadfast_spikes",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 482,
         "width": 1,
         "height": 1
@@ -44812,7 +44820,7 @@ var textureData =
     {
         "name": "progressivebosses:item/nether_star_shard",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 480,
         "width": 1,
         "height": 1
@@ -44820,7 +44828,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_axe",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 481,
         "width": 1,
         "height": 1
@@ -44836,7 +44844,7 @@ var textureData =
     {
         "name": "croptopia:item/walnut",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 483,
         "width": 1,
         "height": 1
@@ -44852,7 +44860,7 @@ var textureData =
     {
         "name": "nebs:items/scavenger",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 486,
         "width": 1,
         "height": 1
@@ -44884,7 +44892,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_bow",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 480,
         "width": 1,
         "height": 1
@@ -44916,7 +44924,7 @@ var textureData =
     {
         "name": "nebs:items/reactive",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 486,
         "width": 1,
         "height": 1
@@ -44924,8 +44932,8 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/salmon_fillet",
         "animated": false,
-        "x": 255,
-        "y": 478,
+        "x": 2,
+        "y": 479,
         "width": 1,
         "height": 1
     },
@@ -44940,7 +44948,7 @@ var textureData =
     {
         "name": "knight_quest:items/wither_helmet_icon",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 488,
         "width": 1,
         "height": 1
@@ -44948,7 +44956,7 @@ var textureData =
     {
         "name": "quark:item/purple_rune",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 481,
         "width": 1,
         "height": 1
@@ -44956,7 +44964,7 @@ var textureData =
     {
         "name": "croptopia:item/soybean",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 482,
         "width": 1,
         "height": 1
@@ -44964,7 +44972,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_nether_helmet_icon",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 486,
         "width": 1,
         "height": 1
@@ -44988,7 +44996,7 @@ var textureData =
     {
         "name": "alexsmobs:item/frontier_cap",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 478,
         "width": 1,
         "height": 1
@@ -45036,7 +45044,7 @@ var textureData =
     {
         "name": "knight_quest:items/creeper_boots_icon",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 484,
         "width": 1,
         "height": 1
@@ -45068,7 +45076,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/baked_cod_stew_1",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 477,
         "width": 1,
         "height": 1
@@ -45076,7 +45084,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/baked_cod_stew_2",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 477,
         "width": 1,
         "height": 1
@@ -45084,7 +45092,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/baked_cod_stew_0",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 477,
         "width": 1,
         "height": 1
@@ -45100,7 +45108,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_horn_boots_icon",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 486,
         "width": 1,
         "height": 1
@@ -45124,7 +45132,7 @@ var textureData =
     {
         "name": "farmersdelight:item/straw",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 482,
         "width": 1,
         "height": 1
@@ -45236,7 +45244,7 @@ var textureData =
     {
         "name": "nebs:items/guard",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 485,
         "width": 1,
         "height": 1
@@ -45244,7 +45252,7 @@ var textureData =
     {
         "name": "supplementaries:items/bamboo_spikes_tipped",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 484,
         "width": 1,
         "height": 1
@@ -45252,7 +45260,7 @@ var textureData =
     {
         "name": "minecraft:item/stone_hoe",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 482,
         "width": 1,
         "height": 1
@@ -45260,7 +45268,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/milk_bottle_0",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 477,
         "width": 1,
         "height": 1
@@ -45268,7 +45276,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_14",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45284,7 +45292,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_15",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45292,7 +45300,7 @@ var textureData =
     {
         "name": "alexsmobs:item/soul_heart",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 482,
         "width": 1,
         "height": 1
@@ -45300,7 +45308,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_12",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45316,7 +45324,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_13",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45324,7 +45332,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_18",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45340,7 +45348,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_19",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45348,7 +45356,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_bulbis",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 487,
         "width": 1,
         "height": 1
@@ -45356,7 +45364,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/milk_bottle_2",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 477,
         "width": 1,
         "height": 1
@@ -45364,7 +45372,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_16",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45380,7 +45388,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/milk_bottle_1",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 477,
         "width": 1,
         "height": 1
@@ -45388,7 +45396,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_17",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45420,7 +45428,7 @@ var textureData =
     {
         "name": "cataclysm:items/monstrous_helm",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 486,
         "width": 1,
         "height": 1
@@ -45444,7 +45452,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_10",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45460,7 +45468,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_11",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45484,7 +45492,7 @@ var textureData =
     {
         "name": "cataclysm:items/ignitium_boots",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 485,
         "width": 1,
         "height": 1
@@ -45516,7 +45524,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_09",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45532,7 +45540,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_03",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45540,7 +45548,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_04",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45556,7 +45564,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_01",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45564,7 +45572,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_02",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45580,7 +45588,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_07",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45604,7 +45612,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_08",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45612,7 +45620,7 @@ var textureData =
     {
         "name": "minecraft:item/oak_chest_boat",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45620,7 +45628,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_05",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45636,7 +45644,7 @@ var textureData =
     {
         "name": "trolldom:item/icon/trolldom",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 478,
         "width": 1,
         "height": 1
@@ -45644,7 +45652,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_06",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45652,7 +45660,7 @@ var textureData =
     {
         "name": "itemfilters:item/item_group",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 479,
         "width": 1,
         "height": 1
@@ -45660,7 +45668,7 @@ var textureData =
     {
         "name": "duckling:item/raw_duck",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 481,
         "width": 1,
         "height": 1
@@ -45676,7 +45684,7 @@ var textureData =
     {
         "name": "naturescompass:item/naturescompass_00",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 480,
         "width": 1,
         "height": 1
@@ -45684,7 +45692,7 @@ var textureData =
     {
         "name": "cnb:items/lizard_item_jungle_2",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 486,
         "width": 1,
         "height": 1
@@ -45708,7 +45716,7 @@ var textureData =
     {
         "name": "quark:item/glowing_glass_item_frame",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 478,
         "width": 1,
         "height": 1
@@ -45716,7 +45724,7 @@ var textureData =
     {
         "name": "croptopia:item/tofu",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 483,
         "width": 1,
         "height": 1
@@ -45724,7 +45732,7 @@ var textureData =
     {
         "name": "nebs:items/magic_protection",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 486,
         "width": 1,
         "height": 1
@@ -45748,7 +45756,7 @@ var textureData =
     {
         "name": "create_confectionery:items/gingerbread",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 485,
         "width": 1,
         "height": 1
@@ -45772,7 +45780,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/poison_chakram",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 486,
         "width": 1,
         "height": 1
@@ -45788,7 +45796,7 @@ var textureData =
     {
         "name": "manyideas_core:item/plates/plate_copper",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 481,
         "width": 1,
         "height": 1
@@ -45796,7 +45804,7 @@ var textureData =
     {
         "name": "croptopia:item/greenbean",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 478,
         "width": 1,
         "height": 1
@@ -45836,7 +45844,7 @@ var textureData =
     {
         "name": "quark:item/light_gray_rune",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 479,
         "width": 1,
         "height": 1
@@ -45876,7 +45884,7 @@ var textureData =
     {
         "name": "create_sa:items/small_fueling_tank",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 487,
         "width": 1,
         "height": 1
@@ -45892,7 +45900,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_jacaranda",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 487,
         "width": 1,
         "height": 1
@@ -45916,7 +45924,7 @@ var textureData =
     {
         "name": "supplementaries:items/quiver_model",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 486,
         "width": 1,
         "height": 1
@@ -45924,7 +45932,7 @@ var textureData =
     {
         "name": "croptopia:item/rice",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 482,
         "width": 1,
         "height": 1
@@ -45956,7 +45964,7 @@ var textureData =
     {
         "name": "nebs:items/siphon",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 487,
         "width": 1,
         "height": 1
@@ -45980,7 +45988,7 @@ var textureData =
     {
         "name": "spirit:item/soul_steel_wand",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 482,
         "width": 1,
         "height": 1
@@ -46028,7 +46036,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/onigiri/onigiri",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 480,
         "width": 1,
         "height": 1
@@ -46060,7 +46068,7 @@ var textureData =
     {
         "name": "minecraft:item/porkchop",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 481,
         "width": 1,
         "height": 1
@@ -46084,7 +46092,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_white",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 478,
         "width": 1,
         "height": 1
@@ -46140,7 +46148,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/pamkinm",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 486,
         "width": 1,
         "height": 1
@@ -46212,7 +46220,7 @@ var textureData =
     {
         "name": "vinery:item/wine_box",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 483,
         "width": 1,
         "height": 1
@@ -46228,7 +46236,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_13",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 480,
         "width": 1,
         "height": 1
@@ -46260,7 +46268,7 @@ var textureData =
     {
         "name": "simplyswords:item/leaves",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 479,
         "width": 1,
         "height": 1
@@ -46268,7 +46276,7 @@ var textureData =
     {
         "name": "create:item/schematic_and_quill",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 482,
         "width": 1,
         "height": 1
@@ -46284,7 +46292,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_11",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 480,
         "width": 1,
         "height": 1
@@ -46340,7 +46348,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/industrial_iron_door",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 478,
         "width": 1,
         "height": 1
@@ -46348,7 +46356,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk4_helmet_icon",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 486,
         "width": 1,
         "height": 1
@@ -46404,7 +46412,7 @@ var textureData =
     {
         "name": "nebs:items/spikes",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 487,
         "width": 1,
         "height": 1
@@ -46484,7 +46492,7 @@ var textureData =
     {
         "name": "quark:item/slime_in_a_bucket_excited",
         "animated": true,
-        "x": 149,
+        "x": 152,
         "y": 482,
         "width": 1,
         "height": 1
@@ -46500,7 +46508,7 @@ var textureData =
     {
         "name": "alexsmobs:item/pigshoes",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 481,
         "width": 1,
         "height": 1
@@ -46532,7 +46540,7 @@ var textureData =
     {
         "name": "aquaculture:item/gold_hook",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 478,
         "width": 1,
         "height": 1
@@ -46580,7 +46588,7 @@ var textureData =
     {
         "name": "artifacts:item/feral_claws",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 477,
         "width": 1,
         "height": 1
@@ -46588,7 +46596,7 @@ var textureData =
     {
         "name": "delightful:item/field_salad",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 477,
         "width": 1,
         "height": 1
@@ -46596,7 +46604,7 @@ var textureData =
     {
         "name": "ecologics:item/tropical_stew",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 483,
         "width": 1,
         "height": 1
@@ -46612,7 +46620,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_skyris",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 487,
         "width": 1,
         "height": 1
@@ -46644,7 +46652,7 @@ var textureData =
     {
         "name": "alexsmobs:item/flying_fish",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 478,
         "width": 1,
         "height": 1
@@ -46700,7 +46708,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_ocean",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 480,
         "width": 1,
         "height": 1
@@ -46732,7 +46740,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cake_slice_0",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 477,
         "width": 1,
         "height": 1
@@ -46748,7 +46756,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cake_slice_1",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 477,
         "width": 1,
         "height": 1
@@ -46756,7 +46764,7 @@ var textureData =
     {
         "name": "minecraft:item/spruce_boat",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 482,
         "width": 1,
         "height": 1
@@ -46780,7 +46788,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cake_slice_2",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 477,
         "width": 1,
         "height": 1
@@ -46788,7 +46796,7 @@ var textureData =
     {
         "name": "croptopia:item/peanut",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 481,
         "width": 1,
         "height": 1
@@ -46796,7 +46804,7 @@ var textureData =
     {
         "name": "create_confectionery:items/candy_cane",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 484,
         "width": 1,
         "height": 1
@@ -46884,7 +46892,7 @@ var textureData =
     {
         "name": "croptopia:item/lemon_coconut_bar",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 479,
         "width": 1,
         "height": 1
@@ -46956,7 +46964,7 @@ var textureData =
     {
         "name": "create:item/minecart_coupling",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 480,
         "width": 1,
         "height": 1
@@ -47076,7 +47084,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_maple",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 487,
         "width": 1,
         "height": 1
@@ -47124,7 +47132,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_door",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 479,
         "width": 1,
         "height": 1
@@ -47164,7 +47172,7 @@ var textureData =
     {
         "name": "farmersdelight:item/full_tatami_mat",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 478,
         "width": 1,
         "height": 1
@@ -47220,7 +47228,7 @@ var textureData =
     {
         "name": "minecraft:item/hopper_minecart",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 478,
         "width": 1,
         "height": 1
@@ -47244,7 +47252,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_rainbow_eucalyptus",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 487,
         "width": 1,
         "height": 1
@@ -47276,7 +47284,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_pickaxe",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 479,
         "width": 1,
         "height": 1
@@ -47300,7 +47308,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/umbran_sign",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 483,
         "width": 1,
         "height": 1
@@ -47316,7 +47324,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/nordic_mead_bottles",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 488,
         "width": 1,
         "height": 1
@@ -47332,7 +47340,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_boots",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 478,
         "width": 1,
         "height": 1
@@ -47348,7 +47356,7 @@ var textureData =
     {
         "name": "aquaculture:item/spruce_fish_mount",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 482,
         "width": 1,
         "height": 1
@@ -47356,7 +47364,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_blue_boots_icon",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 484,
         "width": 1,
         "height": 1
@@ -47364,7 +47372,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/brass_knife",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 484,
         "width": 1,
         "height": 1
@@ -47372,7 +47380,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/candyeter",
         "animated": true,
-        "x": 174,
+        "x": 177,
         "y": 484,
         "width": 1,
         "height": 1
@@ -47396,7 +47404,7 @@ var textureData =
     {
         "name": "create:item/schedule",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 482,
         "width": 1,
         "height": 1
@@ -47404,7 +47412,7 @@ var textureData =
     {
         "name": "croptopia:item/tomatillo_seed",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 483,
         "width": 1,
         "height": 1
@@ -47428,7 +47436,7 @@ var textureData =
     {
         "name": "knight_quest:items/creeper_helmet_icon",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 484,
         "width": 1,
         "height": 1
@@ -47444,7 +47452,7 @@ var textureData =
     {
         "name": "minecraft:item/wheat",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 483,
         "width": 1,
         "height": 1
@@ -47460,7 +47468,7 @@ var textureData =
     {
         "name": "delightful:item/mythril_knife",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 480,
         "width": 1,
         "height": 1
@@ -47508,7 +47516,7 @@ var textureData =
     {
         "name": "endrem:items/evil_eye",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 485,
         "width": 1,
         "height": 1
@@ -47516,7 +47524,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_sythian",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 487,
         "width": 1,
         "height": 1
@@ -47556,7 +47564,7 @@ var textureData =
     {
         "name": "nebs:items/heartfelt",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 485,
         "width": 1,
         "height": 1
@@ -47636,7 +47644,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/incomplite_vibration_mechanims",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 485,
         "width": 1,
         "height": 1
@@ -47644,7 +47652,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/terrible_chestplate",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 487,
         "width": 1,
         "height": 1
@@ -47676,7 +47684,7 @@ var textureData =
     {
         "name": "create:item/track",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 483,
         "width": 1,
         "height": 1
@@ -47708,7 +47716,7 @@ var textureData =
     {
         "name": "artifacts:item/helium_flamingo",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 478,
         "width": 1,
         "height": 1
@@ -47716,7 +47724,7 @@ var textureData =
     {
         "name": "croptopia:item/onion",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 480,
         "width": 1,
         "height": 1
@@ -47724,7 +47732,7 @@ var textureData =
     {
         "name": "minecraft:item/spectral_arrow",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 482,
         "width": 1,
         "height": 1
@@ -47780,7 +47788,7 @@ var textureData =
     {
         "name": "croptopia:item/squash",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 482,
         "width": 1,
         "height": 1
@@ -47852,7 +47860,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_dark_oak",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 487,
         "width": 1,
         "height": 1
@@ -47868,7 +47876,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/copper_casing_door",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 484,
         "width": 1,
         "height": 1
@@ -47916,7 +47924,7 @@ var textureData =
     {
         "name": "nebs:items/snowpiercer",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 487,
         "width": 1,
         "height": 1
@@ -47956,7 +47964,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_cypress",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 487,
         "width": 1,
         "height": 1
@@ -48004,7 +48012,7 @@ var textureData =
     {
         "name": "crittersandcompanions:item/sea_bunny_bucket",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 482,
         "width": 1,
         "height": 1
@@ -48052,7 +48060,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_light_blue",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 482,
         "width": 1,
         "height": 1
@@ -48084,7 +48092,7 @@ var textureData =
     {
         "name": "minecraft:item/green_candle",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 478,
         "width": 1,
         "height": 1
@@ -48092,7 +48100,7 @@ var textureData =
     {
         "name": "nebs:items/vigor",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 487,
         "width": 1,
         "height": 1
@@ -48124,7 +48132,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/magnifying_glass",
         "animated": false,
-        "x": 109,
+        "x": 112,
         "y": 486,
         "width": 1,
         "height": 1
@@ -48132,7 +48140,7 @@ var textureData =
     {
         "name": "croptopia:item/mango",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 479,
         "width": 1,
         "height": 1
@@ -48140,7 +48148,7 @@ var textureData =
     {
         "name": "alexsmobs:item/raw_catfish",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 481,
         "width": 1,
         "height": 1
@@ -48196,7 +48204,7 @@ var textureData =
     {
         "name": "aquaculture:item/fish_fillet_raw",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 477,
         "width": 1,
         "height": 1
@@ -48204,7 +48212,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_boots_overlay",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 479,
         "width": 1,
         "height": 1
@@ -48252,7 +48260,7 @@ var textureData =
     {
         "name": "croptopia:item/oyster",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 480,
         "width": 1,
         "height": 1
@@ -48260,7 +48268,7 @@ var textureData =
     {
         "name": "supplementaries:items/globe_sepia",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 485,
         "width": 1,
         "height": 1
@@ -48276,7 +48284,7 @@ var textureData =
     {
         "name": "croptopia:item/peanut_butter",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 481,
         "width": 1,
         "height": 1
@@ -48308,7 +48316,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/muffins_blueberry",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 488,
         "width": 1,
         "height": 1
@@ -48340,7 +48348,7 @@ var textureData =
     {
         "name": "nebs:items/floating",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 485,
         "width": 1,
         "height": 1
@@ -48364,7 +48372,7 @@ var textureData =
     {
         "name": "vinery:item/vinemaker_apron",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 483,
         "width": 1,
         "height": 1
@@ -48372,7 +48380,7 @@ var textureData =
     {
         "name": "byg:item/therium_crystal",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 483,
         "width": 1,
         "height": 1
@@ -48396,7 +48404,7 @@ var textureData =
     {
         "name": "create_confectionery:items/cocoao_butter",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 484,
         "width": 1,
         "height": 1
@@ -48404,7 +48412,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/nordic_soul_gems_dark",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 488,
         "width": 1,
         "height": 1
@@ -48420,7 +48428,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_jungle",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 480,
         "width": 1,
         "height": 1
@@ -48460,7 +48468,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/ritual",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 486,
         "width": 1,
         "height": 1
@@ -48484,7 +48492,7 @@ var textureData =
     {
         "name": "byg:item/nightshade_berry_pie",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 480,
         "width": 1,
         "height": 1
@@ -48596,7 +48604,7 @@ var textureData =
     {
         "name": "nebs:items/mana_regeneration",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 486,
         "width": 1,
         "height": 1
@@ -48644,7 +48652,7 @@ var textureData =
     {
         "name": "byg:item/white_puffball_cap",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 483,
         "width": 1,
         "height": 1
@@ -48652,7 +48660,7 @@ var textureData =
     {
         "name": "knight_quest:items/bounddrop",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 484,
         "width": 1,
         "height": 1
@@ -48668,7 +48676,7 @@ var textureData =
     {
         "name": "delightful:item/honey_glazed_walnut",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 478,
         "width": 1,
         "height": 1
@@ -48676,7 +48684,7 @@ var textureData =
     {
         "name": "croptopia:item/salsa",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 482,
         "width": 1,
         "height": 1
@@ -48716,7 +48724,7 @@ var textureData =
     {
         "name": "nebs:items/launch",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 486,
         "width": 1,
         "height": 1
@@ -48748,7 +48756,7 @@ var textureData =
     {
         "name": "nebs:items/ice_aspect",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 485,
         "width": 1,
         "height": 1
@@ -48772,7 +48780,7 @@ var textureData =
     {
         "name": "knight_quest:items/creeper2_helmet_icon",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 484,
         "width": 1,
         "height": 1
@@ -48812,7 +48820,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/botlintocs",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 484,
         "width": 1,
         "height": 1
@@ -48836,7 +48844,7 @@ var textureData =
     {
         "name": "quark:item/glass_item_frame",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 478,
         "width": 1,
         "height": 1
@@ -48860,7 +48868,7 @@ var textureData =
     {
         "name": "knight_quest:items/shinobi_leggings_icon",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 487,
         "width": 1,
         "height": 1
@@ -48932,7 +48940,7 @@ var textureData =
     {
         "name": "delightful:item/knightmetal_knife",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 479,
         "width": 1,
         "height": 1
@@ -48972,7 +48980,7 @@ var textureData =
     {
         "name": "curios:slot/empty_bracelet_slot",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 488,
         "width": 1,
         "height": 1
@@ -48980,7 +48988,7 @@ var textureData =
     {
         "name": "knight_quest:items/cleaver",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 484,
         "width": 1,
         "height": 1
@@ -48996,7 +49004,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_magic",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 485,
         "width": 1,
         "height": 1
@@ -49012,7 +49020,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/nigiri/shrimp_nigiri",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 480,
         "width": 1,
         "height": 1
@@ -49036,7 +49044,7 @@ var textureData =
     {
         "name": "nebs:items/plundering",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 486,
         "width": 1,
         "height": 1
@@ -49060,7 +49068,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_cika",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 485,
         "width": 1,
         "height": 1
@@ -49076,7 +49084,7 @@ var textureData =
     {
         "name": "miningmaster:item/lucky_citrine",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 479,
         "width": 1,
         "height": 1
@@ -49092,7 +49100,7 @@ var textureData =
     {
         "name": "endrem:items/rogue_eye",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 486,
         "width": 1,
         "height": 1
@@ -49124,7 +49132,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_exoskeleton",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 484,
         "width": 1,
         "height": 1
@@ -49164,7 +49172,7 @@ var textureData =
     {
         "name": "nebs:items/fire_aspect",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 485,
         "width": 1,
         "height": 1
@@ -49180,7 +49188,7 @@ var textureData =
     {
         "name": "nebs:items/punch",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 486,
         "width": 1,
         "height": 1
@@ -49212,7 +49220,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/temaki/chicken_temaki",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 483,
         "width": 1,
         "height": 1
@@ -49284,7 +49292,7 @@ var textureData =
     {
         "name": "nethersdelight:item/roasted_hoglin_ears",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 482,
         "width": 1,
         "height": 1
@@ -49292,7 +49300,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_main_icon",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 484,
         "width": 1,
         "height": 1
@@ -49300,7 +49308,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/dumplings_2",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 477,
         "width": 1,
         "height": 1
@@ -49308,7 +49316,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/dumplings_0",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 477,
         "width": 1,
         "height": 1
@@ -49316,7 +49324,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/dumplings_1",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 477,
         "width": 1,
         "height": 1
@@ -49332,7 +49340,7 @@ var textureData =
     {
         "name": "supplementaries:items/bubble_blower",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 484,
         "width": 1,
         "height": 1
@@ -49356,7 +49364,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/stuffed_pumpkin_2",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 477,
         "width": 1,
         "height": 1
@@ -49364,7 +49372,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/stuffed_pumpkin_1",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 477,
         "width": 1,
         "height": 1
@@ -49380,7 +49388,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/stuffed_pumpkin_0",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 477,
         "width": 1,
         "height": 1
@@ -49388,7 +49396,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_ebony",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 485,
         "width": 1,
         "height": 1
@@ -49436,7 +49444,7 @@ var textureData =
     {
         "name": "croptopia:item/honeydew_seed",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 478,
         "width": 1,
         "height": 1
@@ -49508,7 +49516,7 @@ var textureData =
     {
         "name": "croptopia:item/rhubarb_crisp",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 482,
         "width": 1,
         "height": 1
@@ -49532,7 +49540,7 @@ var textureData =
     {
         "name": "knight_quest:items/skeleton_helmet_icon",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 487,
         "width": 1,
         "height": 1
@@ -49564,7 +49572,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_horn_main_icon",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 486,
         "width": 1,
         "height": 1
@@ -49636,7 +49644,7 @@ var textureData =
     {
         "name": "minecraft:item/goat_horn",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 478,
         "width": 1,
         "height": 1
@@ -49660,7 +49668,7 @@ var textureData =
     {
         "name": "create:item/golden_sheet",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 478,
         "width": 1,
         "height": 1
@@ -49668,7 +49676,7 @@ var textureData =
     {
         "name": "quark:item/pink_shard",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 481,
         "width": 1,
         "height": 1
@@ -49692,7 +49700,7 @@ var textureData =
     {
         "name": "minecraft:item/white_dye",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 483,
         "width": 1,
         "height": 1
@@ -49740,7 +49748,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_willow_boat",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 479,
         "width": 1,
         "height": 1
@@ -49820,7 +49828,7 @@ var textureData =
     {
         "name": "infernalexp:item/glownuggets",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 478,
         "width": 1,
         "height": 1
@@ -49876,7 +49884,7 @@ var textureData =
     {
         "name": "byg:item/rainbow_eucalyptus/boat",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 481,
         "width": 1,
         "height": 1
@@ -49900,7 +49908,7 @@ var textureData =
     {
         "name": "aquaculture:item/note_hook",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 480,
         "width": 1,
         "height": 1
@@ -49916,7 +49924,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/card",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 484,
         "width": 1,
         "height": 1
@@ -49940,7 +49948,7 @@ var textureData =
     {
         "name": "create_confectionery:items/hot_chocolate",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 485,
         "width": 1,
         "height": 1
@@ -49956,7 +49964,7 @@ var textureData =
     {
         "name": "itemfilters:item/filter",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50012,7 +50020,7 @@ var textureData =
     {
         "name": "croptopia:item/grilled_eggplant",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 478,
         "width": 1,
         "height": 1
@@ -50084,7 +50092,7 @@ var textureData =
     {
         "name": "nebs:items/refill",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 486,
         "width": 1,
         "height": 1
@@ -50092,7 +50100,7 @@ var textureData =
     {
         "name": "create_confectionery:items/marshmallow_on_a_stick",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 486,
         "width": 1,
         "height": 1
@@ -50124,7 +50132,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/barbecue_stick_2",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50140,7 +50148,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/barbecue_stick_1",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50156,7 +50164,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/barbecue_stick_0",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50164,7 +50172,7 @@ var textureData =
     {
         "name": "nebs:items/vanishing_curse",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 487,
         "width": 1,
         "height": 1
@@ -50172,7 +50180,7 @@ var textureData =
     {
         "name": "biomemakeover:item/willow_chestboat",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 483,
         "width": 1,
         "height": 1
@@ -50188,7 +50196,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/bone_wither",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 488,
         "width": 1,
         "height": 1
@@ -50196,7 +50204,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/iron_reinforcement",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 479,
         "width": 1,
         "height": 1
@@ -50260,7 +50268,7 @@ var textureData =
     {
         "name": "croptopia:item/kale_chips",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 479,
         "width": 1,
         "height": 1
@@ -50268,7 +50276,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_green_leggings_icon",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 484,
         "width": 1,
         "height": 1
@@ -50276,7 +50284,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/salmon_slice_2",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50284,7 +50292,7 @@ var textureData =
     {
         "name": "croptopia:item/rutabaga_seed",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 482,
         "width": 1,
         "height": 1
@@ -50292,7 +50300,7 @@ var textureData =
     {
         "name": "nebs:items/knight_jump",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 485,
         "width": 1,
         "height": 1
@@ -50300,7 +50308,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/salmon_slice_1",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50332,7 +50340,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/salmon_slice_0",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50340,7 +50348,7 @@ var textureData =
     {
         "name": "alexsmobs:item/mysterious_worm",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 480,
         "width": 1,
         "height": 1
@@ -50356,7 +50364,7 @@ var textureData =
     {
         "name": "knight_quest:items/husk3_helmet_icon",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 485,
         "width": 1,
         "height": 1
@@ -50380,7 +50388,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_sword",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 479,
         "width": 1,
         "height": 1
@@ -50476,7 +50484,7 @@ var textureData =
     {
         "name": "byg:item/palm/door",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 480,
         "width": 1,
         "height": 1
@@ -50500,7 +50508,7 @@ var textureData =
     {
         "name": "nethersdelight:item/nether_skewer",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 480,
         "width": 1,
         "height": 1
@@ -50548,7 +50556,7 @@ var textureData =
     {
         "name": "nebs:items/projectile_protection",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 486,
         "width": 1,
         "height": 1
@@ -50572,7 +50580,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/soul",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 484,
         "width": 1,
         "height": 1
@@ -50580,7 +50588,7 @@ var textureData =
     {
         "name": "knight_quest:items/veteran_leggings_icon",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 487,
         "width": 1,
         "height": 1
@@ -50612,7 +50620,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_sword",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 488,
         "width": 1,
         "height": 1
@@ -50636,7 +50644,7 @@ var textureData =
     {
         "name": "nebs:items/misanthropy",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 486,
         "width": 1,
         "height": 1
@@ -50684,7 +50692,7 @@ var textureData =
     {
         "name": "nebs:items/intimidation",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 485,
         "width": 1,
         "height": 1
@@ -50700,7 +50708,7 @@ var textureData =
     {
         "name": "vinery:item/white_grapejuice_wine_bottle",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 483,
         "width": 1,
         "height": 1
@@ -50772,7 +50780,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_nugget",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 479,
         "width": 1,
         "height": 1
@@ -50780,7 +50788,7 @@ var textureData =
     {
         "name": "croptopia:item/potato_chips",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 481,
         "width": 1,
         "height": 1
@@ -50788,7 +50796,7 @@ var textureData =
     {
         "name": "delightful:item/zinc_knife",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 484,
         "width": 1,
         "height": 1
@@ -50828,7 +50836,7 @@ var textureData =
     {
         "name": "idas:item/music_disc_slither",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 480,
         "width": 1,
         "height": 1
@@ -50836,7 +50844,7 @@ var textureData =
     {
         "name": "nebs:items/quick_draw",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 486,
         "width": 1,
         "height": 1
@@ -50844,7 +50852,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_birch",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 485,
         "width": 1,
         "height": 1
@@ -50860,7 +50868,7 @@ var textureData =
     {
         "name": "artifacts:item/fire_gauntlet",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 477,
         "width": 1,
         "height": 1
@@ -50868,7 +50876,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/jacaranda_chest_boat",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 479,
         "width": 1,
         "height": 1
@@ -50900,7 +50908,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_leggings",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 488,
         "width": 1,
         "height": 1
@@ -50956,7 +50964,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/brass_casing_door",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 484,
         "width": 1,
         "height": 1
@@ -50988,7 +50996,7 @@ var textureData =
     {
         "name": "croptopia:item/garlic",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 478,
         "width": 1,
         "height": 1
@@ -51012,7 +51020,7 @@ var textureData =
     {
         "name": "knight_quest:items/witch_main_icon",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 488,
         "width": 1,
         "height": 1
@@ -51036,7 +51044,7 @@ var textureData =
     {
         "name": "manyideas_core:item/saws/saw_stone",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 482,
         "width": 1,
         "height": 1
@@ -51068,7 +51076,7 @@ var textureData =
     {
         "name": "artifacts:item/plastic_drinking_hat",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 481,
         "width": 1,
         "height": 1
@@ -51076,7 +51084,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/sandstone_rocks",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 482,
         "width": 1,
         "height": 1
@@ -51108,7 +51116,7 @@ var textureData =
     {
         "name": "biomemakeover:item/light_blue_petals",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 479,
         "width": 1,
         "height": 1
@@ -51180,7 +51188,7 @@ var textureData =
     {
         "name": "supplementaries:items/key",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 485,
         "width": 1,
         "height": 1
@@ -51228,7 +51236,7 @@ var textureData =
     {
         "name": "byg:item/witch_hazel/boat",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 483,
         "width": 1,
         "height": 1
@@ -51332,7 +51340,7 @@ var textureData =
     {
         "name": "biomemakeover:item/pink_petals",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 481,
         "width": 1,
         "height": 1
@@ -51492,7 +51500,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_lapis_reinforcement",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 478,
         "width": 1,
         "height": 1
@@ -51500,7 +51508,7 @@ var textureData =
     {
         "name": "supplementaries:items/copper_lantern",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 484,
         "width": 1,
         "height": 1
@@ -51508,7 +51516,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_dragon_leggings_icon",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 486,
         "width": 1,
         "height": 1
@@ -51580,7 +51588,7 @@ var textureData =
     {
         "name": "alexsdelight:item/gongylidia_bruschetta",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 478,
         "width": 1,
         "height": 1
@@ -51620,7 +51628,7 @@ var textureData =
     {
         "name": "farmersdelight:item/green_canvas_sign",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 478,
         "width": 1,
         "height": 1
@@ -51652,7 +51660,7 @@ var textureData =
     {
         "name": "spirit:item/soul_steel_axe",
         "animated": true,
-        "x": 182,
+        "x": 185,
         "y": 482,
         "width": 1,
         "height": 1
@@ -51660,7 +51668,7 @@ var textureData =
     {
         "name": "croptopia:item/sunny_side_eggs",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 483,
         "width": 1,
         "height": 1
@@ -51668,7 +51676,7 @@ var textureData =
     {
         "name": "cataclysm:items/ignitium_leggings",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 485,
         "width": 1,
         "height": 1
@@ -51716,7 +51724,7 @@ var textureData =
     {
         "name": "knight_quest:items/veteran_boots_icon",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 487,
         "width": 1,
         "height": 1
@@ -51796,7 +51804,7 @@ var textureData =
     {
         "name": "croptopia:item/zucchini",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 484,
         "width": 1,
         "height": 1
@@ -51860,7 +51868,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/palm_sign",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 480,
         "width": 1,
         "height": 1
@@ -51916,7 +51924,7 @@ var textureData =
     {
         "name": "minecraft:item/nether_star",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 480,
         "width": 1,
         "height": 1
@@ -51940,7 +51948,7 @@ var textureData =
     {
         "name": "nebs:items/swiftness",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 487,
         "width": 1,
         "height": 1
@@ -52012,7 +52020,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_shovel",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 484,
         "width": 1,
         "height": 1
@@ -52036,7 +52044,7 @@ var textureData =
     {
         "name": "knight_quest:items/black_mage_helmet_icon",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 484,
         "width": 1,
         "height": 1
@@ -52084,7 +52092,7 @@ var textureData =
     {
         "name": "nebs:items/leech",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 486,
         "width": 1,
         "height": 1
@@ -52108,7 +52116,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/bacon_sandwich_1",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52116,7 +52124,7 @@ var textureData =
     {
         "name": "eatinganimation:item/golden_apple_eating_2",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 478,
         "width": 1,
         "height": 1
@@ -52124,7 +52132,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/bacon_sandwich_0",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52140,7 +52148,7 @@ var textureData =
     {
         "name": "eatinganimation:item/golden_apple_eating_0",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 478,
         "width": 1,
         "height": 1
@@ -52148,7 +52156,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/bacon_sandwich_2",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52156,7 +52164,7 @@ var textureData =
     {
         "name": "eatinganimation:item/golden_apple_eating_1",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 478,
         "width": 1,
         "height": 1
@@ -52164,7 +52172,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/bacon_0",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52180,7 +52188,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/bacon_1",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52196,7 +52204,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/bacon_2",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52212,7 +52220,7 @@ var textureData =
     {
         "name": "comforts:item/rope_and_nail",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 482,
         "width": 1,
         "height": 1
@@ -52236,7 +52244,7 @@ var textureData =
     {
         "name": "nebs:items/mana_regen",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 486,
         "width": 1,
         "height": 1
@@ -52316,7 +52324,7 @@ var textureData =
     {
         "name": "byg:item/purple_bulbis_anomaly",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 481,
         "width": 1,
         "height": 1
@@ -52340,7 +52348,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/terrible_sword",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 487,
         "width": 1,
         "height": 1
@@ -52348,7 +52356,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/plant/soy_bean",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 481,
         "width": 1,
         "height": 1
@@ -52356,7 +52364,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_dragon_main_icon",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 486,
         "width": 1,
         "height": 1
@@ -52404,7 +52412,7 @@ var textureData =
     {
         "name": "knight_quest:items/path_boots_icon",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 486,
         "width": 1,
         "height": 1
@@ -52412,7 +52420,7 @@ var textureData =
     {
         "name": "nebs:items/faster_attack",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 485,
         "width": 1,
         "height": 1
@@ -52428,7 +52436,7 @@ var textureData =
     {
         "name": "miningmaster:item/kinetic_opal",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 479,
         "width": 1,
         "height": 1
@@ -52436,7 +52444,7 @@ var textureData =
     {
         "name": "nebs:items/water_protection",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 487,
         "width": 1,
         "height": 1
@@ -52492,7 +52500,7 @@ var textureData =
     {
         "name": "endrem:items/witch_pupil",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 488,
         "width": 1,
         "height": 1
@@ -52516,7 +52524,7 @@ var textureData =
     {
         "name": "minecraft:item/sweet_berries",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 483,
         "width": 1,
         "height": 1
@@ -52564,7 +52572,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_rolls_2",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52580,7 +52588,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_rolls_1",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52588,7 +52596,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_rolls_0",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52596,7 +52604,7 @@ var textureData =
     {
         "name": "croptopia:item/quesadilla",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 481,
         "width": 1,
         "height": 1
@@ -52604,7 +52612,7 @@ var textureData =
     {
         "name": "nebs:items/fluked_edge",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 485,
         "width": 1,
         "height": 1
@@ -52628,7 +52636,7 @@ var textureData =
     {
         "name": "byg:item/therium_shard",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 483,
         "width": 1,
         "height": 1
@@ -52724,7 +52732,7 @@ var textureData =
     {
         "name": "supplementaries:items/quiver_full",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 486,
         "width": 1,
         "height": 1
@@ -52732,7 +52740,7 @@ var textureData =
     {
         "name": "infernalexp:item/music_disc_soul_spunk",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 480,
         "width": 1,
         "height": 1
@@ -52740,7 +52748,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/beef_patty_0",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52748,7 +52756,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/beef_patty_1",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52772,7 +52780,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/beef_patty_2",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52780,7 +52788,7 @@ var textureData =
     {
         "name": "aquaculture:item/fishing_line",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52788,7 +52796,7 @@ var textureData =
     {
         "name": "nebs:items/immortality",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 485,
         "width": 1,
         "height": 1
@@ -52796,7 +52804,7 @@ var textureData =
     {
         "name": "nebs:items/soulbound",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 487,
         "width": 1,
         "height": 1
@@ -52844,7 +52852,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fruit_salad_0",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 477,
         "width": 1,
         "height": 1
@@ -52884,7 +52892,7 @@ var textureData =
     {
         "name": "nethersdelight:item/propelplant_cane",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 481,
         "width": 1,
         "height": 1
@@ -52892,7 +52900,7 @@ var textureData =
     {
         "name": "infernalexp:item/glowsilk_bow_pulling_1",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 478,
         "width": 1,
         "height": 1
@@ -52900,7 +52908,7 @@ var textureData =
     {
         "name": "infernalexp:item/glowsilk_bow_pulling_0",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 478,
         "width": 1,
         "height": 1
@@ -52916,7 +52924,7 @@ var textureData =
     {
         "name": "minecraft:item/leather",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 479,
         "width": 1,
         "height": 1
@@ -52924,7 +52932,7 @@ var textureData =
     {
         "name": "infernalexp:item/glowsilk_bow_pulling_2",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 478,
         "width": 1,
         "height": 1
@@ -52948,7 +52956,7 @@ var textureData =
     {
         "name": "delightful:item/sinisite_knife",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 482,
         "width": 1,
         "height": 1
@@ -52980,7 +52988,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_crimson",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 485,
         "width": 1,
         "height": 1
@@ -53004,7 +53012,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_axe",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 480,
         "width": 1,
         "height": 1
@@ -53020,7 +53028,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/abyssal_boots",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 484,
         "width": 1,
         "height": 1
@@ -53028,7 +53036,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_dark_oak",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 480,
         "width": 1,
         "height": 1
@@ -53036,7 +53044,7 @@ var textureData =
     {
         "name": "croptopia:item/pepper_seed",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 481,
         "width": 1,
         "height": 1
@@ -53068,7 +53076,7 @@ var textureData =
     {
         "name": "nebs:items/muffled",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 486,
         "width": 1,
         "height": 1
@@ -53092,7 +53100,7 @@ var textureData =
     {
         "name": "nebs:items/shell",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 487,
         "width": 1,
         "height": 1
@@ -53100,7 +53108,7 @@ var textureData =
     {
         "name": "minecraft:item/heart_of_the_sea",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 478,
         "width": 1,
         "height": 1
@@ -53148,7 +53156,7 @@ var textureData =
     {
         "name": "croptopia:item/roasted_radishes",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 482,
         "width": 1,
         "height": 1
@@ -53180,7 +53188,7 @@ var textureData =
     {
         "name": "knight_quest:items/wither_main_icon",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 488,
         "width": 1,
         "height": 1
@@ -53228,7 +53236,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fruit_salad_2",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 477,
         "width": 1,
         "height": 1
@@ -53252,7 +53260,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fruit_salad_1",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 477,
         "width": 1,
         "height": 1
@@ -53324,15 +53332,15 @@ var textureData =
     {
         "name": "delightful:item/experience_knife",
         "animated": false,
-        "x": 254,
-        "y": 476,
+        "x": 0,
+        "y": 477,
         "width": 1,
         "height": 1
     },
     {
         "name": "croptopia:item/frog_legs",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 478,
         "width": 1,
         "height": 1
@@ -53388,7 +53396,7 @@ var textureData =
     {
         "name": "nebs:items/multishot",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 486,
         "width": 1,
         "height": 1
@@ -53476,7 +53484,7 @@ var textureData =
     {
         "name": "minecraft:item/lead",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 479,
         "width": 1,
         "height": 1
@@ -53500,7 +53508,7 @@ var textureData =
     {
         "name": "knight_quest:items/polar_bear_main_icon",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 486,
         "width": 1,
         "height": 1
@@ -53548,7 +53556,7 @@ var textureData =
     {
         "name": "croptopia:item/ginger_seed",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 478,
         "width": 1,
         "height": 1
@@ -53556,7 +53564,7 @@ var textureData =
     {
         "name": "compatoplenty:item/fir_furnace_boat",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 477,
         "width": 1,
         "height": 1
@@ -53644,7 +53652,7 @@ var textureData =
     {
         "name": "minecraft:item/tadpole_bucket",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 483,
         "width": 1,
         "height": 1
@@ -53716,7 +53724,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/netherite_reinforcement",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 480,
         "width": 1,
         "height": 1
@@ -53724,7 +53732,7 @@ var textureData =
     {
         "name": "knight_quest:items/strawhat_helmet_icon",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 487,
         "width": 1,
         "height": 1
@@ -53780,7 +53788,7 @@ var textureData =
     {
         "name": "infernalexp:item/molten_gold_cluster",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 480,
         "width": 1,
         "height": 1
@@ -53852,7 +53860,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/train_stop_item",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 487,
         "width": 1,
         "height": 1
@@ -53860,7 +53868,7 @@ var textureData =
     {
         "name": "vinery:item/vinemaker_leggings",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 483,
         "width": 1,
         "height": 1
@@ -53876,7 +53884,7 @@ var textureData =
     {
         "name": "create_confectionery:items/music_disc_the_bright_side",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 486,
         "width": 1,
         "height": 1
@@ -53908,7 +53916,7 @@ var textureData =
     {
         "name": "minecraft:item/wheat_seeds",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 483,
         "width": 1,
         "height": 1
@@ -53916,7 +53924,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_magic",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 487,
         "width": 1,
         "height": 1
@@ -53940,7 +53948,7 @@ var textureData =
     {
         "name": "create_sa:items/small_filling_tank",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 487,
         "width": 1,
         "height": 1
@@ -53972,7 +53980,7 @@ var textureData =
     {
         "name": "miningmaster:item/fire_ruby_sword",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 477,
         "width": 1,
         "height": 1
@@ -54004,7 +54012,7 @@ var textureData =
     {
         "name": "artifacts:item/whoopee_cushion",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 483,
         "width": 1,
         "height": 1
@@ -54076,7 +54084,7 @@ var textureData =
     {
         "name": "supplementaries:items/flax_seeds",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 485,
         "width": 1,
         "height": 1
@@ -54116,7 +54124,7 @@ var textureData =
     {
         "name": "croptopia:item/tea_leaves",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 483,
         "width": 1,
         "height": 1
@@ -54124,7 +54132,7 @@ var textureData =
     {
         "name": "farmersdelight:item/yellow_canvas_sign",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 483,
         "width": 1,
         "height": 1
@@ -54132,7 +54140,7 @@ var textureData =
     {
         "name": "ecologics:item/walnut_boat",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 483,
         "width": 1,
         "height": 1
@@ -54140,7 +54148,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_crimson",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 480,
         "width": 1,
         "height": 1
@@ -54164,7 +54172,7 @@ var textureData =
     {
         "name": "croptopia:item/grape_seed",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 478,
         "width": 1,
         "height": 1
@@ -54228,7 +54236,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/spinefish_skeleton",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 487,
         "width": 1,
         "height": 1
@@ -54268,7 +54276,7 @@ var textureData =
     {
         "name": "nebs:items/pilfering",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 486,
         "width": 1,
         "height": 1
@@ -54308,7 +54316,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/nordic_mead_bottles",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 488,
         "width": 1,
         "height": 1
@@ -54340,7 +54348,7 @@ var textureData =
     {
         "name": "create_confectionery:items/full_chocolate_bar",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 485,
         "width": 1,
         "height": 1
@@ -54348,7 +54356,7 @@ var textureData =
     {
         "name": "knight_quest:items/path_leggings_icon",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 486,
         "width": 1,
         "height": 1
@@ -54364,7 +54372,7 @@ var textureData =
     {
         "name": "biomemakeover:item/swamp_cypress_sign",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 483,
         "width": 1,
         "height": 1
@@ -54388,7 +54396,7 @@ var textureData =
     {
         "name": "manyideas_core:item/plates/plate_quartz",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54396,7 +54404,7 @@ var textureData =
     {
         "name": "create:item/polished_rose_quartz",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54404,7 +54412,7 @@ var textureData =
     {
         "name": "miningmaster:item/power_pyrite_axe",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54420,7 +54428,7 @@ var textureData =
     {
         "name": "nethersdelight:item/plate_of_stuffed_hoglin_snout",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54444,7 +54452,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_green_leggings_icon",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 486,
         "width": 1,
         "height": 1
@@ -54484,7 +54492,7 @@ var textureData =
     {
         "name": "knight_quest:items/shield_helmet_icon",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 487,
         "width": 1,
         "height": 1
@@ -54540,7 +54548,7 @@ var textureData =
     {
         "name": "eatinganimation:item/porkchop_eating_0",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54556,7 +54564,7 @@ var textureData =
     {
         "name": "eatinganimation:item/porkchop_eating_1",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54588,7 +54596,7 @@ var textureData =
     {
         "name": "croptopia:item/yam_jam",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 483,
         "width": 1,
         "height": 1
@@ -54596,7 +54604,7 @@ var textureData =
     {
         "name": "nebs:items/corrosion_curse",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 484,
         "width": 1,
         "height": 1
@@ -54612,7 +54620,7 @@ var textureData =
     {
         "name": "nebs:items/paralysis",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 486,
         "width": 1,
         "height": 1
@@ -54628,7 +54636,7 @@ var textureData =
     {
         "name": "eatinganimation:item/porkchop_eating_2",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54636,7 +54644,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/bonecallerstaf",
         "animated": false,
-        "x": 115,
+        "x": 118,
         "y": 484,
         "width": 1,
         "height": 1
@@ -54668,7 +54676,7 @@ var textureData =
     {
         "name": "croptopia:item/ground_pork",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 478,
         "width": 1,
         "height": 1
@@ -54724,7 +54732,7 @@ var textureData =
     {
         "name": "knight_quest:items/black_mage_leggings_icon",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 484,
         "width": 1,
         "height": 1
@@ -54764,7 +54772,7 @@ var textureData =
     {
         "name": "nethersdelight:item/magma_gelatin",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 479,
         "width": 1,
         "height": 1
@@ -54772,7 +54780,7 @@ var textureData =
     {
         "name": "minecraft:item/wooden_sword",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 483,
         "width": 1,
         "height": 1
@@ -54828,7 +54836,7 @@ var textureData =
     {
         "name": "delightful:item/obsidian_infused_enderite_knife",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 480,
         "width": 1,
         "height": 1
@@ -54852,7 +54860,7 @@ var textureData =
     {
         "name": "aquaculture:item/iron_fishing_rod_uncast",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 479,
         "width": 1,
         "height": 1
@@ -54892,7 +54900,7 @@ var textureData =
     {
         "name": "delightful:item/refined_obsidian_knife",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54932,7 +54940,7 @@ var textureData =
     {
         "name": "alexsmobs:item/shed_snake_skin",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 482,
         "width": 1,
         "height": 1
@@ -54948,7 +54956,7 @@ var textureData =
     {
         "name": "croptopia:item/protein_bar",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 481,
         "width": 1,
         "height": 1
@@ -54956,7 +54964,7 @@ var textureData =
     {
         "name": "minecraft:item/filled_map_markings",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 477,
         "width": 1,
         "height": 1
@@ -54980,7 +54988,7 @@ var textureData =
     {
         "name": "nebs:items/efficiency",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 485,
         "width": 1,
         "height": 1
@@ -55060,7 +55068,7 @@ var textureData =
     {
         "name": "knight_quest:items/polar_bear_boots_icon",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 486,
         "width": 1,
         "height": 1
@@ -55068,7 +55076,7 @@ var textureData =
     {
         "name": "alexsmobs:item/leafcutter_ant_pupa",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 479,
         "width": 1,
         "height": 1
@@ -55132,7 +55140,7 @@ var textureData =
     {
         "name": "alexsmobs:item/moose_headgear",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 480,
         "width": 1,
         "height": 1
@@ -55196,7 +55204,7 @@ var textureData =
     {
         "name": "knight_quest:items/shield_boots_icon",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 487,
         "width": 1,
         "height": 1
@@ -55220,7 +55228,7 @@ var textureData =
     {
         "name": "nebs:items/acrobat_chest",
         "animated": false,
-        "x": 16,
+        "x": 19,
         "y": 484,
         "width": 1,
         "height": 1
@@ -55228,7 +55236,7 @@ var textureData =
     {
         "name": "primitivestart:items/bone_pickaxe",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 484,
         "width": 1,
         "height": 1
@@ -55252,7 +55260,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_body_icon",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 486,
         "width": 1,
         "height": 1
@@ -55292,7 +55300,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_boots_icon",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 484,
         "width": 1,
         "height": 1
@@ -55332,7 +55340,7 @@ var textureData =
     {
         "name": "manyideas_core:item/saws/saw_diamond",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 482,
         "width": 1,
         "height": 1
@@ -55372,7 +55380,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/shell_horn",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 487,
         "width": 1,
         "height": 1
@@ -55396,7 +55404,7 @@ var textureData =
     {
         "name": "croptopia:item/leek",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 479,
         "width": 1,
         "height": 1
@@ -55484,7 +55492,7 @@ var textureData =
     {
         "name": "nebs:items/ore_scenting",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 486,
         "width": 1,
         "height": 1
@@ -55492,7 +55500,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/pink",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 484,
         "width": 1,
         "height": 1
@@ -55500,7 +55508,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/domum_ornamentum/sign_post_cactus_extra",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 487,
         "width": 1,
         "height": 1
@@ -55508,7 +55516,7 @@ var textureData =
     {
         "name": "nebs:items/crescendo",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 484,
         "width": 1,
         "height": 1
@@ -55620,7 +55628,7 @@ var textureData =
     {
         "name": "knight_quest:items/husk_helmet_icon",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 485,
         "width": 1,
         "height": 1
@@ -55636,7 +55644,7 @@ var textureData =
     {
         "name": "nebs:items/respiration",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 486,
         "width": 1,
         "height": 1
@@ -55692,7 +55700,7 @@ var textureData =
     {
         "name": "nebs:items/knockback",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 485,
         "width": 1,
         "height": 1
@@ -55716,7 +55724,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_horn_leggings_icon",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 486,
         "width": 1,
         "height": 1
@@ -55780,7 +55788,7 @@ var textureData =
     {
         "name": "aquaculture:item/jellyfish",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 479,
         "width": 1,
         "height": 1
@@ -55812,7 +55820,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_helmet_overlay",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 479,
         "width": 1,
         "height": 1
@@ -55828,7 +55836,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/locdooor",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 486,
         "width": 1,
         "height": 1
@@ -55860,7 +55868,7 @@ var textureData =
     {
         "name": "alexsdelight:item/raw_bunfungus",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 481,
         "width": 1,
         "height": 1
@@ -55908,7 +55916,7 @@ var textureData =
     {
         "name": "create_sa:items/andesite_jetpack",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 484,
         "width": 1,
         "height": 1
@@ -55996,7 +56004,7 @@ var textureData =
     {
         "name": "knight_quest:items/drystave",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56044,7 +56052,7 @@ var textureData =
     {
         "name": "alexsmobs:item/straddleboard_overlay",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 482,
         "width": 1,
         "height": 1
@@ -56100,7 +56108,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_hoe",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 483,
         "width": 1,
         "height": 1
@@ -56108,7 +56116,7 @@ var textureData =
     {
         "name": "nebs:items/damage_ender",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56156,7 +56164,7 @@ var textureData =
     {
         "name": "knight_quest:items/ghast_leggings_icon",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56236,7 +56244,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_pickaxe",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 480,
         "width": 1,
         "height": 1
@@ -56252,7 +56260,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_purple",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 482,
         "width": 1,
         "height": 1
@@ -56284,7 +56292,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/jacaranda_boat",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 479,
         "width": 1,
         "height": 1
@@ -56300,7 +56308,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/empty_music_disc",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56324,7 +56332,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomemakeover/hanging_sign_ancient_oak",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56332,7 +56340,7 @@ var textureData =
     {
         "name": "nebs:items/instigating",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56380,7 +56388,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_0",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 477,
         "width": 1,
         "height": 1
@@ -56396,7 +56404,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_1",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 477,
         "width": 1,
         "height": 1
@@ -56404,7 +56412,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/ratatouille_0",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 477,
         "width": 1,
         "height": 1
@@ -56420,7 +56428,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/ratatouille_1",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 477,
         "width": 1,
         "height": 1
@@ -56428,7 +56436,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/ratatouille_2",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 477,
         "width": 1,
         "height": 1
@@ -56444,7 +56452,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cabbage_2",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 477,
         "width": 1,
         "height": 1
@@ -56476,7 +56484,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_ebony",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 487,
         "width": 1,
         "height": 1
@@ -56508,7 +56516,7 @@ var textureData =
     {
         "name": "quark:item/moss_paste",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 480,
         "width": 1,
         "height": 1
@@ -56516,7 +56524,7 @@ var textureData =
     {
         "name": "alexsmobs:item/warped_muscle",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 483,
         "width": 1,
         "height": 1
@@ -56596,7 +56604,7 @@ var textureData =
     {
         "name": "knight_quest:items/husk_main_icon",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56628,7 +56636,7 @@ var textureData =
     {
         "name": "croptopia:item/steamed_broccoli",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 482,
         "width": 1,
         "height": 1
@@ -56652,7 +56660,7 @@ var textureData =
     {
         "name": "alexsmobs:item/lava_bottle",
         "animated": true,
-        "x": 111,
+        "x": 114,
         "y": 479,
         "width": 1,
         "height": 1
@@ -56660,7 +56668,7 @@ var textureData =
     {
         "name": "nebs:items/smelting_touch",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 487,
         "width": 1,
         "height": 1
@@ -56684,8 +56692,8 @@ var textureData =
     {
         "name": "quark:item/yellow_shard",
         "animated": false,
-        "x": 254,
-        "y": 483,
+        "x": 1,
+        "y": 484,
         "width": 1,
         "height": 1
     },
@@ -56700,7 +56708,7 @@ var textureData =
     {
         "name": "biomemakeover:item/rootling_seeds",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 482,
         "width": 1,
         "height": 1
@@ -56708,7 +56716,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/empty_card",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 485,
         "width": 1,
         "height": 1
@@ -56716,7 +56724,7 @@ var textureData =
     {
         "name": "supplementaries:items/statue",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 487,
         "width": 1,
         "height": 1
@@ -56788,7 +56796,7 @@ var textureData =
     {
         "name": "byg:item/yellow_nether_brick",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 483,
         "width": 1,
         "height": 1
@@ -56812,7 +56820,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_warped",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 487,
         "width": 1,
         "height": 1
@@ -56900,7 +56908,7 @@ var textureData =
     {
         "name": "minecraft:item/pufferfish",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 481,
         "width": 1,
         "height": 1
@@ -56916,7 +56924,7 @@ var textureData =
     {
         "name": "knight_quest:items/bow_leggings_icon",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 484,
         "width": 1,
         "height": 1
@@ -56932,7 +56940,7 @@ var textureData =
     {
         "name": "eatinganimation:item/mushroom_stew_eating_2",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 480,
         "width": 1,
         "height": 1
@@ -56956,7 +56964,7 @@ var textureData =
     {
         "name": "knight_quest:items/creeper_main_icon",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 484,
         "width": 1,
         "height": 1
@@ -56972,7 +56980,7 @@ var textureData =
     {
         "name": "eatinganimation:item/mushroom_stew_eating_0",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 480,
         "width": 1,
         "height": 1
@@ -56980,7 +56988,7 @@ var textureData =
     {
         "name": "eatinganimation:item/mushroom_stew_eating_1",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 480,
         "width": 1,
         "height": 1
@@ -57004,7 +57012,7 @@ var textureData =
     {
         "name": "minecraft:item/pufferfish_bucket",
         "animated": false,
-        "x": 120,
+        "x": 123,
         "y": 481,
         "width": 1,
         "height": 1
@@ -57020,7 +57028,7 @@ var textureData =
     {
         "name": "majruszsaccessories:item/overworld_rune",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 480,
         "width": 1,
         "height": 1
@@ -57036,7 +57044,7 @@ var textureData =
     {
         "name": "minecraft:item/firework_star_overlay",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 477,
         "width": 1,
         "height": 1
@@ -57052,7 +57060,7 @@ var textureData =
     {
         "name": "nebs:items/leeching",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 486,
         "width": 1,
         "height": 1
@@ -57060,7 +57068,7 @@ var textureData =
     {
         "name": "savage_and_ravage:item/mask_of_dishonesty",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 479,
         "width": 1,
         "height": 1
@@ -57092,7 +57100,7 @@ var textureData =
     {
         "name": "biomemakeover:item/gray_petals",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 478,
         "width": 1,
         "height": 1
@@ -57100,7 +57108,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/nordic_boiled_creme_treats",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 488,
         "width": 1,
         "height": 1
@@ -57140,7 +57148,7 @@ var textureData =
     {
         "name": "nethersdelight:item/grilled_strider",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 478,
         "width": 1,
         "height": 1
@@ -57148,7 +57156,7 @@ var textureData =
     {
         "name": "farmersdelight:item/iron_knife",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 479,
         "width": 1,
         "height": 1
@@ -57164,7 +57172,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_dragon_boots_icon",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 486,
         "width": 1,
         "height": 1
@@ -57180,7 +57188,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/plastinatiemnoistali",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 486,
         "width": 1,
         "height": 1
@@ -57204,7 +57212,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/doorsi",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 485,
         "width": 1,
         "height": 1
@@ -57228,7 +57236,7 @@ var textureData =
     {
         "name": "aquaculture:item/fish_bones",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 477,
         "width": 1,
         "height": 1
@@ -57244,7 +57252,7 @@ var textureData =
     {
         "name": "minecraft:item/prismarine_shard",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 481,
         "width": 1,
         "height": 1
@@ -57284,7 +57292,7 @@ var textureData =
     {
         "name": "compatoplenty:item/hellbark_furnace_boat",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 478,
         "width": 1,
         "height": 1
@@ -57300,7 +57308,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_leggings",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 484,
         "width": 1,
         "height": 1
@@ -57332,7 +57340,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/snowballs",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 488,
         "width": 1,
         "height": 1
@@ -57380,7 +57388,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/oxygen_tank",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 486,
         "width": 1,
         "height": 1
@@ -57428,7 +57436,7 @@ var textureData =
     {
         "name": "farmersdelight:item/flint_knife",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 477,
         "width": 1,
         "height": 1
@@ -57476,7 +57484,7 @@ var textureData =
     {
         "name": "itemfilters:item/not",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 480,
         "width": 1,
         "height": 1
@@ -57548,7 +57556,7 @@ var textureData =
     {
         "name": "croptopia:item/french_fries",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 478,
         "width": 1,
         "height": 1
@@ -57596,7 +57604,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/rune_of_the_storm",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 486,
         "width": 1,
         "height": 1
@@ -57636,7 +57644,7 @@ var textureData =
     {
         "name": "alexsdelight:item/kangaroo_stew",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 479,
         "width": 1,
         "height": 1
@@ -57660,7 +57668,7 @@ var textureData =
     {
         "name": "farmersdelight:item/hot_cocoa",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 478,
         "width": 1,
         "height": 1
@@ -57668,7 +57676,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/rocks",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 482,
         "width": 1,
         "height": 1
@@ -57684,7 +57692,7 @@ var textureData =
     {
         "name": "cnb:items/cindershell_shell_shard",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 484,
         "width": 1,
         "height": 1
@@ -57756,7 +57764,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_birch",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 487,
         "width": 1,
         "height": 1
@@ -57780,7 +57788,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_wind",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 480,
         "width": 1,
         "height": 1
@@ -57796,7 +57804,7 @@ var textureData =
     {
         "name": "farmersdelight:item/white_canvas_sign",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 483,
         "width": 1,
         "height": 1
@@ -57860,7 +57868,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/fir_chest_boat",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 477,
         "width": 1,
         "height": 1
@@ -57868,7 +57876,7 @@ var textureData =
     {
         "name": "nebs:items/air_skills",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 484,
         "width": 1,
         "height": 1
@@ -57884,7 +57892,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/born_in_chaos_v1/hanging_sign_scorched",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 485,
         "width": 1,
         "height": 1
@@ -57892,7 +57900,7 @@ var textureData =
     {
         "name": "create_sa:items/drone_controller",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 485,
         "width": 1,
         "height": 1
@@ -57908,7 +57916,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_boots",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 484,
         "width": 1,
         "height": 1
@@ -57964,7 +57972,7 @@ var textureData =
     {
         "name": "nebs:items/reach",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 486,
         "width": 1,
         "height": 1
@@ -57980,7 +57988,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/zinc_reinforcement",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 484,
         "width": 1,
         "height": 1
@@ -57996,7 +58004,7 @@ var textureData =
     {
         "name": "primitivestart:items/reinforced_bone_hoe",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 486,
         "width": 1,
         "height": 1
@@ -58012,7 +58020,7 @@ var textureData =
     {
         "name": "delightful:item/fiery_knife",
         "animated": true,
-        "x": 212,
+        "x": 215,
         "y": 477,
         "width": 1,
         "height": 1
@@ -58028,7 +58036,7 @@ var textureData =
     {
         "name": "aquaculture:item/gold_fillet_knife",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 478,
         "width": 1,
         "height": 1
@@ -58116,7 +58124,7 @@ var textureData =
     {
         "name": "knight_quest:items/crimsonblade",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 484,
         "width": 1,
         "height": 1
@@ -58156,7 +58164,7 @@ var textureData =
     {
         "name": "vinery:item/noir_wine",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 480,
         "width": 1,
         "height": 1
@@ -58164,7 +58172,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_red",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 482,
         "width": 1,
         "height": 1
@@ -58188,7 +58196,7 @@ var textureData =
     {
         "name": "croptopia:item/oat",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 480,
         "width": 1,
         "height": 1
@@ -58220,7 +58228,7 @@ var textureData =
     {
         "name": "infernalexp:item/glow_campfire",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 478,
         "width": 1,
         "height": 1
@@ -58236,7 +58244,7 @@ var textureData =
     {
         "name": "miningmaster:item/ice_sapphire",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 478,
         "width": 1,
         "height": 1
@@ -58268,7 +58276,7 @@ var textureData =
     {
         "name": "nebs:items/berserk",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 484,
         "width": 1,
         "height": 1
@@ -58278,6 +58286,14 @@ var textureData =
         "animated": false,
         "x": 212,
         "y": 455,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "name": "vitalize:item/experience",
+        "animated": false,
+        "x": 253,
+        "y": 476,
         "width": 1,
         "height": 1
     },
@@ -58324,7 +58340,7 @@ var textureData =
     {
         "name": "biomemakeover:item/moth_scales",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 480,
         "width": 1,
         "height": 1
@@ -58420,7 +58436,7 @@ var textureData =
     {
         "name": "minecraft:item/light",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 479,
         "width": 1,
         "height": 1
@@ -58436,7 +58452,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/smoked_ham_2",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 477,
         "width": 1,
         "height": 1
@@ -58444,7 +58460,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/smoked_ham_1",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 477,
         "width": 1,
         "height": 1
@@ -58452,7 +58468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/smoked_ham_0",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 477,
         "width": 1,
         "height": 1
@@ -58500,8 +58516,8 @@ var textureData =
     {
         "name": "croptopia:item/strawberry",
         "animated": false,
-        "x": 254,
-        "y": 482,
+        "x": 1,
+        "y": 483,
         "width": 1,
         "height": 1
     },
@@ -58540,7 +58556,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomemakeover/sign_post_ancient_oak",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 487,
         "width": 1,
         "height": 1
@@ -58580,7 +58596,7 @@ var textureData =
     {
         "name": "croptopia:item/nougat",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 480,
         "width": 1,
         "height": 1
@@ -58596,7 +58612,7 @@ var textureData =
     {
         "name": "nebs:items/sharpness",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 487,
         "width": 1,
         "height": 1
@@ -58644,7 +58660,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rabbit_eating_2",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 481,
         "width": 1,
         "height": 1
@@ -58660,7 +58676,7 @@ var textureData =
     {
         "name": "alexsmobs:item/mungal_spores",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 480,
         "width": 1,
         "height": 1
@@ -58668,7 +58684,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rabbit_eating_1",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 481,
         "width": 1,
         "height": 1
@@ -58676,7 +58692,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rabbit_eating_0",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 481,
         "width": 1,
         "height": 1
@@ -58700,7 +58716,7 @@ var textureData =
     {
         "name": "miningmaster:item/unbreaking_iolite",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 483,
         "width": 1,
         "height": 1
@@ -58708,7 +58724,7 @@ var textureData =
     {
         "name": "endrem:items/corrupted_eye",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 484,
         "width": 1,
         "height": 1
@@ -58748,7 +58764,7 @@ var textureData =
     {
         "name": "primitivestart:items/bone_sword",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 484,
         "width": 1,
         "height": 1
@@ -58804,7 +58820,7 @@ var textureData =
     {
         "name": "nebs:items/disc_jockey",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 485,
         "width": 1,
         "height": 1
@@ -58828,7 +58844,7 @@ var textureData =
     {
         "name": "knight_quest:items/squire_main_icon",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 487,
         "width": 1,
         "height": 1
@@ -58868,7 +58884,7 @@ var textureData =
     {
         "name": "byg:item/holly/boat",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 478,
         "width": 1,
         "height": 1
@@ -58932,7 +58948,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_enderman_main_icon",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 486,
         "width": 1,
         "height": 1
@@ -58996,7 +59012,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/tankards",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 488,
         "width": 1,
         "height": 1
@@ -59004,7 +59020,7 @@ var textureData =
     {
         "name": "supplementaries:items/bamboo_spikes_overlay_2",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 484,
         "width": 1,
         "height": 1
@@ -59012,7 +59028,7 @@ var textureData =
     {
         "name": "minecraft:item/turtle_helmet",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 483,
         "width": 1,
         "height": 1
@@ -59028,7 +59044,7 @@ var textureData =
     {
         "name": "minecraft:item/gray_dye",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 478,
         "width": 1,
         "height": 1
@@ -59052,7 +59068,7 @@ var textureData =
     {
         "name": "nebs:items/defusal",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 485,
         "width": 1,
         "height": 1
@@ -59100,7 +59116,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_cherry",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 487,
         "width": 1,
         "height": 1
@@ -59276,7 +59292,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/padded_door",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 480,
         "width": 1,
         "height": 1
@@ -59364,7 +59380,7 @@ var textureData =
     {
         "name": "minecraft:item/tropical_fish_bucket",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 483,
         "width": 1,
         "height": 1
@@ -59380,7 +59396,7 @@ var textureData =
     {
         "name": "alexsmobs:item/straddle_helmet",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 482,
         "width": 1,
         "height": 1
@@ -59388,7 +59404,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_acacia",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 487,
         "width": 1,
         "height": 1
@@ -59476,7 +59492,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_boots",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 483,
         "width": 1,
         "height": 1
@@ -59492,7 +59508,7 @@ var textureData =
     {
         "name": "croptopia:item/toast_sandwich",
         "animated": false,
-        "x": 86,
+        "x": 89,
         "y": 483,
         "width": 1,
         "height": 1
@@ -59508,7 +59524,7 @@ var textureData =
     {
         "name": "alexsmobs:item/komodo_spit_bottle",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 479,
         "width": 1,
         "height": 1
@@ -59524,7 +59540,7 @@ var textureData =
     {
         "name": "croptopia:item/rice_seed",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 482,
         "width": 1,
         "height": 1
@@ -59572,7 +59588,7 @@ var textureData =
     {
         "name": "curios:slot/empty_belt_slot",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 488,
         "width": 1,
         "height": 1
@@ -59588,7 +59604,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_green",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 478,
         "width": 1,
         "height": 1
@@ -59644,7 +59660,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_black",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 478,
         "width": 1,
         "height": 1
@@ -59652,7 +59668,7 @@ var textureData =
     {
         "name": "croptopia:item/grape_jam",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 478,
         "width": 1,
         "height": 1
@@ -59716,7 +59732,7 @@ var textureData =
     {
         "name": "delightful:item/gilded_quartz_knife",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 478,
         "width": 1,
         "height": 1
@@ -59748,7 +59764,7 @@ var textureData =
     {
         "name": "cataclysm:items/ignitium_elytra_chestplate",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 485,
         "width": 1,
         "height": 1
@@ -59756,7 +59772,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/hellbark_sign",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 478,
         "width": 1,
         "height": 1
@@ -59764,7 +59780,7 @@ var textureData =
     {
         "name": "byg:item/skyris_vine",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 482,
         "width": 1,
         "height": 1
@@ -59804,7 +59820,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_cuts_2",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 477,
         "width": 1,
         "height": 1
@@ -59812,7 +59828,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_cuts_0",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 477,
         "width": 1,
         "height": 1
@@ -59828,7 +59844,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_cuts_1",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 477,
         "width": 1,
         "height": 1
@@ -59852,7 +59868,7 @@ var textureData =
     {
         "name": "minecraft:item/lapis_lazuli",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 479,
         "width": 1,
         "height": 1
@@ -59860,7 +59876,7 @@ var textureData =
     {
         "name": "nebs:items/pufferfish_vengeance",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 486,
         "width": 1,
         "height": 1
@@ -59916,8 +59932,8 @@ var textureData =
     {
         "name": "vinery:item/flower_pot_big",
         "animated": false,
-        "x": 254,
-        "y": 477,
+        "x": 1,
+        "y": 478,
         "width": 1,
         "height": 1
     },
@@ -59956,7 +59972,7 @@ var textureData =
     {
         "name": "farmersdelight:item/fruit_salad",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 478,
         "width": 1,
         "height": 1
@@ -59964,7 +59980,7 @@ var textureData =
     {
         "name": "minecraft:item/honey_bottle",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 478,
         "width": 1,
         "height": 1
@@ -60020,7 +60036,7 @@ var textureData =
     {
         "name": "minecraft:item/white_candle",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 483,
         "width": 1,
         "height": 1
@@ -60084,7 +60100,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/super_glue_kit",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 487,
         "width": 1,
         "height": 1
@@ -60092,7 +60108,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_body_icon_-_copy",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 486,
         "width": 1,
         "height": 1
@@ -60244,7 +60260,7 @@ var textureData =
     {
         "name": "croptopia:item/spinach",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 482,
         "width": 1,
         "height": 1
@@ -60284,7 +60300,7 @@ var textureData =
     {
         "name": "knight_quest:items/shinobi_helmet_icon",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 487,
         "width": 1,
         "height": 1
@@ -60364,7 +60380,7 @@ var textureData =
     {
         "name": "croptopia:item/quiche",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 481,
         "width": 1,
         "height": 1
@@ -60380,7 +60396,7 @@ var textureData =
     {
         "name": "artifacts:item/flame_pendant",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 477,
         "width": 1,
         "height": 1
@@ -60412,7 +60428,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_helmet_icon_-_copy",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 486,
         "width": 1,
         "height": 1
@@ -60420,7 +60436,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_jacaranda",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 487,
         "width": 1,
         "height": 1
@@ -60436,7 +60452,7 @@ var textureData =
     {
         "name": "minecraft:item/oak_boat",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 480,
         "width": 1,
         "height": 1
@@ -60444,7 +60460,7 @@ var textureData =
     {
         "name": "quark:item/orange_rune",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 480,
         "width": 1,
         "height": 1
@@ -60452,7 +60468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/potato_eating_2",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 481,
         "width": 1,
         "height": 1
@@ -60460,7 +60476,7 @@ var textureData =
     {
         "name": "eatinganimation:item/potato_eating_1",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 481,
         "width": 1,
         "height": 1
@@ -60476,7 +60492,7 @@ var textureData =
     {
         "name": "eatinganimation:item/potato_eating_0",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 481,
         "width": 1,
         "height": 1
@@ -60508,7 +60524,7 @@ var textureData =
     {
         "name": "byg:item/green_enchanted/door",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 478,
         "width": 1,
         "height": 1
@@ -60540,7 +60556,7 @@ var textureData =
     {
         "name": "nebs:items/tempting",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 487,
         "width": 1,
         "height": 1
@@ -60556,7 +60572,7 @@ var textureData =
     {
         "name": "miningmaster:item/power_pyrite_sword",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 481,
         "width": 1,
         "height": 1
@@ -60636,7 +60652,7 @@ var textureData =
     {
         "name": "mcwroofs:item/rain_gutter",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 481,
         "width": 1,
         "height": 1
@@ -60684,7 +60700,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/duhbled",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 485,
         "width": 1,
         "height": 1
@@ -60724,7 +60740,7 @@ var textureData =
     {
         "name": "create:item/linked_controller_powered",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 479,
         "width": 1,
         "height": 1
@@ -60772,7 +60788,7 @@ var textureData =
     {
         "name": "create_confectionery:items/bar_of_ruby_chocolate",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 484,
         "width": 1,
         "height": 1
@@ -60812,7 +60828,7 @@ var textureData =
     {
         "name": "create_confectionery:items/white_chocolate_bucket",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 487,
         "width": 1,
         "height": 1
@@ -60876,7 +60892,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_mutton_chops_2",
         "animated": false,
-        "x": 64,
+        "x": 67,
         "y": 477,
         "width": 1,
         "height": 1
@@ -60916,7 +60932,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_axe",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 480,
         "width": 1,
         "height": 1
@@ -60956,7 +60972,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_mutton_chops_1",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 477,
         "width": 1,
         "height": 1
@@ -60972,7 +60988,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_mutton_chops_0",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 477,
         "width": 1,
         "height": 1
@@ -60980,7 +60996,7 @@ var textureData =
     {
         "name": "farmersdelight:item/steak_and_potatoes",
         "animated": false,
-        "x": 226,
+        "x": 229,
         "y": 482,
         "width": 1,
         "height": 1
@@ -60988,7 +61004,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomemakeover/hanging_sign_blighted_balsa",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 485,
         "width": 1,
         "height": 1
@@ -61012,7 +61028,7 @@ var textureData =
     {
         "name": "moonlight:soft_fluids/milk_liquid",
         "animated": true,
-        "x": 109,
+        "x": 112,
         "y": 488,
         "width": 1,
         "height": 1
@@ -61036,7 +61052,7 @@ var textureData =
     {
         "name": "nebs:items/phalanx",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 486,
         "width": 1,
         "height": 1
@@ -61068,7 +61084,7 @@ var textureData =
     {
         "name": "knight_quest:items/warlord_main_icon",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 487,
         "width": 1,
         "height": 1
@@ -61084,7 +61100,7 @@ var textureData =
     {
         "name": "ftbquests:item/lootcrate/side_outline",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 479,
         "width": 1,
         "height": 1
@@ -61140,7 +61156,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/dagger_of_greed",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 485,
         "width": 1,
         "height": 1
@@ -61156,7 +61172,7 @@ var textureData =
     {
         "name": "byg:item/maple/door",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 479,
         "width": 1,
         "height": 1
@@ -61188,7 +61204,7 @@ var textureData =
     {
         "name": "knight_quest:items/zombie_helmet2_icon",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 488,
         "width": 1,
         "height": 1
@@ -61196,7 +61212,7 @@ var textureData =
     {
         "name": "farmersdelight:item/tomato",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 483,
         "width": 1,
         "height": 1
@@ -61228,7 +61244,7 @@ var textureData =
     {
         "name": "delightful:item/glow_jelly_bottle",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 478,
         "width": 1,
         "height": 1
@@ -61236,7 +61252,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_palm_boat",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 479,
         "width": 1,
         "height": 1
@@ -61252,7 +61268,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/remnants_saber",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 486,
         "width": 1,
         "height": 1
@@ -61284,7 +61300,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_boots",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 480,
         "width": 1,
         "height": 1
@@ -61324,7 +61340,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_scrap",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 480,
         "width": 1,
         "height": 1
@@ -61332,15 +61348,15 @@ var textureData =
     {
         "name": "quark:item/yellow_rune",
         "animated": false,
-        "x": 253,
-        "y": 483,
+        "x": 0,
+        "y": 484,
         "width": 1,
         "height": 1
     },
     {
         "name": "alexsmobs:item/kangaroo_meat",
         "animated": false,
-        "x": 55,
+        "x": 58,
         "y": 479,
         "width": 1,
         "height": 1
@@ -61380,7 +61396,7 @@ var textureData =
     {
         "name": "supplementaries:items/timber_frame",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 487,
         "width": 1,
         "height": 1
@@ -61460,7 +61476,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/maze_rose_item",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 486,
         "width": 1,
         "height": 1
@@ -61484,7 +61500,7 @@ var textureData =
     {
         "name": "nebs:items/woe_of_swines",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 488,
         "width": 1,
         "height": 1
@@ -61524,7 +61540,7 @@ var textureData =
     {
         "name": "quark:item/flamerang",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 477,
         "width": 1,
         "height": 1
@@ -61532,7 +61548,7 @@ var textureData =
     {
         "name": "duckling:item/holiday_fruit_cake",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 478,
         "width": 1,
         "height": 1
@@ -61540,7 +61556,7 @@ var textureData =
     {
         "name": "itemfilters:item/or",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 480,
         "width": 1,
         "height": 1
@@ -61564,7 +61580,7 @@ var textureData =
     {
         "name": "minecraft:item/raw_gold",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 481,
         "width": 1,
         "height": 1
@@ -61596,7 +61612,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_red_leggings_icon",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 484,
         "width": 1,
         "height": 1
@@ -61692,7 +61708,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_leggings",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 483,
         "width": 1,
         "height": 1
@@ -61716,7 +61732,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/stocking",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 488,
         "width": 1,
         "height": 1
@@ -61796,7 +61812,7 @@ var textureData =
     {
         "name": "knight_quest:items/bow_boots_icon",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 484,
         "width": 1,
         "height": 1
@@ -61844,7 +61860,7 @@ var textureData =
     {
         "name": "farmersdelight:item/mixed_salad",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 480,
         "width": 1,
         "height": 1
@@ -61924,7 +61940,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/sticky_boots",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 487,
         "width": 1,
         "height": 1
@@ -61956,7 +61972,7 @@ var textureData =
     {
         "name": "vinery:item/milk_bread",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 480,
         "width": 1,
         "height": 1
@@ -62100,7 +62116,7 @@ var textureData =
     {
         "name": "nebs:items/quick_charge",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 486,
         "width": 1,
         "height": 1
@@ -62156,7 +62172,7 @@ var textureData =
     {
         "name": "takesapillage:item/ravager_horn",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 481,
         "width": 1,
         "height": 1
@@ -62180,7 +62196,7 @@ var textureData =
     {
         "name": "biomemakeover:item/swamp_cypress_door",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 483,
         "width": 1,
         "height": 1
@@ -62204,7 +62220,7 @@ var textureData =
     {
         "name": "delightful:item/nightshade_berry_pie_slice",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 480,
         "width": 1,
         "height": 1
@@ -62236,7 +62252,7 @@ var textureData =
     {
         "name": "delightful:item/jelly_bottle",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 479,
         "width": 1,
         "height": 1
@@ -62252,7 +62268,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_sea_boots_icon",
         "animated": false,
-        "x": 31,
+        "x": 34,
         "y": 486,
         "width": 1,
         "height": 1
@@ -62260,7 +62276,7 @@ var textureData =
     {
         "name": "farmersdelight:item/lime_canvas_sign",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 479,
         "width": 1,
         "height": 1
@@ -62268,7 +62284,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/mahogany_boat",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 479,
         "width": 1,
         "height": 1
@@ -62300,7 +62316,7 @@ var textureData =
     {
         "name": "minecraft:item/tnt_minecart",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 483,
         "width": 1,
         "height": 1
@@ -62324,7 +62340,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/hellbark_door",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 478,
         "width": 1,
         "height": 1
@@ -62340,7 +62356,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_rainbow_eucalyptus",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 485,
         "width": 1,
         "height": 1
@@ -62380,7 +62396,7 @@ var textureData =
     {
         "name": "minecraft:item/pointed_dripstone",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 481,
         "width": 1,
         "height": 1
@@ -62396,7 +62412,7 @@ var textureData =
     {
         "name": "byg:item/sythian/door",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 483,
         "width": 1,
         "height": 1
@@ -62404,7 +62420,7 @@ var textureData =
     {
         "name": "alexsmobs:item/falconry_glove",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 477,
         "width": 1,
         "height": 1
@@ -62420,7 +62436,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/stuffed_potato_2",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 477,
         "width": 1,
         "height": 1
@@ -62436,7 +62452,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/stuffed_potato_1",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 477,
         "width": 1,
         "height": 1
@@ -62444,7 +62460,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/stuffed_potato_0",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 477,
         "width": 1,
         "height": 1
@@ -62484,7 +62500,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_helmet",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 483,
         "width": 1,
         "height": 1
@@ -62532,7 +62548,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/ecologics/hanging_sign_azalea",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 485,
         "width": 1,
         "height": 1
@@ -62564,7 +62580,7 @@ var textureData =
     {
         "name": "delightful:item/sinigang",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 482,
         "width": 1,
         "height": 1
@@ -62580,7 +62596,7 @@ var textureData =
     {
         "name": "ftbquests:item/missing_item",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 480,
         "width": 1,
         "height": 1
@@ -62596,7 +62612,7 @@ var textureData =
     {
         "name": "itemfilters:item/mod",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 480,
         "width": 1,
         "height": 1
@@ -62612,7 +62628,7 @@ var textureData =
     {
         "name": "cnb:items/lizard_item_desert_2",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 486,
         "width": 1,
         "height": 1
@@ -62628,7 +62644,7 @@ var textureData =
     {
         "name": "quark:item/light_blue_shard",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 479,
         "width": 1,
         "height": 1
@@ -62660,7 +62676,7 @@ var textureData =
     {
         "name": "nebs:items/summoning",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 487,
         "width": 1,
         "height": 1
@@ -62676,7 +62692,7 @@ var textureData =
     {
         "name": "delightful:item/netherite_opal_knife",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 480,
         "width": 1,
         "height": 1
@@ -62724,7 +62740,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/golden_reinforcement",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 478,
         "width": 1,
         "height": 1
@@ -62740,7 +62756,7 @@ var textureData =
     {
         "name": "farmersdelight:item/fried_egg",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 478,
         "width": 1,
         "height": 1
@@ -62748,7 +62764,7 @@ var textureData =
     {
         "name": "delightful:item/smore",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 482,
         "width": 1,
         "height": 1
@@ -62764,7 +62780,7 @@ var textureData =
     {
         "name": "alexsmobs:item/pupfish_locator",
         "animated": true,
-        "x": 132,
+        "x": 135,
         "y": 481,
         "width": 1,
         "height": 1
@@ -62780,7 +62796,7 @@ var textureData =
     {
         "name": "alexsmobs:item/spiked_scute",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 482,
         "width": 1,
         "height": 1
@@ -62980,7 +62996,7 @@ var textureData =
     {
         "name": "alexsmobs:item/pupfish_locator_in_chunk",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 481,
         "width": 1,
         "height": 1
@@ -62988,7 +63004,7 @@ var textureData =
     {
         "name": "knight_quest:items/creeper_leggings_icon",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 484,
         "width": 1,
         "height": 1
@@ -63052,7 +63068,7 @@ var textureData =
     {
         "name": "dustrial_decor:item/large_chain",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 479,
         "width": 1,
         "height": 1
@@ -63060,7 +63076,7 @@ var textureData =
     {
         "name": "nebs:items/vitality",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63084,7 +63100,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_boots",
         "animated": false,
-        "x": 10,
+        "x": 13,
         "y": 479,
         "width": 1,
         "height": 1
@@ -63116,7 +63132,7 @@ var textureData =
     {
         "name": "savage_and_ravage:item/griefer_helmet",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 478,
         "width": 1,
         "height": 1
@@ -63172,7 +63188,7 @@ var textureData =
     {
         "name": "minecraft:item/mangrove_door",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 479,
         "width": 1,
         "height": 1
@@ -63188,7 +63204,7 @@ var textureData =
     {
         "name": "nebs:items/void_cloud",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63212,7 +63228,7 @@ var textureData =
     {
         "name": "nebs:items/channeling",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 484,
         "width": 1,
         "height": 1
@@ -63220,7 +63236,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/ecologics/hanging_sign_walnut",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 485,
         "width": 1,
         "height": 1
@@ -63252,7 +63268,7 @@ var textureData =
     {
         "name": "miningmaster:item/spirit_garnet_sword",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 482,
         "width": 1,
         "height": 1
@@ -63268,7 +63284,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/dunmer/oven_fire",
         "animated": true,
-        "x": 49,
+        "x": 52,
         "y": 488,
         "width": 1,
         "height": 1
@@ -63276,7 +63292,7 @@ var textureData =
     {
         "name": "alexsmobs:item/gazelle_horn",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 478,
         "width": 1,
         "height": 1
@@ -63300,7 +63316,7 @@ var textureData =
     {
         "name": "biomemakeover:item/glowfish",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 478,
         "width": 1,
         "height": 1
@@ -63308,7 +63324,7 @@ var textureData =
     {
         "name": "nebs:items/veteran",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63324,7 +63340,7 @@ var textureData =
     {
         "name": "alexsdelight:item/kangaroo_pasta",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 479,
         "width": 1,
         "height": 1
@@ -63332,7 +63348,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/domum_ornamentum/hanging_sign_cactus_extra",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 485,
         "width": 1,
         "height": 1
@@ -63364,7 +63380,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/sign_post_crimson",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63420,7 +63436,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/green",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 484,
         "width": 1,
         "height": 1
@@ -63476,7 +63492,7 @@ var textureData =
     {
         "name": "vinery:item/mash",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 479,
         "width": 1,
         "height": 1
@@ -63492,7 +63508,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_silver_boots_icon",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 486,
         "width": 1,
         "height": 1
@@ -63532,7 +63548,7 @@ var textureData =
     {
         "name": "minecraft:item/raw_copper",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 481,
         "width": 1,
         "height": 1
@@ -63564,7 +63580,7 @@ var textureData =
     {
         "name": "alexsmobs:item/guster_eye",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 478,
         "width": 1,
         "height": 1
@@ -63612,7 +63628,7 @@ var textureData =
     {
         "name": "knight_quest:items/squire_helmet_icon",
         "animated": false,
-        "x": 139,
+        "x": 142,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63644,7 +63660,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_pickaxe",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 488,
         "width": 1,
         "height": 1
@@ -63660,7 +63676,7 @@ var textureData =
     {
         "name": "nebs:items/longfooted",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 486,
         "width": 1,
         "height": 1
@@ -63700,7 +63716,7 @@ var textureData =
     {
         "name": "knight_quest:items/spider_helmet_icon",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63716,7 +63732,7 @@ var textureData =
     {
         "name": "create:item/sweet_roll",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 483,
         "width": 1,
         "height": 1
@@ -63732,7 +63748,7 @@ var textureData =
     {
         "name": "supplementaries:items/soap",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63740,7 +63756,7 @@ var textureData =
     {
         "name": "cataclysm:items/void_shard",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 487,
         "width": 1,
         "height": 1
@@ -63788,7 +63804,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/ognepil",
         "animated": true,
-        "x": 146,
+        "x": 149,
         "y": 486,
         "width": 1,
         "height": 1
@@ -63804,7 +63820,7 @@ var textureData =
     {
         "name": "delightful:item/nut_butter_and_jelly_sandwich",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 480,
         "width": 1,
         "height": 1
@@ -63892,7 +63908,7 @@ var textureData =
     {
         "name": "create:item/schematic",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 482,
         "width": 1,
         "height": 1
@@ -63900,7 +63916,7 @@ var textureData =
     {
         "name": "knight_quest:items/conquistador_helmet_icon",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 484,
         "width": 1,
         "height": 1
@@ -63940,7 +63956,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/divider",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 485,
         "width": 1,
         "height": 1
@@ -63964,7 +63980,7 @@ var textureData =
     {
         "name": "minecraft:item/wooden_axe",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 483,
         "width": 1,
         "height": 1
@@ -63980,7 +63996,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/avocado_slices",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 478,
         "width": 1,
         "height": 1
@@ -63988,7 +64004,7 @@ var textureData =
     {
         "name": "farmersdelight:item/light_gray_canvas_sign",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 479,
         "width": 1,
         "height": 1
@@ -64028,7 +64044,7 @@ var textureData =
     {
         "name": "knight_quest:items/poisonstave",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 486,
         "width": 1,
         "height": 1
@@ -64044,7 +64060,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_palm",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 485,
         "width": 1,
         "height": 1
@@ -64068,7 +64084,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_chestplate",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 480,
         "width": 1,
         "height": 1
@@ -64076,7 +64092,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_maple",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 485,
         "width": 1,
         "height": 1
@@ -64100,7 +64116,7 @@ var textureData =
     {
         "name": "supplementaries:items/timber_cross_brace",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 487,
         "width": 1,
         "height": 1
@@ -64156,7 +64172,7 @@ var textureData =
     {
         "name": "nebs:items/stable_footing",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 487,
         "width": 1,
         "height": 1
@@ -64212,7 +64228,7 @@ var textureData =
     {
         "name": "savage_and_ravage:item/griefer_chestplate",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 478,
         "width": 1,
         "height": 1
@@ -64268,7 +64284,7 @@ var textureData =
     {
         "name": "minecraft:item/name_tag",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 480,
         "width": 1,
         "height": 1
@@ -64276,7 +64292,7 @@ var textureData =
     {
         "name": "minecraft:item/orange_candle",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 480,
         "width": 1,
         "height": 1
@@ -64308,7 +64324,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_pickaxe",
         "animated": false,
-        "x": 140,
+        "x": 143,
         "y": 484,
         "width": 1,
         "height": 1
@@ -64324,7 +64340,7 @@ var textureData =
     {
         "name": "farmersdelight:item/golden_knife",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 478,
         "width": 1,
         "height": 1
@@ -64348,7 +64364,7 @@ var textureData =
     {
         "name": "manyideas_core:item/keys/redstone_key",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 479,
         "width": 1,
         "height": 1
@@ -64380,7 +64396,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_otherside",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 480,
         "width": 1,
         "height": 1
@@ -64420,7 +64436,7 @@ var textureData =
     {
         "name": "knight_quest:items/poison_bucket",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 486,
         "width": 1,
         "height": 1
@@ -64428,7 +64444,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/black",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 484,
         "width": 1,
         "height": 1
@@ -64436,7 +64452,7 @@ var textureData =
     {
         "name": "nebs:items/acrobat_legs",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 484,
         "width": 1,
         "height": 1
@@ -64508,7 +64524,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_hellbark_boat",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 479,
         "width": 1,
         "height": 1
@@ -64516,7 +64532,7 @@ var textureData =
     {
         "name": "miningmaster:item/ultima_pickaxe",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 483,
         "width": 1,
         "height": 1
@@ -64532,7 +64548,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/onion_0",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 477,
         "width": 1,
         "height": 1
@@ -64540,7 +64556,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/onion_1",
         "animated": false,
-        "x": 132,
+        "x": 135,
         "y": 477,
         "width": 1,
         "height": 1
@@ -64548,7 +64564,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/onion_2",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 477,
         "width": 1,
         "height": 1
@@ -64564,7 +64580,7 @@ var textureData =
     {
         "name": "aquaculture:item/iron_fillet_knife",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 479,
         "width": 1,
         "height": 1
@@ -64580,7 +64596,7 @@ var textureData =
     {
         "name": "minecraft:item/gold_ingot",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 478,
         "width": 1,
         "height": 1
@@ -64612,7 +64628,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/fir_boat",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 477,
         "width": 1,
         "height": 1
@@ -64636,7 +64652,7 @@ var textureData =
     {
         "name": "supplementaries:items/ash_brick",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 484,
         "width": 1,
         "height": 1
@@ -64660,7 +64676,7 @@ var textureData =
     {
         "name": "knight_quest:items/strawhat_leggings_icon",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 487,
         "width": 1,
         "height": 1
@@ -64676,7 +64692,7 @@ var textureData =
     {
         "name": "nebs:items/lure",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 486,
         "width": 1,
         "height": 1
@@ -64684,7 +64700,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_fir",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 487,
         "width": 1,
         "height": 1
@@ -64692,7 +64708,7 @@ var textureData =
     {
         "name": "nebs:items/blazing",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 484,
         "width": 1,
         "height": 1
@@ -64724,7 +64740,7 @@ var textureData =
     {
         "name": "delightful:item/matcha",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 479,
         "width": 1,
         "height": 1
@@ -64740,7 +64756,7 @@ var textureData =
     {
         "name": "croptopia:item/noodle",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 480,
         "width": 1,
         "height": 1
@@ -64764,7 +64780,7 @@ var textureData =
     {
         "name": "infernalexp:item/strider_bucket",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 483,
         "width": 1,
         "height": 1
@@ -64772,7 +64788,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/gunkan/wakame_gunkan",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 478,
         "width": 1,
         "height": 1
@@ -64780,7 +64796,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/cucumber_slices",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 478,
         "width": 1,
         "height": 1
@@ -64796,7 +64812,7 @@ var textureData =
     {
         "name": "create_sa:items/slime_boots",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 487,
         "width": 1,
         "height": 1
@@ -64860,7 +64876,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rabbit_stew_eating_2",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 481,
         "width": 1,
         "height": 1
@@ -64868,7 +64884,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rabbit_stew_eating_0",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 481,
         "width": 1,
         "height": 1
@@ -64884,7 +64900,7 @@ var textureData =
     {
         "name": "eatinganimation:item/rabbit_stew_eating_1",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 481,
         "width": 1,
         "height": 1
@@ -64916,7 +64932,7 @@ var textureData =
     {
         "name": "croptopia:item/fajitas",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 477,
         "width": 1,
         "height": 1
@@ -64932,7 +64948,7 @@ var textureData =
     {
         "name": "minecraft:item/tipped_arrow_head",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 483,
         "width": 1,
         "height": 1
@@ -64988,7 +65004,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/three_bolt_suit",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 487,
         "width": 1,
         "height": 1
@@ -65004,7 +65020,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/steak_and_potatoes_2",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65020,7 +65036,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/steak_and_potatoes_1",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65028,7 +65044,7 @@ var textureData =
     {
         "name": "knight_quest:items/kukri",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 486,
         "width": 1,
         "height": 1
@@ -65036,7 +65052,7 @@ var textureData =
     {
         "name": "nebs:items/artifact",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 484,
         "width": 1,
         "height": 1
@@ -65052,7 +65068,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/steak_and_potatoes_0",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65060,7 +65076,7 @@ var textureData =
     {
         "name": "nebs:items/bubbling",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 484,
         "width": 1,
         "height": 1
@@ -65084,7 +65100,7 @@ var textureData =
     {
         "name": "vinery:item/white_grape",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65116,7 +65132,7 @@ var textureData =
     {
         "name": "croptopia:item/sweetpotato_seed",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65180,7 +65196,7 @@ var textureData =
     {
         "name": "croptopia:item/fish_and_chips",
         "animated": false,
-        "x": 233,
+        "x": 236,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65204,7 +65220,7 @@ var textureData =
     {
         "name": "vinery:item/vinery_cherry_sign",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65220,7 +65236,7 @@ var textureData =
     {
         "name": "nebs:items/prospector",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 486,
         "width": 1,
         "height": 1
@@ -65268,7 +65284,7 @@ var textureData =
     {
         "name": "delightful:item/thyrium_knife",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65284,7 +65300,7 @@ var textureData =
     {
         "name": "compatoplenty:item/glowing_moss_paste",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 478,
         "width": 1,
         "height": 1
@@ -65292,7 +65308,7 @@ var textureData =
     {
         "name": "quark:item/holding_totem",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 478,
         "width": 1,
         "height": 1
@@ -65316,7 +65332,7 @@ var textureData =
     {
         "name": "create:item/super_glue",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65380,7 +65396,7 @@ var textureData =
     {
         "name": "croptopia:item/ratatouille",
         "animated": false,
-        "x": 169,
+        "x": 172,
         "y": 481,
         "width": 1,
         "height": 1
@@ -65404,7 +65420,7 @@ var textureData =
     {
         "name": "biomemakeover:item/glowshroom_stew",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 478,
         "width": 1,
         "height": 1
@@ -65412,7 +65428,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_cod_slice_2",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65436,7 +65452,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_cod_slice_0",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65452,7 +65468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/cooked_cod_slice_1",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65476,7 +65492,7 @@ var textureData =
     {
         "name": "itemfilters:item/weak_nbt",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65484,7 +65500,7 @@ var textureData =
     {
         "name": "simplyswords:item/leaf",
         "animated": false,
-        "x": 116,
+        "x": 119,
         "y": 479,
         "width": 1,
         "height": 1
@@ -65492,7 +65508,7 @@ var textureData =
     {
         "name": "minecraft:item/writable_book",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65508,8 +65524,8 @@ var textureData =
     {
         "name": "knight_quest:items/witch_helmet_icon",
         "animated": false,
-        "x": 255,
-        "y": 487,
+        "x": 2,
+        "y": 488,
         "width": 1,
         "height": 1
     },
@@ -65644,7 +65660,7 @@ var textureData =
     {
         "name": "knight_quest:items/ratdrop",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 486,
         "width": 1,
         "height": 1
@@ -65660,7 +65676,7 @@ var textureData =
     {
         "name": "nebs:items/greed",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 485,
         "width": 1,
         "height": 1
@@ -65668,7 +65684,7 @@ var textureData =
     {
         "name": "minecraft:item/wooden_hoe",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65708,7 +65724,7 @@ var textureData =
     {
         "name": "knight_quest:items/evilessence",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 485,
         "width": 1,
         "height": 1
@@ -65716,7 +65732,7 @@ var textureData =
     {
         "name": "nebs:items/vampirism_curse",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 487,
         "width": 1,
         "height": 1
@@ -65724,7 +65740,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomemakeover/hanging_sign_swamp_cypress",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 485,
         "width": 1,
         "height": 1
@@ -65732,7 +65748,7 @@ var textureData =
     {
         "name": "vinery:item/white_grape_seeds",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 483,
         "width": 1,
         "height": 1
@@ -65756,7 +65772,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/honey_glazed_ham_0",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65780,7 +65796,7 @@ var textureData =
     {
         "name": "quark:item/red_shard",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 481,
         "width": 1,
         "height": 1
@@ -65812,7 +65828,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/honey_glazed_ham_1",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65836,7 +65852,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/honey_glazed_ham_2",
         "animated": false,
-        "x": 103,
+        "x": 106,
         "y": 477,
         "width": 1,
         "height": 1
@@ -65860,7 +65876,7 @@ var textureData =
     {
         "name": "minecraft:item/furnace_minecart",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 478,
         "width": 1,
         "height": 1
@@ -65940,7 +65956,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/orange",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 484,
         "width": 1,
         "height": 1
@@ -65980,7 +65996,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk_leggings_icon",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 486,
         "width": 1,
         "height": 1
@@ -65996,7 +66012,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_shovel",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 484,
         "width": 1,
         "height": 1
@@ -66012,7 +66028,7 @@ var textureData =
     {
         "name": "byg:item/mahogany/boat",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 479,
         "width": 1,
         "height": 1
@@ -66084,7 +66100,7 @@ var textureData =
     {
         "name": "nebs:items/runner",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 486,
         "width": 1,
         "height": 1
@@ -66108,7 +66124,7 @@ var textureData =
     {
         "name": "nebs:items/mana_boost",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 486,
         "width": 1,
         "height": 1
@@ -66140,7 +66156,7 @@ var textureData =
     {
         "name": "croptopia:item/saguaro",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 482,
         "width": 1,
         "height": 1
@@ -66148,7 +66164,7 @@ var textureData =
     {
         "name": "nebs:items/horse_fire_protection",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 485,
         "width": 1,
         "height": 1
@@ -66228,7 +66244,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_helmet",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 478,
         "width": 1,
         "height": 1
@@ -66252,7 +66268,7 @@ var textureData =
     {
         "name": "minecraft:item/mangrove_boat",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 479,
         "width": 1,
         "height": 1
@@ -66308,7 +66324,7 @@ var textureData =
     {
         "name": "croptopia:item/shrimp",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 482,
         "width": 1,
         "height": 1
@@ -66356,7 +66372,7 @@ var textureData =
     {
         "name": "aquaculture:item/tuna",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 483,
         "width": 1,
         "height": 1
@@ -66372,7 +66388,7 @@ var textureData =
     {
         "name": "minecraft:item/glass_bottle",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 478,
         "width": 1,
         "height": 1
@@ -66388,7 +66404,7 @@ var textureData =
     {
         "name": "byg:item/witch_hazel/door",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 483,
         "width": 1,
         "height": 1
@@ -66492,7 +66508,7 @@ var textureData =
     {
         "name": "delightful:item/refined_glowstone_knife",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 481,
         "width": 1,
         "height": 1
@@ -66548,7 +66564,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fried_egg_0",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 477,
         "width": 1,
         "height": 1
@@ -66564,7 +66580,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fried_egg_2",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 477,
         "width": 1,
         "height": 1
@@ -66572,7 +66588,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/fried_egg_1",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 477,
         "width": 1,
         "height": 1
@@ -66580,7 +66596,7 @@ var textureData =
     {
         "name": "minecraft:item/lava_bucket",
         "animated": false,
-        "x": 112,
+        "x": 115,
         "y": 479,
         "width": 1,
         "height": 1
@@ -66604,7 +66620,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/particules_invisible",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 486,
         "width": 1,
         "height": 1
@@ -66620,7 +66636,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_blue_enchanted",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 487,
         "width": 1,
         "height": 1
@@ -66636,7 +66652,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/hellbark_boat",
         "animated": false,
-        "x": 183,
+        "x": 186,
         "y": 478,
         "width": 1,
         "height": 1
@@ -66644,7 +66660,7 @@ var textureData =
     {
         "name": "create_confectionery:items/gingerdough",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 485,
         "width": 1,
         "height": 1
@@ -66716,7 +66732,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/pus_bubble",
         "animated": false,
-        "x": 141,
+        "x": 144,
         "y": 481,
         "width": 1,
         "height": 1
@@ -66740,7 +66756,7 @@ var textureData =
     {
         "name": "artifacts:item/kitty_slippers",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 479,
         "width": 1,
         "height": 1
@@ -66764,7 +66780,7 @@ var textureData =
     {
         "name": "nebs:items/fire_protection",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 485,
         "width": 1,
         "height": 1
@@ -66860,7 +66876,7 @@ var textureData =
     {
         "name": "miningmaster:item/unbreaking_iolite_pickaxe",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 483,
         "width": 1,
         "height": 1
@@ -66868,7 +66884,7 @@ var textureData =
     {
         "name": "nebs:items/slowness_curse",
         "animated": false,
-        "x": 110,
+        "x": 113,
         "y": 487,
         "width": 1,
         "height": 1
@@ -66892,7 +66908,7 @@ var textureData =
     {
         "name": "nebs:items/elder_guardian_favor",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 485,
         "width": 1,
         "height": 1
@@ -66932,7 +66948,7 @@ var textureData =
     {
         "name": "croptopia:item/scones",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 482,
         "width": 1,
         "height": 1
@@ -67012,7 +67028,7 @@ var textureData =
     {
         "name": "create_sa:items/incomplete_web",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 485,
         "width": 1,
         "height": 1
@@ -67052,7 +67068,7 @@ var textureData =
     {
         "name": "farmersdelight:item/sweet_berry_cookie",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 483,
         "width": 1,
         "height": 1
@@ -67060,7 +67076,7 @@ var textureData =
     {
         "name": "supplementaries:items/dispenser_minecart",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 485,
         "width": 1,
         "height": 1
@@ -67068,7 +67084,7 @@ var textureData =
     {
         "name": "croptopia:item/greenonion_seed",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 478,
         "width": 1,
         "height": 1
@@ -67092,7 +67108,7 @@ var textureData =
     {
         "name": "supplementaries:items/lead_lantern",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 486,
         "width": 1,
         "height": 1
@@ -67140,7 +67156,7 @@ var textureData =
     {
         "name": "supplementaries:items/slingshot_pulling_2",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 487,
         "width": 1,
         "height": 1
@@ -67188,7 +67204,7 @@ var textureData =
     {
         "name": "unidentifiedenchantments:item/scrollofidentification4",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 482,
         "width": 1,
         "height": 1
@@ -67196,7 +67212,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_green_helmet_icon",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 484,
         "width": 1,
         "height": 1
@@ -67204,7 +67220,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_imparius",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 487,
         "width": 1,
         "height": 1
@@ -67212,7 +67228,7 @@ var textureData =
     {
         "name": "supplementaries:items/slingshot_pulling_0",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 487,
         "width": 1,
         "height": 1
@@ -67220,7 +67236,7 @@ var textureData =
     {
         "name": "supplementaries:items/slingshot_pulling_1",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 487,
         "width": 1,
         "height": 1
@@ -67236,7 +67252,7 @@ var textureData =
     {
         "name": "farmersdelight:item/raw_pasta",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 481,
         "width": 1,
         "height": 1
@@ -67244,7 +67260,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_black",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 482,
         "width": 1,
         "height": 1
@@ -67276,7 +67292,7 @@ var textureData =
     {
         "name": "knight_quest:items/smallessence",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 487,
         "width": 1,
         "height": 1
@@ -67324,8 +67340,8 @@ var textureData =
     {
         "name": "croptopia:item/rhubarb",
         "animated": false,
-        "x": 255,
-        "y": 481,
+        "x": 2,
+        "y": 482,
         "width": 1,
         "height": 1
     },
@@ -67372,7 +67388,7 @@ var textureData =
     {
         "name": "savage_and_ravage:item/griefer_leggings",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 478,
         "width": 1,
         "height": 1
@@ -67380,7 +67396,7 @@ var textureData =
     {
         "name": "nebs:items/reeling",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 486,
         "width": 1,
         "height": 1
@@ -67396,7 +67412,7 @@ var textureData =
     {
         "name": "nebs:items/frost_walker",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 485,
         "width": 1,
         "height": 1
@@ -67428,7 +67444,7 @@ var textureData =
     {
         "name": "eatinganimation:item/poisonous_potato_eating_2",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 481,
         "width": 1,
         "height": 1
@@ -67436,7 +67452,7 @@ var textureData =
     {
         "name": "eatinganimation:item/poisonous_potato_eating_1",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 481,
         "width": 1,
         "height": 1
@@ -67452,7 +67468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/poisonous_potato_eating_0",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 481,
         "width": 1,
         "height": 1
@@ -67476,7 +67492,7 @@ var textureData =
     {
         "name": "croptopia:item/tomato_seed",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 483,
         "width": 1,
         "height": 1
@@ -67508,7 +67524,7 @@ var textureData =
     {
         "name": "labels:item/label",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 479,
         "width": 1,
         "height": 1
@@ -67532,7 +67548,7 @@ var textureData =
     {
         "name": "minecraft:item/spawn_egg_overlay",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 482,
         "width": 1,
         "height": 1
@@ -67596,7 +67612,7 @@ var textureData =
     {
         "name": "nebs:items/thorns",
         "animated": false,
-        "x": 177,
+        "x": 180,
         "y": 487,
         "width": 1,
         "height": 1
@@ -67612,7 +67628,7 @@ var textureData =
     {
         "name": "alexsmobs:item/maggot",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 479,
         "width": 1,
         "height": 1
@@ -67620,7 +67636,7 @@ var textureData =
     {
         "name": "crittersandcompanions:item/pearl",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 481,
         "width": 1,
         "height": 1
@@ -67652,7 +67668,7 @@ var textureData =
     {
         "name": "croptopia:item/sweet_crepes",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 483,
         "width": 1,
         "height": 1
@@ -67756,7 +67772,7 @@ var textureData =
     {
         "name": "create_confectionery:items/caramel_bucket",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 484,
         "width": 1,
         "height": 1
@@ -67852,7 +67868,7 @@ var textureData =
     {
         "name": "create_confectionery:items/create_confectionery_icon",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 484,
         "width": 1,
         "height": 1
@@ -67860,7 +67876,7 @@ var textureData =
     {
         "name": "nebs:items/magnetic",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 486,
         "width": 1,
         "height": 1
@@ -67940,7 +67956,7 @@ var textureData =
     {
         "name": "farmersdelight:item/nether_salad",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 480,
         "width": 1,
         "height": 1
@@ -67956,7 +67972,7 @@ var textureData =
     {
         "name": "minecraft:item/glow_item_frame",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 478,
         "width": 1,
         "height": 1
@@ -67980,7 +67996,7 @@ var textureData =
     {
         "name": "croptopia:item/nether_wart_stew",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 480,
         "width": 1,
         "height": 1
@@ -68020,7 +68036,7 @@ var textureData =
     {
         "name": "croptopia:item/lemonade",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 479,
         "width": 1,
         "height": 1
@@ -68028,7 +68044,7 @@ var textureData =
     {
         "name": "minecraft:item/turtle_egg",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 483,
         "width": 1,
         "height": 1
@@ -68196,7 +68212,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_cat",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 480,
         "width": 1,
         "height": 1
@@ -68212,7 +68228,7 @@ var textureData =
     {
         "name": "itemfilters:item/id_regex",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 478,
         "width": 1,
         "height": 1
@@ -68228,15 +68244,15 @@ var textureData =
     {
         "name": "croptopia:item/paprika",
         "animated": false,
-        "x": 254,
-        "y": 480,
+        "x": 1,
+        "y": 481,
         "width": 1,
         "height": 1
     },
     {
         "name": "comforts:item/hammock_cyan",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 478,
         "width": 1,
         "height": 1
@@ -68276,8 +68292,8 @@ var textureData =
     {
         "name": "croptopia:item/strawberry_ice_cream",
         "animated": false,
-        "x": 255,
-        "y": 482,
+        "x": 2,
+        "y": 483,
         "width": 1,
         "height": 1
     },
@@ -68332,7 +68348,7 @@ var textureData =
     {
         "name": "knight_quest:items/phantom_main_icon",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 486,
         "width": 1,
         "height": 1
@@ -68452,7 +68468,7 @@ var textureData =
     {
         "name": "delightful:item/nut_butter_bottle",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 480,
         "width": 1,
         "height": 1
@@ -68468,7 +68484,7 @@ var textureData =
     {
         "name": "majruszsaccessories:item/idol_of_fertility",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 478,
         "width": 1,
         "height": 1
@@ -68476,7 +68492,7 @@ var textureData =
     {
         "name": "infernalexp:item/voline_bucket",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 483,
         "width": 1,
         "height": 1
@@ -68508,7 +68524,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/hanging_sign_mangrove",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 485,
         "width": 1,
         "height": 1
@@ -68516,7 +68532,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_helmet_icon_-_copy_4_-_copy",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 486,
         "width": 1,
         "height": 1
@@ -68532,7 +68548,7 @@ var textureData =
     {
         "name": "croptopia:item/peanut_seed",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 481,
         "width": 1,
         "height": 1
@@ -68540,7 +68556,7 @@ var textureData =
     {
         "name": "nebs:items/frost_fang",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 485,
         "width": 1,
         "height": 1
@@ -68548,7 +68564,7 @@ var textureData =
     {
         "name": "croptopia:item/radish_seed",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 481,
         "width": 1,
         "height": 1
@@ -68564,7 +68580,7 @@ var textureData =
     {
         "name": "spirit:item/soul_steel_sword",
         "animated": true,
-        "x": 186,
+        "x": 189,
         "y": 482,
         "width": 1,
         "height": 1
@@ -68580,7 +68596,7 @@ var textureData =
     {
         "name": "quark:item/light_blue_rune",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 479,
         "width": 1,
         "height": 1
@@ -68596,7 +68612,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chocolate_pie_slice_0",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 477,
         "width": 1,
         "height": 1
@@ -68604,7 +68620,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/andesite_casing_door",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 484,
         "width": 1,
         "height": 1
@@ -68620,7 +68636,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chocolate_pie_slice_1",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 477,
         "width": 1,
         "height": 1
@@ -68644,7 +68660,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chocolate_pie_slice_2",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 477,
         "width": 1,
         "height": 1
@@ -68684,7 +68700,7 @@ var textureData =
     {
         "name": "aquaculture:item/rainbow_trout",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 481,
         "width": 1,
         "height": 1
@@ -68708,7 +68724,7 @@ var textureData =
     {
         "name": "ecologics:item/moss",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 480,
         "width": 1,
         "height": 1
@@ -68748,7 +68764,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_redwood_boat",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 479,
         "width": 1,
         "height": 1
@@ -68772,7 +68788,7 @@ var textureData =
     {
         "name": "minecraft:item/map",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 479,
         "width": 1,
         "height": 1
@@ -68780,7 +68796,7 @@ var textureData =
     {
         "name": "minecraft:item/piglin_banner_pattern",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 481,
         "width": 1,
         "height": 1
@@ -68924,7 +68940,7 @@ var textureData =
     {
         "name": "quark:item/rope",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 482,
         "width": 1,
         "height": 1
@@ -69012,7 +69028,7 @@ var textureData =
     {
         "name": "quark:item/saw",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 482,
         "width": 1,
         "height": 1
@@ -69044,7 +69060,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_chirp",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 480,
         "width": 1,
         "height": 1
@@ -69052,7 +69068,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/white",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 484,
         "width": 1,
         "height": 1
@@ -69068,7 +69084,7 @@ var textureData =
     {
         "name": "delightful:item/salmonberry_pips",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 482,
         "width": 1,
         "height": 1
@@ -69076,7 +69092,7 @@ var textureData =
     {
         "name": "create_confectionery:items/chocolate_candy_3",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 484,
         "width": 1,
         "height": 1
@@ -69116,7 +69132,7 @@ var textureData =
     {
         "name": "create_confectionery:items/black_chocolate_candy",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 484,
         "width": 1,
         "height": 1
@@ -69132,7 +69148,7 @@ var textureData =
     {
         "name": "create_confectionery:items/chocolate_candy_1",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 484,
         "width": 1,
         "height": 1
@@ -69156,7 +69172,7 @@ var textureData =
     {
         "name": "create_confectionery:items/chocolate_candy_2",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 484,
         "width": 1,
         "height": 1
@@ -69196,7 +69212,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/maki/tuna_maki",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 479,
         "width": 1,
         "height": 1
@@ -69220,7 +69236,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_pine",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 487,
         "width": 1,
         "height": 1
@@ -69244,7 +69260,7 @@ var textureData =
     {
         "name": "nebs:items/shockwave",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 487,
         "width": 1,
         "height": 1
@@ -69308,7 +69324,7 @@ var textureData =
     {
         "name": "nebs:items/step_assist",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 487,
         "width": 1,
         "height": 1
@@ -69356,7 +69372,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/jacaranda_door",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 479,
         "width": 1,
         "height": 1
@@ -69364,7 +69380,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_dark_oak",
         "animated": false,
-        "x": 22,
+        "x": 25,
         "y": 480,
         "width": 1,
         "height": 1
@@ -69372,7 +69388,7 @@ var textureData =
     {
         "name": "aquaculture:item/nether_star_hook",
         "animated": false,
-        "x": 162,
+        "x": 165,
         "y": 480,
         "width": 1,
         "height": 1
@@ -69380,7 +69396,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/ecologics/hanging_sign_flowering_azalea",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 485,
         "width": 1,
         "height": 1
@@ -69412,7 +69428,7 @@ var textureData =
     {
         "name": "knight_quest:items/khopesh",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 485,
         "width": 1,
         "height": 1
@@ -69452,7 +69468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/sweet_berry_cookie_1",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 477,
         "width": 1,
         "height": 1
@@ -69468,7 +69484,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/sweet_berry_cookie_2",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 477,
         "width": 1,
         "height": 1
@@ -69516,7 +69532,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/sweet_berry_cookie_0",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 477,
         "width": 1,
         "height": 1
@@ -69564,7 +69580,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_forze_boots_icon",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 486,
         "width": 1,
         "height": 1
@@ -69580,7 +69596,7 @@ var textureData =
     {
         "name": "ecologics:item/walnut_chest_boat",
         "animated": false,
-        "x": 168,
+        "x": 171,
         "y": 483,
         "width": 1,
         "height": 1
@@ -69628,7 +69644,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/quark/sign_post_azalea",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 487,
         "width": 1,
         "height": 1
@@ -69668,7 +69684,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_umbran",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 487,
         "width": 1,
         "height": 1
@@ -69676,7 +69692,7 @@ var textureData =
     {
         "name": "majruszsaccessories:item/white_flag",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 483,
         "width": 1,
         "height": 1
@@ -69724,7 +69740,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_redwood",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 485,
         "width": 1,
         "height": 1
@@ -69788,7 +69804,7 @@ var textureData =
     {
         "name": "nebs:items/horse_feather_falling",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 485,
         "width": 1,
         "height": 1
@@ -69820,7 +69836,7 @@ var textureData =
     {
         "name": "biomemakeover:item/wart",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 483,
         "width": 1,
         "height": 1
@@ -69844,7 +69860,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/noodle_soup_2",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 477,
         "width": 1,
         "height": 1
@@ -69852,7 +69868,7 @@ var textureData =
     {
         "name": "itemfilters:item/max_count",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 479,
         "width": 1,
         "height": 1
@@ -69868,7 +69884,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/presents_stack_1",
         "animated": false,
-        "x": 79,
+        "x": 82,
         "y": 488,
         "width": 1,
         "height": 1
@@ -69876,7 +69892,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/noodle_soup_0",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 477,
         "width": 1,
         "height": 1
@@ -69884,7 +69900,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/presents_stack_2",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 488,
         "width": 1,
         "height": 1
@@ -69900,7 +69916,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/noodle_soup_1",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 477,
         "width": 1,
         "height": 1
@@ -69924,7 +69940,7 @@ var textureData =
     {
         "name": "create:item/goggles_model",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 478,
         "width": 1,
         "height": 1
@@ -69964,7 +69980,7 @@ var textureData =
     {
         "name": "quark:item/gray_rune",
         "animated": false,
-        "x": 114,
+        "x": 117,
         "y": 478,
         "width": 1,
         "height": 1
@@ -69972,7 +69988,7 @@ var textureData =
     {
         "name": "biomemakeover:item/music_disc_ghost_town",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 480,
         "width": 1,
         "height": 1
@@ -69980,7 +69996,7 @@ var textureData =
     {
         "name": "infernalexp:item/tab_icon",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 483,
         "width": 1,
         "height": 1
@@ -69988,7 +70004,7 @@ var textureData =
     {
         "name": "nebs:items/lavawax",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 486,
         "width": 1,
         "height": 1
@@ -69996,7 +70012,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_5",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70004,7 +70020,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_6",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70012,7 +70028,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_3",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70028,7 +70044,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_4",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70036,7 +70052,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_1",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70044,7 +70060,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_2",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70068,7 +70084,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_0",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70076,7 +70092,7 @@ var textureData =
     {
         "name": "supplementaries:items/bamboo_spikes",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 484,
         "width": 1,
         "height": 1
@@ -70108,7 +70124,7 @@ var textureData =
     {
         "name": "quark:item/forgotten_hat",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 478,
         "width": 1,
         "height": 1
@@ -70132,7 +70148,7 @@ var textureData =
     {
         "name": "primitivestart:items/reinforced_bone_sword",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 486,
         "width": 1,
         "height": 1
@@ -70148,7 +70164,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/venthyr_chalices",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 488,
         "width": 1,
         "height": 1
@@ -70172,7 +70188,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/base",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 484,
         "width": 1,
         "height": 1
@@ -70180,7 +70196,7 @@ var textureData =
     {
         "name": "knight_quest:items/warlord_helmet_icon",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 487,
         "width": 1,
         "height": 1
@@ -70228,7 +70244,7 @@ var textureData =
     {
         "name": "farmersdelight:item/honey_cookie",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 478,
         "width": 1,
         "height": 1
@@ -70284,7 +70300,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/but",
         "animated": true,
-        "x": 149,
+        "x": 152,
         "y": 484,
         "width": 1,
         "height": 1
@@ -70292,7 +70308,7 @@ var textureData =
     {
         "name": "nebs:items/hovering",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 485,
         "width": 1,
         "height": 1
@@ -70324,7 +70340,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/paper_stack",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 488,
         "width": 1,
         "height": 1
@@ -70332,7 +70348,7 @@ var textureData =
     {
         "name": "compatoplenty:item/mahogany_furnace_boat",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70340,7 +70356,7 @@ var textureData =
     {
         "name": "silverlight:items/silverlight",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 487,
         "width": 1,
         "height": 1
@@ -70362,9 +70378,17 @@ var textureData =
         "height": 1
     },
     {
+        "name": "vitalize:item/experience_squared",
+        "animated": false,
+        "x": 2,
+        "y": 477,
+        "width": 1,
+        "height": 1
+    },
+    {
         "name": "create_sa:items/zinc_chestplate",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 488,
         "width": 1,
         "height": 1
@@ -70372,7 +70396,7 @@ var textureData =
     {
         "name": "byg:item/pine/boat",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 481,
         "width": 1,
         "height": 1
@@ -70380,7 +70404,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/temaki/shrimp_temaki",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 483,
         "width": 1,
         "height": 1
@@ -70388,7 +70412,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_9",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70412,7 +70436,7 @@ var textureData =
     {
         "name": "knight_quest:items/black_mage_main_icon",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 484,
         "width": 1,
         "height": 1
@@ -70428,7 +70452,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_7",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70436,7 +70460,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip_extending_8",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70500,7 +70524,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_shovel",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 480,
         "width": 1,
         "height": 1
@@ -70516,7 +70540,7 @@ var textureData =
     {
         "name": "vinery:item/stackable_logs",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 482,
         "width": 1,
         "height": 1
@@ -70564,7 +70588,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_sea_main_icon",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 486,
         "width": 1,
         "height": 1
@@ -70572,7 +70596,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_shovel",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 478,
         "width": 1,
         "height": 1
@@ -70580,7 +70604,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_leggings",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 478,
         "width": 1,
         "height": 1
@@ -70636,7 +70660,7 @@ var textureData =
     {
         "name": "farmersdelight:item/mutton_chops",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 480,
         "width": 1,
         "height": 1
@@ -70644,7 +70668,7 @@ var textureData =
     {
         "name": "create:item/rose_quartz",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 482,
         "width": 1,
         "height": 1
@@ -70668,7 +70692,7 @@ var textureData =
     {
         "name": "create_confectionery:items/caramelized_marshmallow_on_a_stick",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 484,
         "width": 1,
         "height": 1
@@ -70676,7 +70700,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_chestplate",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 480,
         "width": 1,
         "height": 1
@@ -70708,7 +70732,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_crimson",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 480,
         "width": 1,
         "height": 1
@@ -70716,7 +70740,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/rose_quartz_shard",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 482,
         "width": 1,
         "height": 1
@@ -70724,7 +70748,7 @@ var textureData =
     {
         "name": "aquaculture:item/starshell_turtle",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 482,
         "width": 1,
         "height": 1
@@ -70732,8 +70756,8 @@ var textureData =
     {
         "name": "knight_quest:items/witch_boots_icon",
         "animated": false,
-        "x": 253,
-        "y": 487,
+        "x": 0,
+        "y": 488,
         "width": 1,
         "height": 1
     },
@@ -70764,7 +70788,7 @@ var textureData =
     {
         "name": "infernalexp:item/kinetic_tongue_whip",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70812,7 +70836,7 @@ var textureData =
     {
         "name": "minecraft:item/kelp",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 479,
         "width": 1,
         "height": 1
@@ -70836,7 +70860,7 @@ var textureData =
     {
         "name": "nebs:items/fishing_fanatic",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 485,
         "width": 1,
         "height": 1
@@ -70868,7 +70892,7 @@ var textureData =
     {
         "name": "spirit:item/soul_powder",
         "animated": false,
-        "x": 179,
+        "x": 182,
         "y": 482,
         "width": 1,
         "height": 1
@@ -70884,7 +70908,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/fairy_lights_1",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 488,
         "width": 1,
         "height": 1
@@ -70892,7 +70916,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/fairy_lights_2",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 488,
         "width": 1,
         "height": 1
@@ -70900,7 +70924,7 @@ var textureData =
     {
         "name": "supplementaries:items/flower_box",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 485,
         "width": 1,
         "height": 1
@@ -70908,7 +70932,7 @@ var textureData =
     {
         "name": "nebs:items/loyalty",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 486,
         "width": 1,
         "height": 1
@@ -70932,7 +70956,7 @@ var textureData =
     {
         "name": "origins:item/orb_of_origin",
         "animated": false,
-        "x": 230,
+        "x": 233,
         "y": 480,
         "width": 1,
         "height": 1
@@ -70956,7 +70980,7 @@ var textureData =
     {
         "name": "deeperdarker:item/warden_carapace",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 483,
         "width": 1,
         "height": 1
@@ -70972,7 +70996,7 @@ var textureData =
     {
         "name": "croptopia:item/peach_jam",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 481,
         "width": 1,
         "height": 1
@@ -71004,7 +71028,7 @@ var textureData =
     {
         "name": "cataclysm:items/void_core",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 487,
         "width": 1,
         "height": 1
@@ -71052,7 +71076,7 @@ var textureData =
     {
         "name": "nebs:items/reforming",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 486,
         "width": 1,
         "height": 1
@@ -71060,7 +71084,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/decorations/stocking",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 488,
         "width": 1,
         "height": 1
@@ -71084,7 +71108,7 @@ var textureData =
     {
         "name": "ftbquests:tasks/input_only",
         "animated": true,
-        "x": 113,
+        "x": 116,
         "y": 488,
         "width": 1,
         "height": 1
@@ -71100,7 +71124,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/sea_stew",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 487,
         "width": 1,
         "height": 1
@@ -71132,7 +71156,7 @@ var textureData =
     {
         "name": "nebs:items/weeding",
         "animated": false,
-        "x": 241,
+        "x": 244,
         "y": 487,
         "width": 1,
         "height": 1
@@ -71140,7 +71164,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_silver_helmet_icon",
         "animated": false,
-        "x": 37,
+        "x": 40,
         "y": 486,
         "width": 1,
         "height": 1
@@ -71180,7 +71204,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_blue_leggings_icon",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 484,
         "width": 1,
         "height": 1
@@ -71212,7 +71236,7 @@ var textureData =
     {
         "name": "croptopia:item/pineapple_juice",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 481,
         "width": 1,
         "height": 1
@@ -71220,7 +71244,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_helmet",
         "animated": false,
-        "x": 125,
+        "x": 128,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71244,7 +71268,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_skulk_main2_icon",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 486,
         "width": 1,
         "height": 1
@@ -71276,7 +71300,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_deepslate_main_icon",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 486,
         "width": 1,
         "height": 1
@@ -71300,7 +71324,7 @@ var textureData =
     {
         "name": "nebs:items/air_affinity",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 484,
         "width": 1,
         "height": 1
@@ -71356,7 +71380,7 @@ var textureData =
     {
         "name": "croptopia:item/lemon",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71396,7 +71420,7 @@ var textureData =
     {
         "name": "farmersdelight:item/ham",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 478,
         "width": 1,
         "height": 1
@@ -71444,7 +71468,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/totiemsmierti",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 487,
         "width": 1,
         "height": 1
@@ -71468,7 +71492,7 @@ var textureData =
     {
         "name": "minecraft:item/mutton",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 480,
         "width": 1,
         "height": 1
@@ -71484,7 +71508,7 @@ var textureData =
     {
         "name": "knight_quest:items/bamboo_green_main_icon",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 484,
         "width": 1,
         "height": 1
@@ -71500,7 +71524,7 @@ var textureData =
     {
         "name": "minecraft:item/pumpkin_pie",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 481,
         "width": 1,
         "height": 1
@@ -71580,7 +71604,7 @@ var textureData =
     {
         "name": "nebs:items/hunting",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 485,
         "width": 1,
         "height": 1
@@ -71620,7 +71644,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/egg_sandwich_0",
         "animated": false,
-        "x": 74,
+        "x": 77,
         "y": 477,
         "width": 1,
         "height": 1
@@ -71636,7 +71660,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/egg_sandwich_1",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 477,
         "width": 1,
         "height": 1
@@ -71668,7 +71692,7 @@ var textureData =
     {
         "name": "delightful:item/ironwood_knife",
         "animated": false,
-        "x": 30,
+        "x": 33,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71676,7 +71700,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/egg_sandwich_2",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 477,
         "width": 1,
         "height": 1
@@ -71700,7 +71724,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_handle",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 488,
         "width": 1,
         "height": 1
@@ -71796,7 +71820,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_willow",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 487,
         "width": 1,
         "height": 1
@@ -71804,7 +71828,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_mahogany_boat",
         "animated": false,
-        "x": 106,
+        "x": 109,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71820,7 +71844,7 @@ var textureData =
     {
         "name": "croptopia:item/tuna_roll",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 483,
         "width": 1,
         "height": 1
@@ -71836,7 +71860,7 @@ var textureData =
     {
         "name": "create_confectionery:items/chocolate_glazed_marshmallow",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 484,
         "width": 1,
         "height": 1
@@ -71844,7 +71868,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/wisteria_niveis",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 487,
         "width": 1,
         "height": 1
@@ -71868,7 +71892,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pumpkin_soup_0",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 477,
         "width": 1,
         "height": 1
@@ -71876,7 +71900,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pumpkin_soup_1",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 477,
         "width": 1,
         "height": 1
@@ -71884,7 +71908,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/pumpkin_soup_2",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 477,
         "width": 1,
         "height": 1
@@ -71892,7 +71916,7 @@ var textureData =
     {
         "name": "minecraft:item/light_05",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71916,7 +71940,7 @@ var textureData =
     {
         "name": "minecraft:item/light_04",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71924,7 +71948,7 @@ var textureData =
     {
         "name": "delightful:item/steel_knife",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 482,
         "width": 1,
         "height": 1
@@ -71932,7 +71956,7 @@ var textureData =
     {
         "name": "minecraft:item/light_07",
         "animated": false,
-        "x": 149,
+        "x": 152,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71940,7 +71964,7 @@ var textureData =
     {
         "name": "minecraft:item/light_06",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71964,7 +71988,7 @@ var textureData =
     {
         "name": "minecraft:item/light_01",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 479,
         "width": 1,
         "height": 1
@@ -71988,7 +72012,7 @@ var textureData =
     {
         "name": "minecraft:item/light_00",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72004,7 +72028,7 @@ var textureData =
     {
         "name": "minecraft:item/light_03",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72012,7 +72036,7 @@ var textureData =
     {
         "name": "minecraft:item/light_02",
         "animated": false,
-        "x": 144,
+        "x": 147,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72020,7 +72044,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/copper_knife",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 484,
         "width": 1,
         "height": 1
@@ -72044,7 +72068,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/tuna_fillet",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72076,7 +72100,7 @@ var textureData =
     {
         "name": "minecraft:item/yellow_dye",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 483,
         "width": 1,
         "height": 1
@@ -72100,7 +72124,7 @@ var textureData =
     {
         "name": "nethersdelight:item/warped_moldy_meat",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 483,
         "width": 1,
         "height": 1
@@ -72108,7 +72132,7 @@ var textureData =
     {
         "name": "croptopia:item/vanilla_ice_cream",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 483,
         "width": 1,
         "height": 1
@@ -72140,7 +72164,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_dead",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 487,
         "width": 1,
         "height": 1
@@ -72164,7 +72188,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/fir_door",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 477,
         "width": 1,
         "height": 1
@@ -72180,7 +72204,7 @@ var textureData =
     {
         "name": "supplementaries:items/silver_lantern",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 487,
         "width": 1,
         "height": 1
@@ -72196,7 +72220,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_hoe",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 478,
         "width": 1,
         "height": 1
@@ -72220,7 +72244,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_nightshade",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 487,
         "width": 1,
         "height": 1
@@ -72308,7 +72332,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/terrible_boots",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 487,
         "width": 1,
         "height": 1
@@ -72348,7 +72372,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/vinery/hanging_sign_cherry",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 485,
         "width": 1,
         "height": 1
@@ -72372,7 +72396,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_gray",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 482,
         "width": 1,
         "height": 1
@@ -72380,7 +72404,7 @@ var textureData =
     {
         "name": "croptopia:item/spaghetti_squash",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 482,
         "width": 1,
         "height": 1
@@ -72436,7 +72460,7 @@ var textureData =
     {
         "name": "knight_quest:items/wither_boots_icon",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 488,
         "width": 1,
         "height": 1
@@ -72484,7 +72508,7 @@ var textureData =
     {
         "name": "alexsmobs:item/potted_flutter",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 481,
         "width": 1,
         "height": 1
@@ -72508,7 +72532,7 @@ var textureData =
     {
         "name": "minecraft:item/string",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 483,
         "width": 1,
         "height": 1
@@ -72524,7 +72548,7 @@ var textureData =
     {
         "name": "minecraft:item/light_15",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72548,7 +72572,7 @@ var textureData =
     {
         "name": "minecraft:item/light_12",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72572,7 +72596,7 @@ var textureData =
     {
         "name": "minecraft:item/light_11",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72580,7 +72604,7 @@ var textureData =
     {
         "name": "minecraft:item/light_14",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72588,7 +72612,7 @@ var textureData =
     {
         "name": "minecraft:item/light_13",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72596,7 +72620,7 @@ var textureData =
     {
         "name": "minecraft:item/light_10",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72604,7 +72628,7 @@ var textureData =
     {
         "name": "croptopia:item/honeydew",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 478,
         "width": 1,
         "height": 1
@@ -72700,7 +72724,7 @@ var textureData =
     {
         "name": "supplementaries:items/hourglass",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 485,
         "width": 1,
         "height": 1
@@ -72708,7 +72732,7 @@ var textureData =
     {
         "name": "minecraft:item/light_09",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72716,7 +72740,7 @@ var textureData =
     {
         "name": "minecraft:item/light_08",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 479,
         "width": 1,
         "height": 1
@@ -72724,7 +72748,7 @@ var textureData =
     {
         "name": "croptopia:item/refried_beans",
         "animated": false,
-        "x": 252,
+        "x": 255,
         "y": 481,
         "width": 1,
         "height": 1
@@ -72732,7 +72756,7 @@ var textureData =
     {
         "name": "moonlight:soft_fluids/xp_still",
         "animated": true,
-        "x": 112,
+        "x": 115,
         "y": 488,
         "width": 1,
         "height": 1
@@ -72756,7 +72780,7 @@ var textureData =
     {
         "name": "create:item/incomplete_track",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 478,
         "width": 1,
         "height": 1
@@ -72804,7 +72828,7 @@ var textureData =
     {
         "name": "knight_quest:items/blaze_main_icon",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 484,
         "width": 1,
         "height": 1
@@ -72844,7 +72868,7 @@ var textureData =
     {
         "name": "nebs:items/land_skills",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 486,
         "width": 1,
         "height": 1
@@ -72892,7 +72916,7 @@ var textureData =
     {
         "name": "aquaculture:item/red_grouper",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 481,
         "width": 1,
         "height": 1
@@ -72932,7 +72956,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/cooked_spinefish",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 484,
         "width": 1,
         "height": 1
@@ -72948,7 +72972,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_enderman_helmet_icon",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 486,
         "width": 1,
         "height": 1
@@ -72972,7 +72996,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_body_icon_-_copy_-_copy",
         "animated": false,
-        "x": 52,
+        "x": 55,
         "y": 486,
         "width": 1,
         "height": 1
@@ -72980,7 +73004,7 @@ var textureData =
     {
         "name": "nebs:items/stormbreaker",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 487,
         "width": 1,
         "height": 1
@@ -73004,7 +73028,7 @@ var textureData =
     {
         "name": "vinery:item/king_danis_wine",
         "animated": false,
-        "x": 76,
+        "x": 79,
         "y": 479,
         "width": 1,
         "height": 1
@@ -73020,7 +73044,7 @@ var textureData =
     {
         "name": "biomemakeover:item/soul_embers",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 482,
         "width": 1,
         "height": 1
@@ -73044,7 +73068,7 @@ var textureData =
     {
         "name": "knight_quest:items/silverfish_boots_icon",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 487,
         "width": 1,
         "height": 1
@@ -73060,7 +73084,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/plant/cucumber",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 481,
         "width": 1,
         "height": 1
@@ -73076,7 +73100,7 @@ var textureData =
     {
         "name": "alexsmobs:item/raccoon_tail",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 481,
         "width": 1,
         "height": 1
@@ -73140,7 +73164,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_sword",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 478,
         "width": 1,
         "height": 1
@@ -73180,7 +73204,7 @@ var textureData =
     {
         "name": "croptopia:item/turnip_seed",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 483,
         "width": 1,
         "height": 1
@@ -73220,7 +73244,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_pickaxe",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 480,
         "width": 1,
         "height": 1
@@ -73228,7 +73252,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/plant/wasabi_root",
         "animated": false,
-        "x": 59,
+        "x": 62,
         "y": 481,
         "width": 1,
         "height": 1
@@ -73260,7 +73284,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_chestplate",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 479,
         "width": 1,
         "height": 1
@@ -73268,7 +73292,7 @@ var textureData =
     {
         "name": "nebs:items/warping_bite",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 487,
         "width": 1,
         "height": 1
@@ -73292,7 +73316,7 @@ var textureData =
     {
         "name": "minecraft:item/stone_shovel",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 482,
         "width": 1,
         "height": 1
@@ -73308,7 +73332,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/venthyr",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 488,
         "width": 1,
         "height": 1
@@ -73356,7 +73380,7 @@ var textureData =
     {
         "name": "create:item/raw_zinc",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 481,
         "width": 1,
         "height": 1
@@ -73396,7 +73420,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/reed",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 481,
         "width": 1,
         "height": 1
@@ -73436,7 +73460,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/abyssal_chestplate",
         "animated": false,
-        "x": 11,
+        "x": 14,
         "y": 484,
         "width": 1,
         "height": 1
@@ -73444,7 +73468,7 @@ var textureData =
     {
         "name": "nebs:items/horse_frost_walker",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 485,
         "width": 1,
         "height": 1
@@ -73524,7 +73548,7 @@ var textureData =
     {
         "name": "croptopia:item/olive_seed",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 480,
         "width": 1,
         "height": 1
@@ -73540,7 +73564,7 @@ var textureData =
     {
         "name": "nebs:items/health_siphon",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 485,
         "width": 1,
         "height": 1
@@ -73548,7 +73572,7 @@ var textureData =
     {
         "name": "nebs:items/unbreaking",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 487,
         "width": 1,
         "height": 1
@@ -73572,7 +73596,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_red_main_icon",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 484,
         "width": 1,
         "height": 1
@@ -73580,7 +73604,7 @@ var textureData =
     {
         "name": "minecraft:item/skull_banner_pattern",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 482,
         "width": 1,
         "height": 1
@@ -73588,7 +73612,7 @@ var textureData =
     {
         "name": "knight_quest:items/animatedtabletitem",
         "animated": true,
-        "x": 30,
+        "x": 33,
         "y": 484,
         "width": 1,
         "height": 1
@@ -73652,7 +73676,7 @@ var textureData =
     {
         "name": "croptopia:item/sea_lettuce",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 482,
         "width": 1,
         "height": 1
@@ -73660,7 +73684,7 @@ var textureData =
     {
         "name": "spirit:item/soul_bow",
         "animated": true,
-        "x": 165,
+        "x": 168,
         "y": 482,
         "width": 1,
         "height": 1
@@ -73676,7 +73700,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/mahogany_chest_boat",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 479,
         "width": 1,
         "height": 1
@@ -73684,7 +73708,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/palm_chest_boat",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 480,
         "width": 1,
         "height": 1
@@ -73772,7 +73796,7 @@ var textureData =
     {
         "name": "quark:item/music_disc_fire",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 480,
         "width": 1,
         "height": 1
@@ -73780,7 +73804,7 @@ var textureData =
     {
         "name": "nebs:items/warping",
         "animated": false,
-        "x": 235,
+        "x": 238,
         "y": 487,
         "width": 1,
         "height": 1
@@ -73804,7 +73828,7 @@ var textureData =
     {
         "name": "croptopia:item/scrambled_eggs",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 482,
         "width": 1,
         "height": 1
@@ -73916,7 +73940,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_silver2_leggings_icon",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 486,
         "width": 1,
         "height": 1
@@ -73932,7 +73956,7 @@ var textureData =
     {
         "name": "supplementaries:items/bomb",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 484,
         "width": 1,
         "height": 1
@@ -73972,7 +73996,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_sword",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 480,
         "width": 1,
         "height": 1
@@ -73980,7 +74004,7 @@ var textureData =
     {
         "name": "minecraft:item/green_dye",
         "animated": false,
-        "x": 121,
+        "x": 124,
         "y": 478,
         "width": 1,
         "height": 1
@@ -73988,7 +74012,7 @@ var textureData =
     {
         "name": "croptopia:item/kale",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 479,
         "width": 1,
         "height": 1
@@ -74020,7 +74044,7 @@ var textureData =
     {
         "name": "croptopia:item/pumpkin_spice_latte",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74028,7 +74052,7 @@ var textureData =
     {
         "name": "patchouli:items/book_blue",
         "animated": false,
-        "x": 118,
+        "x": 121,
         "y": 484,
         "width": 1,
         "height": 1
@@ -74068,7 +74092,7 @@ var textureData =
     {
         "name": "nebs:items/impaling",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 485,
         "width": 1,
         "height": 1
@@ -74092,7 +74116,7 @@ var textureData =
     {
         "name": "miningmaster:item/paragon_chestplate",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74108,7 +74132,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_carrot",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 478,
         "width": 1,
         "height": 1
@@ -74148,7 +74172,7 @@ var textureData =
     {
         "name": "aquaculture:item/muskellunge",
         "animated": false,
-        "x": 92,
+        "x": 95,
         "y": 480,
         "width": 1,
         "height": 1
@@ -74180,7 +74204,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/bronze_chain",
         "animated": false,
-        "x": 58,
+        "x": 61,
         "y": 488,
         "width": 1,
         "height": 1
@@ -74236,7 +74260,7 @@ var textureData =
     {
         "name": "biomemakeover:item/music_disk_button_mushrooms",
         "animated": false,
-        "x": 91,
+        "x": 94,
         "y": 480,
         "width": 1,
         "height": 1
@@ -74428,7 +74452,7 @@ var textureData =
     {
         "name": "minecraft:item/jungle_sign",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 479,
         "width": 1,
         "height": 1
@@ -74436,7 +74460,7 @@ var textureData =
     {
         "name": "biomemakeover:item/willow_door",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 483,
         "width": 1,
         "height": 1
@@ -74452,7 +74476,7 @@ var textureData =
     {
         "name": "nebs:items/aerial_affinity",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 484,
         "width": 1,
         "height": 1
@@ -74540,7 +74564,7 @@ var textureData =
     {
         "name": "cataclysm:items/ignitium_ingot",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 485,
         "width": 1,
         "height": 1
@@ -74588,7 +74612,7 @@ var textureData =
     {
         "name": "infernalexp:item/glow_lantern",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 478,
         "width": 1,
         "height": 1
@@ -74596,7 +74620,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_31",
         "animated": false,
-        "x": 225,
+        "x": 228,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74612,7 +74636,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_30",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74620,7 +74644,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_28",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74636,7 +74660,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_29",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74644,7 +74668,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_24",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74660,7 +74684,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_25",
         "animated": false,
-        "x": 219,
+        "x": 222,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74668,7 +74692,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_26",
         "animated": false,
-        "x": 220,
+        "x": 223,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74676,7 +74700,7 @@ var textureData =
     {
         "name": "minecraft:item/tipped_arrow_base",
         "animated": false,
-        "x": 81,
+        "x": 84,
         "y": 483,
         "width": 1,
         "height": 1
@@ -74684,7 +74708,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_27",
         "animated": false,
-        "x": 221,
+        "x": 224,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74692,7 +74716,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/hellbark_chest_boat",
         "animated": false,
-        "x": 184,
+        "x": 187,
         "y": 478,
         "width": 1,
         "height": 1
@@ -74708,7 +74732,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_helmet",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 484,
         "width": 1,
         "height": 1
@@ -74716,7 +74740,7 @@ var textureData =
     {
         "name": "create_confectionery:items/white_chocolate_candy_3",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 487,
         "width": 1,
         "height": 1
@@ -74732,7 +74756,7 @@ var textureData =
     {
         "name": "create_confectionery:items/white_chocolate_candy_2",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 487,
         "width": 1,
         "height": 1
@@ -74740,7 +74764,7 @@ var textureData =
     {
         "name": "create_confectionery:items/white_chocolate_candy_1",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 487,
         "width": 1,
         "height": 1
@@ -74764,7 +74788,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_20",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74788,7 +74812,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_21",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74812,7 +74836,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_22",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74820,7 +74844,7 @@ var textureData =
     {
         "name": "nebs:items/riptide",
         "animated": false,
-        "x": 224,
+        "x": 227,
         "y": 486,
         "width": 1,
         "height": 1
@@ -74836,7 +74860,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_23",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74852,7 +74876,7 @@ var textureData =
     {
         "name": "aquaculture:item/pacific_halibut",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 480,
         "width": 1,
         "height": 1
@@ -74868,7 +74892,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_17",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74876,7 +74900,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_18",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74892,7 +74916,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_19",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74900,7 +74924,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_13",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74908,7 +74932,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_14",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74916,7 +74940,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_15",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74932,7 +74956,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_16",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 481,
         "width": 1,
         "height": 1
@@ -74956,7 +74980,7 @@ var textureData =
     {
         "name": "nebs:items/cleaving",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 484,
         "width": 1,
         "height": 1
@@ -74964,7 +74988,7 @@ var textureData =
     {
         "name": "supplementaries:items/candy_halloween",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 484,
         "width": 1,
         "height": 1
@@ -74972,7 +74996,7 @@ var textureData =
     {
         "name": "nebs:items/board_return",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 484,
         "width": 1,
         "height": 1
@@ -74996,7 +75020,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_10",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75004,7 +75028,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_11",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75012,7 +75036,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_12",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75020,7 +75044,7 @@ var textureData =
     {
         "name": "create_sa:items/blazing_sword",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 484,
         "width": 1,
         "height": 1
@@ -75044,7 +75068,7 @@ var textureData =
     {
         "name": "supplementaries:items/rope_arrow",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 486,
         "width": 1,
         "height": 1
@@ -75060,7 +75084,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_06",
         "animated": false,
-        "x": 200,
+        "x": 203,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75076,7 +75100,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_07",
         "animated": false,
-        "x": 201,
+        "x": 204,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75092,7 +75116,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_08",
         "animated": false,
-        "x": 202,
+        "x": 205,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75100,7 +75124,7 @@ var textureData =
     {
         "name": "minecraft:item/flint_and_steel",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 477,
         "width": 1,
         "height": 1
@@ -75108,7 +75132,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_09",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75124,7 +75148,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_02",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75140,7 +75164,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_03",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75156,7 +75180,7 @@ var textureData =
     {
         "name": "create:item/powdered_obsidian",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75164,7 +75188,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_04",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75172,7 +75196,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_05",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75188,7 +75212,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_sandwich_2",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 477,
         "width": 1,
         "height": 1
@@ -75220,7 +75244,7 @@ var textureData =
     {
         "name": "farmersdelight:item/tree_bark",
         "animated": false,
-        "x": 107,
+        "x": 110,
         "y": 483,
         "width": 1,
         "height": 1
@@ -75228,7 +75252,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_sandwich_0",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 477,
         "width": 1,
         "height": 1
@@ -75236,7 +75260,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/chicken_sandwich_1",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 477,
         "width": 1,
         "height": 1
@@ -75260,7 +75284,7 @@ var textureData =
     {
         "name": "nebs:items/butchering",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 484,
         "width": 1,
         "height": 1
@@ -75276,7 +75300,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/coin_stack_iron",
         "animated": false,
-        "x": 60,
+        "x": 63,
         "y": 488,
         "width": 1,
         "height": 1
@@ -75308,7 +75332,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_00",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75316,7 +75340,7 @@ var textureData =
     {
         "name": "alexsmobs:item/lower_bucket",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 479,
         "width": 1,
         "height": 1
@@ -75324,7 +75348,7 @@ var textureData =
     {
         "name": "minecraft:item/recovery_compass_01",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 481,
         "width": 1,
         "height": 1
@@ -75396,7 +75420,7 @@ var textureData =
     {
         "name": "create_sa:items/zinc_shovel",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 488,
         "width": 1,
         "height": 1
@@ -75412,7 +75436,7 @@ var textureData =
     {
         "name": "create_confectionery:items/caramel",
         "animated": false,
-        "x": 178,
+        "x": 181,
         "y": 484,
         "width": 1,
         "height": 1
@@ -75420,7 +75444,7 @@ var textureData =
     {
         "name": "minecraft:item/firework_star",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 477,
         "width": 1,
         "height": 1
@@ -75532,7 +75556,7 @@ var textureData =
     {
         "name": "nebs:items/hammer_mobility",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 485,
         "width": 1,
         "height": 1
@@ -75540,7 +75564,7 @@ var textureData =
     {
         "name": "nebs:items/control",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 484,
         "width": 1,
         "height": 1
@@ -75572,7 +75596,7 @@ var textureData =
     {
         "name": "nebs:items/auto-smelt",
         "animated": false,
-        "x": 48,
+        "x": 51,
         "y": 484,
         "width": 1,
         "height": 1
@@ -75580,7 +75604,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/frozen_key",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 485,
         "width": 1,
         "height": 1
@@ -75636,7 +75660,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_nether_boots_icon",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 486,
         "width": 1,
         "height": 1
@@ -75668,7 +75692,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_oak",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 480,
         "width": 1,
         "height": 1
@@ -75740,7 +75764,7 @@ var textureData =
     {
         "name": "delightful:item/rock_candy",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 482,
         "width": 1,
         "height": 1
@@ -75820,7 +75844,7 @@ var textureData =
     {
         "name": "eatinganimation:item/glow_berries_eating_2",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 478,
         "width": 1,
         "height": 1
@@ -75828,8 +75852,8 @@ var textureData =
     {
         "name": "delightful:item/reinforced_deorum_knife",
         "animated": false,
-        "x": 253,
-        "y": 481,
+        "x": 0,
+        "y": 482,
         "width": 1,
         "height": 1
     },
@@ -75844,7 +75868,7 @@ var textureData =
     {
         "name": "eatinganimation:item/glow_berries_eating_1",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 478,
         "width": 1,
         "height": 1
@@ -75852,7 +75876,7 @@ var textureData =
     {
         "name": "eatinganimation:item/glow_berries_eating_0",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 478,
         "width": 1,
         "height": 1
@@ -75908,7 +75932,7 @@ var textureData =
     {
         "name": "endrem:items/lost_eye",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 486,
         "width": 1,
         "height": 1
@@ -75956,7 +75980,7 @@ var textureData =
     {
         "name": "minecraft:item/sea_pickle",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 482,
         "width": 1,
         "height": 1
@@ -75988,7 +76012,7 @@ var textureData =
     {
         "name": "croptopia:item/roe",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 482,
         "width": 1,
         "height": 1
@@ -76020,7 +76044,7 @@ var textureData =
     {
         "name": "aquaculture:item/turtle_soup",
         "animated": false,
-        "x": 130,
+        "x": 133,
         "y": 483,
         "width": 1,
         "height": 1
@@ -76052,7 +76076,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_jetpack",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 484,
         "width": 1,
         "height": 1
@@ -76068,7 +76092,7 @@ var textureData =
     {
         "name": "alexsmobs:item/straddlite",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 482,
         "width": 1,
         "height": 1
@@ -76076,7 +76100,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_spruce",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 480,
         "width": 1,
         "height": 1
@@ -76084,7 +76108,7 @@ var textureData =
     {
         "name": "farmersdelight:item/glow_berry_custard",
         "animated": false,
-        "x": 44,
+        "x": 47,
         "y": 478,
         "width": 1,
         "height": 1
@@ -76100,7 +76124,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_boots_icon",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 486,
         "width": 1,
         "height": 1
@@ -76180,7 +76204,7 @@ var textureData =
     {
         "name": "nebs:items/sweeping",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 487,
         "width": 1,
         "height": 1
@@ -76196,7 +76220,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_nugget",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 480,
         "width": 1,
         "height": 1
@@ -76204,7 +76228,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/seaweed_on_a_stick",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 482,
         "width": 1,
         "height": 1
@@ -76228,7 +76252,7 @@ var textureData =
     {
         "name": "vinery:item/toast",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 483,
         "width": 1,
         "height": 1
@@ -76276,7 +76300,7 @@ var textureData =
     {
         "name": "nebs:items/smokestack",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 487,
         "width": 1,
         "height": 1
@@ -76316,7 +76340,7 @@ var textureData =
     {
         "name": "create:item/refined_radiance",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 481,
         "width": 1,
         "height": 1
@@ -76324,7 +76348,7 @@ var textureData =
     {
         "name": "nebs:items/infinity",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 485,
         "width": 1,
         "height": 1
@@ -76340,7 +76364,7 @@ var textureData =
     {
         "name": "aquaculture:item/goldfish",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 478,
         "width": 1,
         "height": 1
@@ -76412,7 +76436,7 @@ var textureData =
     {
         "name": "minecraft:item/glow_berries",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 478,
         "width": 1,
         "height": 1
@@ -76436,7 +76460,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mutton_wrap_0",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 477,
         "width": 1,
         "height": 1
@@ -76444,7 +76468,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mutton_wrap_1",
         "animated": false,
-        "x": 123,
+        "x": 126,
         "y": 477,
         "width": 1,
         "height": 1
@@ -76460,7 +76484,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/mutton_wrap_2",
         "animated": false,
-        "x": 124,
+        "x": 127,
         "y": 477,
         "width": 1,
         "height": 1
@@ -76476,7 +76500,7 @@ var textureData =
     {
         "name": "create:item/iron_sheet",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 479,
         "width": 1,
         "height": 1
@@ -76580,7 +76604,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/ice_chunks",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 478,
         "width": 1,
         "height": 1
@@ -76604,7 +76628,7 @@ var textureData =
     {
         "name": "patchouli:items/book_brown",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 484,
         "width": 1,
         "height": 1
@@ -76620,7 +76644,7 @@ var textureData =
     {
         "name": "create:item/wheat_flour",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 483,
         "width": 1,
         "height": 1
@@ -76652,7 +76676,7 @@ var textureData =
     {
         "name": "nebs:items/bang",
         "animated": false,
-        "x": 68,
+        "x": 71,
         "y": 484,
         "width": 1,
         "height": 1
@@ -76700,7 +76724,7 @@ var textureData =
     {
         "name": "nebs:items/cloudskipper",
         "animated": false,
-        "x": 205,
+        "x": 208,
         "y": 484,
         "width": 1,
         "height": 1
@@ -76732,7 +76756,7 @@ var textureData =
     {
         "name": "artifacts:item/snorkel",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 482,
         "width": 1,
         "height": 1
@@ -76756,7 +76780,7 @@ var textureData =
     {
         "name": "knight_quest:items/zombie_leggings_icon",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 488,
         "width": 1,
         "height": 1
@@ -76764,7 +76788,7 @@ var textureData =
     {
         "name": "nebs:items/walljump",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 487,
         "width": 1,
         "height": 1
@@ -76788,7 +76812,7 @@ var textureData =
     {
         "name": "create:item/sturdy_sheet",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 483,
         "width": 1,
         "height": 1
@@ -76804,7 +76828,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_deepslate_helmet_icon",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 486,
         "width": 1,
         "height": 1
@@ -76876,7 +76900,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_pickaxe",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 481,
         "width": 1,
         "height": 1
@@ -76892,8 +76916,8 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/imitation_crab",
         "animated": false,
-        "x": 253,
-        "y": 478,
+        "x": 0,
+        "y": 479,
         "width": 1,
         "height": 1
     },
@@ -76940,7 +76964,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_green2_leggings_icon",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 486,
         "width": 1,
         "height": 1
@@ -76948,7 +76972,7 @@ var textureData =
     {
         "name": "croptopia:item/rum",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 482,
         "width": 1,
         "height": 1
@@ -76964,7 +76988,7 @@ var textureData =
     {
         "name": "moonlight:soft_fluids/magma_still",
         "animated": true,
-        "x": 108,
+        "x": 111,
         "y": 488,
         "width": 1,
         "height": 1
@@ -77044,7 +77068,7 @@ var textureData =
     {
         "name": "cnb:items/light_pink_waterlily",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 486,
         "width": 1,
         "height": 1
@@ -77052,7 +77076,7 @@ var textureData =
     {
         "name": "nebs:items/amphibious",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 484,
         "width": 1,
         "height": 1
@@ -77068,7 +77092,7 @@ var textureData =
     {
         "name": "crittersandcompanions:item/pearl_necklace",
         "animated": false,
-        "x": 14,
+        "x": 17,
         "y": 481,
         "width": 1,
         "height": 1
@@ -77084,7 +77108,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_jacaranda_boat",
         "animated": false,
-        "x": 104,
+        "x": 107,
         "y": 479,
         "width": 1,
         "height": 1
@@ -77124,7 +77148,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_light_gray",
         "animated": false,
-        "x": 161,
+        "x": 164,
         "y": 478,
         "width": 1,
         "height": 1
@@ -77132,7 +77156,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/brown",
         "animated": false,
-        "x": 155,
+        "x": 158,
         "y": 484,
         "width": 1,
         "height": 1
@@ -77164,7 +77188,7 @@ var textureData =
     {
         "name": "alexsmobs:item/spiked_turtle_shell",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 482,
         "width": 1,
         "height": 1
@@ -77196,7 +77220,7 @@ var textureData =
     {
         "name": "minecraft:item/jungle_chest_boat",
         "animated": false,
-        "x": 45,
+        "x": 48,
         "y": 479,
         "width": 1,
         "height": 1
@@ -77236,7 +77260,7 @@ var textureData =
     {
         "name": "byg:item/redwood/door",
         "animated": false,
-        "x": 242,
+        "x": 245,
         "y": 481,
         "width": 1,
         "height": 1
@@ -77244,7 +77268,7 @@ var textureData =
     {
         "name": "nebs:items/absorber",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 484,
         "width": 1,
         "height": 1
@@ -77300,7 +77324,7 @@ var textureData =
     {
         "name": "aquaculture:item/redstone_hook",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 481,
         "width": 1,
         "height": 1
@@ -77324,7 +77348,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_brown",
         "animated": false,
-        "x": 156,
+        "x": 159,
         "y": 478,
         "width": 1,
         "height": 1
@@ -77348,7 +77372,7 @@ var textureData =
     {
         "name": "miningmaster:item/mm_tab_icon",
         "animated": true,
-        "x": 31,
+        "x": 34,
         "y": 480,
         "width": 1,
         "height": 1
@@ -77372,7 +77396,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/zinc_knife",
         "animated": false,
-        "x": 21,
+        "x": 24,
         "y": 488,
         "width": 1,
         "height": 1
@@ -77412,7 +77436,7 @@ var textureData =
     {
         "name": "croptopia:item/leek_seed",
         "animated": false,
-        "x": 133,
+        "x": 136,
         "y": 479,
         "width": 1,
         "height": 1
@@ -77428,7 +77452,7 @@ var textureData =
     {
         "name": "minecraft:item/light_gray_dye",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 479,
         "width": 1,
         "height": 1
@@ -77436,7 +77460,7 @@ var textureData =
     {
         "name": "create_confectionery:items/cocoao_powder",
         "animated": false,
-        "x": 207,
+        "x": 210,
         "y": 484,
         "width": 1,
         "height": 1
@@ -77460,7 +77484,7 @@ var textureData =
     {
         "name": "knight_quest:items/apple_helmet_icon",
         "animated": false,
-        "x": 34,
+        "x": 37,
         "y": 484,
         "width": 1,
         "height": 1
@@ -77524,7 +77548,7 @@ var textureData =
     {
         "name": "delightful:item/leaf_knife",
         "animated": false,
-        "x": 117,
+        "x": 120,
         "y": 479,
         "width": 1,
         "height": 1
@@ -77588,7 +77612,7 @@ var textureData =
     {
         "name": "knight_quest:items/zombie_helmet_icon",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 488,
         "width": 1,
         "height": 1
@@ -77612,7 +77636,7 @@ var textureData =
     {
         "name": "biomemakeover:item/willow_sign",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 483,
         "width": 1,
         "height": 1
@@ -77660,7 +77684,7 @@ var textureData =
     {
         "name": "croptopia:item/fruit_cake",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 478,
         "width": 1,
         "height": 1
@@ -77684,7 +77708,7 @@ var textureData =
     {
         "name": "farmersdelight:item/roast_chicken",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 482,
         "width": 1,
         "height": 1
@@ -77740,7 +77764,7 @@ var textureData =
     {
         "name": "nebs:items/phoenix_dive",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 486,
         "width": 1,
         "height": 1
@@ -77748,7 +77772,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/anglers_fang",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 484,
         "width": 1,
         "height": 1
@@ -77828,7 +77852,7 @@ var textureData =
     {
         "name": "knight_quest:items/fishdrop",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 485,
         "width": 1,
         "height": 1
@@ -77884,7 +77908,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_green_enchanted",
         "animated": false,
-        "x": 150,
+        "x": 153,
         "y": 485,
         "width": 1,
         "height": 1
@@ -77916,7 +77940,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_nether_leggings_icon",
         "animated": false,
-        "x": 29,
+        "x": 32,
         "y": 486,
         "width": 1,
         "height": 1
@@ -77980,7 +78004,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/vegetable_noodles_1",
         "animated": false,
-        "x": 198,
+        "x": 201,
         "y": 477,
         "width": 1,
         "height": 1
@@ -77988,7 +78012,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/vegetable_noodles_2",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 477,
         "width": 1,
         "height": 1
@@ -78004,7 +78028,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/vegetable_noodles_0",
         "animated": false,
-        "x": 197,
+        "x": 200,
         "y": 477,
         "width": 1,
         "height": 1
@@ -78020,7 +78044,7 @@ var textureData =
     {
         "name": "quark:item/seed_pouch",
         "animated": false,
-        "x": 102,
+        "x": 105,
         "y": 482,
         "width": 1,
         "height": 1
@@ -78068,7 +78092,7 @@ var textureData =
     {
         "name": "croptopia:item/ravioli",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 481,
         "width": 1,
         "height": 1
@@ -78092,7 +78116,7 @@ var textureData =
     {
         "name": "create_sa:items/brass_sword",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 484,
         "width": 1,
         "height": 1
@@ -78100,7 +78124,7 @@ var textureData =
     {
         "name": "primitivestart:items/bone_shovel",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 484,
         "width": 1,
         "height": 1
@@ -78124,7 +78148,7 @@ var textureData =
     {
         "name": "alexsmobs:item/straddleboard",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 482,
         "width": 1,
         "height": 1
@@ -78132,7 +78156,7 @@ var textureData =
     {
         "name": "minecraft:item/redstone",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 481,
         "width": 1,
         "height": 1
@@ -78180,7 +78204,7 @@ var textureData =
     {
         "name": "farmersdelight:item/kelp_roll_slice",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 479,
         "width": 1,
         "height": 1
@@ -78212,7 +78236,7 @@ var textureData =
     {
         "name": "farmersdelight:item/onion",
         "animated": false,
-        "x": 218,
+        "x": 221,
         "y": 480,
         "width": 1,
         "height": 1
@@ -78244,7 +78268,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_deepslate_boots_icon",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 486,
         "width": 1,
         "height": 1
@@ -78260,7 +78284,7 @@ var textureData =
     {
         "name": "nebs:items/fortune",
         "animated": false,
-        "x": 84,
+        "x": 87,
         "y": 485,
         "width": 1,
         "height": 1
@@ -78308,7 +78332,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_gray",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 478,
         "width": 1,
         "height": 1
@@ -78324,7 +78348,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/temaki/salmon_temaki",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 483,
         "width": 1,
         "height": 1
@@ -78332,7 +78356,7 @@ var textureData =
     {
         "name": "alexsmobs:item/rocky_shell",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 482,
         "width": 1,
         "height": 1
@@ -78340,7 +78364,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_yellow2_leggings_icon",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 486,
         "width": 1,
         "height": 1
@@ -78364,8 +78388,8 @@ var textureData =
     {
         "name": "croptopia:item/yoghurt",
         "animated": false,
-        "x": 255,
-        "y": 483,
+        "x": 2,
+        "y": 484,
         "width": 1,
         "height": 1
     },
@@ -78492,7 +78516,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/seaweed",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 482,
         "width": 1,
         "height": 1
@@ -78516,7 +78540,7 @@ var textureData =
     {
         "name": "byg:item/white_mangrove/door",
         "animated": false,
-        "x": 211,
+        "x": 214,
         "y": 483,
         "width": 1,
         "height": 1
@@ -78524,7 +78548,7 @@ var textureData =
     {
         "name": "nebs:items/enlightenment",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 485,
         "width": 1,
         "height": 1
@@ -78588,7 +78612,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomemakeover/sign_post_blighted_balsa",
         "animated": false,
-        "x": 25,
+        "x": 28,
         "y": 487,
         "width": 1,
         "height": 1
@@ -78620,7 +78644,7 @@ var textureData =
     {
         "name": "nebs:items/soft_fall",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 487,
         "width": 1,
         "height": 1
@@ -78708,7 +78732,7 @@ var textureData =
     {
         "name": "supplementaries:items/wind_vane",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 487,
         "width": 1,
         "height": 1
@@ -78724,7 +78748,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/rose_quartz_sheet",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 486,
         "width": 1,
         "height": 1
@@ -78772,7 +78796,7 @@ var textureData =
     {
         "name": "minecraft:item/spruce_door",
         "animated": false,
-        "x": 213,
+        "x": 216,
         "y": 482,
         "width": 1,
         "height": 1
@@ -78812,7 +78836,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/nigiri/salmon_nigiri",
         "animated": false,
-        "x": 187,
+        "x": 190,
         "y": 480,
         "width": 1,
         "height": 1
@@ -78844,7 +78868,7 @@ var textureData =
     {
         "name": "minecraft:item/stone_pickaxe",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 482,
         "width": 1,
         "height": 1
@@ -78852,7 +78876,7 @@ var textureData =
     {
         "name": "compatoplenty:item/jacaranda_furnace_boat",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 479,
         "width": 1,
         "height": 1
@@ -78908,7 +78932,7 @@ var textureData =
     {
         "name": "compatoplenty:item/redwood_furnace_boat",
         "animated": false,
-        "x": 246,
+        "x": 249,
         "y": 481,
         "width": 1,
         "height": 1
@@ -78964,7 +78988,7 @@ var textureData =
     {
         "name": "croptopia:item/roasted_turnips",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 482,
         "width": 1,
         "height": 1
@@ -79004,7 +79028,7 @@ var textureData =
     {
         "name": "ftbquests:item/lootcrate/top",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 479,
         "width": 1,
         "height": 1
@@ -79044,7 +79068,7 @@ var textureData =
     {
         "name": "miningmaster:item/haste_peridot_axe",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 478,
         "width": 1,
         "height": 1
@@ -79060,7 +79084,7 @@ var textureData =
     {
         "name": "minecraft:item/golden_chestplate",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 478,
         "width": 1,
         "height": 1
@@ -79108,7 +79132,7 @@ var textureData =
     {
         "name": "byg:item/zelkova/boat",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 484,
         "width": 1,
         "height": 1
@@ -79132,7 +79156,7 @@ var textureData =
     {
         "name": "cataclysm:items/music_disc_ignis",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 486,
         "width": 1,
         "height": 1
@@ -79148,7 +79172,7 @@ var textureData =
     {
         "name": "minecraft:item/globe_banner_pattern",
         "animated": false,
-        "x": 38,
+        "x": 41,
         "y": 478,
         "width": 1,
         "height": 1
@@ -79156,7 +79180,7 @@ var textureData =
     {
         "name": "vinery:item/jellie_wine",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 479,
         "width": 1,
         "height": 1
@@ -79164,7 +79188,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_warped",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 480,
         "width": 1,
         "height": 1
@@ -79196,7 +79220,7 @@ var textureData =
     {
         "name": "nebs:items/vein_mining",
         "animated": false,
-        "x": 210,
+        "x": 213,
         "y": 487,
         "width": 1,
         "height": 1
@@ -79236,7 +79260,7 @@ var textureData =
     {
         "name": "ftbquests:item/lootcrate/front_outline",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 479,
         "width": 1,
         "height": 1
@@ -79244,7 +79268,7 @@ var textureData =
     {
         "name": "vinery:item/red_grape",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 481,
         "width": 1,
         "height": 1
@@ -79260,7 +79284,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/rice_seeds",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 482,
         "width": 1,
         "height": 1
@@ -79268,7 +79292,7 @@ var textureData =
     {
         "name": "moonlight:soft_fluids/potion_still",
         "animated": true,
-        "x": 110,
+        "x": 113,
         "y": 488,
         "width": 1,
         "height": 1
@@ -79300,7 +79324,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_baobab",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 487,
         "width": 1,
         "height": 1
@@ -79404,7 +79428,7 @@ var textureData =
     {
         "name": "minecraft:item/iron_shovel",
         "animated": false,
-        "x": 28,
+        "x": 31,
         "y": 479,
         "width": 1,
         "height": 1
@@ -79420,7 +79444,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_cypress",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 485,
         "width": 1,
         "height": 1
@@ -79468,7 +79492,7 @@ var textureData =
     {
         "name": "knight_quest:items/shield_main_icon",
         "animated": false,
-        "x": 17,
+        "x": 20,
         "y": 487,
         "width": 1,
         "height": 1
@@ -79548,7 +79572,7 @@ var textureData =
     {
         "name": "knight_quest:items/ghast_boots_icon",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 485,
         "width": 1,
         "height": 1
@@ -79604,7 +79628,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_deepslate_leggings_icon",
         "animated": false,
-        "x": 7,
+        "x": 10,
         "y": 486,
         "width": 1,
         "height": 1
@@ -79636,7 +79660,7 @@ var textureData =
     {
         "name": "croptopia:item/strawberry_jam",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 483,
         "width": 1,
         "height": 1
@@ -79644,7 +79668,7 @@ var textureData =
     {
         "name": "cnb:items/yeti_antler",
         "animated": false,
-        "x": 13,
+        "x": 16,
         "y": 488,
         "width": 1,
         "height": 1
@@ -79748,7 +79772,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_sea_leggings_icon",
         "animated": false,
-        "x": 65,
+        "x": 68,
         "y": 486,
         "width": 1,
         "height": 1
@@ -79828,7 +79852,7 @@ var textureData =
     {
         "name": "create:item/sand_paper",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 482,
         "width": 1,
         "height": 1
@@ -79852,7 +79876,7 @@ var textureData =
     {
         "name": "nebs:items/freezing",
         "animated": false,
-        "x": 85,
+        "x": 88,
         "y": 485,
         "width": 1,
         "height": 1
@@ -79876,8 +79900,8 @@ var textureData =
     {
         "name": "create:item/experience_nugget",
         "animated": false,
-        "x": 255,
-        "y": 476,
+        "x": 1,
+        "y": 477,
         "width": 1,
         "height": 1
     },
@@ -79916,7 +79940,7 @@ var textureData =
     {
         "name": "byg:item/pendorite_sword",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 481,
         "width": 1,
         "height": 1
@@ -79964,7 +79988,7 @@ var textureData =
     {
         "name": "moonlight:soft_fluids/soup_liquid",
         "animated": true,
-        "x": 111,
+        "x": 114,
         "y": 488,
         "width": 1,
         "height": 1
@@ -79972,7 +79996,7 @@ var textureData =
     {
         "name": "minecraft:item/totem_of_undying",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 483,
         "width": 1,
         "height": 1
@@ -80028,7 +80052,7 @@ var textureData =
     {
         "name": "fantasyfurniture:models/necrolord/wall_light",
         "animated": false,
-        "x": 50,
+        "x": 53,
         "y": 488,
         "width": 1,
         "height": 1
@@ -80132,7 +80156,7 @@ var textureData =
     {
         "name": "delightful:item/pendorite_knife",
         "animated": false,
-        "x": 23,
+        "x": 26,
         "y": 481,
         "width": 1,
         "height": 1
@@ -80156,7 +80180,7 @@ var textureData =
     {
         "name": "farmersdelight:item/red_canvas_sign",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 481,
         "width": 1,
         "height": 1
@@ -80188,7 +80212,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/luminescent_bubble_item",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 486,
         "width": 1,
         "height": 1
@@ -80252,7 +80276,7 @@ var textureData =
     {
         "name": "aquaculture:item/fish_fillet_cooked",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 477,
         "width": 1,
         "height": 1
@@ -80308,7 +80332,7 @@ var textureData =
     {
         "name": "croptopia:item/raisin_oatmeal_cookie",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 481,
         "width": 1,
         "height": 1
@@ -80332,7 +80356,7 @@ var textureData =
     {
         "name": "supplementaries:items/bomb_projectile",
         "animated": true,
-        "x": 104,
+        "x": 107,
         "y": 484,
         "width": 1,
         "height": 1
@@ -80340,7 +80364,7 @@ var textureData =
     {
         "name": "nethersdelight:item/plate_of_stuffed_hoglin_ham",
         "animated": false,
-        "x": 61,
+        "x": 64,
         "y": 481,
         "width": 1,
         "height": 1
@@ -80356,7 +80380,7 @@ var textureData =
     {
         "name": "byg:item/green_enchanted/boat",
         "animated": false,
-        "x": 122,
+        "x": 125,
         "y": 478,
         "width": 1,
         "height": 1
@@ -80388,7 +80412,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/tobiko",
         "animated": false,
-        "x": 3,
+        "x": 6,
         "y": 479,
         "width": 1,
         "height": 1
@@ -80492,7 +80516,7 @@ var textureData =
     {
         "name": "supplementaries:items/flax",
         "animated": false,
-        "x": 73,
+        "x": 76,
         "y": 485,
         "width": 1,
         "height": 1
@@ -80524,7 +80548,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_jungle",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 480,
         "width": 1,
         "height": 1
@@ -80532,7 +80556,7 @@ var textureData =
     {
         "name": "alexsmobs:item/tendon_whip_active",
         "animated": false,
-        "x": 71,
+        "x": 74,
         "y": 483,
         "width": 1,
         "height": 1
@@ -80540,7 +80564,7 @@ var textureData =
     {
         "name": "cnb:items/apple_slice",
         "animated": false,
-        "x": 41,
+        "x": 44,
         "y": 484,
         "width": 1,
         "height": 1
@@ -80548,7 +80572,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_tunic_blue_leggings_icon",
         "animated": false,
-        "x": 49,
+        "x": 52,
         "y": 486,
         "width": 1,
         "height": 1
@@ -80556,7 +80580,7 @@ var textureData =
     {
         "name": "knight_quest:items/watersword",
         "animated": false,
-        "x": 240,
+        "x": 243,
         "y": 487,
         "width": 1,
         "height": 1
@@ -80628,7 +80652,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_magic_boat",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 479,
         "width": 1,
         "height": 1
@@ -80644,7 +80668,7 @@ var textureData =
     {
         "name": "farmersdelight:item/rice",
         "animated": false,
-        "x": 5,
+        "x": 8,
         "y": 482,
         "width": 1,
         "height": 1
@@ -80660,7 +80684,7 @@ var textureData =
     {
         "name": "delightful:item/prickly_pear_juice",
         "animated": false,
-        "x": 111,
+        "x": 114,
         "y": 481,
         "width": 1,
         "height": 1
@@ -80748,7 +80772,7 @@ var textureData =
     {
         "name": "knight_quest:items/phantom_leggings_icon",
         "animated": false,
-        "x": 164,
+        "x": 167,
         "y": 486,
         "width": 1,
         "height": 1
@@ -80772,7 +80796,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/kusochiektiemnoistali",
         "animated": false,
-        "x": 69,
+        "x": 72,
         "y": 486,
         "width": 1,
         "height": 1
@@ -80796,7 +80820,7 @@ var textureData =
     {
         "name": "knight_quest:items/kq_horn_helmet_icon",
         "animated": false,
-        "x": 24,
+        "x": 27,
         "y": 486,
         "width": 1,
         "height": 1
@@ -80812,7 +80836,7 @@ var textureData =
     {
         "name": "nebs:items/wisdom",
         "animated": false,
-        "x": 250,
+        "x": 253,
         "y": 487,
         "width": 1,
         "height": 1
@@ -80828,7 +80852,7 @@ var textureData =
     {
         "name": "biomemakeover:item/witch_hat",
         "animated": false,
-        "x": 232,
+        "x": 235,
         "y": 483,
         "width": 1,
         "height": 1
@@ -80964,7 +80988,7 @@ var textureData =
     {
         "name": "knight_quest:items/veteran_helmet_icon",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 487,
         "width": 1,
         "height": 1
@@ -80996,7 +81020,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/jar_of_golden_moth",
         "animated": false,
-        "x": 248,
+        "x": 251,
         "y": 485,
         "width": 1,
         "height": 1
@@ -81044,7 +81068,7 @@ var textureData =
     {
         "name": "minecraft:item/spruce_chest_boat",
         "animated": false,
-        "x": 212,
+        "x": 215,
         "y": 482,
         "width": 1,
         "height": 1
@@ -81060,7 +81084,7 @@ var textureData =
     {
         "name": "supplementaries:items/rope",
         "animated": false,
-        "x": 227,
+        "x": 230,
         "y": 486,
         "width": 1,
         "height": 1
@@ -81068,7 +81092,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/tomato_2",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 477,
         "width": 1,
         "height": 1
@@ -81076,7 +81100,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/tomato_1",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 477,
         "width": 1,
         "height": 1
@@ -81084,7 +81108,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/nigiri/tuna_nigiri",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 480,
         "width": 1,
         "height": 1
@@ -81116,7 +81140,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/tomato_0",
         "animated": false,
-        "x": 191,
+        "x": 194,
         "y": 477,
         "width": 1,
         "height": 1
@@ -81132,7 +81156,7 @@ var textureData =
     {
         "name": "byg:item/maple/boat",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 479,
         "width": 1,
         "height": 1
@@ -81204,7 +81228,7 @@ var textureData =
     {
         "name": "cataclysm:items/monstrous_horn",
         "animated": false,
-        "x": 126,
+        "x": 129,
         "y": 486,
         "width": 1,
         "height": 1
@@ -81244,7 +81268,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/ingredient/shrimp",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 479,
         "width": 1,
         "height": 1
@@ -81260,7 +81284,7 @@ var textureData =
     {
         "name": "compatoplenty:item/large_dead_boat",
         "animated": false,
-        "x": 100,
+        "x": 103,
         "y": 479,
         "width": 1,
         "height": 1
@@ -81332,7 +81356,7 @@ var textureData =
     {
         "name": "croptopia:item/roasted_pumpkin_seeds",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 482,
         "width": 1,
         "height": 1
@@ -81348,7 +81372,7 @@ var textureData =
     {
         "name": "obscure_api:items/obscure_book",
         "animated": false,
-        "x": 145,
+        "x": 148,
         "y": 486,
         "width": 1,
         "height": 1
@@ -81396,15 +81420,15 @@ var textureData =
     {
         "name": "minecraft:item/melon_seeds",
         "animated": false,
-        "x": 255,
-        "y": 479,
+        "x": 2,
+        "y": 480,
         "width": 1,
         "height": 1
     },
     {
         "name": "create:item/honeyed_apple",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 478,
         "width": 1,
         "height": 1
@@ -81412,7 +81436,7 @@ var textureData =
     {
         "name": "croptopia:item/popcorn",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 481,
         "width": 1,
         "height": 1
@@ -81428,7 +81452,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/floating_tomes",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 488,
         "width": 1,
         "height": 1
@@ -81468,7 +81492,7 @@ var textureData =
     {
         "name": "nebs:items/luck_of_the_sea",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 486,
         "width": 1,
         "height": 1
@@ -81524,7 +81548,7 @@ var textureData =
     {
         "name": "create:item/glass_door",
         "animated": false,
-        "x": 35,
+        "x": 38,
         "y": 478,
         "width": 1,
         "height": 1
@@ -81540,7 +81564,7 @@ var textureData =
     {
         "name": "infernalexp:item/raw_hogchop",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 481,
         "width": 1,
         "height": 1
@@ -81556,7 +81580,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/sesame_seeds",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 482,
         "width": 1,
         "height": 1
@@ -81668,7 +81692,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/abyssal_amethyst",
         "animated": false,
-        "x": 9,
+        "x": 12,
         "y": 484,
         "width": 1,
         "height": 1
@@ -81676,7 +81700,7 @@ var textureData =
     {
         "name": "farmersdelight:item/hamburger",
         "animated": false,
-        "x": 153,
+        "x": 156,
         "y": 478,
         "width": 1,
         "height": 1
@@ -81708,7 +81732,7 @@ var textureData =
     {
         "name": "spirit:item/soul_steel",
         "animated": true,
-        "x": 181,
+        "x": 184,
         "y": 482,
         "width": 1,
         "height": 1
@@ -81716,7 +81740,7 @@ var textureData =
     {
         "name": "itemfilters:item/strong_nbt",
         "animated": false,
-        "x": 8,
+        "x": 11,
         "y": 483,
         "width": 1,
         "height": 1
@@ -81732,7 +81756,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/redwood_chest_boat",
         "animated": false,
-        "x": 244,
+        "x": 247,
         "y": 481,
         "width": 1,
         "height": 1
@@ -81740,7 +81764,7 @@ var textureData =
     {
         "name": "nebs:items/power",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 486,
         "width": 1,
         "height": 1
@@ -81796,7 +81820,7 @@ var textureData =
     {
         "name": "minecraft:item/spyglass_model",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 482,
         "width": 1,
         "height": 1
@@ -81812,7 +81836,7 @@ var textureData =
     {
         "name": "cataclysm:items/enderite_ingot",
         "animated": false,
-        "x": 40,
+        "x": 43,
         "y": 485,
         "width": 1,
         "height": 1
@@ -81820,7 +81844,7 @@ var textureData =
     {
         "name": "nebs:items/brace",
         "animated": false,
-        "x": 127,
+        "x": 130,
         "y": 484,
         "width": 1,
         "height": 1
@@ -81940,7 +81964,7 @@ var textureData =
     {
         "name": "born_in_chaos_v1:items/duh",
         "animated": true,
-        "x": 30,
+        "x": 33,
         "y": 485,
         "width": 1,
         "height": 1
@@ -82036,7 +82060,7 @@ var textureData =
     {
         "name": "miningmaster:item/haste_peridot",
         "animated": false,
-        "x": 171,
+        "x": 174,
         "y": 478,
         "width": 1,
         "height": 1
@@ -82044,7 +82068,7 @@ var textureData =
     {
         "name": "minecraft:item/quartz",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 481,
         "width": 1,
         "height": 1
@@ -82108,7 +82132,7 @@ var textureData =
     {
         "name": "supplementaries:items/slingshot",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 487,
         "width": 1,
         "height": 1
@@ -82124,7 +82148,7 @@ var textureData =
     {
         "name": "cnb:items/lizard_spawn_egg",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 486,
         "width": 1,
         "height": 1
@@ -82140,7 +82164,7 @@ var textureData =
     {
         "name": "projectvibrantjourneys:item/mossy_rocks",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 480,
         "width": 1,
         "height": 1
@@ -82148,7 +82172,7 @@ var textureData =
     {
         "name": "croptopia:item/mead",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 479,
         "width": 1,
         "height": 1
@@ -82180,7 +82204,7 @@ var textureData =
     {
         "name": "farmersdelight:item/ratatouille",
         "animated": false,
-        "x": 170,
+        "x": 173,
         "y": 481,
         "width": 1,
         "height": 1
@@ -82188,7 +82212,7 @@ var textureData =
     {
         "name": "supplementaries:items/bomb_spiky_projectile",
         "animated": true,
-        "x": 106,
+        "x": 109,
         "y": 484,
         "width": 1,
         "height": 1
@@ -82196,7 +82220,7 @@ var textureData =
     {
         "name": "aquaculture:item/leech",
         "animated": false,
-        "x": 131,
+        "x": 134,
         "y": 479,
         "width": 1,
         "height": 1
@@ -82276,7 +82300,7 @@ var textureData =
     {
         "name": "minecraft:item/music_disc_far",
         "animated": false,
-        "x": 70,
+        "x": 73,
         "y": 480,
         "width": 1,
         "height": 1
@@ -82292,7 +82316,7 @@ var textureData =
     {
         "name": "deeperdarker:item/sculk_transmitter_on",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 482,
         "width": 1,
         "height": 1
@@ -82300,7 +82324,7 @@ var textureData =
     {
         "name": "knight_quest:items/pirate_leggings_icon",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 486,
         "width": 1,
         "height": 1
@@ -82324,7 +82348,7 @@ var textureData =
     {
         "name": "aquaculture:item/smallmouth_bass",
         "animated": false,
-        "x": 154,
+        "x": 157,
         "y": 482,
         "width": 1,
         "height": 1
@@ -82348,7 +82372,7 @@ var textureData =
     {
         "name": "croptopia:item/sushi",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 483,
         "width": 1,
         "height": 1
@@ -82364,7 +82388,7 @@ var textureData =
     {
         "name": "knight_quest:items/veteran_main_icon",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 487,
         "width": 1,
         "height": 1
@@ -82396,7 +82420,7 @@ var textureData =
     {
         "name": "scalinghealth:item/heart_crystal",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 478,
         "width": 1,
         "height": 1
@@ -82468,7 +82492,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/roast_chicken_1",
         "animated": false,
-        "x": 159,
+        "x": 162,
         "y": 477,
         "width": 1,
         "height": 1
@@ -82484,7 +82508,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/roast_chicken_0",
         "animated": false,
-        "x": 158,
+        "x": 161,
         "y": 477,
         "width": 1,
         "height": 1
@@ -82508,7 +82532,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/roast_chicken_2",
         "animated": false,
-        "x": 160,
+        "x": 163,
         "y": 477,
         "width": 1,
         "height": 1
@@ -82516,7 +82540,7 @@ var textureData =
     {
         "name": "minecraft:item/jungle_door",
         "animated": false,
-        "x": 46,
+        "x": 49,
         "y": 479,
         "width": 1,
         "height": 1
@@ -82524,7 +82548,7 @@ var textureData =
     {
         "name": "croptopia:item/pineapple_pepperoni_pizza",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 481,
         "width": 1,
         "height": 1
@@ -82540,7 +82564,7 @@ var textureData =
     {
         "name": "manyideas_core:item/panels/panel_oak",
         "animated": false,
-        "x": 249,
+        "x": 252,
         "y": 480,
         "width": 1,
         "height": 1
@@ -82604,7 +82628,7 @@ var textureData =
     {
         "name": "supplementaries:items/bomb_blue_projectile",
         "animated": true,
-        "x": 103,
+        "x": 106,
         "y": 484,
         "width": 1,
         "height": 1
@@ -82684,7 +82708,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_emerald_reinforcement",
         "animated": false,
-        "x": 238,
+        "x": 241,
         "y": 478,
         "width": 1,
         "height": 1
@@ -82700,7 +82724,7 @@ var textureData =
     {
         "name": "minecraft:item/leather_leggings",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 479,
         "width": 1,
         "height": 1
@@ -82724,7 +82748,7 @@ var textureData =
     {
         "name": "alexsmobs:item/rainbow_jelly",
         "animated": true,
-        "x": 161,
+        "x": 164,
         "y": 481,
         "width": 1,
         "height": 1
@@ -82732,7 +82756,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_purple",
         "animated": false,
-        "x": 166,
+        "x": 169,
         "y": 478,
         "width": 1,
         "height": 1
@@ -82740,7 +82764,7 @@ var textureData =
     {
         "name": "endrem:items/magical_eye",
         "animated": true,
-        "x": 106,
+        "x": 109,
         "y": 486,
         "width": 1,
         "height": 1
@@ -82748,7 +82772,7 @@ var textureData =
     {
         "name": "biomemakeover:item/glowbat_wing",
         "animated": false,
-        "x": 51,
+        "x": 54,
         "y": 478,
         "width": 1,
         "height": 1
@@ -82772,7 +82796,7 @@ var textureData =
     {
         "name": "create:item/precision_mechanism",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 481,
         "width": 1,
         "height": 1
@@ -82788,7 +82812,7 @@ var textureData =
     {
         "name": "aquaculture:item/iron_hook",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 479,
         "width": 1,
         "height": 1
@@ -82796,7 +82820,7 @@ var textureData =
     {
         "name": "minecraft:item/ink_sac",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 479,
         "width": 1,
         "height": 1
@@ -82852,7 +82876,7 @@ var textureData =
     {
         "name": "minecraft:item/stick",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 482,
         "width": 1,
         "height": 1
@@ -82876,7 +82900,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/tomato_sauce_1",
         "animated": false,
-        "x": 195,
+        "x": 198,
         "y": 477,
         "width": 1,
         "height": 1
@@ -82884,7 +82908,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/tomato_sauce_2",
         "animated": false,
-        "x": 196,
+        "x": 199,
         "y": 477,
         "width": 1,
         "height": 1
@@ -82892,7 +82916,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/tomato_sauce_0",
         "animated": false,
-        "x": 194,
+        "x": 197,
         "y": 477,
         "width": 1,
         "height": 1
@@ -82908,7 +82932,7 @@ var textureData =
     {
         "name": "croptopia:item/grilled_oysters",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 478,
         "width": 1,
         "height": 1
@@ -82948,7 +82972,7 @@ var textureData =
     {
         "name": "knight_quest:items/polar_bear_helmet_icon",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 486,
         "width": 1,
         "height": 1
@@ -82980,7 +83004,7 @@ var textureData =
     {
         "name": "minecraft:item/honeycomb",
         "animated": false,
-        "x": 206,
+        "x": 209,
         "y": 478,
         "width": 1,
         "height": 1
@@ -83012,7 +83036,7 @@ var textureData =
     {
         "name": "nebs:items/damage_illager",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 485,
         "width": 1,
         "height": 1
@@ -83020,7 +83044,7 @@ var textureData =
     {
         "name": "cataclysm:items/music_disc_netherite_monstrosity",
         "animated": false,
-        "x": 135,
+        "x": 138,
         "y": 486,
         "width": 1,
         "height": 1
@@ -83036,7 +83060,7 @@ var textureData =
     {
         "name": "nethersdelight:item/hoglin_sirloin",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 478,
         "width": 1,
         "height": 1
@@ -83052,7 +83076,7 @@ var textureData =
     {
         "name": "spirit:item/mob_crystal_unfilled",
         "animated": false,
-        "x": 33,
+        "x": 36,
         "y": 480,
         "width": 1,
         "height": 1
@@ -83068,7 +83092,7 @@ var textureData =
     {
         "name": "create_connected_blocks:item/incomplete_copper_reinforcement",
         "animated": false,
-        "x": 236,
+        "x": 239,
         "y": 478,
         "width": 1,
         "height": 1
@@ -83100,7 +83124,7 @@ var textureData =
     {
         "name": "knight_quest:items/witch_leggings_icon",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 488,
         "width": 1,
         "height": 1
@@ -83124,7 +83148,7 @@ var textureData =
     {
         "name": "create_things_and_misc:items/incomplete_mending_rune",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 485,
         "width": 1,
         "height": 1
@@ -83164,7 +83188,7 @@ var textureData =
     {
         "name": "nebs:items/natures_blessing",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 486,
         "width": 1,
         "height": 1
@@ -83212,7 +83236,7 @@ var textureData =
     {
         "name": "knight_quest:items/black_mage_boots_icon",
         "animated": false,
-        "x": 82,
+        "x": 85,
         "y": 484,
         "width": 1,
         "height": 1
@@ -83220,7 +83244,7 @@ var textureData =
     {
         "name": "nebs:items/speedster",
         "animated": false,
-        "x": 129,
+        "x": 132,
         "y": 487,
         "width": 1,
         "height": 1
@@ -83236,7 +83260,7 @@ var textureData =
     {
         "name": "supplementaries:items/flute",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 485,
         "width": 1,
         "height": 1
@@ -83260,7 +83284,7 @@ var textureData =
     {
         "name": "alexsmobs:item/mosquito_proboscis",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 480,
         "width": 1,
         "height": 1
@@ -83388,7 +83412,7 @@ var textureData =
     {
         "name": "minecraft:item/stone_sword",
         "animated": false,
-        "x": 245,
+        "x": 248,
         "y": 482,
         "width": 1,
         "height": 1
@@ -83476,7 +83500,7 @@ var textureData =
     {
         "name": "knight_quest:items/conquistador_leggings_icon",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 484,
         "width": 1,
         "height": 1
@@ -83492,7 +83516,7 @@ var textureData =
     {
         "name": "create:item/tree_fertilizer",
         "animated": false,
-        "x": 108,
+        "x": 111,
         "y": 483,
         "width": 1,
         "height": 1
@@ -83564,7 +83588,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/ecologics/hanging_sign_coconut",
         "animated": false,
-        "x": 172,
+        "x": 175,
         "y": 485,
         "width": 1,
         "height": 1
@@ -83668,7 +83692,7 @@ var textureData =
     {
         "name": "cataclysm:items/blazing_bone",
         "animated": false,
-        "x": 93,
+        "x": 96,
         "y": 484,
         "width": 1,
         "height": 1
@@ -83692,7 +83716,7 @@ var textureData =
     {
         "name": "minecraft:item/sugar_cane",
         "animated": false,
-        "x": 20,
+        "x": 23,
         "y": 483,
         "width": 1,
         "height": 1
@@ -83708,7 +83732,7 @@ var textureData =
     {
         "name": "aquaculture:item/red_shrooma",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 481,
         "width": 1,
         "height": 1
@@ -83716,7 +83740,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomesoplenty/sign_post_redwood",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 487,
         "width": 1,
         "height": 1
@@ -83732,7 +83756,7 @@ var textureData =
     {
         "name": "farmersdelight:item/fish_stew",
         "animated": false,
-        "x": 239,
+        "x": 242,
         "y": 477,
         "width": 1,
         "height": 1
@@ -83756,7 +83780,7 @@ var textureData =
     {
         "name": "croptopia:item/horchata",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 478,
         "width": 1,
         "height": 1
@@ -83764,7 +83788,7 @@ var textureData =
     {
         "name": "byg:item/skyris/boat",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 482,
         "width": 1,
         "height": 1
@@ -83780,7 +83804,7 @@ var textureData =
     {
         "name": "curios:slot/empty_charm_slot",
         "animated": false,
-        "x": 99,
+        "x": 102,
         "y": 488,
         "width": 1,
         "height": 1
@@ -83796,7 +83820,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/recipe_book",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 481,
         "width": 1,
         "height": 1
@@ -83860,7 +83884,7 @@ var textureData =
     {
         "name": "croptopia:item/lemon_chicken",
         "animated": false,
-        "x": 136,
+        "x": 139,
         "y": 479,
         "width": 1,
         "height": 1
@@ -83924,7 +83948,7 @@ var textureData =
     {
         "name": "nebs:items/icy_thorns",
         "animated": false,
-        "x": 222,
+        "x": 225,
         "y": 485,
         "width": 1,
         "height": 1
@@ -83940,7 +83964,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/huge_clover_petal",
         "animated": false,
-        "x": 217,
+        "x": 220,
         "y": 478,
         "width": 1,
         "height": 1
@@ -83964,7 +83988,7 @@ var textureData =
     {
         "name": "nebs:items/tracking",
         "animated": false,
-        "x": 192,
+        "x": 195,
         "y": 487,
         "width": 1,
         "height": 1
@@ -83980,7 +84004,7 @@ var textureData =
     {
         "name": "supplementaries:items/globe",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 485,
         "width": 1,
         "height": 1
@@ -83988,7 +84012,7 @@ var textureData =
     {
         "name": "ob_aquamirae:items/spinefish",
         "animated": false,
-        "x": 134,
+        "x": 137,
         "y": 487,
         "width": 1,
         "height": 1
@@ -83996,7 +84020,7 @@ var textureData =
     {
         "name": "comforts:item/hammock_red",
         "animated": false,
-        "x": 167,
+        "x": 170,
         "y": 478,
         "width": 1,
         "height": 1
@@ -84004,7 +84028,7 @@ var textureData =
     {
         "name": "knight_quest:items/pirate_helmet_icon",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 486,
         "width": 1,
         "height": 1
@@ -84012,7 +84036,7 @@ var textureData =
     {
         "name": "nebs:items/chain_lightning",
         "animated": false,
-        "x": 185,
+        "x": 188,
         "y": 484,
         "width": 1,
         "height": 1
@@ -84020,7 +84044,7 @@ var textureData =
     {
         "name": "create_sa:items/experience_heap",
         "animated": false,
-        "x": 54,
+        "x": 57,
         "y": 485,
         "width": 1,
         "height": 1
@@ -84028,7 +84052,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/bowl",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 488,
         "width": 1,
         "height": 1
@@ -84036,7 +84060,7 @@ var textureData =
     {
         "name": "create_sa:items/andesite_exoskeleton",
         "animated": false,
-        "x": 26,
+        "x": 29,
         "y": 484,
         "width": 1,
         "height": 1
@@ -84044,7 +84068,7 @@ var textureData =
     {
         "name": "knight_quest:items/shinobi_boots_icon",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 487,
         "width": 1,
         "height": 1
@@ -84092,7 +84116,7 @@ var textureData =
     {
         "name": "delightful:item/living_knife",
         "animated": false,
-        "x": 182,
+        "x": 185,
         "y": 479,
         "width": 1,
         "height": 1
@@ -84100,7 +84124,7 @@ var textureData =
     {
         "name": "minecraft:item/rotten_flesh",
         "animated": false,
-        "x": 36,
+        "x": 39,
         "y": 482,
         "width": 1,
         "height": 1
@@ -84116,7 +84140,7 @@ var textureData =
     {
         "name": "supplementaries:items/silver_door",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 487,
         "width": 1,
         "height": 1
@@ -84156,7 +84180,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/hamburger_2",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 477,
         "width": 1,
         "height": 1
@@ -84180,7 +84204,7 @@ var textureData =
     {
         "name": "alexsmobs:item/sopa_de_macaco",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 482,
         "width": 1,
         "height": 1
@@ -84228,7 +84252,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/hamburger_0",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 477,
         "width": 1,
         "height": 1
@@ -84260,7 +84284,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/hamburger_1",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 477,
         "width": 1,
         "height": 1
@@ -84276,7 +84300,7 @@ var textureData =
     {
         "name": "croptopia:item/grape",
         "animated": false,
-        "x": 105,
+        "x": 108,
         "y": 478,
         "width": 1,
         "height": 1
@@ -84324,7 +84348,7 @@ var textureData =
     {
         "name": "croptopia:item/raisins",
         "animated": false,
-        "x": 165,
+        "x": 168,
         "y": 481,
         "width": 1,
         "height": 1
@@ -84388,7 +84412,7 @@ var textureData =
     {
         "name": "cataclysm:items/chain_of_soul_binding",
         "animated": false,
-        "x": 186,
+        "x": 189,
         "y": 484,
         "width": 1,
         "height": 1
@@ -84428,7 +84452,7 @@ var textureData =
     {
         "name": "create_sa:items/copper_magnet",
         "animated": false,
-        "x": 231,
+        "x": 234,
         "y": 484,
         "width": 1,
         "height": 1
@@ -84436,7 +84460,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_pink",
         "animated": false,
-        "x": 142,
+        "x": 145,
         "y": 482,
         "width": 1,
         "height": 1
@@ -84444,7 +84468,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_cherry",
         "animated": false,
-        "x": 128,
+        "x": 131,
         "y": 485,
         "width": 1,
         "height": 1
@@ -84452,7 +84476,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/squid_ink_pasta_1",
         "animated": false,
-        "x": 174,
+        "x": 177,
         "y": 477,
         "width": 1,
         "height": 1
@@ -84468,7 +84492,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/squid_ink_pasta_0",
         "animated": false,
-        "x": 173,
+        "x": 176,
         "y": 477,
         "width": 1,
         "height": 1
@@ -84476,7 +84500,7 @@ var textureData =
     {
         "name": "nebs:items/potato_recovery",
         "animated": false,
-        "x": 189,
+        "x": 192,
         "y": 486,
         "width": 1,
         "height": 1
@@ -84508,7 +84532,7 @@ var textureData =
     {
         "name": "eatinganimation:item/farmersdelight/squid_ink_pasta_2",
         "animated": false,
-        "x": 175,
+        "x": 178,
         "y": 477,
         "width": 1,
         "height": 1
@@ -84532,7 +84556,7 @@ var textureData =
     {
         "name": "artifacts:item/running_shoes",
         "animated": false,
-        "x": 43,
+        "x": 46,
         "y": 482,
         "width": 1,
         "height": 1
@@ -84596,7 +84620,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/brewing_cauldron",
         "animated": false,
-        "x": 57,
+        "x": 60,
         "y": 488,
         "width": 1,
         "height": 1
@@ -84620,7 +84644,7 @@ var textureData =
     {
         "name": "byg:item/pollen_dust",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 481,
         "width": 1,
         "height": 1
@@ -84636,7 +84660,7 @@ var textureData =
     {
         "name": "compatoplenty:item/umbran_furnace_boat",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 483,
         "width": 1,
         "height": 1
@@ -84644,7 +84668,7 @@ var textureData =
     {
         "name": "miningmaster:item/spirit_garnet",
         "animated": false,
-        "x": 208,
+        "x": 211,
         "y": 482,
         "width": 1,
         "height": 1
@@ -84684,7 +84708,7 @@ var textureData =
     {
         "name": "create_sa:items/vault_component",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 487,
         "width": 1,
         "height": 1
@@ -84740,7 +84764,7 @@ var textureData =
     {
         "name": "obscure_api:items/astral_dust",
         "animated": false,
-        "x": 47,
+        "x": 50,
         "y": 484,
         "width": 1,
         "height": 1
@@ -84748,7 +84772,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/byg/hanging_sign_imparius",
         "animated": false,
-        "x": 152,
+        "x": 155,
         "y": 485,
         "width": 1,
         "height": 1
@@ -84764,7 +84788,7 @@ var textureData =
     {
         "name": "alexsmobs:item/kangaroo_burger",
         "animated": false,
-        "x": 53,
+        "x": 56,
         "y": 479,
         "width": 1,
         "height": 1
@@ -84772,7 +84796,7 @@ var textureData =
     {
         "name": "delightful:item/lavender_tea",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 479,
         "width": 1,
         "height": 1
@@ -84780,7 +84804,7 @@ var textureData =
     {
         "name": "minecraft:item/melon_slice",
         "animated": false,
-        "x": 0,
+        "x": 3,
         "y": 480,
         "width": 1,
         "height": 1
@@ -84860,7 +84884,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/biomemakeover/sign_post_willow",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 487,
         "width": 1,
         "height": 1
@@ -84892,7 +84916,7 @@ var textureData =
     {
         "name": "supplementaries:items/antique_ink",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 484,
         "width": 1,
         "height": 1
@@ -84900,7 +84924,7 @@ var textureData =
     {
         "name": "nebs:items/form",
         "animated": false,
-        "x": 83,
+        "x": 86,
         "y": 485,
         "width": 1,
         "height": 1
@@ -84924,7 +84948,7 @@ var textureData =
     {
         "name": "scalinghealth:item/heart_dust",
         "animated": false,
-        "x": 176,
+        "x": 179,
         "y": 478,
         "width": 1,
         "height": 1
@@ -84948,7 +84972,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/nordic",
         "animated": false,
-        "x": 90,
+        "x": 93,
         "y": 488,
         "width": 1,
         "height": 1
@@ -84956,7 +84980,7 @@ var textureData =
     {
         "name": "alexsmobs:item/void_worm_mandible",
         "animated": false,
-        "x": 163,
+        "x": 166,
         "y": 483,
         "width": 1,
         "height": 1
@@ -84988,7 +85012,7 @@ var textureData =
     {
         "name": "biomemakeover:item/raw_crab",
         "animated": false,
-        "x": 181,
+        "x": 184,
         "y": 481,
         "width": 1,
         "height": 1
@@ -85076,7 +85100,7 @@ var textureData =
     {
         "name": "create_confectionery:items/full_white_chocolate_bar",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 485,
         "width": 1,
         "height": 1
@@ -85084,7 +85108,7 @@ var textureData =
     {
         "name": "nebs:items/protection",
         "animated": false,
-        "x": 193,
+        "x": 196,
         "y": 486,
         "width": 1,
         "height": 1
@@ -85108,7 +85132,7 @@ var textureData =
     {
         "name": "minecraft:item/potato",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 481,
         "width": 1,
         "height": 1
@@ -85172,7 +85196,7 @@ var textureData =
     {
         "name": "cookingforblockheads:item/no_filter_edition",
         "animated": false,
-        "x": 190,
+        "x": 193,
         "y": 480,
         "width": 1,
         "height": 1
@@ -85180,7 +85204,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/potion_bottles",
         "animated": false,
-        "x": 78,
+        "x": 81,
         "y": 488,
         "width": 1,
         "height": 1
@@ -85212,7 +85236,7 @@ var textureData =
     {
         "name": "minecraft:item/nautilus_shell",
         "animated": false,
-        "x": 137,
+        "x": 140,
         "y": 480,
         "width": 1,
         "height": 1
@@ -85252,7 +85276,7 @@ var textureData =
     {
         "name": "miningmaster:item/fire_ruby",
         "animated": false,
-        "x": 228,
+        "x": 231,
         "y": 477,
         "width": 1,
         "height": 1
@@ -85260,7 +85284,7 @@ var textureData =
     {
         "name": "croptopia:item/tea",
         "animated": false,
-        "x": 63,
+        "x": 66,
         "y": 483,
         "width": 1,
         "height": 1
@@ -85284,7 +85308,7 @@ var textureData =
     {
         "name": "create_sa:items/rose_quartz_axe",
         "animated": false,
-        "x": 229,
+        "x": 232,
         "y": 486,
         "width": 1,
         "height": 1
@@ -85308,7 +85332,7 @@ var textureData =
     {
         "name": "byg:item/palm/boat",
         "animated": false,
-        "x": 237,
+        "x": 240,
         "y": 480,
         "width": 1,
         "height": 1
@@ -85348,7 +85372,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/mini_lodge_police_box",
         "animated": false,
-        "x": 18,
+        "x": 21,
         "y": 480,
         "width": 1,
         "height": 1
@@ -85396,7 +85420,7 @@ var textureData =
     {
         "name": "artifacts:item/vampiric_glove",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 483,
         "width": 1,
         "height": 1
@@ -85428,7 +85452,7 @@ var textureData =
     {
         "name": "croptopia:item/figgy_pudding",
         "animated": false,
-        "x": 214,
+        "x": 217,
         "y": 477,
         "width": 1,
         "height": 1
@@ -85444,7 +85468,7 @@ var textureData =
     {
         "name": "croptopia:item/ham_sandwich",
         "animated": false,
-        "x": 151,
+        "x": 154,
         "y": 478,
         "width": 1,
         "height": 1
@@ -85452,7 +85476,7 @@ var textureData =
     {
         "name": "minecraft:item/salmon_bucket",
         "animated": false,
-        "x": 56,
+        "x": 59,
         "y": 482,
         "width": 1,
         "height": 1
@@ -85460,7 +85484,7 @@ var textureData =
     {
         "name": "minecraft:item/slime_ball",
         "animated": false,
-        "x": 147,
+        "x": 150,
         "y": 482,
         "width": 1,
         "height": 1
@@ -85476,7 +85500,7 @@ var textureData =
     {
         "name": "miningmaster:item/paragon_helmet",
         "animated": false,
-        "x": 1,
+        "x": 4,
         "y": 481,
         "width": 1,
         "height": 1
@@ -85524,8 +85548,8 @@ var textureData =
     {
         "name": "endrem:items/witch_eye",
         "animated": false,
-        "x": 254,
-        "y": 487,
+        "x": 1,
+        "y": 488,
         "width": 1,
         "height": 1
     },
@@ -85572,7 +85596,7 @@ var textureData =
     {
         "name": "alexsmobs:item/flying_fish_boots",
         "animated": false,
-        "x": 4,
+        "x": 7,
         "y": 478,
         "width": 1,
         "height": 1
@@ -85596,7 +85620,7 @@ var textureData =
     {
         "name": "alexsmobs:item/komodo_spit",
         "animated": false,
-        "x": 87,
+        "x": 90,
         "y": 479,
         "width": 1,
         "height": 1
@@ -85652,7 +85676,7 @@ var textureData =
     {
         "name": "supplementaries:items/item_shelf",
         "animated": false,
-        "x": 247,
+        "x": 250,
         "y": 485,
         "width": 1,
         "height": 1
@@ -85668,7 +85692,7 @@ var textureData =
     {
         "name": "alexsdelight:item/maggot_salad",
         "animated": false,
-        "x": 209,
+        "x": 212,
         "y": 479,
         "width": 1,
         "height": 1
@@ -85676,7 +85700,7 @@ var textureData =
     {
         "name": "croptopia:item/kiwi_seed",
         "animated": false,
-        "x": 80,
+        "x": 83,
         "y": 479,
         "width": 1,
         "height": 1
@@ -85684,7 +85708,7 @@ var textureData =
     {
         "name": "delightful:item/source_berry_pie_slice",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 482,
         "width": 1,
         "height": 1
@@ -85764,7 +85788,7 @@ var textureData =
     {
         "name": "knight_quest:items/blaze_leggings_icon",
         "animated": false,
-        "x": 89,
+        "x": 92,
         "y": 484,
         "width": 1,
         "height": 1
@@ -85772,7 +85796,7 @@ var textureData =
     {
         "name": "minecraft:item/netherite_sword",
         "animated": false,
-        "x": 180,
+        "x": 183,
         "y": 480,
         "width": 1,
         "height": 1
@@ -85796,7 +85820,7 @@ var textureData =
     {
         "name": "farmersdelight:item/horse_feed",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 478,
         "width": 1,
         "height": 1
@@ -85836,7 +85860,7 @@ var textureData =
     {
         "name": "croptopia:item/ginger",
         "animated": false,
-        "x": 32,
+        "x": 35,
         "y": 478,
         "width": 1,
         "height": 1
@@ -85876,7 +85900,7 @@ var textureData =
     {
         "name": "eatinganimation:item/potion_overlay_drinking_2",
         "animated": false,
-        "x": 98,
+        "x": 101,
         "y": 481,
         "width": 1,
         "height": 1
@@ -85892,7 +85916,7 @@ var textureData =
     {
         "name": "eatinganimation:item/potion_overlay_drinking_0",
         "animated": false,
-        "x": 96,
+        "x": 99,
         "y": 481,
         "width": 1,
         "height": 1
@@ -85900,7 +85924,7 @@ var textureData =
     {
         "name": "eatinganimation:item/potion_overlay_drinking_1",
         "animated": false,
-        "x": 97,
+        "x": 100,
         "y": 481,
         "width": 1,
         "height": 1
@@ -85924,7 +85948,7 @@ var textureData =
     {
         "name": "create:item/red_sand_paper",
         "animated": false,
-        "x": 234,
+        "x": 237,
         "y": 481,
         "width": 1,
         "height": 1
@@ -85948,7 +85972,7 @@ var textureData =
     {
         "name": "croptopia:item/mustard_seed",
         "animated": false,
-        "x": 94,
+        "x": 97,
         "y": 480,
         "width": 1,
         "height": 1
@@ -85964,7 +85988,7 @@ var textureData =
     {
         "name": "create_confectionery:items/honey_candy",
         "animated": false,
-        "x": 199,
+        "x": 202,
         "y": 485,
         "width": 1,
         "height": 1
@@ -86036,7 +86060,7 @@ var textureData =
     {
         "name": "knight_quest:items/husk_boots_icon",
         "animated": false,
-        "x": 216,
+        "x": 219,
         "y": 485,
         "width": 1,
         "height": 1
@@ -86084,7 +86108,7 @@ var textureData =
     {
         "name": "nebs:items/acquisition",
         "animated": false,
-        "x": 15,
+        "x": 18,
         "y": 484,
         "width": 1,
         "height": 1
@@ -86092,7 +86116,7 @@ var textureData =
     {
         "name": "minecraft:item/flower_banner_pattern",
         "animated": false,
-        "x": 251,
+        "x": 254,
         "y": 477,
         "width": 1,
         "height": 1
@@ -86100,7 +86124,7 @@ var textureData =
     {
         "name": "nebs:items/death_wish",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 485,
         "width": 1,
         "height": 1
@@ -86116,7 +86140,7 @@ var textureData =
     {
         "name": "biomesoplenty:item/redwood_boat",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 481,
         "width": 1,
         "height": 1
@@ -86172,7 +86196,7 @@ var textureData =
     {
         "name": "create_sa:items/large_fueling_tank",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 486,
         "width": 1,
         "height": 1
@@ -86188,7 +86212,7 @@ var textureData =
     {
         "name": "cataclysm:items/burning_ashes",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 484,
         "width": 1,
         "height": 1
@@ -86212,7 +86236,7 @@ var textureData =
     {
         "name": "nebs:items/blazing_protection",
         "animated": false,
-        "x": 95,
+        "x": 98,
         "y": 484,
         "width": 1,
         "height": 1
@@ -86236,7 +86260,7 @@ var textureData =
     {
         "name": "nebs:items/slidingenchantment",
         "animated": false,
-        "x": 101,
+        "x": 104,
         "y": 487,
         "width": 1,
         "height": 1
@@ -86284,7 +86308,7 @@ var textureData =
     {
         "name": "farmersdelight:item/sweet_berry_cheesecake",
         "animated": false,
-        "x": 39,
+        "x": 42,
         "y": 483,
         "width": 1,
         "height": 1
@@ -86300,7 +86324,7 @@ var textureData =
     {
         "name": "croptopia:item/mashed_potatoes",
         "animated": false,
-        "x": 243,
+        "x": 246,
         "y": 479,
         "width": 1,
         "height": 1
@@ -86324,7 +86348,7 @@ var textureData =
     {
         "name": "manyideas_doors:item/mini_lodges/outhouses/mini_lodge_outhouse_acacia",
         "animated": false,
-        "x": 19,
+        "x": 22,
         "y": 480,
         "width": 1,
         "height": 1
@@ -86340,7 +86364,7 @@ var textureData =
     {
         "name": "croptopia:item/rum_raisin_ice_cream",
         "animated": false,
-        "x": 42,
+        "x": 45,
         "y": 482,
         "width": 1,
         "height": 1
@@ -86348,7 +86372,7 @@ var textureData =
     {
         "name": "supplementaries:items/candle_holders/gray",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 484,
         "width": 1,
         "height": 1
@@ -86388,7 +86412,7 @@ var textureData =
     {
         "name": "minecraft:item/gold_nugget",
         "animated": false,
-        "x": 77,
+        "x": 80,
         "y": 478,
         "width": 1,
         "height": 1
@@ -86548,7 +86572,7 @@ var textureData =
     {
         "name": "nebs:items/frost_rebuke",
         "animated": false,
-        "x": 88,
+        "x": 91,
         "y": 485,
         "width": 1,
         "height": 1
@@ -86572,7 +86596,7 @@ var textureData =
     {
         "name": "minecraft:item/suspicious_stew",
         "animated": false,
-        "x": 27,
+        "x": 30,
         "y": 483,
         "width": 1,
         "height": 1
@@ -86612,7 +86636,7 @@ var textureData =
     {
         "name": "nebs:items/floatation",
         "animated": false,
-        "x": 75,
+        "x": 78,
         "y": 485,
         "width": 1,
         "height": 1
@@ -86636,7 +86660,7 @@ var textureData =
     {
         "name": "comforts:item/sleeping_bag_yellow",
         "animated": false,
-        "x": 146,
+        "x": 149,
         "y": 482,
         "width": 1,
         "height": 1
@@ -86644,7 +86668,7 @@ var textureData =
     {
         "name": "fantasyfurniture:particles/decorations/muffins_chocolate",
         "animated": false,
-        "x": 67,
+        "x": 70,
         "y": 488,
         "width": 1,
         "height": 1
@@ -86668,7 +86692,7 @@ var textureData =
     {
         "name": "byg:item/raw_pendorite",
         "animated": false,
-        "x": 188,
+        "x": 191,
         "y": 481,
         "width": 1,
         "height": 1
@@ -86692,7 +86716,7 @@ var textureData =
     {
         "name": "nebs:items/seabreeze",
         "animated": false,
-        "x": 2,
+        "x": 5,
         "y": 487,
         "width": 1,
         "height": 1
@@ -86724,7 +86748,7 @@ var textureData =
     {
         "name": "minecraft:item/spruce_sign",
         "animated": false,
-        "x": 215,
+        "x": 218,
         "y": 482,
         "width": 1,
         "height": 1
@@ -86740,7 +86764,7 @@ var textureData =
     {
         "name": "vinery:item/shelf",
         "animated": false,
-        "x": 113,
+        "x": 116,
         "y": 482,
         "width": 1,
         "height": 1
@@ -86788,7 +86812,7 @@ var textureData =
     {
         "name": "supplementaries:items/quiver_overlay_dyed",
         "animated": false,
-        "x": 203,
+        "x": 206,
         "y": 486,
         "width": 1,
         "height": 1
@@ -86796,7 +86820,7 @@ var textureData =
     {
         "name": "nethersdelight:item/plate_of_stuffed_hoglin_roast",
         "animated": false,
-        "x": 62,
+        "x": 65,
         "y": 481,
         "width": 1,
         "height": 1
@@ -86812,7 +86836,7 @@ var textureData =
     {
         "name": "alexsmobs:item/terrapin_egg",
         "animated": false,
-        "x": 72,
+        "x": 75,
         "y": 483,
         "width": 1,
         "height": 1
@@ -86820,7 +86844,7 @@ var textureData =
     {
         "name": "cataclysm:items/void_jaw",
         "animated": false,
-        "x": 223,
+        "x": 226,
         "y": 487,
         "width": 1,
         "height": 1
@@ -86884,7 +86908,7 @@ var textureData =
     {
         "name": "aquaculture:item/neptunium_fishing_rod_uncast",
         "animated": false,
-        "x": 148,
+        "x": 151,
         "y": 480,
         "width": 1,
         "height": 1
@@ -86932,7 +86956,7 @@ var textureData =
     {
         "name": "knight_quest:items/wither_leggings_icon",
         "animated": false,
-        "x": 6,
+        "x": 9,
         "y": 488,
         "width": 1,
         "height": 1
@@ -86964,7 +86988,7 @@ var textureData =
     {
         "name": "endrem:items/undead_soul",
         "animated": false,
-        "x": 204,
+        "x": 207,
         "y": 487,
         "width": 1,
         "height": 1
@@ -86980,7 +87004,7 @@ var textureData =
     {
         "name": "minecraft:item/nether_brick",
         "animated": false,
-        "x": 157,
+        "x": 160,
         "y": 480,
         "width": 1,
         "height": 1
@@ -87044,7 +87068,7 @@ var textureData =
     {
         "name": "cnb:items/yellow_waterlily",
         "animated": false,
-        "x": 12,
+        "x": 15,
         "y": 488,
         "width": 1,
         "height": 1
@@ -87076,7 +87100,7 @@ var textureData =
     {
         "name": "artifacts:item/universal_attractor",
         "animated": false,
-        "x": 143,
+        "x": 146,
         "y": 483,
         "width": 1,
         "height": 1
@@ -87092,7 +87116,7 @@ var textureData =
     {
         "name": "biomemakeover:item/lightning_bottle",
         "animated": true,
-        "x": 170,
+        "x": 173,
         "y": 479,
         "width": 1,
         "height": 1
@@ -87100,7 +87124,7 @@ var textureData =
     {
         "name": "sushigocrafting:item/shrimp_bucket",
         "animated": false,
-        "x": 119,
+        "x": 122,
         "y": 482,
         "width": 1,
         "height": 1
@@ -87140,7 +87164,7 @@ var textureData =
     {
         "name": "supplementaries:items/hanging_signs/biomesoplenty/hanging_sign_willow",
         "animated": false,
-        "x": 138,
+        "x": 141,
         "y": 485,
         "width": 1,
         "height": 1
@@ -87156,7 +87180,7 @@ var textureData =
     {
         "name": "supplementaries:items/sign_posts/byg/sign_post_witch_hazel",
         "animated": false,
-        "x": 66,
+        "x": 69,
         "y": 487,
         "width": 1,
         "height": 1

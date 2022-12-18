@@ -200,7 +200,7 @@ ServerEvents.recipes(event => {
 
 event.shapeless('endrem:black_eye',['#forge:tools/scavenging', 'minecraft:heart_of_the_sea']);
 
-event.shapeless('born_in_chaos_v1:infernal_evil_pumpkin_s',['born_in_chaos_v1:infernal_evil_pumpkin', 'minecraft:skeleton:skull']);
+event.shapeless('born_in_chaos_v1:infernal_evil_pumpkin_s',['born_in_chaos_v1:infernal_evil_pumpkin', 'minecraft:skeleton_skull']);
 
 // ------------------ SEQUENCE --------------------------------
 

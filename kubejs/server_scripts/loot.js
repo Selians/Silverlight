@@ -27,10 +27,6 @@ LootJS.modifiers((event) => {
         .removeLoot("scalinghealth:bandages")
         .removeLoot("scalinghealth:medkit");
 
-// Remove from blocks
-    event.addBlockLootModifier("minecraft:spawner")
-        .removeLoot("knight_quest:kq_great_essence");
-
 // --------------------- SCALING HEALTH ------------------------
 event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:bonus_drops/peaceful")
 .removeLoot("scalinghealth:heart_crystal")
@@ -77,23 +73,23 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
 // ------------------ BOSSES ----------------
 
     event.addEntityLootModifier("cataclysm:netherite_monstrosity")
-        .addLoot('silverlight:silverlightraw_refined')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:lost_eye");
 
     event.addEntityLootModifier("cataclysm:ignis")
-        .addLoot('silverlight:silverlightraw_refined')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:nether_eye");
 
     event.addEntityLootModifier("ob_aquamirae:captain_cornelia")
-        .addLoot('silverlight:silverlightraw_refined')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:nether_eye");
     
     event.addEntityLootModifier("born_in_chaos_v1:felsteed")
-        .addLoot('silverlight:silverlightraw_refined')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:undead_eye");
 
     event.addEntityLootModifier("knight_quest:kq_netherman")
-        .addLoot('silverlight:silverlightraw_refined')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:corrupted_eye");
 
 });
