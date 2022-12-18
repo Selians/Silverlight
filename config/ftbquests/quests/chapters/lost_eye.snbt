@@ -1,0 +1,18 @@
+{
+	id: "464A7787DE012B60"
+	group: "1D8F1A483208D022"
+	order_index: 3
+	filename: "lost_eye"
+	title: "Lost eye"
+	icon: {
+		id: "endrem:lost_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["One taken by a demon to further expand it's power"]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

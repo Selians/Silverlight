@@ -1,0 +1,10 @@
+{
+	id: "4675A27E1C206546"
+	group: "1D8F1A483208D022"
+	order_index: 5
+	filename: "wither_eye"
+	title: "wither eye"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

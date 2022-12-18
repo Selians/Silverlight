@@ -1,0 +1,79 @@
+{
+	id: "76D61303CE9CE03E"
+	group: "1D8F1A483208D022"
+	order_index: 9
+	filename: "corrupted_eye"
+	title: "corrupted eye"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: -1.0d
+			id: "3E697C37F77B3285"
+			tasks: [{
+				id: "0997CE9BF9AED37B"
+				type: "item"
+				item: "knight_quest:chalice_state_0"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			id: "6592FC9D2B8F63B3"
+			tasks: [{
+				id: "4FFFFBF20CECD3A5"
+				type: "item"
+				item: "knight_quest:kq_lava_stave"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -1.0d
+			description: ["These are obtained from breaking a mobspawner"]
+			id: "703350BF33991FFE"
+			tasks: [{
+				id: "46B56E702D6916F3"
+				type: "item"
+				item: "knight_quest:kq_great_essence"
+				count: 3L
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			id: "400BCAF86CC6031D"
+			tasks: [{
+				id: "4C5B508C4FC2BB5A"
+				type: "item"
+				item: "minecraft:lava_bucket"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -1.0d
+			id: "138D8D9DC18C3639"
+			tasks: [{
+				id: "5D89EACA405320F6"
+				type: "item"
+				item: "minecraft:ghast_tear"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -1.0d
+			description: [
+				"To summon the creature, hold the stave in the left hand"
+				"Hold the tear in your right hand"
+				"Face the north and chant:"
+				"\"I beckon thee\""
+			]
+			id: "74CCC5D017280F58"
+			tasks: [{
+				id: "03735DCDC9A92D19"
+				type: "checkmark"
+				title: "\"I beckon thee\""
+			}]
+		}
+	]
+}

@@ -15,8 +15,10 @@
 		{
 			title: "Sushi Master"
 			x: -8.5d
-			y: -11.0d
+			y: -13.0d
+			shape: "rsquare"
 			description: ["This book will teach you how to become a Sushi-Master."]
+			dependencies: ["5832C1168E4E90C4"]
 			id: "72382DAEB04F7834"
 			tasks: [{
 				id: "1E11FC55A921BABA"
@@ -31,50 +33,64 @@
 			}]
 			rewards: [
 				{
-					id: "558F8D84E1F72D93"
+					id: "168121E947ABF487"
 					type: "item"
-					item: {
-						id: "sushigocrafting:seaweed"
-						Count: 1b
-						tag: { }
-					}
-					count: 2
+					item: "sushigocrafting:rice_seeds"
 				}
 				{
-					id: "184D7DB73047C23C"
+					id: "5E93C6F0312CA888"
 					type: "item"
-					item: {
-						id: "minecraft:book"
-						Count: 1b
-						tag: { }
-					}
+					item: "sushigocrafting:cucumber_seeds"
+				}
+				{
+					id: "2B3114F6EEEC7D3E"
+					type: "item"
+					item: "sushigocrafting:soy_seeds"
+				}
+				{
+					id: "44B0F7D298AF9E25"
+					type: "item"
+					item: "sushigocrafting:wasabi_seeds"
+				}
+				{
+					id: "1638625DB73AA190"
+					type: "item"
+					item: "sushigocrafting:sesame_seeds"
+				}
+				{
+					id: "7FCDC5A716D221B3"
+					type: "item"
+					item: "sushigocrafting:avocado_sapling"
 				}
 			]
 		}
 		{
 			title: "Croptopia"
-			x: -3.0d
+			x: -8.0d
 			y: -8.0d
+			shape: "rsquare"
 			id: "36B13F4A88ED533A"
 			tasks: [{
 				id: "2CE870A15437429D"
 				type: "custom"
+				icon: "croptopia:guide"
 			}]
 		}
 		{
 			title: "Cooking for Blockheads"
 			x: 2.5d
 			y: -4.0d
+			shape: "rsquare"
 			id: "38BAE8AC8E012EC7"
 			tasks: [{
-				id: "1347191A4017CD52"
-				type: "custom"
-				title: "Aquaculture"
+				id: "67F92BBBA30C5B4C"
+				type: "item"
+				item: "cookingforblockheads:recipe_book"
 			}]
 		}
 		{
 			x: 3.0d
-			y: -11.5d
+			y: -11.0d
 			id: "6C8BD0767A3E6193"
 			tasks: [{
 				id: "6288FFABAA122B32"
@@ -84,7 +100,7 @@
 		}
 		{
 			x: -10.0d
-			y: -10.5d
+			y: -12.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "5CBC747B25F53641"
 			tasks: [{
@@ -96,10 +112,16 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "654CCAE8A381E2BB"
+				type: "random"
+				title: "Bentobox"
+				table_id: 1632912901172881507L
+			}]
 		}
 		{
 			x: -7.0d
-			y: -12.5d
+			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "56C62E0C75A1F090"
 			tasks: [{
@@ -111,10 +133,16 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "740FEB2597311317"
+				type: "random"
+				title: "Bentobox"
+				table_id: 1632912901172881507L
+			}]
 		}
 		{
 			x: -10.0d
-			y: -11.5d
+			y: -13.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "2A994D84F7EAE83F"
 			tasks: [{
@@ -126,10 +154,16 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "70BF7B91E4E40540"
+				type: "random"
+				title: "Bentobox"
+				table_id: 1632912901172881507L
+			}]
 		}
 		{
 			x: -8.0d
-			y: -12.5d
+			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "0593C93813AE7071"
 			tasks: [{
@@ -141,10 +175,16 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "566EFA686556754C"
+				type: "random"
+				title: "Bentobox"
+				table_id: 1632912901172881507L
+			}]
 		}
 		{
 			x: -10.0d
-			y: -12.5d
+			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "467E51C767A9E4F4"
 			tasks: [{
@@ -156,10 +196,16 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "635080BC4E305A64"
+				type: "random"
+				title: "Bentobox"
+				table_id: 1632912901172881507L
+			}]
 		}
 		{
 			x: -9.0d
-			y: -12.5d
+			y: -14.5d
 			dependencies: [
 				"72382DAEB04F7834"
 				"0593C93813AE7071"
@@ -174,10 +220,16 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "3EB6A537E4E426A9"
+				type: "random"
+				title: "Bentobox"
+				table_id: 1632912901172881507L
+			}]
 		}
 		{
 			x: -10.0d
-			y: -4.5d
+			y: -2.0d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1820319EEB31BB3D"
 			tasks: [{
@@ -203,7 +255,7 @@
 		}
 		{
 			x: -10.0d
-			y: -3.5d
+			y: -1.0d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1BEAB663CD6CB531"
 			tasks: [{
@@ -229,7 +281,7 @@
 		}
 		{
 			x: -10.0d
-			y: -2.5d
+			y: 0.0d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "58D49A711C684B66"
 			tasks: [{
@@ -255,7 +307,7 @@
 		}
 		{
 			x: -8.0d
-			y: -2.5d
+			y: 0.0d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1DAD279FFE44BEBF"
 			tasks: [{
@@ -281,7 +333,7 @@
 		}
 		{
 			x: -9.0d
-			y: -2.5d
+			y: 0.0d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "0953A8BA821A2F0C"
 			tasks: [{
@@ -305,7 +357,7 @@
 		}
 		{
 			x: -7.0d
-			y: -2.5d
+			y: 0.0d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1AD8B22C367B30F8"
 			tasks: [{
@@ -329,7 +381,8 @@
 		}
 		{
 			x: -8.5d
-			y: -4.0d
+			y: -1.5d
+			shape: "rsquare"
 			id: "6DE7611194C4D84F"
 			tasks: [{
 				id: "5142CE2937A53537"
@@ -343,8 +396,9 @@
 		}
 		{
 			title: "Crush, you okay bro?"
-			x: -3.0d
-			y: -2.5d
+			x: 8.5d
+			y: 0.0d
+			dependencies: ["32D507B33DC5775C"]
 			id: "27ECA72FBDA47C21"
 			tasks: [{
 				id: "6A862BCD53AF39D5"
@@ -378,8 +432,9 @@
 			]
 		}
 		{
-			x: -1.0d
-			y: -2.5d
+			x: 10.5d
+			y: 0.0d
+			dependencies: ["32D507B33DC5775C"]
 			id: "1F1911CB9516D221"
 			tasks: [{
 				id: "077AC90480D2F062"
@@ -392,8 +447,9 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: -3.5d
+			x: 10.5d
+			y: -1.0d
+			dependencies: ["32D507B33DC5775C"]
 			id: "29580D1E940DB5E9"
 			tasks: [{
 				id: "048B0C56F37B31C8"
@@ -407,8 +463,9 @@
 		}
 		{
 			title: "Cleaning the ocean"
-			x: -2.0d
-			y: -2.5d
+			x: 9.5d
+			y: 0.0d
+			dependencies: ["32D507B33DC5775C"]
 			id: "15923A9818C9A45F"
 			tasks: [
 				{
@@ -432,8 +489,8 @@
 			]
 		}
 		{
-			x: -4.0d
-			y: -4.5d
+			x: 7.5d
+			y: -2.0d
 			id: "41F3DCD0708A0821"
 			tasks: [{
 				id: "1A87449F2927DDCC"
@@ -446,8 +503,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: -3.5d
+			x: 7.5d
+			y: -1.0d
 			id: "5FF7ADB1789A7C17"
 			tasks: [{
 				id: "30439E1CA60B4230"
@@ -460,18 +517,20 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -4.0d
+			x: 9.0d
+			y: -1.5d
 			id: "32D507B33DC5775C"
 			tasks: [{
 				id: "7265817AE850AD84"
 				type: "custom"
 				title: "Aquaculture"
+				icon: "aquaculture:atlantic_cod"
 			}]
 		}
 		{
-			x: -1.0d
-			y: -4.5d
+			x: 10.5d
+			y: -2.0d
+			dependencies: ["32D507B33DC5775C"]
 			id: "4B58AD284AED2CD3"
 			tasks: [{
 				id: "1BDC923173CA69D4"
@@ -550,7 +609,7 @@
 		}
 		{
 			x: 4.0d
-			y: -3.5d
+			y: -4.5d
 			id: "3B67B1FE4AE675A5"
 			tasks: [{
 				id: "1259DC5619462793"
@@ -564,7 +623,7 @@
 		}
 		{
 			x: 4.0d
-			y: -4.5d
+			y: -3.5d
 			id: "3A33920355A581B3"
 			tasks: [{
 				id: "7BBEC17E40BB3C02"
@@ -652,15 +711,6 @@
 			id: "259786C301BAAFC0"
 			tasks: [
 				{
-					id: "51FCFD61953FC7F6"
-					type: "item"
-					item: {
-						id: "cookingforblockheads:recipe_book"
-						Count: 1b
-						tag: { }
-					}
-				}
-				{
 					id: "3AE557B14D0F508D"
 					type: "item"
 					item: {
@@ -679,20 +729,10 @@
 					}
 				}
 			]
-			rewards: [{
-				id: "5B99DD403DBAA7FB"
-				type: "item"
-				item: {
-					id: "farmersdelight:stuffed_potato"
-					Count: 1b
-					tag: { }
-				}
-				count: 16
-			}]
 		}
 		{
-			x: -4.0d
-			y: -2.5d
+			x: 7.5d
+			y: 0.0d
 			id: "70CD3F647F8E39C7"
 			tasks: [{
 				id: "3C7F0BAA75DAF0FE"
@@ -707,8 +747,9 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: -5.5d
+			x: 7.5d
+			y: -3.0d
+			dependencies: ["32D507B33DC5775C"]
 			id: "0827FADDE725E497"
 			tasks: [{
 				id: "069E56AD277B5047"
@@ -720,6 +761,35 @@
 						Damage: 0
 					}
 				}
+			}]
+		}
+		{
+			title: "Bake, Boil, Braise, Cook and Fry"
+			x: -2.5d
+			y: -8.0d
+			shape: "pentagon"
+			description: ["You have been sent here from a different realm. To grow stronger, you must consume and adapt to this one. One of the best ways to go stronger is to eat this realm's food..."]
+			id: "5832C1168E4E90C4"
+			tasks: [{
+				id: "15D53A3C2F580F0D"
+				type: "checkmark"
+				title: "Cook it, Bake it, Fry it"
+			}]
+			rewards: [{
+				id: "2727B4A6126B6C2E"
+				type: "item"
+				item: "solcarrot:food_book"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -11.0d
+			shape: "rsquare"
+			id: "781560C7E5456424"
+			tasks: [{
+				id: "123E8170E297ECE0"
+				type: "item"
+				item: "vinery:wine_press"
 			}]
 		}
 	]

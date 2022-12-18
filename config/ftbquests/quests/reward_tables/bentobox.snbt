@@ -1,0 +1,20 @@
+{
+	id: "16A945A1CF8FE863"
+	order_index: 1
+	title: "Bentobox"
+	icon: "aquaculture:tackle_box"
+	loot_size: 3
+	rewards: [
+		{ item: "sushigocrafting:chicken_temaki" }
+		{ item: "sushigocrafting:shrimp_temaki" }
+		{ item: "sushigocrafting:tuna_temaki" }
+		{ item: "sushigocrafting:salmon_temaki" }
+		{ item: "sushigocrafting:onigiri" }
+		{ item: "sushigocrafting:shrimp_nigiri" }
+		{ item: "sushigocrafting:tuna_nigiri" }
+		{ item: "sushigocrafting:salmon_nigiri" }
+		{ item: "sushigocrafting:wakame_gunkan" }
+		{ item: "sushigocrafting:tuna_gunkan" }
+		{ item: "sushigocrafting:salmon_gunkan" }
+	]
+}

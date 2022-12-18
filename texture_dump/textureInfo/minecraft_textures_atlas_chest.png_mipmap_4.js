@@ -402,18 +402,18 @@ var textureData =
         "height": 4
     },
     {
-        "name": "compatoplenty:entity/chest/cherry/trapped_right",
-        "animated": false,
-        "x": 8,
-        "y": 4,
-        "width": 4,
-        "height": 4
-    },
-    {
         "name": "compatoplenty:entity/chest/dead/normal",
         "animated": false,
         "x": 4,
         "y": 8,
+        "width": 4,
+        "height": 4
+    },
+    {
+        "name": "compatoplenty:entity/chest/cherry/trapped_right",
+        "animated": false,
+        "x": 8,
+        "y": 4,
         "width": 4,
         "height": 4
     },

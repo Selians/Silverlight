@@ -13,8 +13,8 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 0.0d
-			y: -5.0d
+			x: 3.0d
+			y: -4.0d
 			id: "2DFCC5BC083159A7"
 			tasks: [{
 				id: "31BDF1142F29794A"
@@ -27,8 +27,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -6.0d
+			x: 3.0d
+			y: -6.5d
 			id: "7F93CFC89BC53E8D"
 			tasks: [{
 				id: "4E8EF8EB37ECD974"
@@ -42,7 +42,7 @@
 		}
 		{
 			x: 1.5d
-			y: -5.0d
+			y: -4.0d
 			id: "0BE2EBC78181ED4E"
 			tasks: [{
 				id: "4FF55AE053E2186C"
@@ -55,7 +55,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: 4.5d
 			y: -4.0d
 			id: "011AAA37D3C4D813"
 			tasks: [{
@@ -69,8 +69,8 @@
 			}]
 		}
 		{
-			x: 2.5d
-			y: -6.0d
+			x: 3.0d
+			y: -7.5d
 			id: "29F5FCD0523A6727"
 			tasks: [{
 				id: "54EBDB751989BC71"
@@ -83,7 +83,7 @@
 			}]
 		}
 		{
-			x: 2.5d
+			x: 5.5d
 			y: -4.0d
 			id: "5B2A9117635A3786"
 			tasks: [{
@@ -97,8 +97,8 @@
 			}]
 		}
 		{
-			x: 2.5d
-			y: -5.0d
+			x: 0.5d
+			y: -4.0d
 			id: "4F17B8BF76AD00C3"
 			tasks: [{
 				id: "43B65D7B8D60A97E"
@@ -111,7 +111,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 6.5d
 			y: -4.0d
 			id: "28289611C0FDB4EF"
 			tasks: [{
@@ -125,8 +125,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -3.0d
+			x: 4.5d
+			y: -5.5d
 			id: "2192C7230E7D214F"
 			tasks: [{
 				id: "2C2A873E322D6981"
@@ -139,8 +139,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -0.5d
+			x: 3.0d
+			y: -2.5d
 			id: "2E55CF32A7D33E23"
 			tasks: [{
 				id: "750C3AADB1F5FBF6"
@@ -153,8 +153,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: -0.5d
+			x: 3.0d
+			y: -1.5d
 			id: "7F28FD1F23441708"
 			tasks: [{
 				id: "661AA396C16E7286"
@@ -169,20 +169,6 @@
 		{
 			x: 3.0d
 			y: -0.5d
-			id: "31864036D98155D9"
-			tasks: [{
-				id: "2D7560F70738136A"
-				type: "item"
-				item: {
-					id: "blocky_siege:cannon_stand"
-					Count: 1b
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: 4.0d
-			y: -0.5d
 			id: "12A55C141A0F484A"
 			tasks: [{
 				id: "79962DB5ABB82039"
@@ -195,7 +181,7 @@
 			}]
 		}
 		{
-			x: 4.5d
+			x: 7.5d
 			y: -4.0d
 			id: "5FC9C599713E451B"
 			tasks: [{
@@ -209,8 +195,8 @@
 			}]
 		}
 		{
-			x: 5.5d
-			y: -4.0d
+			x: 4.5d
+			y: -2.5d
 			id: "4C02A812AF4A70FF"
 			tasks: [{
 				id: "56C49C5D1D0FE0C9"
@@ -220,6 +206,56 @@
 					Count: 1b
 					tag: { }
 				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -6.5d
+			id: "217DF84197984963"
+			tasks: [{
+				id: "704D05E23CE38C31"
+				type: "item"
+				item: "create:display_link"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -5.5d
+			id: "1501ABAD00D94684"
+			tasks: [{
+				id: "4EB8433B4534C6C0"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -6.5d
+			id: "1BE43A1475E6108A"
+			tasks: [{
+				id: "45F1C0590EE5E73B"
+				type: "item"
+				item: "create:mechanical_arm"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -5.5d
+			id: "54C70649734FEB18"
+			tasks: [{
+				id: "2502F88649850026"
+				type: "item"
+				item: "create_sa:hydraulic_engine"
+			}]
+		}
+		{
+			x: 5.5d
+			y: -1.5d
+			id: "28C8A89BD50EE0A5"
+			tasks: [{
+				id: "298C77E474960EE3"
+				type: "item"
+				item: "create:track_signal"
 			}]
 		}
 	]
