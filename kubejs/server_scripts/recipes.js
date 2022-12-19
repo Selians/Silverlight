@@ -1,6 +1,6 @@
 // priority: 0
 
-console.info('Silverlight removed recipes loaded')
+console.info('Silverlight KubeJS: recipes initialized')
 
 ServerEvents.recipes(event => {
 
@@ -25,7 +25,7 @@ ServerEvents.recipes(event => {
 	event.remove({output:'create:schematicannon'});
 
 	/* REMOVE BY MODID */
-	event.remove({mod:'knight_quest'});
+	//event.remove({mod:'knight_quest'});
 	event.remove({mod:'naturescompass'});
 	event.remove({mod:'structurecompass'});
 	event.remove({mod:'orva_alarms'});
@@ -168,6 +168,7 @@ ServerEvents.recipes(event => {
 
 	// KNIGHT QUEST <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+	/*
 	event.shaped('knight_quest:kq_goblet_empty', [
 		`A A`,
 		`ABA`,
@@ -190,7 +191,9 @@ ServerEvents.recipes(event => {
 	event.smithing('knight_quest:chalice_state_0', 'minecraft:cauldron', 'minecraft:copper_block')
 	event.smithing('knight_quest:kq_nether_repair', 'knight_quest:kq_diamon_repair', 'minecraft:netherite_ingot')
 
-	// EXTRACTINATOR <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	*/
+	// EXTRACTINATOR <<<<<<<<<<<<<<<<<<<<<<<<<<<< TEMP REMOVED
+	/*
 	event.shaped('extractinator:extractinator', [
 		'BAG',
 		'CFD',
@@ -205,7 +208,7 @@ ServerEvents.recipes(event => {
 		G: 'minecraft:iron_ingot',
 		H: 'minecraft:copper_block'
 	})
-
+	*/
 
 // EYES <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -213,16 +216,6 @@ event.shapeless('endrem:black_eye',['#forge:tools/scavenging', 'minecraft:heart_
 
 event.shapeless('born_in_chaos_v1:infernal_evil_pumpkin_s',['born_in_chaos_v1:infernal_evil_pumpkin', 'minecraft:skeleton_skull']);
 
-// ------------------ ARMOR SETS --------------------------------
-
-// Diamond sets will always require diamond armor as a base.
-// Netherite sets will always require diamond armor and a netherite ingot as a base
-
-
-
-
-
-// ------------------ TAGS --------------------------------
 
 
 

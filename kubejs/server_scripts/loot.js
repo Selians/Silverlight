@@ -69,26 +69,54 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
         .randomChance(0.75)
         .addLoot(Item.of('silverlight:silverlightraw', 2));
 
+        event.addEntityLootModifier("minecraft:skeleton")
+        .killedByPlayer()
+        .timeCheck(13000, 23000)
+        .randomChance(0.05)
+        .addLoot(Item.of('silverlight:silverlightraw', 1));
+
+        event.addEntityLootModifier("minecraft:zombie")
+        .killedByPlayer()
+        .timeCheck(13000, 23000)
+        .randomChance(0.05)
+        .addLoot(Item.of('silverlight:silverlightraw', 1));
+
+        event.addEntityLootModifier("minecraft:spider")
+        .killedByPlayer()
+        .timeCheck(13000, 23000)
+        .randomChance(0.05)
+        .addLoot(Item.of('silverlight:silverlightraw', 1));
 
 // ------------------ BOSSES ----------------
 
     event.addEntityLootModifier("cataclysm:netherite_monstrosity")
         .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:lost_eye");
 
     event.addEntityLootModifier("cataclysm:ignis")
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:nether_eye");
 
     event.addEntityLootModifier("ob_aquamirae:captain_cornelia")
         .addLoot('silverlight:silverlightraw')
-        .addLoot("endrem:nether_eye");
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot("endrem:exotic_eye");
     
     event.addEntityLootModifier("born_in_chaos_v1:felsteed")
         .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:undead_eye");
 
     event.addEntityLootModifier("knight_quest:kq_netherman")
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:corrupted_eye");
 
