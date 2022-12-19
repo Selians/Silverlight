@@ -4,6 +4,14 @@
 	order_index: 6
 	filename: "magical_eye"
 	title: "magical eye"
+	icon: {
+		id: "endrem:magical_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["One lost to illusionary magic"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [ ]

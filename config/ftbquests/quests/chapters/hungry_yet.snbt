@@ -14,7 +14,7 @@
 	quests: [
 		{
 			title: "Sushi Master"
-			x: -8.5d
+			x: -7.5d
 			y: -13.0d
 			shape: "rsquare"
 			description: ["This book will teach you how to become a Sushi-Master."]
@@ -66,8 +66,8 @@
 		}
 		{
 			title: "Croptopia"
-			x: -8.0d
-			y: -8.0d
+			x: 4.5d
+			y: -13.0d
 			shape: "rsquare"
 			id: "36B13F4A88ED533A"
 			tasks: [{
@@ -78,9 +78,10 @@
 		}
 		{
 			title: "Cooking for Blockheads"
-			x: 2.5d
-			y: -4.0d
+			x: -1.5d
+			y: -2.0d
 			shape: "rsquare"
+			dependencies: ["5832C1168E4E90C4"]
 			id: "38BAE8AC8E012EC7"
 			tasks: [{
 				id: "67F92BBBA30C5B4C"
@@ -89,8 +90,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -11.0d
+			x: -7.5d
+			y: -8.0d
 			id: "6C8BD0767A3E6193"
 			tasks: [{
 				id: "6288FFABAA122B32"
@@ -99,7 +100,7 @@
 			}]
 		}
 		{
-			x: -10.0d
+			x: -9.0d
 			y: -12.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "5CBC747B25F53641"
@@ -120,7 +121,7 @@
 			}]
 		}
 		{
-			x: -7.0d
+			x: -6.0d
 			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "56C62E0C75A1F090"
@@ -141,7 +142,7 @@
 			}]
 		}
 		{
-			x: -10.0d
+			x: -9.0d
 			y: -13.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "2A994D84F7EAE83F"
@@ -162,7 +163,7 @@
 			}]
 		}
 		{
-			x: -8.0d
+			x: -7.0d
 			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "0593C93813AE7071"
@@ -183,7 +184,7 @@
 			}]
 		}
 		{
-			x: -10.0d
+			x: -9.0d
 			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "467E51C767A9E4F4"
@@ -204,12 +205,9 @@
 			}]
 		}
 		{
-			x: -9.0d
+			x: -8.0d
 			y: -14.5d
-			dependencies: [
-				"72382DAEB04F7834"
-				"0593C93813AE7071"
-			]
+			dependencies: ["72382DAEB04F7834"]
 			id: "1720F962B7C760D0"
 			tasks: [{
 				id: "772F24FBE312A6D9"
@@ -228,8 +226,8 @@
 			}]
 		}
 		{
-			x: -10.0d
-			y: -2.0d
+			x: -9.0d
+			y: -2.5d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1820319EEB31BB3D"
 			tasks: [{
@@ -254,8 +252,8 @@
 			}]
 		}
 		{
-			x: -10.0d
-			y: -1.0d
+			x: -9.0d
+			y: -1.5d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1BEAB663CD6CB531"
 			tasks: [{
@@ -280,8 +278,8 @@
 			}]
 		}
 		{
-			x: -10.0d
-			y: 0.0d
+			x: -9.0d
+			y: -0.5d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "58D49A711C684B66"
 			tasks: [{
@@ -306,8 +304,8 @@
 			}]
 		}
 		{
-			x: -8.0d
-			y: 0.0d
+			x: -7.0d
+			y: -0.5d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1DAD279FFE44BEBF"
 			tasks: [{
@@ -332,8 +330,8 @@
 			}]
 		}
 		{
-			x: -9.0d
-			y: 0.0d
+			x: -8.0d
+			y: -0.5d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "0953A8BA821A2F0C"
 			tasks: [{
@@ -356,8 +354,8 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 0.0d
+			x: -6.0d
+			y: -0.5d
 			dependencies: ["6DE7611194C4D84F"]
 			id: "1AD8B22C367B30F8"
 			tasks: [{
@@ -380,9 +378,10 @@
 			}]
 		}
 		{
-			x: -8.5d
-			y: -1.5d
+			x: -7.5d
+			y: -2.0d
 			shape: "rsquare"
+			dependencies: ["5832C1168E4E90C4"]
 			id: "6DE7611194C4D84F"
 			tasks: [{
 				id: "5142CE2937A53537"
@@ -396,8 +395,8 @@
 		}
 		{
 			title: "Crush, you okay bro?"
-			x: 8.5d
-			y: 0.0d
+			x: 4.0d
+			y: -0.5d
 			dependencies: ["32D507B33DC5775C"]
 			id: "27ECA72FBDA47C21"
 			tasks: [{
@@ -432,8 +431,8 @@
 			]
 		}
 		{
-			x: 10.5d
-			y: 0.0d
+			x: 6.0d
+			y: -0.5d
 			dependencies: ["32D507B33DC5775C"]
 			id: "1F1911CB9516D221"
 			tasks: [{
@@ -447,8 +446,8 @@
 			}]
 		}
 		{
-			x: 10.5d
-			y: -1.0d
+			x: 6.0d
+			y: -1.5d
 			dependencies: ["32D507B33DC5775C"]
 			id: "29580D1E940DB5E9"
 			tasks: [{
@@ -463,8 +462,8 @@
 		}
 		{
 			title: "Cleaning the ocean"
-			x: 9.5d
-			y: 0.0d
+			x: 5.0d
+			y: -0.5d
 			dependencies: ["32D507B33DC5775C"]
 			id: "15923A9818C9A45F"
 			tasks: [
@@ -489,8 +488,9 @@
 			]
 		}
 		{
-			x: 7.5d
-			y: -2.0d
+			x: 3.0d
+			y: -2.5d
+			dependencies: ["32D507B33DC5775C"]
 			id: "41F3DCD0708A0821"
 			tasks: [{
 				id: "1A87449F2927DDCC"
@@ -503,8 +503,9 @@
 			}]
 		}
 		{
-			x: 7.5d
-			y: -1.0d
+			x: 3.0d
+			y: -1.5d
+			dependencies: ["32D507B33DC5775C"]
 			id: "5FF7ADB1789A7C17"
 			tasks: [{
 				id: "30439E1CA60B4230"
@@ -517,8 +518,9 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: -1.5d
+			x: 4.5d
+			y: -2.0d
+			dependencies: ["5832C1168E4E90C4"]
 			id: "32D507B33DC5775C"
 			tasks: [{
 				id: "7265817AE850AD84"
@@ -528,8 +530,8 @@
 			}]
 		}
 		{
-			x: 10.5d
-			y: -2.0d
+			x: 6.0d
+			y: -2.5d
 			dependencies: ["32D507B33DC5775C"]
 			id: "4B58AD284AED2CD3"
 			tasks: [{
@@ -552,8 +554,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: -2.5d
+			x: -2.0d
+			y: -0.5d
 			id: "61771F4252D3659A"
 			tasks: [{
 				id: "520E661283970F44"
@@ -566,8 +568,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -2.5d
+			x: -1.0d
+			y: -0.5d
 			id: "61B809950F25DD85"
 			tasks: [{
 				id: "2B87DEBDEE89C7EB"
@@ -580,8 +582,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -2.5d
+			x: -3.0d
+			y: -0.5d
 			id: "5C66F968C1AC11A4"
 			tasks: [{
 				id: "136DA1E687917014"
@@ -594,8 +596,8 @@
 			}]
 		}
 		{
-			x: 4.0d
-			y: -2.5d
+			x: 0.0d
+			y: -0.5d
 			id: "457BB53DB6850645"
 			tasks: [{
 				id: "734BFF5B385815CD"
@@ -608,8 +610,8 @@
 			}]
 		}
 		{
-			x: 4.0d
-			y: -4.5d
+			x: 0.0d
+			y: -2.5d
 			id: "3B67B1FE4AE675A5"
 			tasks: [{
 				id: "1259DC5619462793"
@@ -622,8 +624,8 @@
 			}]
 		}
 		{
-			x: 4.0d
-			y: -3.5d
+			x: 0.0d
+			y: -1.5d
 			id: "3A33920355A581B3"
 			tasks: [{
 				id: "7BBEC17E40BB3C02"
@@ -636,8 +638,8 @@
 			}]
 		}
 		{
-			x: 4.0d
-			y: -5.5d
+			x: 0.0d
+			y: -3.5d
 			id: "67EC96D11D43D075"
 			tasks: [{
 				id: "65DCCE048DC7D242"
@@ -650,8 +652,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -5.5d
+			x: -1.0d
+			y: -3.5d
 			id: "0F2CB736C2612CD8"
 			tasks: [{
 				id: "4D1F577B58193FDE"
@@ -664,8 +666,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: -5.5d
+			x: -2.0d
+			y: -3.5d
 			id: "0353773AAFD41C36"
 			tasks: [{
 				id: "7ADEDFEBD09CB7C2"
@@ -678,8 +680,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -3.5d
+			x: -3.0d
+			y: -1.5d
 			id: "0EA2279CD8E2F75C"
 			tasks: [{
 				id: "35CFF1B47B71BDD4"
@@ -692,8 +694,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -4.5d
+			x: -3.0d
+			y: -2.5d
 			id: "0C9447ED3D8A1ED6"
 			tasks: [{
 				id: "7F9FC484256D0210"
@@ -706,8 +708,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -5.5d
+			x: -3.0d
+			y: -3.5d
 			id: "259786C301BAAFC0"
 			tasks: [
 				{
@@ -731,8 +733,9 @@
 			]
 		}
 		{
-			x: 7.5d
-			y: 0.0d
+			x: 3.0d
+			y: -0.5d
+			dependencies: ["32D507B33DC5775C"]
 			id: "70CD3F647F8E39C7"
 			tasks: [{
 				id: "3C7F0BAA75DAF0FE"
@@ -747,8 +750,8 @@
 			}]
 		}
 		{
-			x: 7.5d
-			y: -3.0d
+			x: 6.0d
+			y: -3.5d
 			dependencies: ["32D507B33DC5775C"]
 			id: "0827FADDE725E497"
 			tasks: [{
@@ -765,7 +768,7 @@
 		}
 		{
 			title: "Bake, Boil, Braise, Cook and Fry"
-			x: -2.5d
+			x: -1.5d
 			y: -8.0d
 			shape: "pentagon"
 			description: ["You have been sent here from a different realm. To grow stronger, you must consume and adapt to this one. One of the best ways to go stronger is to eat this realm's food..."]
@@ -773,7 +776,7 @@
 			tasks: [{
 				id: "15D53A3C2F580F0D"
 				type: "checkmark"
-				title: "Cook it, Bake it, Fry it"
+				title: "The start of cooking"
 			}]
 			rewards: [{
 				id: "2727B4A6126B6C2E"
@@ -782,14 +785,208 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -11.0d
+			x: -1.5d
+			y: -13.0d
 			shape: "rsquare"
 			id: "781560C7E5456424"
 			tasks: [{
 				id: "123E8170E297ECE0"
 				type: "item"
 				item: "vinery:wine_press"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -13.5d
+			id: "5A7B39DC7A68C6CC"
+			tasks: [{
+				id: "35DBCB11C9563EE0"
+				type: "item"
+				item: "croptopia:knife"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -14.5d
+			id: "5BFAC5E1E948B193"
+			tasks: [{
+				id: "31C3C0F1263AA1DF"
+				type: "item"
+				item: "croptopia:mortar_and_pestle"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -12.5d
+			id: "0751584B8D2320B0"
+			tasks: [{
+				id: "1750F147B2FCA685"
+				type: "item"
+				item: "croptopia:frying_pan"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -14.5d
+			id: "427D31216D0BFD89"
+			tasks: [{
+				id: "3A4AA530396F34E3"
+				type: "item"
+				item: "croptopia:food_press"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -14.5d
+			id: "6BF633C5CB94FAED"
+			tasks: [{
+				id: "522A35D10040C503"
+				type: "item"
+				item: "croptopia:cooking_pot"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -14.5d
+			id: "11BB18E4F5FE36FC"
+			tasks: [{
+				id: "48B1F51A29C6269B"
+				type: "item"
+				item: "vinery:fermentation_barrel"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -14.5d
+			id: "1EE3DB52BE941BF7"
+			tasks: [{
+				id: "73756FAC28F6F1EC"
+				type: "item"
+				item: "vinery:kitchen_sink"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -14.5d
+			id: "75D411977FA1F15F"
+			tasks: [{
+				id: "287F410ACCF3DACC"
+				type: "item"
+				item: "vinery:faucet"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -12.5d
+			id: "5C453EA6399CBF92"
+			tasks: [{
+				id: "709318A43248DCBF"
+				type: "item"
+				item: "vinery:cooking_pot"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -13.5d
+			id: "3A176885F174FF21"
+			tasks: [{
+				id: "6D259777B31045ED"
+				type: "item"
+				item: "vinery:grapevine_pot"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -14.5d
+			id: "68104B1B9D92349F"
+			tasks: [{
+				id: "6D4055AD5764CB9C"
+				type: "item"
+				item: "vinery:stove"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -13.5d
+			id: "3C74244434DA6038"
+			tasks: [{
+				id: "48789BA0E8E5FC4C"
+				type: "item"
+				item: "vinery:wood_fired_oven"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -12.5d
+			id: "1D502FCA68C861FE"
+			tasks: [{
+				id: "52740A37E48966BB"
+				type: "item"
+				item: "vinery:wine_box"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -11.5d
+			id: "44BD9F9063C93808"
+			tasks: [{
+				id: "40B9BD6F3BFCECD5"
+				type: "item"
+				item: {
+					id: "vinery:straw_hat"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -11.5d
+			id: "672C0A24280A74BB"
+			tasks: [{
+				id: "6E0F629740324118"
+				type: "item"
+				item: {
+					id: "vinery:vinemaker_apron"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -11.5d
+			id: "066A1495F0740259"
+			tasks: [{
+				id: "3C526B53368F7751"
+				type: "item"
+				item: {
+					id: "vinery:vinemaker_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -11.5d
+			id: "5D5EF3BA74A12D1B"
+			tasks: [{
+				id: "57A976F5B7B0EAC5"
+				type: "item"
+				item: {
+					id: "vinery:vinemaker_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
 			}]
 		}
 	]

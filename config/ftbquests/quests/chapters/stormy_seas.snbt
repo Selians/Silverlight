@@ -14,39 +14,104 @@
 	subtitle: ["One was cast down into the deepest and darkest reaches of the ocean"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "Eye, eye, captain"
-		x: -3.5d
-		y: 0.0d
-		description: [
-			"This ghost has been a menace, even before she was dead..."
-			"She does have some... otherworldly insight. Maybe she can point you in the right direction."
-		]
-		id: "45C0DF67856B19AB"
-		tasks: [{
-			id: "62FDE7C83D6892EB"
-			type: "kill"
-			title: "Banish the ghost of captain Cornelia"
+	quests: [
+		{
+			title: "Eye, eye, captain"
+			x: -4.0d
+			y: 0.0d
+			description: [
+				"This ghost has been a menace, even before she was dead..."
+				"She does have some... otherworldly insight. Maybe she can point you in the right direction."
+			]
+			id: "45C0DF67856B19AB"
+			tasks: [{
+				id: "62FDE7C83D6892EB"
+				type: "kill"
+				title: "Banish the ghost of captain Cornelia"
+				icon: {
+					id: "ob_aquamirae:three_bolt_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "ob_aquamirae:captain_cornelia"
+				value: 1L
+			}]
+		}
+		{
+			x: -7.0d
+			y: 0.0d
+			description: ["Try to find a Deep Frozen Ocean biome, you will find there what you seek"]
+			id: "7A4A5E52A48DE603"
+			tasks: [{
+				id: "675D407082BCAD2F"
+				type: "biome"
+				title: "It's getting chilly in here"
+				icon: "minecraft:ice"
+				biome: "minecraft:deep_frozen_ocean"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.0d
+			id: "6C660DCE1BA4588D"
+			tasks: [{
+				id: "19C9421C1850CADF"
+				type: "item"
+				item: {
+					id: "endrem:exotic_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 0.0d
+			description: ["Find the captain of the ship to summon the \"Captain\""]
+			id: "50D12063275771E9"
+			tasks: [{
+				id: "549EE78CE24F25E7"
+				type: "item"
+				item: "ob_aquamirae:shell_horn"
+			}]
+		}
+		{
+			title: "Part of the Ship, Part of the Crew"
 			icon: {
-				id: "ob_aquamirae:three_bolt_helmet"
+				id: "knight_quest:kq_corsair_captain_set_helmet"
 				Count: 1b
 				tag: {
 					Damage: 0
 				}
 			}
-			entity: "ob_aquamirae:captain_cornelia"
-			value: 1L
-		}]
-		rewards: [{
-			id: "083BAF09954EA635"
-			type: "item"
-			item: {
-				id: "endrem:exotic_eye"
-				Count: 1b
-				tag: {
-					Damage: 0
+			x: -6.0d
+			y: 0.0d
+			description: ["Get rid of the crew to get to the captain"]
+			id: "4855D7EC4420E2F4"
+			tasks: [
+				{
+					id: "29D5E59476E6A9F2"
+					type: "kill"
+					entity: "minecraft:pillager"
+					value: 2L
 				}
-			}
-		}]
-	}]
+				{
+					id: "6BB68AF31F9B0D95"
+					type: "kill"
+					entity: "minecraft:vindicator"
+					value: 4L
+				}
+			]
+			rewards: [{
+				id: "540E338DA5DA89B2"
+				type: "random"
+				title: "Food!"
+				table_id: 1939749778070837881L
+			}]
+		}
+	]
 }

@@ -4,6 +4,13 @@
 	order_index: 9
 	filename: "corrupted_eye"
 	title: "corrupted eye"
+	icon: {
+		id: "endrem:corrupted_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -73,6 +80,22 @@
 				id: "03735DCDC9A92D19"
 				type: "checkmark"
 				title: "\"I beckon thee\""
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			id: "4D975BC1E02791FC"
+			tasks: [{
+				id: "708B8C1BD542EFA9"
+				type: "item"
+				item: {
+					id: "endrem:corrupted_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
 			}]
 		}
 	]
