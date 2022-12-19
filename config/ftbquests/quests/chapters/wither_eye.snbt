@@ -3,8 +3,77 @@
 	group: "1D8F1A483208D022"
 	order_index: 5
 	filename: "wither_eye"
-	title: "wither eye"
+	title: "Third head's a charm"
+	icon: {
+		id: "endrem:wither_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["One struck down in the nether, turning one into three"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			x: -15.0d
+			y: 0.0d
+			id: "58B89A64B3CCE1C3"
+			tasks: [{
+				id: "3560DE80DCCB323B"
+				type: "item"
+				item: "minecraft:wither_skeleton_skull"
+				count: 3L
+			}]
+		}
+		{
+			x: -16.5d
+			y: -0.5d
+			id: "279E074B25C77007"
+			tasks: [{
+				id: "578F9608F739F839"
+				type: "structure"
+				title: "Find yourself a Fortress"
+				icon: "minecraft:nether_brick_fence"
+				structure: "minecraft:fortress"
+			}]
+		}
+		{
+			x: -15.0d
+			y: -1.0d
+			id: "10EF173D5C1F129E"
+			tasks: [{
+				id: "704C3F4F504DA0B1"
+				type: "item"
+				item: "minecraft:soul_sand"
+				count: 4L
+			}]
+		}
+		{
+			x: -13.5d
+			y: -0.5d
+			id: "07CD9320DEFFACCD"
+			tasks: [{
+				id: "4C3790315FB62591"
+				type: "item"
+				item: {
+					id: "endrem:wither_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -18.0d
+			y: -0.5d
+			id: "315E4CE6B5769F1D"
+			tasks: [{
+				id: "36D51E0CFBE1396A"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+		}
+	]
 }

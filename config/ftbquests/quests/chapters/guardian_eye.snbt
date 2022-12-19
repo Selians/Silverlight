@@ -14,5 +14,17 @@
 	subtitle: ["One instilled into a creature guarding sunken temples"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		title: "A monumental task"
+		x: -3.0d
+		y: 0.0d
+		description: ["Once again, you have to dive deep in search for one of the eyes"]
+		id: "16DD12A903368DB6"
+		tasks: [{
+			id: "0F817790218E6D1C"
+			type: "structure"
+			icon: "minecraft:dark_prismarine"
+			structure: "minecraft:monument"
+		}]
+	}]
 }

@@ -4,7 +4,77 @@
 	order_index: 8
 	filename: "black_eye"
 	title: "black eye"
+	icon: {
+		id: "endrem:black_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			x: -3.5d
+			y: -1.0d
+			id: "73B936CF53109532"
+			tasks: [{
+				id: "0575508955BD11FF"
+				type: "item"
+				item: "minecraft:heart_of_the_sea"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -1.0d
+			id: "1A0320313673D440"
+			tasks: [{
+				id: "391CB52E7C42C208"
+				type: "item"
+				item: {
+					id: "endrem:black_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "and now, STAB!"
+			icon: {
+				id: "farmersdelight:iron_knife"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -2.0d
+			y: -1.0d
+			id: "7B4513BBB10697D3"
+			tasks: [{
+				id: "69F8A5D33F1FBBAA"
+				type: "item"
+				title: "Any #forge:tools/knives"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:tools/knives"
+					}
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: -1.0d
+			id: "38094CF0C5AA5ECA"
+			tasks: [{
+				id: "756A2A827F270329"
+				type: "structure"
+				icon: "minecraft:chest"
+				structure: "minecraft:buried_treasure"
+			}]
+		}
+	]
 }

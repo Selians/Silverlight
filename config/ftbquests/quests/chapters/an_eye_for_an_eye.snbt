@@ -29,8 +29,8 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: -4.0d
+			x: 3.0d
+			y: -3.0d
 			id: "5190083A3B76CB78"
 			tasks: [{
 				id: "340F9A68170D3943"
@@ -41,7 +41,7 @@
 		}
 		{
 			x: -2.5d
-			y: -2.5d
+			y: -4.0d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "0B9C8474DEBDC302"
 			tasks: [{
@@ -55,8 +55,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -3.5d
+			x: -3.5d
+			y: -4.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "4D4BEE297C836953"
 			tasks: [{
@@ -68,26 +68,32 @@
 		{
 			title: "Quite hard-headed"
 			icon: {
-				id: "minecraft:iron_helmet"
+				id: "minecraft:diamond_helmet"
 				Count: 1b
 				tag: {
 					Damage: 0
 				}
 			}
 			x: -2.5d
-			y: -1.5d
+			y: -3.0d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "0510BDFAE92ED05C"
 			tasks: [{
 				id: "2F99B56B2EB8F63F"
 				type: "item"
 				item: {
-					id: "minecraft:iron_helmet"
+					id: "minecraft:diamond_helmet"
 					Count: 1b
 					tag: {
 						Damage: 0
 					}
 				}
+			}]
+			rewards: [{
+				id: "6126BCD25533E659"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 3
 			}]
 		}
 		{
@@ -107,9 +113,11 @@
 			}]
 		}
 		{
+			title: "A little cruise"
 			icon: "minecraft:oak_boat"
-			x: -2.5d
+			x: -4.5d
 			y: -4.5d
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "3725E1F23D35AF5B"
 			tasks: [{
 				id: "162A2F820A7A28B2"
@@ -122,6 +130,267 @@
 						value: "minecraft:boats"
 					}
 				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -5.5d
+			id: "788D71B36E2484E2"
+			tasks: [{
+				id: "4E39555E38EECD0F"
+				type: "item"
+				item: {
+					id: "endrem:lost_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: -0.5d
+			id: "5FBF17EC86971E0D"
+			tasks: [{
+				id: "77E3149DD9BB15BC"
+				type: "item"
+				item: {
+					id: "endrem:corrupted_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			id: "0812D4B3EB2E4716"
+			tasks: [{
+				id: "26EE82CCC402AD5D"
+				type: "item"
+				item: {
+					id: "endrem:nether_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -4.5d
+			id: "0BF79E73F799B35B"
+			tasks: [{
+				id: "1C0C1CB0547EBF10"
+				type: "item"
+				item: {
+					id: "endrem:exotic_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -6.0d
+			id: "30A5FD2EFC96500B"
+			tasks: [{
+				id: "7943798E6627B2DD"
+				type: "item"
+				item: {
+					id: "endrem:guardian_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: -5.5d
+			id: "61F228CE37C2C994"
+			tasks: [{
+				id: "4FEC35A5275F2CC5"
+				type: "item"
+				item: {
+					id: "endrem:wither_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -4.5d
+			id: "43725BDDF4D19143"
+			tasks: [{
+				id: "18EEC87616777700"
+				type: "item"
+				item: {
+					id: "endrem:magical_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 6.0d
+			y: -3.0d
+			id: "1C9FFDF9FE0B1CE3"
+			tasks: [{
+				id: "6297686FDD21DF1A"
+				type: "item"
+				item: {
+					id: "endrem:undead_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -1.5d
+			id: "2B6764F858D6F4A5"
+			tasks: [{
+				id: "78C52A19DCE6B50A"
+				type: "item"
+				item: {
+					id: "endrem:black_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			id: "565AB59ACC719146"
+			tasks: [{
+				id: "19C6407A9BDCA7CE"
+				type: "item"
+				item: {
+					id: "endrem:old_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -0.5d
+			id: "7012DB9866449AC3"
+			tasks: [{
+				id: "610503690FC4974A"
+				type: "item"
+				item: {
+					id: "endrem:rogue_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -1.5d
+			id: "0A12E11B1178B688"
+			tasks: [{
+				id: "0BC58C1E0875AC9A"
+				type: "item"
+				item: {
+					id: "endrem:cursed_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "6E636CF035B65612"
+			tasks: [{
+				id: "56A64CF2BFC52689"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "14B1309753B12974"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 3
+			}]
+		}
+		{
+			x: -4.5d
+			y: -1.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "77CC12812C5A202D"
+			tasks: [{
+				id: "45466DEB8DC15765"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "1F7B70B32D336ABE"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 3
+			}]
+		}
+		{
+			x: -3.5d
+			y: -1.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "7B2061783CD8CDBF"
+			tasks: [{
+				id: "07879E1B95740D90"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "6F781BD90A30BCE7"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 3
 			}]
 		}
 	]

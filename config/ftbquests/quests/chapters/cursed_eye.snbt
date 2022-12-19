@@ -1,0 +1,18 @@
+{
+	id: "790347BF338A87B5"
+	group: "1D8F1A483208D022"
+	order_index: 12
+	filename: "cursed_eye"
+	title: "cursed eye"
+	icon: {
+		id: "endrem:cursed_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["One given to the guardians of gold"]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

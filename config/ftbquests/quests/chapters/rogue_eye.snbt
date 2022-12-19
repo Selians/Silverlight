@@ -1,0 +1,17 @@
+{
+	id: "47889B906B28393D"
+	group: "1D8F1A483208D022"
+	order_index: 11
+	filename: "rogue_eye"
+	title: "rogue eye"
+	icon: {
+		id: "endrem:rogue_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}
