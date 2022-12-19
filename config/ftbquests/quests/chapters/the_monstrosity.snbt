@@ -18,7 +18,7 @@
 		{
 			x: -3.5d
 			y: -1.0d
-			dependencies: ["3846BAAB602C76E5"]
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "1F38577B89FD3209"
 			tasks: [{
 				id: "0DDB53DA23BB4F13"
@@ -83,4 +83,5 @@
 			}]
 		}
 	]
+	quest_links: [ ]
 }

@@ -14,5 +14,54 @@
 	subtitle: ["One given to the guardians of gold"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			title: "Nether again!"
+			x: -3.0d
+			y: -0.5d
+			id: "0B70943B83906C65"
+			tasks: [{
+				id: "213295B9A0253480"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -0.5d
+			id: "5901A0DABFBBAB6C"
+			tasks: [{
+				id: "1C3B1CE4950A3FEE"
+				type: "structure"
+				structure: "minecraf:bastion_remnant"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -0.5d
+			id: "5A5B19DBE8834456"
+			tasks: [{
+				id: "47F3D32E70DF884B"
+				type: "item"
+				item: "minecraft:chest"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -0.5d
+			id: "0165E79315EC7AE9"
+			tasks: [{
+				id: "7A1DB64B17FDBBFA"
+				type: "item"
+				item: {
+					id: "endrem:cursed_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
 }

@@ -1,7 +1,7 @@
 {
 	id: "4675A27E1C206546"
 	group: "1D8F1A483208D022"
-	order_index: 5
+	order_index: 11
 	filename: "wither_eye"
 	title: "Third ti... head?'s a charm"
 	icon: {
@@ -16,19 +16,38 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
+			title: "IKEA is nothing compared to this"
+			icon: "minecraft:wither_skeleton_skull"
 			x: -15.0d
-			y: 0.0d
+			y: -0.5d
+			dependencies: ["279E074B25C77007"]
 			id: "58B89A64B3CCE1C3"
-			tasks: [{
-				id: "3560DE80DCCB323B"
+			tasks: [
+				{
+					id: "3560DE80DCCB323B"
+					type: "item"
+					item: "minecraft:wither_skeleton_skull"
+					count: 3L
+				}
+				{
+					id: "299CCAD51D999E52"
+					type: "item"
+					item: "minecraft:soul_sand"
+					count: 4L
+				}
+			]
+			rewards: [{
+				id: "545FE429C8129343"
 				type: "item"
-				item: "minecraft:wither_skeleton_skull"
-				count: 3L
+				title: "To prepare you for the other \"star\""
+				item: "croptopia:starfruit"
+				count: 5
 			}]
 		}
 		{
 			x: -16.5d
 			y: -0.5d
+			dependencies: ["315E4CE6B5769F1D"]
 			id: "279E074B25C77007"
 			tasks: [{
 				id: "578F9608F739F839"
@@ -39,19 +58,9 @@
 			}]
 		}
 		{
-			x: -15.0d
-			y: -1.0d
-			id: "10EF173D5C1F129E"
-			tasks: [{
-				id: "704C3F4F504DA0B1"
-				type: "item"
-				item: "minecraft:soul_sand"
-				count: 4L
-			}]
-		}
-		{
-			x: -13.5d
+			x: -12.0d
 			y: -0.5d
+			dependencies: ["55BA7F7BEF992735"]
 			id: "07CD9320DEFFACCD"
 			tasks: [{
 				id: "4C3790315FB62591"
@@ -66,8 +75,10 @@
 			}]
 		}
 		{
+			title: "It Nether ends..."
 			x: -18.0d
 			y: -0.5d
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "315E4CE6B5769F1D"
 			tasks: [{
 				id: "36D51E0CFBE1396A"
@@ -75,5 +86,26 @@
 				dimension: "minecraft:the_nether"
 			}]
 		}
+		{
+			title: "Is it you, Cathy?"
+			x: -13.5d
+			y: -0.5d
+			dependencies: ["58B89A64B3CCE1C3"]
+			id: "55BA7F7BEF992735"
+			tasks: [{
+				id: "4A445ED812853B0F"
+				type: "kill"
+				icon: {
+					id: "knight_quest:kq_wither_set_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+		}
 	]
+	quest_links: [ ]
 }

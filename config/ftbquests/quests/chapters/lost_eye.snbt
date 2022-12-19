@@ -33,6 +33,7 @@
 		{
 			x: 2.5d
 			y: 0.0d
+			dependencies: ["4F1AF81FB1C7DD72"]
 			id: "53A940D8CB248CA7"
 			tasks: [{
 				id: "7AE98B0958A9316E"
@@ -49,6 +50,7 @@
 		{
 			x: -3.5d
 			y: 0.0d
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "76B46485962E9051"
 			tasks: [{
 				id: "3F9B60D845FAE374"
@@ -94,4 +96,5 @@
 			}]
 		}
 	]
+	quest_links: [ ]
 }

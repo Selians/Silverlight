@@ -17,12 +17,13 @@
 	quests: [
 		{
 			title: "Eye, eye, captain"
-			x: -4.0d
+			x: -2.5d
 			y: 0.0d
 			description: [
 				"This ghost has been a menace, even before she was dead..."
 				"She does have some... otherworldly insight. Maybe she can point you in the right direction."
 			]
+			dependencies: ["50D12063275771E9"]
 			id: "45C0DF67856B19AB"
 			tasks: [{
 				id: "62FDE7C83D6892EB"
@@ -43,6 +44,7 @@
 			x: -7.0d
 			y: 0.0d
 			description: ["Try to find a Deep Frozen Ocean biome, you will find there what you seek"]
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "7A4A5E52A48DE603"
 			tasks: [{
 				id: "675D407082BCAD2F"
@@ -53,8 +55,9 @@
 			}]
 		}
 		{
-			x: -3.0d
+			x: -1.0d
 			y: 0.0d
+			dependencies: ["45C0DF67856B19AB"]
 			id: "6C660DCE1BA4588D"
 			tasks: [{
 				id: "19C9421C1850CADF"
@@ -69,9 +72,11 @@
 			}]
 		}
 		{
-			x: -5.0d
+			title: "Hear how she blows!"
+			x: -4.0d
 			y: 0.0d
 			description: ["Find the captain of the ship to summon the \"Captain\""]
+			dependencies: ["4855D7EC4420E2F4"]
 			id: "50D12063275771E9"
 			tasks: [{
 				id: "549EE78CE24F25E7"
@@ -88,9 +93,10 @@
 					Damage: 0
 				}
 			}
-			x: -6.0d
+			x: -5.5d
 			y: 0.0d
 			description: ["Get rid of the crew to get to the captain"]
+			dependencies: ["7A4A5E52A48DE603"]
 			id: "4855D7EC4420E2F4"
 			tasks: [
 				{
@@ -114,4 +120,5 @@
 			}]
 		}
 	]
+	quest_links: [ ]
 }

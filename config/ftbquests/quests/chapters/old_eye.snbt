@@ -1,7 +1,7 @@
 {
 	id: "6B03CD23E4879604"
 	group: "1D8F1A483208D022"
-	order_index: 10
+	order_index: 9
 	filename: "old_eye"
 	title: "old eye"
 	icon: {
@@ -11,7 +11,9 @@
 			Damage: 0
 		}
 	}
+	subtitle: ["One entombed with a wise king"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [ ]
+	quest_links: [ ]
 }
