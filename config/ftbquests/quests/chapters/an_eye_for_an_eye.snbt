@@ -29,19 +29,21 @@
 			}]
 		}
 		{
+			title: "The Moon?"
 			x: 3.0d
 			y: -3.0d
+			description: ["Now all we need to do is find one of those strongholds..."]
 			id: "5190083A3B76CB78"
 			tasks: [{
 				id: "340F9A68170D3943"
 				type: "dimension"
-				icon: "minecraft:ender_eye"
+				icon: "minecraft:end_stone"
 				dimension: "minecraft:the_end"
 			}]
 		}
 		{
-			x: -2.5d
-			y: -4.0d
+			x: -1.5d
+			y: -2.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "0B9C8474DEBDC302"
 			tasks: [{
@@ -55,8 +57,8 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: -4.5d
+			x: -1.5d
+			y: -3.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "4D4BEE297C836953"
 			tasks: [{
@@ -74,8 +76,8 @@
 					Damage: 0
 				}
 			}
-			x: -2.5d
-			y: -3.0d
+			x: -5.5d
+			y: -5.0d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "0510BDFAE92ED05C"
 			tasks: [{
@@ -97,7 +99,7 @@
 			}]
 		}
 		{
-			x: -5.5d
+			x: -8.0d
 			y: -3.0d
 			description: [
 				"Long ago the realms existed in balance. "
@@ -111,11 +113,17 @@
 				type: "checkmark"
 				title: "How it began is how it will end"
 			}]
+			rewards: [{
+				id: "008EE590734C231D"
+				type: "item"
+				title: "That was a long story, here, have a cookie"
+				item: "minecraft:cookie"
+			}]
 		}
 		{
 			title: "A little cruise"
 			icon: "minecraft:oak_boat"
-			x: -4.5d
+			x: -1.5d
 			y: -4.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "3725E1F23D35AF5B"
@@ -325,8 +333,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -2.0d
+			x: -4.5d
+			y: -5.0d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "6E636CF035B65612"
 			tasks: [{
@@ -348,8 +356,8 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: -1.5d
+			x: -2.5d
+			y: -5.0d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "77CC12812C5A202D"
 			tasks: [{
@@ -372,7 +380,7 @@
 		}
 		{
 			x: -3.5d
-			y: -1.5d
+			y: -5.0d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "7B2061783CD8CDBF"
 			tasks: [{
@@ -391,6 +399,208 @@
 				type: "item"
 				item: "minecraft:diamond"
 				count: 3
+			}]
+		}
+		{
+			title: "Not a bed alternative"
+			x: -3.5d
+			y: -1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "365E4B24ED9B99F3"
+			tasks: [{
+				id: "03C4EE251C933674"
+				type: "item"
+				item: "minecraft:respawn_anchor"
+			}]
+			rewards: [{
+				id: "1C00FD02043765F0"
+				type: "item"
+				item: "minecraft:glowstone"
+				count: 8
+			}]
+		}
+		{
+			title: "Homebrewed"
+			x: -4.5d
+			y: -1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "78DE011BD19AD213"
+			tasks: [
+				{
+					id: "2685FB4EEA24E6A6"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+				}
+				{
+					id: "6ECED9F29737A7C4"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:water_breathing"
+						}
+					}
+				}
+				{
+					id: "3C5C0E15F188DAF2"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:strength"
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "1309467A09D41CAD"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "biomemakeover:adrenaline"
+					}
+				}
+				count: 3
+			}]
+		}
+		{
+			x: -5.5d
+			y: -1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "1903BC92402C678F"
+			tasks: [{
+				id: "748C022A6C240B44"
+				type: "item"
+				item: "minecraft:golden_apple"
+				count: 10L
+			}]
+			rewards: [{
+				id: "33817C1423D669D7"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -1.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "1769A03D9461BA4E"
+			tasks: [{
+				id: "0A97857345B2BBAA"
+				type: "item"
+				item: {
+					id: "minecraft:bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "5F2349488BE843D9"
+				type: "item"
+				item: "minecraft:arrow"
+				count: 128
+			}]
+		}
+		{
+			x: -6.5d
+			y: -4.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "14D8CF7B022F0485"
+			tasks: [{
+				id: "258DEE0D89A4EE93"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "A warm and cozy place"
+			icon: "minecraft:red_bed"
+			x: -2.5d
+			y: -1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "5FC6F84837D67D18"
+			tasks: [{
+				id: "24355ADC03E8EB52"
+				type: "item"
+				title: "Any #minecraft:beds"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:beds"
+					}
+				}
+			}]
+			rewards: [{
+				id: "12E19F355D4C5E8D"
+				type: "choice"
+				title: "Lighter than a bed"
+				icon: "comforts:sleeping_bag_white"
+				exclude_from_claim_all: true
+				table_id: 6217092166221948255L
+			}]
+		}
+		{
+			x: -6.5d
+			y: -2.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "2BB87D992FC117C7"
+			tasks: [{
+				id: "3164375BD08A8A47"
+				type: "item"
+				item: {
+					id: "minecraft:shield"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -3.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "3A7E5DD093923878"
+			tasks: [{
+				id: "690CAB6DB55FA475"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -1.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "60A5C8C4E388D1B1"
+			tasks: [{
+				id: "5F1F91790FF0FD70"
+				type: "item"
+				item: "minecraft:spyglass"
 			}]
 		}
 	]

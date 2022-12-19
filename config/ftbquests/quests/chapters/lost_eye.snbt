@@ -16,6 +16,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
+			title: "Get ready to rumble!"
 			icon: "cataclysm:altar_of_fire"
 			x: -2.0d
 			y: 0.0d
@@ -30,7 +31,7 @@
 			}]
 		}
 		{
-			x: 1.0d
+			x: 2.5d
 			y: 0.0d
 			id: "53A940D8CB248CA7"
 			tasks: [{
@@ -56,10 +57,13 @@
 			}]
 		}
 		{
-			x: -0.5d
+			x: 1.0d
 			y: 0.0d
-			description: ["You have to best the local Archdemon, The Fiery Champion Ignis"]
-			dependencies: ["4B8CCD1E5BE40F57"]
+			description: [
+				"To challenge the champion, place the ashes on the altar"
+				"You have to best the local Archdemon, The Fiery Champion Ignis"
+			]
+			dependencies: ["72EB09AA9872CC21"]
 			id: "4F1AF81FB1C7DD72"
 			tasks: [{
 				id: "096A1DE380A716F3"
@@ -74,6 +78,19 @@
 				}
 				entity: "cataclysm:ignis"
 				value: 1L
+			}]
+		}
+		{
+			title: "Ashes to ashes"
+			x: -0.5d
+			y: 0.0d
+			description: ["To get to the champion, you would need to beat the others in the arena"]
+			dependencies: ["4B8CCD1E5BE40F57"]
+			id: "72EB09AA9872CC21"
+			tasks: [{
+				id: "7A14CD30D29493F6"
+				type: "item"
+				item: "cataclysm:burning_ashes"
 			}]
 		}
 	]

@@ -39,6 +39,11 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "6D681FCF5EF2721D"
+				type: "item"
+				item: "minecraft:heart_of_the_sea"
+			}]
 		}
 		{
 			title: "and now, STAB!"
@@ -66,12 +71,14 @@
 			}]
 		}
 		{
+			title: "We're going on a treasurehunt!"
 			x: -5.0d
 			y: -1.0d
 			id: "38094CF0C5AA5ECA"
 			tasks: [{
 				id: "756A2A827F270329"
 				type: "structure"
+				title: "Find a buried (or many) treasure"
 				icon: "minecraft:chest"
 				structure: "minecraft:buried_treasure"
 			}]

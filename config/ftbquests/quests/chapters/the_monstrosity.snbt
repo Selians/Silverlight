@@ -16,7 +16,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -4.0d
+			x: -3.5d
 			y: -1.0d
 			dependencies: ["3846BAAB602C76E5"]
 			id: "1F38577B89FD3209"
@@ -27,27 +27,9 @@
 			}]
 		}
 		{
-			x: -5.0d
-			y: -2.5d
-			description: ["If you're not sure you can handle this in 1 go, make sure you can respawn"]
-			dependencies: ["1F38577B89FD3209"]
-			id: "09A7643C0A3DB700"
-			tasks: [{
-				id: "32845BF89130BB85"
-				type: "item"
-				item: "minecraft:respawn_anchor"
-			}]
-			rewards: [{
-				id: "37339F30C7C33F59"
-				type: "item"
-				item: "minecraft:glowstone"
-				count: 4
-			}]
-		}
-		{
-			x: -0.5d
+			x: 1.0d
 			y: -1.0d
-			dependencies: ["14B1D964ED4730C7"]
+			dependencies: ["775DB1CEFB21CC94"]
 			id: "615FFFF7FEC7EE8D"
 			tasks: [{
 				id: "13414AE7428B7B60"
@@ -75,6 +57,20 @@
 				id: "42EBB6F54947B8E0"
 				type: "structure"
 				title: "Get to the Blacksmith"
+				icon: "knight_quest:kq_nether_repair"
+				structure: "cataclysm:soul_black_smith"
+			}]
+		}
+		{
+			title: "The Monstrosity"
+			x: -0.5d
+			y: -1.0d
+			description: ["I hope you can best the forge's biggest, baddest warmachine"]
+			dependencies: ["14B1D964ED4730C7"]
+			id: "775DB1CEFB21CC94"
+			tasks: [{
+				id: "1060F996B40FE914"
+				type: "kill"
 				icon: {
 					id: "cataclysm:monstrous_helm"
 					Count: 1b
@@ -82,54 +78,8 @@
 						Damage: 0
 					}
 				}
-				structure: "cataclysm:soul_black_smith"
-			}]
-		}
-		{
-			x: -3.0d
-			y: -2.5d
-			description: ["Some of these might also come in handy..."]
-			dependencies: ["1F38577B89FD3209"]
-			id: "15B442A85778E2C5"
-			tasks: [
-				{
-					id: "6F5520C64BE095A8"
-					type: "item"
-					item: {
-						id: "minecraft:potion"
-						Count: 1b
-						tag: {
-							Potion: "minecraft:fire_resistance"
-						}
-					}
-				}
-				{
-					id: "03923D162094554C"
-					type: "item"
-					item: {
-						id: "minecraft:potion"
-						Count: 1b
-						tag: {
-							Potion: "minecraft:regeneration"
-						}
-					}
-				}
-				{
-					id: "7831FF4DEB9F0272"
-					type: "item"
-					item: {
-						id: "minecraft:potion"
-						Count: 1b
-						tag: {
-							Potion: "minecraft:healing"
-						}
-					}
-				}
-			]
-			rewards: [{
-				id: "23152F8115CD8B66"
-				type: "item"
-				item: "minecraft:golden_apple"
+				entity: "cataclysm:netherite_monstrosity"
+				value: 1L
 			}]
 		}
 	]

@@ -79,5 +79,53 @@
 				count: 16
 			}]
 		}
+		{
+			x: -2.5d
+			y: 0.0d
+			id: "10A33191594FB777"
+			tasks: [{
+				id: "04EA4FF8FF1E63CD"
+				type: "item"
+				item: {
+					id: "unidentifiedenchantments:scrollofidentification"
+					Count: 1b
+					ForgeCaps: {
+						"unidentifiedenchantments:exp_storage": {
+							maxlevel: 5
+							level: 0
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			id: "29E36217F73DA6C4"
+			tasks: [{
+				id: "1000357473D7360D"
+				type: "item"
+				item: "create:experience_nugget"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.0d
+			id: "1C1492A36772C680"
+			tasks: [{
+				id: "3105C631D881B96C"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							lvl: 1s
+							id: "minecraft:protection"
+						}]
+					}
+				}
+			}]
+		}
 	]
 }

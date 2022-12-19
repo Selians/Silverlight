@@ -1,0 +1,26 @@
+{
+	id: "79F78BD9EDF7A34A"
+	order_index: 3
+	title: "Quark Runes"
+	icon: "quark:rainbow_rune"
+	loot_size: 1
+	rewards: [
+		{ item: "quark:white_rune" }
+		{ item: "quark:orange_rune" }
+		{ item: "quark:magenta_rune" }
+		{ item: "quark:light_blue_rune" }
+		{ item: "quark:yellow_rune" }
+		{ item: "quark:lime_rune" }
+		{ item: "quark:pink_rune" }
+		{ item: "quark:gray_rune" }
+		{ item: "quark:light_gray_rune" }
+		{ item: "quark:cyan_rune" }
+		{ item: "quark:purple_rune" }
+		{ item: "quark:blue_rune" }
+		{ item: "quark:brown_rune" }
+		{ item: "quark:green_rune" }
+		{ item: "quark:red_rune" }
+		{ item: "quark:black_rune" }
+		{ item: "quark:rainbow_rune" }
+	]
+}
