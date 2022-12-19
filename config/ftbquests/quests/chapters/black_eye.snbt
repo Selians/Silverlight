@@ -3,7 +3,7 @@
 	group: "1D8F1A483208D022"
 	order_index: 8
 	filename: "black_eye"
-	title: "black eye"
+	title: "The Eye of the storm"
 	icon: {
 		id: "endrem:black_eye"
 		Count: 1b
@@ -11,6 +11,7 @@
 			Damage: 0
 		}
 	}
+	subtitle: ["One hidden in the ocean's core"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -27,6 +28,7 @@
 		{
 			x: -0.5d
 			y: -1.0d
+			dependencies: ["7B4513BBB10697D3"]
 			id: "1A0320313673D440"
 			tasks: [{
 				id: "391CB52E7C42C208"
