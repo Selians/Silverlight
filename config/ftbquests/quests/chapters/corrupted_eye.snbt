@@ -1,9 +1,9 @@
 {
 	id: "76D61303CE9CE03E"
 	group: "1D8F1A483208D022"
-	order_index: 9
+	order_index: 8
 	filename: "corrupted_eye"
-	title: "corrupted eye"
+	title: "I beckon thee..."
 	icon: {
 		id: "endrem:corrupted_eye"
 		Count: 1b
@@ -11,12 +11,15 @@
 			Damage: 0
 		}
 	}
+	subtitle: ["One stolen by a creature that was sealed away"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
+			title: "That is one big bowl!"
 			x: 0.0d
 			y: -1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "3E697C37F77B3285"
 			tasks: [{
 				id: "0997CE9BF9AED37B"
@@ -25,8 +28,10 @@
 			}]
 		}
 		{
+			title: "Why not call it a \"Hot Rod\"?"
 			x: 3.0d
 			y: -1.0d
+			dependencies: ["400BCAF86CC6031D"]
 			id: "6592FC9D2B8F63B3"
 			tasks: [{
 				id: "4FFFFBF20CECD3A5"
@@ -35,9 +40,11 @@
 			}]
 		}
 		{
+			title: "The essence of the matter"
 			x: 1.0d
 			y: -1.0d
-			description: ["These are obtained from breaking a mobspawner"]
+			description: ["These are often obtained from breaking a mobspawner"]
+			dependencies: ["3E697C37F77B3285"]
 			id: "703350BF33991FFE"
 			tasks: [{
 				id: "46B56E702D6916F3"
@@ -47,8 +54,11 @@
 			}]
 		}
 		{
+			title: "A different kind of hot pocket"
 			x: 2.0d
 			y: -1.0d
+			description: ["Add the souls and the lava to the chalice"]
+			dependencies: ["703350BF33991FFE"]
 			id: "400BCAF86CC6031D"
 			tasks: [{
 				id: "4C5B508C4FC2BB5A"
@@ -57,8 +67,10 @@
 			}]
 		}
 		{
+			title: "Cry me a river"
 			x: 4.0d
 			y: -1.0d
+			dependencies: ["6592FC9D2B8F63B3"]
 			id: "138D8D9DC18C3639"
 			tasks: [{
 				id: "5D89EACA405320F6"
@@ -75,6 +87,7 @@
 				"Face the north and chant:"
 				"\"I beckon thee\""
 			]
+			dependencies: ["138D8D9DC18C3639"]
 			id: "74CCC5D017280F58"
 			tasks: [{
 				id: "03735DCDC9A92D19"
@@ -83,8 +96,9 @@
 			}]
 		}
 		{
-			x: 6.0d
+			x: 7.0d
 			y: -1.0d
+			dependencies: ["20186E754F73CB08"]
 			id: "4D975BC1E02791FC"
 			tasks: [{
 				id: "708B8C1BD542EFA9"
@@ -96,6 +110,25 @@
 						Damage: 0
 					}
 				}
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			dependencies: ["74CCC5D017280F58"]
+			id: "20186E754F73CB08"
+			tasks: [{
+				id: "56239B8B48B0D19E"
+				type: "kill"
+				icon: {
+					id: "knight_quest:kq_deepslate_marbled_set_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "knight_quest:kq_netherman"
+				value: 1L
 			}]
 		}
 	]

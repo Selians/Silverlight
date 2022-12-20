@@ -1,7 +1,7 @@
 {
 	id: "5742D07C17B237B3"
-	group: "0B03CCB1271D0381"
-	order_index: 4
+	group: "3CA254D50DD5D90C"
+	order_index: 0
 	filename: "hungry_yet"
 	title: "Hungry yet?"
 	icon: {
@@ -987,6 +987,16 @@
 						Damage: 0
 					}
 				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -8.0d
+			id: "5ACC3001E315D9D3"
+			tasks: [{
+				id: "7FA1840DE8B44826"
+				type: "custom"
+				title: "nether's delight"
 			}]
 		}
 	]

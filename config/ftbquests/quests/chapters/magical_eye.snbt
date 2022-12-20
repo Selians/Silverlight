@@ -1,9 +1,9 @@
 {
 	id: "5ECCBEEE4822D359"
 	group: "1D8F1A483208D022"
-	order_index: 6
+	order_index: 5
 	filename: "magical_eye"
-	title: "magical eye"
+	title: "Is this real life?"
 	icon: {
 		id: "endrem:magical_eye"
 		Count: 1b

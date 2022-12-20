@@ -1,7 +1,7 @@
 {
 	id: "72D2A49BE29525E3"
 	group: "1D8F1A483208D022"
-	order_index: 8
+	order_index: 7
 	filename: "black_eye"
 	title: "The Eye of the storm"
 	icon: {
@@ -18,6 +18,7 @@
 		{
 			x: -3.5d
 			y: -1.0d
+			dependencies: ["38094CF0C5AA5ECA"]
 			id: "73B936CF53109532"
 			tasks: [{
 				id: "0575508955BD11FF"
@@ -58,6 +59,7 @@
 			}
 			x: -2.0d
 			y: -1.0d
+			dependencies: ["73B936CF53109532"]
 			id: "7B4513BBB10697D3"
 			tasks: [{
 				id: "69F8A5D33F1FBBAA"
@@ -76,6 +78,7 @@
 			title: "We're going on a treasurehunt!"
 			x: -5.0d
 			y: -1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
 			id: "38094CF0C5AA5ECA"
 			tasks: [{
 				id: "756A2A827F270329"

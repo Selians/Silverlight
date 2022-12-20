@@ -33,6 +33,21 @@
 			x: 3.0d
 			y: -3.0d
 			description: ["Now all we need to do is find one of those strongholds..."]
+			dependencies: [
+				"5FBF17EC86971E0D"
+				"0BF79E73F799B35B"
+				"0812D4B3EB2E4716"
+				"2B6764F858D6F4A5"
+				"0A12E11B1178B688"
+				"30A5FD2EFC96500B"
+				"788D71B36E2484E2"
+				"0812D4B3EB2E4716"
+				"7012DB9866449AC3"
+				"43725BDDF4D19143"
+				"565AB59ACC719146"
+				"1C9FFDF9FE0B1CE3"
+			]
+			size: 1.8d
 			id: "5190083A3B76CB78"
 			tasks: [{
 				id: "340F9A68170D3943"
@@ -77,7 +92,7 @@
 				}
 			}
 			x: -5.5d
-			y: -5.0d
+			y: -5.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "0510BDFAE92ED05C"
 			tasks: [{
@@ -143,6 +158,7 @@
 		{
 			x: 1.5d
 			y: -5.5d
+			dependencies: ["53A940D8CB248CA7"]
 			id: "788D71B36E2484E2"
 			tasks: [{
 				id: "4E39555E38EECD0F"
@@ -157,8 +173,9 @@
 			}]
 		}
 		{
-			x: 4.5d
-			y: -0.5d
+			x: 5.5d
+			y: -1.5d
+			dependencies: ["4D975BC1E02791FC"]
 			id: "5FBF17EC86971E0D"
 			tasks: [{
 				id: "77E3149DD9BB15BC"
@@ -175,6 +192,7 @@
 		{
 			x: 0.0d
 			y: -3.0d
+			dependencies: ["615FFFF7FEC7EE8D"]
 			id: "0812D4B3EB2E4716"
 			tasks: [{
 				id: "26EE82CCC402AD5D"
@@ -191,6 +209,7 @@
 		{
 			x: 0.5d
 			y: -4.5d
+			dependencies: ["6C660DCE1BA4588D"]
 			id: "0BF79E73F799B35B"
 			tasks: [{
 				id: "1C0C1CB0547EBF10"
@@ -207,6 +226,7 @@
 		{
 			x: 3.0d
 			y: -6.0d
+			dependencies: ["2D51B8C0A5E1FA37"]
 			id: "30A5FD2EFC96500B"
 			tasks: [{
 				id: "7943798E6627B2DD"
@@ -221,8 +241,9 @@
 			}]
 		}
 		{
-			x: 4.5d
-			y: -5.5d
+			x: 1.5d
+			y: -0.5d
+			dependencies: ["07CD9320DEFFACCD"]
 			id: "61F228CE37C2C994"
 			tasks: [{
 				id: "4FEC35A5275F2CC5"
@@ -237,8 +258,8 @@
 			}]
 		}
 		{
-			x: 5.5d
-			y: -4.5d
+			x: 4.5d
+			y: -5.5d
 			id: "43725BDDF4D19143"
 			tasks: [{
 				id: "18EEC87616777700"
@@ -253,8 +274,9 @@
 			}]
 		}
 		{
-			x: 6.0d
-			y: -3.0d
+			x: 5.5d
+			y: -4.5d
+			dependencies: ["5428905A83A04F20"]
 			id: "1C9FFDF9FE0B1CE3"
 			tasks: [{
 				id: "6297686FDD21DF1A"
@@ -269,8 +291,9 @@
 			}]
 		}
 		{
-			x: 5.5d
-			y: -1.5d
+			x: 6.5d
+			y: -3.0d
+			dependencies: ["1A0320313673D440"]
 			id: "2B6764F858D6F4A5"
 			tasks: [{
 				id: "78C52A19DCE6B50A"
@@ -285,8 +308,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: 0.0d
+			x: 4.5d
+			y: -0.5d
 			id: "565AB59ACC719146"
 			tasks: [{
 				id: "19C6407A9BDCA7CE"
@@ -301,8 +324,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -0.5d
+			x: 3.0d
+			y: 0.0d
 			id: "7012DB9866449AC3"
 			tasks: [{
 				id: "610503690FC4974A"
@@ -334,7 +357,7 @@
 		}
 		{
 			x: -4.5d
-			y: -5.0d
+			y: -5.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "6E636CF035B65612"
 			tasks: [{
@@ -357,7 +380,7 @@
 		}
 		{
 			x: -2.5d
-			y: -5.0d
+			y: -5.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "77CC12812C5A202D"
 			tasks: [{
@@ -380,7 +403,7 @@
 		}
 		{
 			x: -3.5d
-			y: -5.0d
+			y: -5.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "7B2061783CD8CDBF"
 			tasks: [{
@@ -404,7 +427,7 @@
 		{
 			title: "Not a bed alternative"
 			x: -3.5d
-			y: -1.0d
+			y: -0.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "365E4B24ED9B99F3"
 			tasks: [{
@@ -422,7 +445,7 @@
 		{
 			title: "Homebrewed"
 			x: -4.5d
-			y: -1.0d
+			y: -0.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "78DE011BD19AD213"
 			tasks: [
@@ -475,7 +498,7 @@
 		}
 		{
 			x: -5.5d
-			y: -1.0d
+			y: -0.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "1903BC92402C678F"
 			tasks: [{
@@ -488,6 +511,7 @@
 				id: "33817C1423D669D7"
 				type: "item"
 				item: "minecraft:enchanted_golden_apple"
+				count: 3
 			}]
 		}
 		{
@@ -534,7 +558,7 @@
 			title: "A warm and cozy place"
 			icon: "minecraft:red_bed"
 			x: -2.5d
-			y: -1.0d
+			y: -0.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "5FC6F84837D67D18"
 			tasks: [{
