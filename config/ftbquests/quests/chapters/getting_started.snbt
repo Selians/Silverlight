@@ -8,18 +8,20 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Punch tree, no wood?"
+			title: "Punch tree..."
 			icon: {
 				id: "minecraft:oak_log"
 				Count: 1b
 				tag: { }
 			}
-			x: -2.5d
-			y: -2.0d
+			x: -15.5d
+			y: 1.5d
+			subtitle: "...no wood?"
 			description: [
-				"Treebark isnt very good for your skin I guess..."
-				"Perhaps punching twigs instead and crafting them into planks is works better."
+				"Trees are dense, you'll need an axe to cut through them. Perhaps obtaining twigs and crafting them into planks is the better solution for now."
+				""
 			]
+			dependencies: ["7FC19C3C79232D52"]
 			id: "43CB95DD9563DEC6"
 			tasks: [
 				{
@@ -55,33 +57,11 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: -2.0d
-			dependencies: ["43CB95DD9563DEC6"]
-			id: "3B7F851B868425EC"
-			tasks: [{
-				id: "7A39AC2A479060F2"
-				type: "item"
-				item: {
-					id: "minecraft:crafting_table"
-					Count: 1b
-					tag: { }
-				}
-			}]
-			rewards: [{
-				id: "0EDCF1419D02B144"
-				type: "item"
-				item: {
-					id: "minecraft:oak_planks"
-					Count: 1b
-					tag: { }
-				}
-				count: 16
-			}]
-		}
-		{
-			x: -2.5d
-			y: 0.0d
+			title: "Identifying enchantments"
+			x: -12.5d
+			y: 6.0d
+			description: ["Enchantments are great, but you never know what you might get. You can craft a scroll of identification, to identify enchanted books that you found on your travels."]
+			dependencies: ["51D0E165F60BF7D0"]
 			id: "10A33191594FB777"
 			tasks: [{
 				id: "04EA4FF8FF1E63CD"
@@ -99,33 +79,320 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 0.0d
-			id: "29E36217F73DA6C4"
+			x: -7.0d
+			y: 6.5d
+			description: [
+				"Want to carry more stuff? Craft a backpack!"
+				"Backpacks can be improved by enchanting them."
+			]
+			dependencies: ["097DE4C0A402B495"]
+			id: "358AFE6E6183F3BC"
 			tasks: [{
-				id: "1000357473D7360D"
+				id: "170F09679625ADF1"
 				type: "item"
-				item: "create:experience_nugget"
+				item: "backpacked:backpack"
 			}]
 		}
 		{
-			x: -0.5d
-			y: 0.0d
-			id: "1C1492A36772C680"
+			title: "Shielded"
+			x: -7.0d
+			y: -3.0d
+			description: ["Have you tried crafting a shield?"]
+			dependencies: ["42A46CC6ECA6C1B1"]
+			id: "7CD169119F74731B"
 			tasks: [{
-				id: "3105C631D881B96C"
+				id: "58E54B75F5EACC5F"
 				type: "item"
 				item: {
-					id: "minecraft:enchanted_book"
+					id: "minecraft:shield"
 					Count: 1b
 					tag: {
-						StoredEnchantments: [{
-							lvl: 1s
-							id: "minecraft:protection"
-						}]
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Survive"
+			icon: "minecraft:candle"
+			x: -7.5d
+			y: 1.5d
+			description: ["Your first night in this realm approaches. Good luck, Champion."]
+			dependencies: ["243E6CA06D45695D"]
+			id: "2EE9360E051175EC"
+			tasks: [{
+				id: "17D8FD29EF9E1EC5"
+				type: "questsadditions:days"
+				title: "Survive 1 night"
+				icon: "minecraft:candle"
+				days: 1
+			}]
+		}
+		{
+			title: "Silverlight"
+			x: -11.0d
+			y: 4.5d
+			description: [
+				"Silverlight is an archaic material originating from the stars. When taken by a Champion, Silverlight becomes a flexible and sentient resource. It can adapt itself to the purpose for which it is needed, and is an essential component to complex machinery, or as a regulator for items that involve magic. "
+				"It is only dropped from strong monsters, born from chaos, during nighttime - making it incredibly rare."
+			]
+			dependencies: ["6A7D75A1140C63C8"]
+			id: "51D0E165F60BF7D0"
+			tasks: [{
+				id: "556D0446C6D6C65F"
+				type: "item"
+				title: "Obtain Silverlight"
+				item: "silverlight:silverlightraw"
+			}]
+		}
+		{
+			icon: "minecraft:sculk_vein"
+			x: -17.0d
+			y: 1.5d
+			subtitle: "For the world is strange, and hostile."
+			description: ["You've woken to find your goddess, the goddess Moon, defeated. Her appearance broken, her power weakened. She calls to you. Open the gates to the Astral planes once more, and defeat there an evil that guards the door."]
+			id: "7FC19C3C79232D52"
+			tasks: [{
+				id: "570628A521D80C88"
+				type: "checkmark"
+				title: "Rise, Champion"
+			}]
+			rewards: [{
+				id: "3887A9A1162D979F"
+				type: "item"
+				item: "minecraft:bone"
+			}]
+		}
+		{
+			title: "Limited supply"
+			x: -5.5d
+			y: 8.0d
+			description: ["Special items may be a little harder to come by, nowadays. Perhaps you know of a time where special enchantments were traded by villagers, but sadly these are hard to come by nowadays. If you're lucky, its said that wandering traders still have their ways..."]
+			dependencies: ["78144445FE83959C"]
+			secret: true
+			id: "43ED2E83E7B020B2"
+			tasks: [{
+				id: "29B729A7BF55A02E"
+				type: "questsadditions:interaction"
+				icon: "minecraft:emerald"
+				entity: "minecraft:wandering_trader"
+				nbt: { }
+				value: 1L
+				checkItem: false
+			}]
+		}
+		{
+			title: "Find an obelisk"
+			x: -12.5d
+			y: 3.0d
+			description: ["Obelisks are ancient structures, said to contain the goddess Moon's courage and strength."]
+			dependencies: ["243E6CA06D45695D"]
+			id: "6A7D75A1140C63C8"
+			tasks: [{
+				id: "623725F6FEFE9672"
+				type: "observation"
+				title: "Observe an Obelisk in the wild."
+				icon: "silverlight:obelisk"
+				timer: 0L
+				observe_type: 0
+				to_observe: "silverlight:obelisk"
+			}]
+		}
+		{
+			title: "Beware of monsters"
+			icon: "minecraft:skeleton_skull"
+			x: -12.5d
+			y: 1.5d
+			description: ["The world has grown stronger. As you advance in it, so will your enemies increase in power and health. It'd be unwise to take on a group..."]
+			dependencies: ["184C127F1197DEB1"]
+			id: "243E6CA06D45695D"
+			tasks: [{
+				id: "47A13A9B2073EB28"
+				type: "checkmark"
+				title: "Wilder world"
+			}]
+		}
+		{
+			x: -11.0d
+			y: 0.0d
+			description: ["You can increase your health permanently by eating unique foods."]
+			dependencies: ["243E6CA06D45695D"]
+			id: "72D349D10335F378"
+			tasks: [{
+				id: "0E93E52E59D0A920"
+				type: "item"
+				item: "solcarrot:food_book"
+			}]
+		}
+		{
+			icon: "silverlight:obelisk"
+			x: -9.5d
+			y: 4.5d
+			description: ["Activate an Obelisk during the night to grow stronger. You can activate the Obelisk by right clicking it with Silverlight."]
+			dependencies: ["51D0E165F60BF7D0"]
+			id: "316FB5C06C3221BF"
+			tasks: [{
+				id: "123BE25DC09D8AEB"
+				type: "checkmark"
+				title: "Activate your first Obelisk"
+			}]
+			rewards: [{
+				id: "58FAA4C7AEE75E1B"
+				type: "item"
+				item: "silverlight:silverlightraw"
+			}]
+		}
+		{
+			title: "Broken bones"
+			x: -14.0d
+			y: 1.5d
+			description: ["Bones are useful resources that can be used to craft primitive tools. You can obtain bones by killing animals, or by picking them off the ground."]
+			dependencies: ["43CB95DD9563DEC6"]
+			id: "184C127F1197DEB1"
+			tasks: [{
+				id: "4C1D0DB9C7DB48B7"
+				type: "item"
+				title: "Obtain bones"
+				item: "minecraft:bone"
+			}]
+		}
+		{
+			title: "Home sweet home"
+			icon: "minecraft:red_bed"
+			x: -6.0d
+			y: 0.0d
+			description: ["Your best chance of survival is teaming up and building a fortress. Your second best is to find a bed, and sleep through the night."]
+			dependencies: ["2EE9360E051175EC"]
+			secret: true
+			id: "68A6E6339577403C"
+			tasks: [{
+				id: "29BF4C10652DE15F"
+				type: "stat"
+				title: "Find a bed, and sleep in it"
+				icon: "minecraft:red_bed"
+				stat: "minecraft:sleep_in_bed"
+				value: 1
+			}]
+			rewards: [{
+				id: "2A2DA9D3535222F4"
+				type: "item"
+				item: "croptopia:scrambled_eggs"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 6.5d
+			dependencies: ["097DE4C0A402B495"]
+			secret: true
+			id: "78144445FE83959C"
+			tasks: [{
+				id: "02C3E1B653248103"
+				type: "item"
+				title: "Obtain an emerald"
+				item: "minecraft:emerald"
+			}]
+			rewards: [{
+				id: "04DEEA61305E023A"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			title: "Difficult?"
+			icon: "minecraft:skeleton_skull"
+			x: -8.5d
+			y: -1.5d
+			id: "42A46CC6ECA6C1B1"
+			tasks: [{
+				id: "1CA6E05F6A157AD1"
+				type: "kill"
+				entity: "minecraft:skeleton"
+				value: 3L
+			}]
+		}
+		{
+			title: "Breach the underground"
+			x: -5.5d
+			y: 5.0d
+			secret: true
+			id: "097DE4C0A402B495"
+			tasks: [{
+				id: "5F62BF0474741C6B"
+				type: "item"
+				title: "Obtain an iron pickaxe"
+				item: {
+					id: "minecraft:iron_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 3.5d
+			description: [
+				"Every time you find or craft an item, it can have unique qualities. Think of extra protection, damage, or even special buffs to your stats."
+				"Not happy with the result? You can upgrade stats by combining the item with a diamond in an anvil, or reroll its stats by combining it with lapis lazuli."
+			]
+			dependencies: ["097DE4C0A402B495"]
+			id: "0017E61769F2174C"
+			tasks: [{
+				id: "4AA1638C36A35342"
+				type: "checkmark"
+				title: "Item quality"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 0.0d
+			dependencies: ["68A6E6339577403C"]
+			id: "4592A06ED772120B"
+			tasks: [{
+				id: "01E25A5BD90670BC"
+				type: "questsadditions:place"
+				title: "Make yourself comfortable"
+				block_type: 0
+				block: "minecraft:campfire"
+				value: 1L
+				replaced: "minecraft:air"
+				replace: false
+			}]
+		}
+		{
+			title: "The Astral planes"
+			icon: "endrem:ancient_portal_frame"
+			x: -2.0d
+			y: 0.0d
+			subtitle: "Unseal the heavenly gate"
+			description: ["Long ago, the gateway to the astral planes was sealed - It's keys locked into twelve eyes, ensuring that no more divine interference would drip into the realms. Alas, it seems to have been for nothing. Our goddess Moon has been defeated, her form left battered. To ensure her survival, the gates must be reopened and her winged usurper overthrown."]
+			dependencies: ["4592A06ED772120B"]
+			id: "7F29758697AE8254"
+			tasks: [{
+				id: "62643E4A3A5A53AC"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "Pointy end"
+			x: -11.0d
+			y: -1.5d
+			dependencies: ["184C127F1197DEB1"]
+			id: "0D320E8D9BA4E78C"
+			tasks: [{
+				id: "3CB4FBDB152C09C6"
+				type: "item"
+				title: "Craft a bone sword"
+				item: {
+					id: "primitivestart:bone_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
 					}
 				}
 			}]
 		}
 	]
+	quest_links: [ ]
 }

@@ -27,4 +27,5 @@
 			structure: "minecraft:monument"
 		}]
 	}]
+	quest_links: [ ]
 }
