@@ -1,7 +1,9 @@
 {
 	chapter_groups: [
-		{ id: "0B03CCB1271D0381", title: "The basics" }
-		{ id: "3CA254D50DD5D90C", title: "Hungry yet?" }
-		{ id: "1D8F1A483208D022", title: "End of the journey" }
+		{ id: "0B03CCB1271D0381", title: "Chapter I: The Moon Champion Rises" }
+		{ id: "3CA254D50DD5D90C", title: "Chapter II: Hungry yet?" }
+		{ id: "1D8F1A483208D022", title: "Chapter III: End of a Journey" }
+		{ id: "05D9CF124E2ADAED", title: "Chapter IV: Pest Control" }
+		{ id: "4B7EEC34DE5C626E", title: "Chapter V: The Collector" }
 	]
 }

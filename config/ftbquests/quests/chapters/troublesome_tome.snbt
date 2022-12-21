@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 0
 	filename: "troublesome_tome"
-	title: "Difficulty modifiers"
+	title: "Hidden rewards"
 	disable_toast: true
 	subtitle: ["Secret health and difficulty modifiers for modpack progression."]
 	always_invisible: true
@@ -627,6 +627,27 @@
 				ignore_reward_blocking: true
 				command: "/sldebuff10"
 				player_command: false
+			}]
+		}
+		{
+			x: -8.0d
+			y: -8.5d
+			invisible: true
+			secret: true
+			id: "167205A5E1C9D4C7"
+			tasks: [{
+				id: "04DE6E619E974F10"
+				type: "advancement"
+				title: "Give quest book"
+				secret: true
+				advancement: "minecraft:story/root"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "059D678C6DA366AF"
+				type: "item"
+				auto: "no_toast"
+				item: "ftbquests:book"
 			}]
 		}
 	]

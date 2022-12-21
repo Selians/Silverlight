@@ -28,7 +28,7 @@ LootJS.modifiers((event) => {
         .removeLoot("scalinghealth:medkit");
 
 // --------------------- SCALING HEALTH ------------------------
-event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:bonus_drops/peaceful")
+event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:bonus_drops/peaceful", "blocks/power_crystal_ore", "blocks/heart_crystal_ore", "blocks/deepslate_power_crystal_ore", "blocks/deepslate_heart_crystal_ore")
 .removeLoot("scalinghealth:heart_crystal")
 .removeLoot("scalinghealth:power_crystal")
 .removeLoot("scalinghealth:cursed_heart")
@@ -89,6 +89,28 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
 
 // ------------------ BOSSES ----------------
 
+    event.addEntityLootModifier("minecraft:wither")
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+
+    event.addEntityLootModifier("minecraft:ender_dragon")
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+
     event.addEntityLootModifier("cataclysm:netherite_monstrosity")
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
@@ -101,9 +123,11 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:nether_eye");
 
     event.addEntityLootModifier("ob_aquamirae:captain_cornelia")
+        .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
@@ -112,9 +136,14 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
     
     event.addEntityLootModifier("born_in_chaos_v1:felsteed")
         .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:undead_eye");
 
     event.addEntityLootModifier("knight_quest:kq_netherman")
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
+        .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')

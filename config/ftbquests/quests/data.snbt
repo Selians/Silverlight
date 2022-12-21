@@ -1,6 +1,6 @@
 {
 	version: 13
-	title: "The Moon's Guidance"
+	title: "Tome of Guidance"
 	icon: {
 		id: "create_sa:rose_quartz_sword"
 		Count: 1b

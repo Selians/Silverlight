@@ -2,7 +2,7 @@
 #All SH features can be disabled here. False to disable.
 [features]
 	#Enable player bonus hp by crystals.
-	crystalsAddHealth = true
+	crystalsAddHealth = false
 	#Enable player bonus hp by xp.
 	xpAddHealth = false
 	#Enable player regen hp by crystals.

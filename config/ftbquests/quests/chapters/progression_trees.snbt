@@ -1,0 +1,103 @@
+{
+	id: "64B424914E7A45B1"
+	group: "05D9CF124E2ADAED"
+	order_index: 0
+	filename: "progression_trees"
+	title: "Monster Slayer"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Dawn of the Monster Slayer"
+			icon: {
+				id: "knight_quest:kq_sword_steel"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -11.0d
+			y: -1.0d
+			subtitle: "Chapter is work in progress."
+			id: "4BB7C278D1F6C99F"
+			tasks: [{
+				id: "31F34D8C9B690656"
+				type: "stat"
+				title: "Slay 100 monsters"
+				icon: {
+					id: "knight_quest:kq_sword_steel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				secret: true
+				stat: "minecraft:mob_kills"
+				value: 100
+			}]
+		}
+		{
+			title: "Cleanse them with fire"
+			x: -5.0d
+			y: -0.5d
+			dependencies: ["052F53EB26B94E25"]
+			hide: true
+			id: "276399720A995F5D"
+			tasks: [{
+				id: "35A722E5622AC573"
+				type: "kill"
+				entity: "minecraft:spider"
+				value: 75L
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.0d
+			hide_dependency_lines: true
+			dependencies: ["4BB7C278D1F6C99F"]
+			hide: true
+			id: "052F53EB26B94E25"
+			tasks: [{
+				id: "01699F32B2128D95"
+				type: "structure"
+				title: "Locate a spider dungeon"
+				icon: "biomesoplenty:hanging_cobweb"
+				structure: "betterdungeons:spider_dungeon"
+			}]
+		}
+		{
+			title: "Cavern Crawlers"
+			x: -5.0d
+			y: -1.5d
+			dependencies: ["052F53EB26B94E25"]
+			hide: true
+			id: "6EAC41CDAC4BBE39"
+			tasks: [{
+				id: "3D680F7A81C086EE"
+				type: "kill"
+				entity: "minecraft:cave_spider"
+				value: 45L
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			dependencies: [
+				"276399720A995F5D"
+				"6EAC41CDAC4BBE39"
+			]
+			hide: true
+			id: "4EEFFC43AD6A8161"
+			tasks: [{
+				id: "655CD85713AFCF90"
+				type: "questsadditions:break"
+				icon: "biomesoplenty:spider_egg"
+				block_type: 0
+				block: "biomesoplenty:spider_egg"
+				value: 20L
+				checkItem: false
+			}]
+		}
+	]
+	quest_links: [ ]
+}

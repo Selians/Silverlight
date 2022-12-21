@@ -3,7 +3,7 @@
 	group: "3CA254D50DD5D90C"
 	order_index: 0
 	filename: "hungry_yet"
-	title: "Hungry yet?"
+	title: "Cooking 101"
 	icon: {
 		id: "create:honeyed_apple"
 		Count: 1b

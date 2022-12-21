@@ -4,6 +4,7 @@
 	order_index: 0
 	filename: "getting_started"
 	title: "Getting started"
+	icon: "minecraft:sculk_vein"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -79,11 +80,11 @@
 			}]
 		}
 		{
-			x: -7.0d
-			y: 6.5d
+			x: -6.0d
+			y: -4.5d
 			description: [
 				"Want to carry more stuff? Craft a backpack!"
-				"Backpacks can be improved by enchanting them."
+				"Backpacks can be improved via enchantments."
 			]
 			dependencies: ["097DE4C0A402B495"]
 			id: "358AFE6E6183F3BC"
@@ -95,10 +96,11 @@
 		}
 		{
 			title: "Shielded"
-			x: -7.0d
-			y: -3.0d
+			x: -4.5d
+			y: 5.5d
 			description: ["Have you tried crafting a shield?"]
 			dependencies: ["42A46CC6ECA6C1B1"]
+			secret: true
 			id: "7CD169119F74731B"
 			tasks: [{
 				id: "58E54B75F5EACC5F"
@@ -165,9 +167,9 @@
 		}
 		{
 			title: "Limited supply"
-			x: -5.5d
-			y: 8.0d
-			description: ["Special items may be a little harder to come by, nowadays. Perhaps you know of a time where special enchantments were traded by villagers, but sadly these are hard to come by nowadays. If you're lucky, its said that wandering traders still have their ways..."]
+			x: -7.5d
+			y: -3.0d
+			description: ["Perhaps you know of a time where special enchantments were traded by villagers, but sadly these are hard to come by nowadays. If you're lucky, you might find a wandering trader that still sells some."]
 			dependencies: ["78144445FE83959C"]
 			secret: true
 			id: "43ED2E83E7B020B2"
@@ -187,6 +189,7 @@
 			y: 3.0d
 			description: ["Obelisks are ancient structures, said to contain the goddess Moon's courage and strength."]
 			dependencies: ["243E6CA06D45695D"]
+			hide: true
 			id: "6A7D75A1140C63C8"
 			tasks: [{
 				id: "623725F6FEFE9672"
@@ -217,6 +220,7 @@
 			y: 0.0d
 			description: ["You can increase your health permanently by eating unique foods."]
 			dependencies: ["243E6CA06D45695D"]
+			hide: true
 			id: "72D349D10335F378"
 			tasks: [{
 				id: "0E93E52E59D0A920"
@@ -280,8 +284,8 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 6.5d
+			x: -9.0d
+			y: -3.0d
 			dependencies: ["097DE4C0A402B495"]
 			secret: true
 			id: "78144445FE83959C"
@@ -298,10 +302,11 @@
 			}]
 		}
 		{
-			title: "Difficult?"
+			title: "Skulled"
 			icon: "minecraft:skeleton_skull"
-			x: -8.5d
-			y: -1.5d
+			x: -6.0d
+			y: 4.0d
+			secret: true
 			id: "42A46CC6ECA6C1B1"
 			tasks: [{
 				id: "1CA6E05F6A157AD1"
@@ -312,8 +317,8 @@
 		}
 		{
 			title: "Breach the underground"
-			x: -5.5d
-			y: 5.0d
+			x: -10.5d
+			y: -4.5d
 			secret: true
 			id: "097DE4C0A402B495"
 			tasks: [{
@@ -330,11 +335,11 @@
 			}]
 		}
 		{
-			x: -4.0d
-			y: 3.5d
+			x: -12.0d
+			y: -3.0d
 			description: [
-				"Every time you find or craft an item, it can have unique qualities. Think of extra protection, damage, or even special buffs to your stats."
-				"Not happy with the result? You can upgrade stats by combining the item with a diamond in an anvil, or reroll its stats by combining it with lapis lazuli."
+				"Every item that you craft or find, can have unique attributes. Think of extra protection, damage, or even special buffs to your stats."
+				"Not happy with what you got? You can upgrade stats by combining the item with a diamond in an anvil, or reroll its stats by combining it with lapis lazuli."
 			]
 			dependencies: ["097DE4C0A402B495"]
 			id: "0017E61769F2174C"
@@ -345,14 +350,15 @@
 			}]
 		}
 		{
-			x: -4.5d
+			title: "Make yourself comfortable"
+			x: -4.0d
 			y: 0.0d
 			dependencies: ["68A6E6339577403C"]
 			id: "4592A06ED772120B"
 			tasks: [{
 				id: "01E25A5BD90670BC"
 				type: "questsadditions:place"
-				title: "Make yourself comfortable"
+				title: "Place a campfire"
 				block_type: 0
 				block: "minecraft:campfire"
 				value: 1L
@@ -376,16 +382,18 @@
 		}
 		{
 			title: "Pointy end"
-			x: -11.0d
-			y: -1.5d
+			x: -14.0d
+			y: -3.0d
+			description: ["A bone pickaxe is a good start, but you'll need something stronger in the long run. Try reinforcing it with copper, using a smithing table."]
 			dependencies: ["184C127F1197DEB1"]
+			hide: true
 			id: "0D320E8D9BA4E78C"
 			tasks: [{
 				id: "3CB4FBDB152C09C6"
 				type: "item"
-				title: "Craft a bone sword"
+				title: "Craft a bone pickaxe"
 				item: {
-					id: "primitivestart:bone_sword"
+					id: "primitivestart:bone_pickaxe"
 					Count: 1b
 					tag: {
 						Damage: 0
