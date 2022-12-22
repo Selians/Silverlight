@@ -17,7 +17,7 @@
 	quests: [
 		{
 			title: "That is one big bowl!"
-			x: -1.0d
+			x: 0.0d
 			y: -1.0d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "3E697C37F77B3285"
@@ -29,7 +29,7 @@
 		}
 		{
 			title: "Why not call it a \"Hot Rod\"?"
-			x: 3.5d
+			x: 3.0d
 			y: -1.0d
 			dependencies: ["400BCAF86CC6031D"]
 			id: "6592FC9D2B8F63B3"
@@ -41,7 +41,7 @@
 		}
 		{
 			title: "The essence of the matter"
-			x: 0.5d
+			x: 1.0d
 			y: -1.0d
 			description: ["These are often obtained from breaking a mobspawner"]
 			dependencies: ["3E697C37F77B3285"]
@@ -68,7 +68,7 @@
 		}
 		{
 			title: "Cry me a river"
-			x: 5.0d
+			x: 4.0d
 			y: -1.0d
 			dependencies: ["6592FC9D2B8F63B3"]
 			id: "138D8D9DC18C3639"
@@ -79,7 +79,7 @@
 			}]
 		}
 		{
-			x: 6.5d
+			x: 5.0d
 			y: -1.0d
 			description: [
 				"To summon the creature, hold the stave in the left hand"
@@ -96,7 +96,7 @@
 			}]
 		}
 		{
-			x: 9.5d
+			x: 7.0d
 			y: -1.0d
 			dependencies: ["20186E754F73CB08"]
 			id: "4D975BC1E02791FC"
@@ -113,7 +113,7 @@
 			}]
 		}
 		{
-			x: 8.0d
+			x: 6.0d
 			y: -1.0d
 			dependencies: ["74CCC5D017280F58"]
 			id: "20186E754F73CB08"
@@ -121,7 +121,7 @@
 				id: "56239B8B48B0D19E"
 				type: "kill"
 				icon: {
-					id: "knight_quest:kq_deepslate_marbled_set_helmet"
+					id: "knight_quest:kq_ghast_set_helmet"
 					Count: 1b
 					tag: {
 						Damage: 0

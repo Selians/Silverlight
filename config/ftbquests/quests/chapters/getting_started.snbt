@@ -381,25 +381,39 @@
 			}]
 		}
 		{
-			title: "Pointy end"
+			title: "Tough luck"
+			icon: {
+				id: "primitivestart:reinforced_bone_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
 			x: -14.0d
 			y: -3.0d
 			description: ["A bone pickaxe is a good start, but you'll need something stronger in the long run. Try reinforcing it with copper, using a smithing table."]
 			dependencies: ["184C127F1197DEB1"]
 			hide: true
 			id: "0D320E8D9BA4E78C"
-			tasks: [{
-				id: "3CB4FBDB152C09C6"
-				type: "item"
-				title: "Craft a bone pickaxe"
-				item: {
-					id: "primitivestart:bone_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "3CB4FBDB152C09C6"
+					type: "item"
+					title: "Craft a bone pickaxe"
+					item: {
+						id: "primitivestart:bone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+				{
+					id: "7CE27A5972EA13E9"
+					type: "item"
+					item: "minecraft:raw_copper"
+				}
+			]
 		}
 	]
 	quest_links: [ ]

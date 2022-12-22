@@ -1,9 +1,9 @@
 {
 	id: "799E6362C2B00CFB"
 	group: "1D8F1A483208D022"
-	order_index: 7
+	order_index: 6
 	filename: "undead_eye"
-	title: "Thou shall now be knighted"
+	title: "How to grow a knight 101"
 	icon: {
 		id: "endrem:undead_eye"
 		Count: 1b
@@ -14,6 +14,126 @@
 	subtitle: ["One imbued with a steed of bone"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			title: "Step 1:"
+			x: -5.0d
+			y: 0.5d
+			description: ["Get yourself a nice pumpkin"]
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "2FCB01E317484B59"
+			tasks: [{
+				id: "06A6FC3B4CEC9388"
+				type: "item"
+				item: "minecraft:pumpkin"
+			}]
+			rewards: [{
+				id: "65E335BBA4120FD8"
+				type: "item"
+				item: "minecraft:bone_meal"
+			}]
+		}
+		{
+			title: "Step 2:"
+			x: -4.0d
+			y: 0.5d
+			description: ["Cultivate it by combining it with bonemeal"]
+			dependencies: ["2FCB01E317484B59"]
+			id: "49D74F705C228209"
+			tasks: [{
+				id: "5AFCED31BAB6CADF"
+				type: "item"
+				item: "born_in_chaos_v1:cultivated_pumpkin"
+			}]
+			rewards: [{
+				id: "554273F7B380B0E6"
+				type: "item"
+				item: {
+					id: "minecraft:shears"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Step 3:"
+			x: -3.0d
+			y: 0.5d
+			description: ["Cut out a \"nice\" face with shears"]
+			dependencies: ["49D74F705C228209"]
+			id: "2148757EC1CD3510"
+			tasks: [{
+				id: "33407B615180FB4C"
+				type: "item"
+				item: "born_in_chaos_v1:evil_carved_pumpkin"
+			}]
+		}
+		{
+			title: "Step 4:"
+			x: -2.0d
+			y: 0.5d
+			description: ["Add some lighting with a candle and for the spooky effect, add a soul"]
+			dependencies: ["2148757EC1CD3510"]
+			id: "06109A3CF000430A"
+			tasks: [{
+				id: "2839F35D8B1AB5DE"
+				type: "item"
+				item: "born_in_chaos_v1:infernal_evil_pumpkin"
+			}]
+		}
+		{
+			title: "Step 5:"
+			x: -1.0d
+			y: 0.5d
+			description: ["Once it glows green, one should add a skull to it"]
+			dependencies: ["06109A3CF000430A"]
+			id: "10FA0BA799A7E24A"
+			tasks: [{
+				id: "0E5F4BE7F5E70278"
+				type: "item"
+				item: "born_in_chaos_v1:infernal_evil_pumpkin_s"
+			}]
+		}
+		{
+			title: "Final step:"
+			x: 0.0d
+			y: 0.5d
+			description: ["One flick of the wrist and you have yourself a lovely knight!"]
+			dependencies: ["10FA0BA799A7E24A"]
+			id: "36ECE277A676EBF0"
+			tasks: [{
+				id: "3B5EA17F7F71FC28"
+				type: "kill"
+				icon: {
+					id: "born_in_chaos_v1:pumpkin_staff"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "born_in_chaos_v1:ser_pumpkinhead"
+				value: 1L
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.5d
+			dependencies: ["36ECE277A676EBF0"]
+			id: "5428905A83A04F20"
+			tasks: [{
+				id: "7F829E432B64BA7C"
+				type: "item"
+				item: {
+					id: "endrem:undead_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
 	quest_links: [ ]
 }

@@ -11,8 +11,18 @@
 			Damage: 0
 		}
 	}
+	subtitle: ["One sealed in an ancient temple, filled with traps"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		x: -2.0d
+		y: 0.5d
+		id: "78E8C346E76D8D95"
+		tasks: [{
+			id: "23D246214E7A22FB"
+			type: "structure"
+			structure: "minecraft:jungle_pyramid"
+		}]
+	}]
 	quest_links: [ ]
 }

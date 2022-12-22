@@ -122,6 +122,8 @@
 				"Thus the gateway to the astral planes was sealed and locked into twelve Eyes, to ensure that no more hostile energy would drip into the realms of the overworld. "
 				"Recently, monsters are evolving and growing stronger and thus a champion (you) was cast down to this realm to reclaim it for the Goddess Moon."
 			]
+			dependencies: ["7F29758697AE8254"]
+			hide: true
 			id: "3846BAAB602C76E5"
 			tasks: [{
 				id: "4A7D30C72CCDDACD"
@@ -226,6 +228,7 @@
 		{
 			x: 3.0d
 			y: -6.0d
+			dependencies: ["2D51B8C0A5E1FA37"]
 			id: "30A5FD2EFC96500B"
 			tasks: [{
 				id: "7943798E6627B2DD"
@@ -275,6 +278,7 @@
 		{
 			x: 5.5d
 			y: -4.5d
+			dependencies: ["5428905A83A04F20"]
 			id: "1C9FFDF9FE0B1CE3"
 			tasks: [{
 				id: "6297686FDD21DF1A"

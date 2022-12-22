@@ -3,7 +3,7 @@
 	group: "1D8F1A483208D022"
 	order_index: 4
 	filename: "guardian_eye"
-	title: "Guardian eye"
+	title: "Seeing Red"
 	icon: {
 		id: "endrem:guardian_eye"
 		Count: 1b
@@ -14,18 +14,52 @@
 	subtitle: ["One instilled into a creature guarding sunken temples"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "A monumental task"
-		x: -3.0d
-		y: 0.0d
-		description: ["Once again, you have to dive deep in search for one of the eyes"]
-		id: "16DD12A903368DB6"
-		tasks: [{
-			id: "0F817790218E6D1C"
-			type: "structure"
-			icon: "minecraft:dark_prismarine"
-			structure: "minecraft:monument"
-		}]
-	}]
+	quests: [
+		{
+			title: "A monumental task"
+			x: -4.0d
+			y: 0.0d
+			description: ["Once again, you have to dive deep in search for one of the eyes"]
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "16DD12A903368DB6"
+			tasks: [{
+				id: "0F817790218E6D1C"
+				type: "structure"
+				icon: "minecraft:dark_prismarine"
+				structure: "minecraft:monument"
+			}]
+		}
+		{
+			title: "Guard against this!"
+			x: -2.5d
+			y: 0.0d
+			dependencies: ["16DD12A903368DB6"]
+			id: "1488977258C441A6"
+			tasks: [{
+				id: "10C05CD3AFBE34A8"
+				type: "kill"
+				icon: "minecraft:elder_guardian_spawn_egg"
+				entity: "minecraft:elder_guardian"
+				value: 3L
+			}]
+		}
+		{
+			x: -1.0d
+			y: 0.0d
+			dependencies: ["1488977258C441A6"]
+			id: "2D51B8C0A5E1FA37"
+			tasks: [{
+				id: "73B32A8BC26EA663"
+				type: "item"
+				item: {
+					id: "endrem:guardian_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
 	quest_links: [ ]
 }

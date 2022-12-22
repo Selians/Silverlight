@@ -33,7 +33,7 @@
 				}
 				secret: true
 				stat: "minecraft:mob_kills"
-				value: 100
+				value: 1000
 			}]
 		}
 		{
