@@ -3,7 +3,7 @@
 	group: "1D8F1A483208D022"
 	order_index: 9
 	filename: "old_eye"
-	title: "old eye"
+	title: "The sand gets everywhere!"
 	icon: {
 		id: "endrem:old_eye"
 		Count: 1b
@@ -14,6 +14,50 @@
 	subtitle: ["One entombed with a wise king"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			title: "Sand AND sweat..."
+			x: -1.5d
+			y: 0.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "7245B4AC0174A58E"
+			tasks: [{
+				id: "3434AA27F39D6484"
+				type: "biome"
+				icon: "minecraft:sand"
+				biome: "minecraft:desert"
+			}]
+		}
+		{
+			title: "Is it a scheme?"
+			x: 0.0d
+			y: 0.0d
+			dependencies: ["7245B4AC0174A58E"]
+			id: "6A42302C359F3FC7"
+			tasks: [{
+				id: "7EEEFD7A509E6D24"
+				type: "structure"
+				icon: "minecraft:sandstone_stairs"
+				structure: "minecraft:desert_pyramid"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			dependencies: ["6A42302C359F3FC7"]
+			id: "37542CEE1ABA1825"
+			tasks: [{
+				id: "12652E770931D0BB"
+				type: "item"
+				item: {
+					id: "endrem:old_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
 	quest_links: [ ]
 }

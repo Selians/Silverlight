@@ -207,6 +207,11 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "093536AEA5263A76"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+			}]
 		}
 		{
 			x: 0.5d
@@ -224,17 +229,33 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "321D8D14BCB57F94"
+				type: "item"
+				item: "minecraft:pufferfish_bucket"
+			}]
 		}
 		{
 			x: 3.0d
 			y: -6.0d
-			dependencies: ["2D51B8C0A5E1FA37"]
+			dependencies: ["492C7951895CD1A9"]
 			id: "30A5FD2EFC96500B"
 			tasks: [{
 				id: "7943798E6627B2DD"
 				type: "item"
 				item: {
 					id: "endrem:guardian_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "3160BEE684BE8842"
+				type: "item"
+				item: {
+					id: "minecraft:trident"
 					Count: 1b
 					tag: {
 						Damage: 0
@@ -278,7 +299,7 @@
 		{
 			x: 5.5d
 			y: -4.5d
-			dependencies: ["5428905A83A04F20"]
+			dependencies: ["083825BCD592DD3E"]
 			id: "1C9FFDF9FE0B1CE3"
 			tasks: [{
 				id: "6297686FDD21DF1A"
@@ -291,6 +312,18 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "040C0DB7F633DF9F"
+					type: "item"
+					item: "farmersdelight:stuffed_pumpkin_block"
+				}
+				{
+					id: "674F432C9D3D9022"
+					type: "item"
+					item: "croptopia:pumpkin_spice_latte"
+				}
+			]
 		}
 		{
 			x: 6.5d
@@ -312,6 +345,7 @@
 		{
 			x: 4.5d
 			y: -0.5d
+			dependencies: ["37542CEE1ABA1825"]
 			id: "565AB59ACC719146"
 			tasks: [{
 				id: "19C6407A9BDCA7CE"
@@ -328,6 +362,7 @@
 		{
 			x: 3.0d
 			y: 0.0d
+			dependencies: ["274E11BD867B98CF"]
 			id: "7012DB9866449AC3"
 			tasks: [{
 				id: "610503690FC4974A"
@@ -344,6 +379,7 @@
 		{
 			x: 0.5d
 			y: -1.5d
+			dependencies: ["4E2BEB46B1B79816"]
 			id: "0A12E11B1178B688"
 			tasks: [{
 				id: "0BC58C1E0875AC9A"

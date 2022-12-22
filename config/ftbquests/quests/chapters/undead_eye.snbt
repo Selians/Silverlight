@@ -3,7 +3,11 @@
 	group: "1D8F1A483208D022"
 	order_index: 6
 	filename: "undead_eye"
+<<<<<<< Updated upstream
 	title: "How to grow a knight 101"
+=======
+	title: "Grow your own knight 101"
+>>>>>>> Stashed changes
 	icon: {
 		id: "endrem:undead_eye"
 		Count: 1b
@@ -16,6 +20,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
+<<<<<<< Updated upstream
 			title: "Step 1:"
 			x: -5.0d
 			y: 0.5d
@@ -42,11 +47,26 @@
 			id: "49D74F705C228209"
 			tasks: [{
 				id: "5AFCED31BAB6CADF"
+=======
+			title: "Step 2:"
+			x: -5.5d
+			y: -0.5d
+			subtitle: "Cultivation methods"
+			description: ["Now, to cultivate it, combine it with some fertiliser"]
+			dependencies: ["6228F0875F7C047A"]
+			id: "5564238939A796CD"
+			tasks: [{
+				id: "3DCACF35DBFB97C3"
+>>>>>>> Stashed changes
 				type: "item"
 				item: "born_in_chaos_v1:cultivated_pumpkin"
 			}]
 			rewards: [{
+<<<<<<< Updated upstream
 				id: "554273F7B380B0E6"
+=======
+				id: "544EEDDDA23BB204"
+>>>>>>> Stashed changes
 				type: "item"
 				item: {
 					id: "minecraft:shears"
@@ -59,6 +79,7 @@
 		}
 		{
 			title: "Step 3:"
+<<<<<<< Updated upstream
 			x: -3.0d
 			y: 0.5d
 			description: ["Cut out a \"nice\" face with shears"]
@@ -81,22 +102,75 @@
 				id: "2839F35D8B1AB5DE"
 				type: "item"
 				item: "born_in_chaos_v1:infernal_evil_pumpkin"
+=======
+			x: -4.0d
+			y: -0.5d
+			subtitle: "Sigh, I said a NICE face"
+			description: ["Now, give it a nice carved face"]
+			dependencies: ["5564238939A796CD"]
+			id: "68556F3DB7991722"
+			tasks: [{
+				id: "267FE2C580256DA9"
+				type: "item"
+				item: "born_in_chaos_v1:evil_carved_pumpkin"
+			}]
+			rewards: [{
+				id: "488F559A7969DA6C"
+				type: "item"
+				item: "minecraft:candle"
+			}]
+		}
+		{
+			title: "Step 4:"
+			x: -2.5d
+			y: -0.5d
+			description: ["Add a candle to lighten up the mood"]
+			dependencies: ["68556F3DB7991722"]
+			id: "3630074F6FBFEDD6"
+			tasks: [{
+				id: "6FD68F1ADFDC9DDC"
+				type: "item"
+				item: "born_in_chaos_v1:flaming_evil_pumpkin"
+>>>>>>> Stashed changes
 			}]
 		}
 		{
 			title: "Step 5:"
 			x: -1.0d
+<<<<<<< Updated upstream
 			y: 0.5d
 			description: ["Once it glows green, one should add a skull to it"]
 			dependencies: ["06109A3CF000430A"]
 			id: "10FA0BA799A7E24A"
 			tasks: [{
 				id: "0E5F4BE7F5E70278"
+=======
+			y: -0.5d
+			description: ["Next, add a skull to give it some character"]
+			dependencies: ["3630074F6FBFEDD6"]
+			id: "5F02968A030687BD"
+			tasks: [{
+				id: "43461E0EA6738EE2"
+				type: "item"
+				item: "born_in_chaos_v1:infernal_evil_pumpkin"
+			}]
+		}
+		{
+			title: "Step 6:"
+			x: 0.5d
+			y: -0.5d
+			description: ["Now place it and with the flick of the wrist, summon it!"]
+			dependencies: ["5F02968A030687BD"]
+			id: "7B6B62CE02EACBB1"
+			tasks: [{
+				id: "1E817D998BE8164F"
+>>>>>>> Stashed changes
 				type: "item"
 				item: "born_in_chaos_v1:infernal_evil_pumpkin_s"
 			}]
 		}
 		{
+<<<<<<< Updated upstream
 			title: "Final step:"
 			x: 0.0d
 			y: 0.5d
@@ -124,6 +198,55 @@
 			id: "5428905A83A04F20"
 			tasks: [{
 				id: "7F829E432B64BA7C"
+=======
+			title: "Step 1:"
+			x: -7.0d
+			y: -0.5d
+			subtitle: "What are you, a fairy godmother?"
+			description: ["Get yourself the biggest, prettiest pumpkin"]
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "6228F0875F7C047A"
+			tasks: [{
+				id: "7D76CB99208CAB00"
+				type: "item"
+				item: "minecraft:pumpkin"
+			}]
+			rewards: [{
+				id: "0ED42545C87877A9"
+				type: "item"
+				item: "minecraft:bone_meal"
+			}]
+		}
+		{
+			title: "Step 7:"
+			x: 2.0d
+			y: -0.5d
+			subtitle: "They grow up so fast"
+			description: ["Are you sure you followed the recipe correctly?"]
+			dependencies: ["7B6B62CE02EACBB1"]
+			id: "6EE1BB870963D75A"
+			tasks: [{
+				id: "7D62D04520571AA6"
+				type: "kill"
+				icon: "minecraft:iron_horse_armor"
+				entity: "born_in_chaos_v1:ser_pumpkinhead"
+				value: 1L
+			}]
+			rewards: [{
+				id: "4A08CB89A53CBCF2"
+				type: "item"
+				item: "croptopia:roasted_pumpkin_seeds"
+				count: 5
+			}]
+		}
+		{
+			x: 3.5d
+			y: -0.5d
+			dependencies: ["6EE1BB870963D75A"]
+			id: "083825BCD592DD3E"
+			tasks: [{
+				id: "78FCAF6002F6CE22"
+>>>>>>> Stashed changes
 				type: "item"
 				item: {
 					id: "endrem:undead_eye"

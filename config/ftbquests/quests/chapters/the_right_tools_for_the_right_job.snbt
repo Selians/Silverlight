@@ -15,188 +15,635 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -11.5d
-			y: -11.5d
+			icon: {
+				id: "minecraft:wooden_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -13.0d
+			y: -19.5d
 			id: "0D54AC59C79E021F"
-			tasks: [{
-				id: "6F4F2A0A924AE0EA"
-				type: "item"
-				item: {
-					id: "minecraft:wooden_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "6F4F2A0A924AE0EA"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "25FF3CC1CBEB3CAF"
-				type: "item"
-				item: "minecraft:oak_planks"
-				count: 3
-			}]
+				{
+					id: "34DD78EBD4C3C567"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "16531358C98F0E2A"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "17CD24A8DC71CFC8"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6501FFEAD1B86740"
+					type: "item"
+					item: {
+						id: "aquaculture:wooden_fillet_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "25FF3CC1CBEB3CAF"
+					type: "item"
+					item: "minecraft:oak_planks"
+					count: 11
+				}
+				{
+					id: "6475D07ECB1B680A"
+					type: "item"
+					item: "minecraft:chest"
+				}
+			]
 		}
 		{
-			x: -10.0d
-			y: -11.5d
+			icon: {
+				id: "minecraft:stone_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -13.0d
+			y: -18.0d
 			dependencies: [
 				"76361219D9E59C3D"
 				"0D54AC59C79E021F"
 			]
 			id: "4D5BA50F595AA6E7"
-			tasks: [{
-				id: "37CA4C77C218ABBB"
-				type: "item"
-				item: {
-					id: "minecraft:stone_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "37CA4C77C218ABBB"
+					type: "item"
+					item: {
+						id: "minecraft:stone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "5AE836E7D3BD39D6"
-				type: "item"
-				item: "minecraft:cobblestone"
-				count: 3
-			}]
+				{
+					id: "0525A2E50B704A7A"
+					type: "item"
+					item: {
+						id: "minecraft:stone_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "13B13C5D5BA62C64"
+					type: "item"
+					item: {
+						id: "minecraft:stone_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "64021F9EFC5DD0B6"
+					type: "item"
+					item: {
+						id: "minecraft:stone_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3AA862492C662AF1"
+					type: "item"
+					item: {
+						id: "aquaculture:stone_fillet_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5AE836E7D3BD39D6"
+					type: "item"
+					item: "minecraft:cobblestone"
+					count: 11
+				}
+				{
+					id: "468C54B4BF15D6E7"
+					type: "item"
+					item: "minecraft:furnace"
+				}
+			]
 		}
 		{
-			x: -7.0d
-			y: -11.0d
+			icon: {
+				id: "minecraft:golden_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -14.5d
+			y: -15.0d
 			dependencies: [
 				"1E699FF6502E4E2A"
 				"5B4A9C2942A99362"
 			]
 			id: "162DC2F82A615738"
-			tasks: [{
-				id: "1FAA6BA670DFC236"
-				type: "item"
-				item: {
-					id: "minecraft:golden_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "1FAA6BA670DFC236"
+					type: "item"
+					item: {
+						id: "minecraft:golden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "7943F20FC6872FEA"
-				type: "item"
-				item: {
-					id: "minecraft:gold_ingot"
-					Count: 1b
-					tag: { }
+				{
+					id: "5DFF58A32D283F6B"
+					type: "item"
+					item: {
+						id: "minecraft:golden_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-				count: 3
-			}]
+				{
+					id: "3A78BFCEA626268F"
+					type: "item"
+					item: {
+						id: "minecraft:golden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "33144EE38A88F511"
+					type: "item"
+					item: {
+						id: "minecraft:golden_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "49FCC9E0CADDD721"
+					type: "item"
+					item: {
+						id: "farmersdelight:golden_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7943F20FC6872FEA"
+					type: "item"
+					item: {
+						id: "minecraft:gold_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 10
+				}
+				{
+					id: "0B7E48FA0F2027CE"
+					type: "item"
+					item: "fantasyfurniture:decorations/coin_stack_gold"
+					count: 10
+				}
+			]
 		}
 		{
-			x: -8.5d
-			y: -10.0d
+			icon: {
+				id: "minecraft:iron_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -14.5d
+			y: -16.5d
 			dependencies: ["4D5BA50F595AA6E7"]
 			id: "1E699FF6502E4E2A"
-			tasks: [{
-				id: "7ED2CE7285CCFE65"
-				type: "item"
-				item: {
-					id: "minecraft:iron_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "7ED2CE7285CCFE65"
+					type: "item"
+					item: {
+						id: "minecraft:iron_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "759EB2A5531656CA"
-				type: "item"
-				item: "minecraft:iron_ingot"
-				count: 3
-			}]
+				{
+					id: "0B289CF27C6FAE6C"
+					type: "item"
+					item: {
+						id: "minecraft:iron_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3420834AE59A9ECA"
+					type: "item"
+					item: {
+						id: "minecraft:iron_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "71961772B880D633"
+					type: "item"
+					item: {
+						id: "minecraft:iron_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "443CF7D18ECA92EA"
+					type: "item"
+					item: {
+						id: "farmersdelight:iron_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "759EB2A5531656CA"
+					type: "item"
+					item: "minecraft:iron_ingot"
+					count: 10
+				}
+				{
+					id: "68FAD624A75251F1"
+					type: "item"
+					item: {
+						id: "minecraft:iron_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -5.5d
-			y: -11.0d
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -13.0d
+			y: -13.5d
 			dependencies: ["162DC2F82A615738"]
 			id: "1091BF48EA4E866C"
-			tasks: [{
-				id: "401AD6A0C01954C8"
-				type: "item"
-				item: {
-					id: "minecraft:diamond_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "401AD6A0C01954C8"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "65CD37B61631E57C"
-				type: "item"
-				item: {
-					id: "minecraft:diamond"
-					Count: 1b
-					tag: { }
+				{
+					id: "45AF489E96D3B116"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-				count: 3
-			}]
+				{
+					id: "0779532962F28C77"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "17ABAB3D519BD254"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "361CC043DBF78CF2"
+					type: "item"
+					item: {
+						id: "farmersdelight:diamond_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "65CD37B61631E57C"
+					type: "item"
+					item: {
+						id: "minecraft:diamond"
+						Count: 1b
+						tag: { }
+					}
+					count: 10
+				}
+				{
+					id: "15900A3CA4FDF068"
+					type: "item"
+					item: {
+						id: "minecraft:diamond_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -4.0d
-			y: -12.5d
+			icon: {
+				id: "minecraft:netherite_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -10.0d
+			y: -12.0d
 			dependencies: ["1091BF48EA4E866C"]
 			id: "24AA8851FFBE92F9"
-			tasks: [{
-				id: "0EAC52E1C09FE57D"
-				type: "item"
-				item: {
-					id: "minecraft:netherite_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "0EAC52E1C09FE57D"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "198E9AD13D3F23C0"
-				type: "item"
-				item: {
-					id: "minecraft:netherite_ingot"
-					Count: 1b
-					tag: { }
+				{
+					id: "1E0C7C5AC5E752F5"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-			}]
+				{
+					id: "23DC1DB5BE66CE0E"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "79E244871D5EA3FF"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6BF508C9EBC6FA28"
+					type: "item"
+					item: {
+						id: "farmersdelight:netherite_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "198E9AD13D3F23C0"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 10
+				}
+				{
+					id: "77DE4FB47B63C7E8"
+					type: "item"
+					item: {
+						id: "shieldexp:netherite_shield"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -2.5d
-			y: -13.0d
+			icon: {
+				id: "deeperdarker:warden_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -10.0d
+			y: -10.5d
 			dependencies: ["24AA8851FFBE92F9"]
 			id: "48B3F8B0833739C8"
-			tasks: [{
-				id: "2B1D908531DFD9EB"
-				type: "item"
-				item: {
-					id: "deeperdarker:warden_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "2B1D908531DFD9EB"
+					type: "item"
+					item: {
+						id: "deeperdarker:warden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "3EB5FA1FBFB9730E"
-				type: "item"
-				item: {
-					id: "deeperdarker:reinforced_echo_shard"
-					Count: 1b
-					tag: { }
+				{
+					id: "13E57C60F5689CEB"
+					type: "item"
+					item: {
+						id: "deeperdarker:warden_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-			}]
+				{
+					id: "2A05E2BDC6F6D1BA"
+					type: "item"
+					item: {
+						id: "deeperdarker:warden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2E915EE64DD39D8C"
+					type: "item"
+					item: {
+						id: "deeperdarker:warden_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "76C68B948057375C"
+					type: "item"
+					item: {
+						id: "delightful:warden_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "3EB5FA1FBFB9730E"
+					type: "item"
+					item: {
+						id: "deeperdarker:reinforced_echo_shard"
+						Count: 1b
+						tag: { }
+					}
+					count: 5
+				}
+				{
+					id: "6489DAE0D9F23C65"
+					type: "item"
+					item: {
+						id: "deeperdarker:warden_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -4.0d
-			y: -11.5d
+			x: -11.5d
+			y: -12.0d
 			dependencies: ["1091BF48EA4E866C"]
 			id: "66C1C0E3C76D744E"
 			tasks: [{
@@ -214,20 +661,36 @@
 					}
 				}
 			}]
-			rewards: [{
-				id: "6D0D6F0D0305B3E2"
-				type: "item"
-				item: {
-					id: "miningmaster:haste_peridot"
-					Count: 1b
-					tag: { }
+			rewards: [
+				{
+					id: "6D0D6F0D0305B3E2"
+					type: "item"
+					item: {
+						id: "miningmaster:haste_peridot"
+						Count: 1b
+						tag: { }
+					}
+					count: 5
 				}
-				count: 5
-			}]
+				{
+					id: "3B5BDAFD899E3D0E"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 5s
+								id: "minecraft:efficiency"
+							}]
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -4.0d
-			y: -10.5d
+			x: -13.0d
+			y: -12.0d
 			dependencies: ["1091BF48EA4E866C"]
 			id: "5E348D8687DE73C6"
 			tasks: [{
@@ -245,20 +708,36 @@
 					}
 				}
 			}]
-			rewards: [{
-				id: "0A08D1D69A067F25"
-				type: "item"
-				item: {
-					id: "miningmaster:lucky_citrine"
-					Count: 1b
-					tag: { }
+			rewards: [
+				{
+					id: "0A08D1D69A067F25"
+					type: "item"
+					item: {
+						id: "miningmaster:lucky_citrine"
+						Count: 1b
+						tag: { }
+					}
+					count: 3
 				}
-				count: 3
-			}]
+				{
+					id: "53CA59A6D76B8BBC"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 3s
+								id: "minecraft:fortune"
+							}]
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -4.0d
-			y: -9.5d
+			x: -14.5d
+			y: -12.0d
 			dependencies: ["1091BF48EA4E866C"]
 			id: "7EC87945FD16F8FE"
 			tasks: [{
@@ -276,19 +755,60 @@
 					}
 				}
 			}]
-			rewards: [{
-				id: "53DFF2DCD02C18D6"
-				type: "item"
-				item: {
-					id: "miningmaster:unbreaking_iolite"
-					Count: 1b
-					tag: { }
+			rewards: [
+				{
+					id: "53DFF2DCD02C18D6"
+					type: "item"
+					item: {
+						id: "miningmaster:unbreaking_iolite"
+						Count: 1b
+						tag: { }
+					}
+					count: 5
 				}
-				count: 5
-			}]
+				{
+					id: "16C13F20EF30FF17"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 3s
+								id: "minecraft:unbreaking"
+							}]
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -2.5d
+			icon: {
+				id: "miningmaster:ultima_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Enchantments: [
+						{
+							lvl: 6s
+							id: "minecraft:efficiency"
+						}
+						{
+							lvl: 3s
+							id: "minecraft:fortune"
+						}
+						{
+							lvl: 3s
+							id: "minecraft:unbreaking"
+						}
+						{
+							lvl: 1s
+							id: "miningmaster:smelting"
+						}
+					]
+				}
+			}
+			x: -13.0d
 			y: -10.5d
 			dependencies: [
 				"66C1C0E3C76D744E"
@@ -296,35 +816,62 @@
 				"7EC87945FD16F8FE"
 			]
 			id: "7867ACAD8E1B6939"
-			tasks: [{
-				id: "14A30FBFDD146FB0"
-				type: "item"
-				item: {
-					id: "miningmaster:ultima_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
-						Enchantments: [
-							{
-								lvl: 6s
-								id: "minecraft:efficiency"
-							}
-							{
-								lvl: 3s
-								id: "minecraft:fortune"
-							}
-							{
-								lvl: 3s
-								id: "minecraft:unbreaking"
-							}
-							{
-								lvl: 1s
-								id: "miningmaster:smelting"
-							}
-						]
+			tasks: [
+				{
+					id: "14A30FBFDD146FB0"
+					type: "item"
+					item: {
+						id: "miningmaster:ultima_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									lvl: 6s
+									id: "minecraft:efficiency"
+								}
+								{
+									lvl: 3s
+									id: "minecraft:fortune"
+								}
+								{
+									lvl: 3s
+									id: "minecraft:unbreaking"
+								}
+								{
+									lvl: 1s
+									id: "miningmaster:smelting"
+								}
+							]
+						}
 					}
 				}
-			}]
+				{
+					id: "4164927D3A8EB54D"
+					type: "item"
+					item: {
+						id: "miningmaster:ultima_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									lvl: 5s
+									id: "minecraft:sharpness"
+								}
+								{
+									lvl: 5s
+									id: "minecraft:efficiency"
+								}
+								{
+									lvl: 3s
+									id: "minecraft:knockback"
+								}
+							]
+						}
+					}
+				}
+			]
 			rewards: [
 				{
 					id: "7D8DB74C63661C24"
@@ -363,51 +910,148 @@
 						Count: 1b
 						tag: { }
 					}
-					count: 4
+					count: 7
+				}
+				{
+					id: "689D18A9B15F1C1E"
+					type: "item"
+					item: "miningmaster:power_pyrite"
+					count: 3
+				}
+				{
+					id: "0DDD16B92C1FA08D"
+					type: "item"
+					item: "miningmaster:kinetic_opal"
+					count: 2
+				}
+				{
+					id: "53937DB64932AB9F"
+					type: "item"
+					item: "minecraft:diamond_block"
 				}
 			]
 		}
 		{
-			x: -11.5d
-			y: -10.5d
+			icon: {
+				id: "primitivestart:bone_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -14.5d
+			y: -19.5d
 			id: "76361219D9E59C3D"
-			tasks: [{
-				id: "4B696C490A182825"
-				type: "item"
-				item: {
-					id: "primitivestart:bone_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "4B696C490A182825"
+					type: "item"
+					item: {
+						id: "primitivestart:bone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "6E3B56103B4A5111"
-				type: "item"
-				item: "minecraft:bone"
-				count: 3
-			}]
+				{
+					id: "4617485B2C735AC7"
+					type: "item"
+					item: {
+						id: "primitivestart:bone_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0E690D7E9DE35F96"
+					type: "item"
+					item: {
+						id: "primitivestart:bone_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "034E4947524DA19E"
+					type: "item"
+					item: {
+						id: "primitivestart:bone_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "6E3B56103B4A5111"
+					type: "item"
+					item: "minecraft:bone"
+					count: 9
+				}
+				{
+					id: "1F13DDC58EBE13F5"
+					type: "item"
+					item: "minecraft:bone_block"
+				}
+			]
 		}
 		{
-			x: -7.0d
-			y: -12.0d
+			icon: {
+				id: "create_sa:blazing_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -13.0d
+			y: -15.0d
 			dependencies: [
 				"162DC2F82A615738"
 				"79A169842C8FA342"
 			]
 			id: "5522B2688DBA0FBC"
-			tasks: [{
-				id: "6FEF746FE569A86F"
-				type: "item"
-				item: {
-					id: "create_sa:blazing_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "6FEF746FE569A86F"
+					type: "item"
+					item: {
+						id: "create_sa:blazing_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+				{
+					id: "624985EE378AEE7C"
+					type: "item"
+					item: {
+						id: "create_sa:blazing_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4EC5E8DC24AD474B"
+					type: "item"
+					item: {
+						id: "create_sa:blazing_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 			rewards: [
 				{
 					id: "073626AB6DD95DBD"
@@ -417,7 +1061,7 @@
 						Count: 1b
 						tag: { }
 					}
-					count: 3
+					count: 7
 				}
 				{
 					id: "37B103EF945ADD52"
@@ -427,158 +1071,492 @@
 						Count: 1b
 						tag: { }
 					}
+					count: 3
+				}
+				{
+					id: "07336D8C94C4CA4A"
+					type: "item"
+					item: "minecraft:blaze_rod"
+					count: 5
 				}
 			]
 		}
 		{
-			x: -8.5d
-			y: -11.0d
+			icon: {
+				id: "create_sa:zinc_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -13.0d
+			y: -16.5d
 			dependencies: ["4D5BA50F595AA6E7"]
 			id: "5B4A9C2942A99362"
-			tasks: [{
-				id: "277A6D3CAAE6E71D"
-				type: "item"
-				item: {
-					id: "create_sa:zinc_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "277A6D3CAAE6E71D"
+					type: "item"
+					item: {
+						id: "create_sa:zinc_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "45D9D2736989B49D"
-				type: "item"
-				item: {
-					id: "create:zinc_ingot"
-					Count: 1b
-					tag: { }
+				{
+					id: "7E1A5F7C404F1AD7"
+					type: "item"
+					item: {
+						id: "create_sa:zinc_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-				count: 3
-			}]
+				{
+					id: "33473214C20FFBD8"
+					type: "item"
+					item: {
+						id: "create_sa:zinc_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6B770FEF0623A327"
+					type: "item"
+					item: {
+						id: "create_sa:zinc_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0DCB1310E7538D86"
+					type: "item"
+					item: {
+						id: "delightful:zinc_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "45D9D2736989B49D"
+					type: "item"
+					item: {
+						id: "create:zinc_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 10
+				}
+				{
+					id: "040D88B7260C6354"
+					type: "item"
+					item: {
+						id: "create_sa:zinc_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -8.5d
-			y: -12.0d
-			dependencies: ["4D5BA50F595AA6E7"]
+			icon: {
+				id: "create_sa:brass_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -11.5d
+			y: -15.0d
+			dependencies: [
+				"59397C2C96664BDC"
+				"5B4A9C2942A99362"
+			]
 			id: "79A169842C8FA342"
-			tasks: [{
-				id: "166155B91862FCFC"
-				type: "item"
-				item: {
-					id: "create_sa:brass_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "166155B91862FCFC"
+					type: "item"
+					item: {
+						id: "create_sa:brass_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "28CEF208773DD0F8"
-				type: "item"
-				item: {
-					id: "create:brass_ingot"
-					Count: 1b
-					tag: { }
+				{
+					id: "7047F48804301BFF"
+					type: "item"
+					item: {
+						id: "create_sa:brass_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-				count: 3
-			}]
+				{
+					id: "14801DD658C8AAA2"
+					type: "item"
+					item: {
+						id: "create_sa:brass_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1D34D29600881879"
+					type: "item"
+					item: {
+						id: "create_sa:brass_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4B4B3B18602A2C92"
+					type: "item"
+					item: {
+						id: "delightful:brass_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "28CEF208773DD0F8"
+					type: "item"
+					item: {
+						id: "create:brass_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 10
+				}
+				{
+					id: "32011E05C52B389D"
+					type: "item"
+					item: "create_connected_blocks:brass_block"
+				}
+			]
 		}
 		{
-			x: -2.5d
-			y: -12.0d
+			icon: {
+				id: "byg:pendorite_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -11.5d
+			y: -10.5d
 			dependencies: ["24AA8851FFBE92F9"]
 			id: "47533E392F75BA17"
-			tasks: [{
-				id: "640259E68274BA79"
-				type: "item"
-				item: {
-					id: "byg:pendorite_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "640259E68274BA79"
+					type: "item"
+					item: {
+						id: "byg:pendorite_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "6E222A6D088E7717"
-				type: "item"
-				item: {
-					id: "byg:pendorite_ingot"
-					Count: 1b
-					tag: { }
+				{
+					id: "402B6B289C536701"
+					type: "item"
+					item: {
+						id: "byg:pendorite_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-			}]
+				{
+					id: "15878FC4B0318738"
+					type: "item"
+					item: {
+						id: "byg:pendorite_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "161912934F57D65E"
+					type: "item"
+					item: {
+						id: "byg:pendorite_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "02F210D9B59E3697"
+					type: "item"
+					item: {
+						id: "delightful:pendorite_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "6E222A6D088E7717"
+					type: "item"
+					item: {
+						id: "byg:pendorite_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 5
+				}
+				{
+					id: "3FED50AAAF07BF77"
+					type: "item"
+					item: {
+						id: "byg:pendorite_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
-			x: -7.0d
-			y: -10.0d
+			icon: {
+				id: "spirit:soul_steel_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -14.5d
+			y: -13.5d
 			dependencies: ["162DC2F82A615738"]
 			id: "7B10747546F0DF2D"
-			tasks: [{
-				id: "3CB935C0C2302D83"
-				type: "item"
-				item: {
-					id: "spirit:soul_steel_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "3CB935C0C2302D83"
+					type: "item"
+					item: {
+						id: "spirit:soul_steel_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "6C37ABA99B29D7C5"
-				type: "item"
-				item: {
-					id: "spirit:soul_steel_ingot"
-					Count: 1b
-					tag: { }
+				{
+					id: "320D60270FA2A14E"
+					type: "item"
+					item: {
+						id: "spirit:soul_steel_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-				count: 3
-			}]
+				{
+					id: "300DAF51F8BA60E6"
+					type: "item"
+					item: {
+						id: "spirit:soul_steel_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2DA1C63C2760FF63"
+					type: "item"
+					item: {
+						id: "spirit:soul_steel_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "6C37ABA99B29D7C5"
+					type: "item"
+					item: {
+						id: "spirit:soul_steel_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 9
+				}
+				{
+					id: "283A4FD2625AF7BB"
+					type: "item"
+					item: "minecraft:soul_lantern"
+					count: 16
+				}
+			]
 		}
 		{
-			x: -10.0d
-			y: -10.5d
+			icon: {
+				id: "primitivestart:reinforced_bone_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -14.5d
+			y: -18.0d
 			dependencies: ["76361219D9E59C3D"]
 			id: "6B901E53999F4197"
-			tasks: [{
-				id: "4C511EAE2091B193"
-				type: "item"
-				item: {
-					id: "primitivestart:reinforced_bone_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "4C511EAE2091B193"
+					type: "item"
+					item: {
+						id: "primitivestart:reinforced_bone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+				{
+					id: "3CF2DB7C74727FD3"
+					type: "item"
+					item: {
+						id: "primitivestart:reinforced_bone_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "61BBE724E7E24BEB"
+					type: "item"
+					item: {
+						id: "primitivestart:reinforced_bone_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5D45565CA830431E"
+					type: "item"
+					item: {
+						id: "primitivestart:reinforced_bone_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 			rewards: [{
 				id: "21EDE382F2336FA1"
 				type: "item"
-				item: {
-					id: "minecraft:raw_copper_block"
-					Count: 1b
-					tag: { }
-				}
+				item: "minecraft:raw_copper_block"
+				count: 2
 			}]
 		}
 		{
-			x: -5.5d
-			y: -12.0d
+			icon: {
+				id: "create_sa:rose_quartz_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -11.5d
+			y: -13.5d
 			dependencies: ["5522B2688DBA0FBC"]
 			id: "505B6C2D26889F14"
-			tasks: [{
-				id: "00E71838AD60BFD8"
-				type: "item"
-				item: {
-					id: "create_sa:rose_quartz_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "00E71838AD60BFD8"
+					type: "item"
+					item: {
+						id: "create_sa:rose_quartz_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+				{
+					id: "4C2BF808A5D31054"
+					type: "item"
+					item: {
+						id: "create_sa:rose_quartz_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "69266BDD2CFF594E"
+					type: "item"
+					item: {
+						id: "create_sa:rose_quartz_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "622D2143FE960721"
+					type: "item"
+					item: {
+						id: "delightful:gilded_quartz_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 			rewards: [
 				{
 					id: "6C231F932A937AE9"
@@ -588,6 +1566,7 @@
 						Count: 1b
 						tag: { }
 					}
+					count: 4
 				}
 				{
 					id: "35A55041E6CEE170"
@@ -597,7 +1576,7 @@
 						Count: 1b
 						tag: { }
 					}
-					count: 4
+					count: 9
 				}
 				{
 					id: "46AD2C6C279CEBDE"
@@ -607,34 +1586,177 @@
 						Count: 1b
 						tag: { }
 					}
+					count: 6
+				}
+				{
+					id: "3141C9B1273E7A3C"
+					type: "item"
+					item: "minecraft:gilded_blackstone"
+					count: 16
 				}
 			]
 		}
 		{
-			x: -5.5d
-			y: -10.0d
+			icon: {
+				id: "aquaculture:neptunium_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -10.0d
+			y: -13.5d
 			dependencies: ["4B58AD284AED2CD3"]
 			id: "204D5CFCCE024B24"
-			tasks: [{
-				id: "1308D54C1AF68614"
-				type: "item"
-				item: {
-					id: "aquaculture:neptunium_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "1308D54C1AF68614"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "44066B30A308B0AB"
-				type: "item"
-				item: {
-					id: "aquaculture:neptunium_ingot"
-					Count: 1b
-					tag: { }
+				{
+					id: "155886A193F189A3"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
 				}
-				count: 3
+				{
+					id: "335E17E8232AB417"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "461E33448BA5C67D"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "78F402AFCDCC1587"
+					type: "item"
+					item: "aquaculture:neptunium_fillet_knife"
+				}
+			]
+			rewards: [
+				{
+					id: "44066B30A308B0AB"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_ingot"
+						Count: 1b
+						tag: { }
+					}
+					count: 11
+				}
+				{
+					id: "00CE8BE8BEB37115"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_fishing_rod"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			icon: {
+				id: "create_sa:copper_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -11.5d
+			y: -16.5d
+			dependencies: ["4D5BA50F595AA6E7"]
+			id: "59397C2C96664BDC"
+			tasks: [
+				{
+					id: "676AB8319DEAB787"
+					type: "item"
+					item: {
+						id: "create_sa:copper_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "21B03ED4C42EB088"
+					type: "item"
+					item: {
+						id: "create_sa:copper_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5A61DED4E0CFB2FA"
+					type: "item"
+					item: {
+						id: "create_sa:copper_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "24C6B4D2081262D1"
+					type: "item"
+					item: {
+						id: "create_sa:copper_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7E6ACB44A6283A07"
+					type: "item"
+					item: {
+						id: "create_things_and_misc:copper_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "548A48430C1B306B"
+				type: "item"
+				item: "minecraft:copper_ingot"
+				count: 10
 			}]
 		}
 	]

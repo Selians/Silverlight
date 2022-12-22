@@ -16,7 +16,6 @@
 			title: "Sushi Master"
 			x: -7.5d
 			y: -13.0d
-			shape: "rsquare"
 			description: ["This book will teach you how to become a Sushi-Master."]
 			dependencies: ["5832C1168E4E90C4"]
 			id: "72382DAEB04F7834"
@@ -68,7 +67,7 @@
 			title: "Croptopia"
 			x: 4.5d
 			y: -13.0d
-			shape: "rsquare"
+			dependencies: ["5832C1168E4E90C4"]
 			id: "36B13F4A88ED533A"
 			tasks: [{
 				id: "2CE870A15437429D"
@@ -80,7 +79,6 @@
 			title: "Cooking for Blockheads"
 			x: -1.5d
 			y: -2.0d
-			shape: "rsquare"
 			dependencies: ["5832C1168E4E90C4"]
 			id: "38BAE8AC8E012EC7"
 			tasks: [{
@@ -378,9 +376,9 @@
 			}]
 		}
 		{
+			title: "CREATE-ing foods"
 			x: -7.5d
 			y: -2.0d
-			shape: "rsquare"
 			dependencies: ["5832C1168E4E90C4"]
 			id: "6DE7611194C4D84F"
 			tasks: [{
@@ -520,6 +518,7 @@
 		{
 			x: 4.5d
 			y: -2.0d
+			shape: "square"
 			dependencies: ["5832C1168E4E90C4"]
 			id: "32D507B33DC5775C"
 			tasks: [{
@@ -556,6 +555,7 @@
 		{
 			x: -2.0d
 			y: -0.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "61771F4252D3659A"
 			tasks: [{
 				id: "520E661283970F44"
@@ -566,10 +566,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "68E4C7AABE4E4097"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: -1.0d
 			y: -0.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "61B809950F25DD85"
 			tasks: [{
 				id: "2B87DEBDEE89C7EB"
@@ -580,10 +587,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "5A57A51CE4D6A844"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: -3.0d
 			y: -0.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "5C66F968C1AC11A4"
 			tasks: [{
 				id: "136DA1E687917014"
@@ -594,10 +608,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "5B758597FEAB8863"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 0.0d
 			y: -0.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "457BB53DB6850645"
 			tasks: [{
 				id: "734BFF5B385815CD"
@@ -608,10 +629,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "569362E0E41C16B7"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 0.0d
 			y: -2.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "3B67B1FE4AE675A5"
 			tasks: [{
 				id: "1259DC5619462793"
@@ -622,10 +650,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "0B7FACD420506DD1"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 0.0d
 			y: -1.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "3A33920355A581B3"
 			tasks: [{
 				id: "7BBEC17E40BB3C02"
@@ -636,10 +671,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "17DAD7473FA504B6"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 0.0d
 			y: -3.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "67EC96D11D43D075"
 			tasks: [{
 				id: "65DCCE048DC7D242"
@@ -650,10 +692,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "6B212F55BD6F5F61"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: -1.0d
 			y: -3.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "0F2CB736C2612CD8"
 			tasks: [{
 				id: "4D1F577B58193FDE"
@@ -664,10 +713,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "623503187F653302"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: -2.0d
 			y: -3.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "0353773AAFD41C36"
 			tasks: [{
 				id: "7ADEDFEBD09CB7C2"
@@ -678,10 +734,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "0CEEEBFBADF776C3"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: -3.0d
 			y: -1.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "0EA2279CD8E2F75C"
 			tasks: [{
 				id: "35CFF1B47B71BDD4"
@@ -692,10 +755,17 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "5AC7F748B3229D5C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: -3.0d
 			y: -2.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "0C9447ED3D8A1ED6"
 			tasks: [{
 				id: "7F9FC484256D0210"
@@ -706,10 +776,18 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "455358B8977B1CB9"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
+			title: "Baby's first recipe book"
 			x: -3.0d
 			y: -3.5d
+			dependencies: ["38BAE8AC8E012EC7"]
 			id: "259786C301BAAFC0"
 			tasks: [
 				{
@@ -731,6 +809,12 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "517AF03F7E289352"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 3.0d
@@ -770,24 +854,30 @@
 			title: "Bake, Boil, Braise, Cook and Fry"
 			x: -1.5d
 			y: -8.0d
-			shape: "pentagon"
-			description: ["You have been sent here from a different realm. To grow stronger, you must consume and adapt to this one. One of the best ways to go stronger is to eat this realm's food..."]
+			description: ["You have been sent here from a different realm. To grow stronger, you must consume and adapt to this one. One of the best ways to grow stronger is to eat this realm's food..."]
 			id: "5832C1168E4E90C4"
 			tasks: [{
 				id: "15D53A3C2F580F0D"
 				type: "checkmark"
 				title: "The start of cooking"
 			}]
-			rewards: [{
-				id: "2727B4A6126B6C2E"
-				type: "item"
-				item: "solcarrot:food_book"
-			}]
+			rewards: [
+				{
+					id: "2727B4A6126B6C2E"
+					type: "item"
+					item: "create_confectionery:hot_chocolate_bottle"
+				}
+				{
+					id: "2C92849A547938D7"
+					type: "item"
+					item: "minecraft:cookie"
+				}
+			]
 		}
 		{
 			x: -1.5d
 			y: -13.0d
-			shape: "rsquare"
+			dependencies: ["5832C1168E4E90C4"]
 			id: "781560C7E5456424"
 			tasks: [{
 				id: "123E8170E297ECE0"
@@ -848,6 +938,7 @@
 		{
 			x: -3.0d
 			y: -14.5d
+			dependencies: ["781560C7E5456424"]
 			id: "11BB18E4F5FE36FC"
 			tasks: [{
 				id: "48B1F51A29C6269B"
@@ -858,6 +949,7 @@
 		{
 			x: -2.0d
 			y: -14.5d
+			dependencies: ["781560C7E5456424"]
 			id: "1EE3DB52BE941BF7"
 			tasks: [{
 				id: "73756FAC28F6F1EC"
@@ -868,6 +960,7 @@
 		{
 			x: -1.0d
 			y: -14.5d
+			dependencies: ["781560C7E5456424"]
 			id: "75D411977FA1F15F"
 			tasks: [{
 				id: "287F410ACCF3DACC"
@@ -878,6 +971,7 @@
 		{
 			x: -3.0d
 			y: -12.5d
+			dependencies: ["781560C7E5456424"]
 			id: "5C453EA6399CBF92"
 			tasks: [{
 				id: "709318A43248DCBF"
@@ -888,6 +982,7 @@
 		{
 			x: -3.0d
 			y: -13.5d
+			dependencies: ["781560C7E5456424"]
 			id: "3A176885F174FF21"
 			tasks: [{
 				id: "6D259777B31045ED"
@@ -898,6 +993,7 @@
 		{
 			x: 0.0d
 			y: -14.5d
+			dependencies: ["781560C7E5456424"]
 			id: "68104B1B9D92349F"
 			tasks: [{
 				id: "6D4055AD5764CB9C"
@@ -908,6 +1004,7 @@
 		{
 			x: 0.0d
 			y: -13.5d
+			dependencies: ["781560C7E5456424"]
 			id: "3C74244434DA6038"
 			tasks: [{
 				id: "48789BA0E8E5FC4C"
@@ -918,6 +1015,7 @@
 		{
 			x: 0.0d
 			y: -12.5d
+			dependencies: ["781560C7E5456424"]
 			id: "1D502FCA68C861FE"
 			tasks: [{
 				id: "52740A37E48966BB"
@@ -928,6 +1026,7 @@
 		{
 			x: -3.0d
 			y: -11.5d
+			dependencies: ["781560C7E5456424"]
 			id: "44BD9F9063C93808"
 			tasks: [{
 				id: "40B9BD6F3BFCECD5"
@@ -944,6 +1043,7 @@
 		{
 			x: -2.0d
 			y: -11.5d
+			dependencies: ["781560C7E5456424"]
 			id: "672C0A24280A74BB"
 			tasks: [{
 				id: "6E0F629740324118"
@@ -960,6 +1060,7 @@
 		{
 			x: -1.0d
 			y: -11.5d
+			dependencies: ["781560C7E5456424"]
 			id: "066A1495F0740259"
 			tasks: [{
 				id: "3C526B53368F7751"
@@ -976,6 +1077,7 @@
 		{
 			x: 0.0d
 			y: -11.5d
+			dependencies: ["781560C7E5456424"]
 			id: "5D5EF3BA74A12D1B"
 			tasks: [{
 				id: "57A976F5B7B0EAC5"
@@ -998,6 +1100,94 @@
 				type: "custom"
 				title: "nether's delight"
 			}]
+		}
+		{
+			x: -6.0d
+			y: -1.5d
+			dependencies: ["6DE7611194C4D84F"]
+			id: "6BAAE80849DF9EFF"
+			tasks: [{
+				id: "22E050CE878FD220"
+				type: "item"
+				item: "create_things_and_misc:porridge"
+			}]
+			rewards: [{
+				id: "1128621B09448365"
+				type: "item"
+				item: "minecraft:slime_block"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -3.5d
+			dependencies: ["6DE7611194C4D84F"]
+			id: "687CBB7C9DA1D28C"
+			tasks: [{
+				id: "085D0D73FC32658A"
+				type: "item"
+				item: "create:sweet_roll"
+			}]
+			rewards: [{
+				id: "7F6DB252F7993D6D"
+				type: "item"
+				item: "minecraft:bread"
+				count: 64
+			}]
+		}
+		{
+			x: -8.0d
+			y: -3.5d
+			dependencies: ["6DE7611194C4D84F"]
+			id: "3B41814A71ED9E0B"
+			tasks: [{
+				id: "74E15A1A43B0D95A"
+				type: "item"
+				item: "create:chocolate_glazed_berries"
+			}]
+			rewards: [{
+				id: "016000B4A097AC37"
+				type: "item"
+				item: "quark:berry_sack"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -3.5d
+			dependencies: ["6DE7611194C4D84F"]
+			id: "4922F5207A8BDDDF"
+			tasks: [{
+				id: "50E1F7C72DE941D6"
+				type: "item"
+				item: "create:honeyed_apple"
+			}]
+			rewards: [{
+				id: "1957EBFA6AD3D7A7"
+				type: "item"
+				item: "vinery:apple_crate"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -2.5d
+			dependencies: ["6DE7611194C4D84F"]
+			id: "3518B00EE0821796"
+			tasks: [{
+				id: "766A1476E984AD64"
+				type: "item"
+				item: "create:builders_tea"
+			}]
+			rewards: [
+				{
+					id: "27F4E44077966EAE"
+					type: "item"
+					item: "fantasyfurniture:decorations/venthyr_tea_set"
+				}
+				{
+					id: "01DAC9761201A9F1"
+					type: "item"
+					item: "fantasyfurniture:decorations/venthyr_tea_cups"
+				}
+			]
 		}
 	]
 	quest_links: [ ]

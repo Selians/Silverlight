@@ -3,7 +3,11 @@
 	group: "1D8F1A483208D022"
 	order_index: 4
 	filename: "guardian_eye"
+<<<<<<< Updated upstream
 	title: "Seeing Red"
+=======
+	title: "Eye didn't sea that coming"
+>>>>>>> Stashed changes
 	icon: {
 		id: "endrem:guardian_eye"
 		Count: 1b
@@ -17,7 +21,11 @@
 	quests: [
 		{
 			title: "A monumental task"
+<<<<<<< Updated upstream
 			x: -4.0d
+=======
+			x: -3.0d
+>>>>>>> Stashed changes
 			y: 0.0d
 			description: ["Once again, you have to dive deep in search for one of the eyes"]
 			dependencies: ["6BE51CCA38EACD3D"]
@@ -31,6 +39,7 @@
 		}
 		{
 			title: "Guard against this!"
+<<<<<<< Updated upstream
 			x: -2.5d
 			y: 0.0d
 			dependencies: ["16DD12A903368DB6"]
@@ -50,6 +59,34 @@
 			id: "2D51B8C0A5E1FA37"
 			tasks: [{
 				id: "73B32A8BC26EA663"
+=======
+			x: -1.5d
+			y: 0.0d
+			dependencies: ["16DD12A903368DB6"]
+			id: "058A0FC3C3CE3A16"
+			tasks: [{
+				id: "14F08DDA8E3CD793"
+				type: "kill"
+				icon: "ob_aquamirae:sea_casserole"
+				entity: "minecraft:elder_guardian"
+				value: 3L
+			}]
+			rewards: [{
+				id: "06C5CBE4DD08F7A4"
+				type: "item"
+				item: "ob_aquamirae:sea_casserole"
+				count: 3
+			}]
+		}
+		{
+			title: "Seeing red"
+			x: 0.0d
+			y: 0.0d
+			dependencies: ["058A0FC3C3CE3A16"]
+			id: "492C7951895CD1A9"
+			tasks: [{
+				id: "6C7E78BAAEB02B41"
+>>>>>>> Stashed changes
 				type: "item"
 				item: {
 					id: "endrem:guardian_eye"

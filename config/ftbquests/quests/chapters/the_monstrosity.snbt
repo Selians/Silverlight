@@ -16,6 +16,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
+			title: "I Nether liked this place"
 			x: -3.5d
 			y: -1.0d
 			dependencies: ["6BE51CCA38EACD3D"]
@@ -45,7 +46,7 @@
 			rewards: [{
 				id: "5B88F94E56A5153E"
 				type: "item"
-				item: "minecraft:netherite_ingot"
+				item: "nethersdelight:plate_of_stuffed_hoglin_ham"
 			}]
 		}
 		{

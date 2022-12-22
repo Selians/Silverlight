@@ -3,7 +3,7 @@
 	group: "1D8F1A483208D022"
 	order_index: 10
 	filename: "rogue_eye"
-	title: "rogue eye"
+	title: "Take me to chu... temple?"
 	icon: {
 		id: "endrem:rogue_eye"
 		Count: 1b
@@ -14,6 +14,7 @@
 	subtitle: ["One sealed in an ancient temple, filled with traps"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
+<<<<<<< Updated upstream
 	quests: [{
 		x: -2.0d
 		y: 0.5d
@@ -24,5 +25,52 @@
 			structure: "minecraft:jungle_pyramid"
 		}]
 	}]
+=======
+	quests: [
+		{
+			title: "Sweaty, again"
+			x: -1.0d
+			y: 0.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "1037B3BC047F8878"
+			tasks: [{
+				id: "1B4CDF434F70196E"
+				type: "biome"
+				icon: "minecraft:jungle_sapling"
+				biome: "minecraft:jungle"
+			}]
+		}
+		{
+			title: "No boulder this time?"
+			x: 0.5d
+			y: 0.0d
+			dependencies: ["1037B3BC047F8878"]
+			id: "501366778188AA57"
+			tasks: [{
+				id: "2EE631B45A4504C2"
+				type: "structure"
+				icon: "minecraft:mossy_cobblestone_stairs"
+				structure: "minecraft:jungle_pyramid"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			dependencies: ["501366778188AA57"]
+			id: "274E11BD867B98CF"
+			tasks: [{
+				id: "5EBDC221C42E75C4"
+				type: "item"
+				item: {
+					id: "endrem:rogue_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+>>>>>>> Stashed changes
 	quest_links: [ ]
 }

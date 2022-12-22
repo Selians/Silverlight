@@ -3,7 +3,7 @@
 	group: "1D8F1A483208D022"
 	order_index: 12
 	filename: "cursed_eye"
-	title: "cursed eye"
+	title: "Safe storage"
 	icon: {
 		id: "endrem:cursed_eye"
 		Count: 1b
@@ -16,17 +16,28 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
+<<<<<<< Updated upstream
 			title: "Nether again!"
 			x: -3.0d
 			y: -0.5d
 			id: "0B70943B83906C65"
 			tasks: [{
 				id: "213295B9A0253480"
+=======
+			title: "Really, again?"
+			x: -3.0d
+			y: -0.5d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "544070B564DFFEC2"
+			tasks: [{
+				id: "0D20378B58593419"
+>>>>>>> Stashed changes
 				type: "dimension"
 				dimension: "minecraft:the_nether"
 			}]
 		}
 		{
+<<<<<<< Updated upstream
 			x: -1.5d
 			y: -0.5d
 			id: "5901A0DABFBBAB6C"
@@ -42,6 +53,28 @@
 			id: "5A5B19DBE8834456"
 			tasks: [{
 				id: "47F3D32E70DF884B"
+=======
+			title: "The Bastion remnants"
+			x: -1.5d
+			y: -0.5d
+			dependencies: ["544070B564DFFEC2"]
+			id: "42FCA3182643015B"
+			tasks: [{
+				id: "26C041BEBB709B9A"
+				type: "structure"
+				icon: "minecraft:gilded_blackstone"
+				structure: "minecraft:bastion_remnants"
+			}]
+		}
+		{
+			title: "Let's find some treasure!"
+			x: 0.0d
+			y: -0.5d
+			dependencies: ["42FCA3182643015B"]
+			id: "5D03CFDCF1676C0B"
+			tasks: [{
+				id: "1E209F82CD2DFE0E"
+>>>>>>> Stashed changes
 				type: "item"
 				item: "minecraft:chest"
 			}]
@@ -49,9 +82,16 @@
 		{
 			x: 1.5d
 			y: -0.5d
+<<<<<<< Updated upstream
 			id: "0165E79315EC7AE9"
 			tasks: [{
 				id: "7A1DB64B17FDBBFA"
+=======
+			dependencies: ["5D03CFDCF1676C0B"]
+			id: "4E2BEB46B1B79816"
+			tasks: [{
+				id: "5341B58800D8CB1C"
+>>>>>>> Stashed changes
 				type: "item"
 				item: {
 					id: "endrem:cursed_eye"
