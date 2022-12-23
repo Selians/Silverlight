@@ -1,0 +1,63 @@
+{
+	id: "40A4D28E0E04CC5F"
+	group: "1D8F1A483208D022"
+	order_index: 10
+	filename: "no_boulders_i_hope"
+	title: "No boulders I hope?"
+	icon: {
+		id: "endrem:rogue_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	subtitle: ["One sealed in an ancient temple, filled with traps"]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Take me to chur,,, temple"
+			x: -2.0d
+			y: -1.0d
+			dependencies: ["6B3F310B1F4DA2AD"]
+			id: "6B5520B09FEC68C5"
+			tasks: [{
+				id: "7FB2234EC6C52977"
+				type: "structure"
+				icon: "minecraft:mossy_cobblestone_stairs"
+				structure: "minecraft:jungle_pyramid"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "6B3F310B1F4DA2AD"
+			tasks: [{
+				id: "2F6E3726667DDA2A"
+				type: "biome"
+				title: "Sweaty, again"
+				icon: "minecraft:jungle_sapling"
+				biome: "minecraft:jungle"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -1.0d
+			dependencies: ["6B5520B09FEC68C5"]
+			id: "3BF09DBF4AEB6D4F"
+			tasks: [{
+				id: "5BFA1AA86AEEF150"
+				type: "item"
+				item: {
+					id: "endrem:rogue_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

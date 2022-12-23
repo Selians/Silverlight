@@ -190,7 +190,7 @@
 					Damage: 0
 				}
 			}
-			x: -14.5d
+			x: -13.0d
 			y: -15.0d
 			dependencies: [
 				"1E699FF6502E4E2A"
@@ -281,7 +281,7 @@
 					Damage: 0
 				}
 			}
-			x: -14.5d
+			x: -11.5d
 			y: -16.5d
 			dependencies: ["4D5BA50F595AA6E7"]
 			id: "1E699FF6502E4E2A"
@@ -1010,7 +1010,7 @@
 					Damage: 0
 				}
 			}
-			x: -13.0d
+			x: -11.5d
 			y: -15.0d
 			dependencies: [
 				"162DC2F82A615738"
@@ -1182,7 +1182,7 @@
 					Damage: 0
 				}
 			}
-			x: -11.5d
+			x: -14.5d
 			y: -15.0d
 			dependencies: [
 				"59397C2C96664BDC"
@@ -1691,7 +1691,7 @@
 					Damage: 0
 				}
 			}
-			x: -11.5d
+			x: -14.5d
 			y: -16.5d
 			dependencies: ["4D5BA50F595AA6E7"]
 			id: "59397C2C96664BDC"
@@ -1757,6 +1757,182 @@
 				type: "item"
 				item: "minecraft:copper_ingot"
 				count: 10
+			}]
+		}
+		{
+			icon: {
+				id: "create_sa:experience_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -10.0d
+			y: -15.0d
+			dependencies: ["2DFCC5BC083159A7"]
+			id: "48778F88000BAFDD"
+			tasks: [
+				{
+					id: "6B1A74B45488EEF2"
+					type: "item"
+					item: {
+						id: "create_sa:experience_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "143CD0E17517897C"
+					type: "item"
+					item: {
+						id: "create_sa:experience_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "172C839C4F834AA0"
+					type: "item"
+					item: {
+						id: "create_sa:experience_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "38A3D0AEA616FE77"
+					type: "item"
+					item: {
+						id: "delightful:experience_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "39B4A22A2E882C95"
+				type: "item"
+				item: "create_sa:heap_of_experience"
+				count: 10
+			}]
+		}
+		{
+			icon: {
+				id: "alloyed:steel_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -10.0d
+			y: -16.5d
+			dependencies: ["1E699FF6502E4E2A"]
+			id: "1006A6C72257178F"
+			tasks: [
+				{
+					id: "07FA3993CB787304"
+					type: "item"
+					item: {
+						id: "alloyed:steel_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "005577356CA2DDA0"
+					type: "item"
+					item: {
+						id: "alloyed:steel_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "45739A2562A37C5E"
+					type: "item"
+					item: {
+						id: "alloyed:steel_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7A1089ACDE536E8C"
+					type: "item"
+					item: {
+						id: "alloyed:steel_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "428E7494F41B3B6B"
+					type: "item"
+					item: {
+						id: "alloyed:steel_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "4A7A1BB819BBF85D"
+					type: "item"
+					item: "alloyed:steel_ingot"
+					count: 5
+				}
+				{
+					id: "66721233F90CE8E6"
+					type: "item"
+					item: {
+						id: "alloyed:steel_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -10.0d
+			y: -18.0d
+			description: ["Obtained by killing Underminers, which are found in abandoned mineshafts"]
+			id: "528DE99CD898BF94"
+			tasks: [{
+				id: "29CCAB28C6AD9424"
+				type: "item"
+				item: {
+					id: "alexsmobs:ghostly_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "574446A21DDA495E"
+				type: "item"
+				item: "artifacts:scarf_of_invisibility"
 			}]
 		}
 	]

@@ -1,0 +1,73 @@
+{
+	id: "1F4FFD2BA667CFBC"
+	group: "1D8F1A483208D022"
+	order_index: 12
+	filename: "safe_storage"
+	title: "Safe storage"
+	icon: {
+		id: "endrem:cursed_eye"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 4.0d
+			y: 1.0d
+			dependencies: ["3AA490D0CAC0F9BD"]
+			id: "43B6D8989BFDBE94"
+			tasks: [{
+				id: "3B416E033FEFC5F0"
+				type: "item"
+				item: {
+					id: "endrem:cursed_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Let's go on a treasure hunt!"
+			x: 2.5d
+			y: 1.0d
+			dependencies: ["2C8E6E6D12D9AF3A"]
+			id: "3AA490D0CAC0F9BD"
+			tasks: [{
+				id: "332452DFE0B6E1A8"
+				type: "item"
+				item: "minecraft:chest"
+			}]
+		}
+		{
+			title: "Remnants of a distant past"
+			x: 1.0d
+			y: 1.0d
+			dependencies: ["7226315903FE5C52"]
+			id: "2C8E6E6D12D9AF3A"
+			tasks: [{
+				id: "16490C158B0F89D8"
+				type: "structure"
+				icon: "minecraft:gilded_blackstone"
+				structure: "minecraft:bastion_remnant"
+			}]
+		}
+		{
+			title: "Nether again!"
+			x: -0.5d
+			y: 1.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "7226315903FE5C52"
+			tasks: [{
+				id: "1CC16F4E1A07FF2E"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

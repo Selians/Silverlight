@@ -14,6 +14,112 @@
 	subtitle: ["One lost to illusionary magic"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			title: "That's not a small house"
+			x: -1.0d
+			y: 0.0d
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "4BC3E670E3C19E2E"
+			tasks: [{
+				id: "44DA791EF0733FD2"
+				type: "structure"
+				icon: "minecraft:dark_oak_sapling"
+				structure: "minecraft:mansion"
+			}]
+		}
+		{
+			title: "Wololo"
+			icon: "minecraft:totem_of_undying"
+			x: 0.0d
+			y: -1.0d
+			dependencies: [
+				"4BC3E670E3C19E2E"
+				"2D6DF6AB63B7FA8D"
+			]
+			dependency_requirement: "one_completed"
+			id: "34DFC29FB2FA8BDA"
+			tasks: [{
+				id: "24E56F98ACFF119A"
+				type: "kill"
+				icon: "minecraft:evoker_spawn_egg"
+				entity: "minecraft:evoker"
+				value: 1L
+			}]
+		}
+		{
+			x: -2.0d
+			y: -3.0d
+			description: [
+				"Find a patrol of your friendly neighbourhood watch"
+				"And convince them to visit a different neighbourhood"
+			]
+			dependencies: ["6BE51CCA38EACD3D"]
+			id: "531B7AD3AE7B281D"
+			tasks: [{
+				id: "7D68DA627E15FF3F"
+				type: "advancement"
+				advancement: "minecraft:adventure/voluntary_exile"
+				criterion: ""
+			}]
+		}
+		{
+			title: "The village people"
+			x: -1.0d
+			y: -2.0d
+			dependencies: ["531B7AD3AE7B281D"]
+			dependency_requirement: "one_completed"
+			id: "2D6DF6AB63B7FA8D"
+			tasks: [
+				{
+					id: "172697680B8EF7E8"
+					type: "structure"
+					icon: "minecraft:grass"
+					structure: "minecraft:village_plains"
+				}
+				{
+					id: "1F2F619678155896"
+					type: "structure"
+					icon: "minecraft:dead_bush"
+					structure: "minecraft:village_desert"
+				}
+				{
+					id: "5F7FE782C4666027"
+					type: "structure"
+					icon: "minecraft:snowball"
+					structure: "minecraft:village_snowy"
+				}
+				{
+					id: "09FBCB38C1572602"
+					type: "structure"
+					icon: "minecraft:acacia_sapling"
+					structure: "minecraft:village_savanna"
+				}
+				{
+					id: "0A9032D2A1FB3DDE"
+					type: "structure"
+					icon: "minecraft:spruce_sapling"
+					structure: "minecraft:village_taiga"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -1.0d
+			dependencies: ["34DFC29FB2FA8BDA"]
+			id: "2D537D99BEE2CEAB"
+			tasks: [{
+				id: "678F5634B6D8CD6F"
+				type: "item"
+				item: {
+					id: "endrem:magical_eye"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
 	quest_links: [ ]
 }

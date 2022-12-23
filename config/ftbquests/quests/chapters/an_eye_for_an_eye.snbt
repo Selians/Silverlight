@@ -238,7 +238,7 @@
 		{
 			x: 3.0d
 			y: -6.0d
-			dependencies: ["492C7951895CD1A9"]
+			dependencies: ["6B358C19BE0AD61D"]
 			id: "30A5FD2EFC96500B"
 			tasks: [{
 				id: "7943798E6627B2DD"
@@ -283,6 +283,7 @@
 		{
 			x: 4.5d
 			y: -5.5d
+			dependencies: ["2D537D99BEE2CEAB"]
 			id: "43725BDDF4D19143"
 			tasks: [{
 				id: "18EEC87616777700"
@@ -299,7 +300,7 @@
 		{
 			x: 5.5d
 			y: -4.5d
-			dependencies: ["083825BCD592DD3E"]
+			dependencies: ["5157C3AC7F487BB6"]
 			id: "1C9FFDF9FE0B1CE3"
 			tasks: [{
 				id: "6297686FDD21DF1A"
@@ -362,7 +363,7 @@
 		{
 			x: 3.0d
 			y: 0.0d
-			dependencies: ["274E11BD867B98CF"]
+			dependencies: ["3BF09DBF4AEB6D4F"]
 			id: "7012DB9866449AC3"
 			tasks: [{
 				id: "610503690FC4974A"
@@ -379,7 +380,7 @@
 		{
 			x: 0.5d
 			y: -1.5d
-			dependencies: ["4E2BEB46B1B79816"]
+			dependencies: ["43B6D8989BFDBE94"]
 			id: "0A12E11B1178B688"
 			tasks: [{
 				id: "0BC58C1E0875AC9A"
@@ -655,14 +656,15 @@
 			}]
 		}
 		{
+			title: "Take a look around you"
 			x: -1.5d
 			y: -1.5d
 			dependencies: ["6BE51CCA38EACD3D"]
 			id: "60A5C8C4E388D1B1"
 			tasks: [{
-				id: "5F1F91790FF0FD70"
+				id: "17AF95FC5FCC14AE"
 				type: "item"
-				item: "minecraft:spyglass"
+				item: "create_things_and_misc:radar"
 			}]
 		}
 	]

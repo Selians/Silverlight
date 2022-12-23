@@ -14,7 +14,7 @@
 	quests: [
 		{
 			title: "Sushi Master"
-			x: -7.5d
+			x: -1.5d
 			y: -13.0d
 			description: ["This book will teach you how to become a Sushi-Master."]
 			dependencies: ["5832C1168E4E90C4"]
@@ -88,17 +88,7 @@
 			}]
 		}
 		{
-			x: -7.5d
-			y: -8.0d
-			id: "6C8BD0767A3E6193"
-			tasks: [{
-				id: "6288FFABAA122B32"
-				type: "custom"
-				title: "farmer's delight"
-			}]
-		}
-		{
-			x: -9.0d
+			x: -3.0d
 			y: -12.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "5CBC747B25F53641"
@@ -119,7 +109,7 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: 0.0d
 			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "56C62E0C75A1F090"
@@ -140,7 +130,7 @@
 			}]
 		}
 		{
-			x: -9.0d
+			x: -3.0d
 			y: -13.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "2A994D84F7EAE83F"
@@ -161,7 +151,7 @@
 			}]
 		}
 		{
-			x: -7.0d
+			x: -1.0d
 			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "0593C93813AE7071"
@@ -182,7 +172,7 @@
 			}]
 		}
 		{
-			x: -9.0d
+			x: -3.0d
 			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "467E51C767A9E4F4"
@@ -203,7 +193,7 @@
 			}]
 		}
 		{
-			x: -8.0d
+			x: -2.0d
 			y: -14.5d
 			dependencies: ["72382DAEB04F7834"]
 			id: "1720F962B7C760D0"
@@ -516,16 +506,23 @@
 			}]
 		}
 		{
+			title: "Aquaculture"
+			icon: "aquaculture:atlantic_cod"
 			x: 4.5d
 			y: -2.0d
 			shape: "square"
 			dependencies: ["5832C1168E4E90C4"]
 			id: "32D507B33DC5775C"
 			tasks: [{
-				id: "7265817AE850AD84"
-				type: "custom"
-				title: "Aquaculture"
-				icon: "aquaculture:atlantic_cod"
+				id: "6217A2A2EE1E4DDF"
+				type: "item"
+				item: {
+					id: "minecraft:fishing_rod"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
 			}]
 		}
 		{
@@ -875,8 +872,8 @@
 			]
 		}
 		{
-			x: -1.5d
-			y: -13.0d
+			x: 4.5d
+			y: -8.0d
 			dependencies: ["5832C1168E4E90C4"]
 			id: "781560C7E5456424"
 			tasks: [{
@@ -888,56 +885,91 @@
 		{
 			x: 6.0d
 			y: -13.5d
+			dependencies: ["36B13F4A88ED533A"]
 			id: "5A7B39DC7A68C6CC"
 			tasks: [{
 				id: "35DBCB11C9563EE0"
 				type: "item"
 				item: "croptopia:knife"
 			}]
+			rewards: [{
+				id: "0420088D57675F57"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 4.0d
 			y: -14.5d
+			dependencies: ["36B13F4A88ED533A"]
 			id: "5BFAC5E1E948B193"
 			tasks: [{
 				id: "31C3C0F1263AA1DF"
 				type: "item"
 				item: "croptopia:mortar_and_pestle"
 			}]
+			rewards: [{
+				id: "59379E3560CA24D7"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 6.0d
 			y: -12.5d
+			dependencies: ["36B13F4A88ED533A"]
 			id: "0751584B8D2320B0"
 			tasks: [{
 				id: "1750F147B2FCA685"
 				type: "item"
 				item: "croptopia:frying_pan"
 			}]
+			rewards: [{
+				id: "57985739370EC588"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 5.0d
 			y: -14.5d
+			dependencies: ["36B13F4A88ED533A"]
 			id: "427D31216D0BFD89"
 			tasks: [{
 				id: "3A4AA530396F34E3"
 				type: "item"
 				item: "croptopia:food_press"
 			}]
+			rewards: [{
+				id: "665A482D6895575C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
 			x: 6.0d
 			y: -14.5d
+			dependencies: ["36B13F4A88ED533A"]
 			id: "6BF633C5CB94FAED"
 			tasks: [{
 				id: "522A35D10040C503"
 				type: "item"
 				item: "croptopia:cooking_pot"
 			}]
+			rewards: [{
+				id: "69F2BC3D97837096"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -3.0d
-			y: -14.5d
+			x: 3.0d
+			y: -9.5d
 			dependencies: ["781560C7E5456424"]
 			id: "11BB18E4F5FE36FC"
 			tasks: [{
@@ -945,10 +977,16 @@
 				type: "item"
 				item: "vinery:fermentation_barrel"
 			}]
+			rewards: [{
+				id: "32195C91F0F4AF88"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -2.0d
-			y: -14.5d
+			x: 4.0d
+			y: -9.5d
 			dependencies: ["781560C7E5456424"]
 			id: "1EE3DB52BE941BF7"
 			tasks: [{
@@ -956,10 +994,16 @@
 				type: "item"
 				item: "vinery:kitchen_sink"
 			}]
+			rewards: [{
+				id: "30A04D509411F231"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -1.0d
-			y: -14.5d
+			x: 5.0d
+			y: -9.5d
 			dependencies: ["781560C7E5456424"]
 			id: "75D411977FA1F15F"
 			tasks: [{
@@ -967,10 +1011,16 @@
 				type: "item"
 				item: "vinery:faucet"
 			}]
+			rewards: [{
+				id: "2038B9F407DBE320"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -3.0d
-			y: -12.5d
+			x: 3.0d
+			y: -7.5d
 			dependencies: ["781560C7E5456424"]
 			id: "5C453EA6399CBF92"
 			tasks: [{
@@ -978,10 +1028,16 @@
 				type: "item"
 				item: "vinery:cooking_pot"
 			}]
+			rewards: [{
+				id: "379ECE8A17C64A6C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -3.0d
-			y: -13.5d
+			x: 3.0d
+			y: -8.5d
 			dependencies: ["781560C7E5456424"]
 			id: "3A176885F174FF21"
 			tasks: [{
@@ -989,10 +1045,16 @@
 				type: "item"
 				item: "vinery:grapevine_pot"
 			}]
+			rewards: [{
+				id: "1743413E85B5F3DC"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: 0.0d
-			y: -14.5d
+			x: 6.0d
+			y: -9.5d
 			dependencies: ["781560C7E5456424"]
 			id: "68104B1B9D92349F"
 			tasks: [{
@@ -1000,10 +1062,16 @@
 				type: "item"
 				item: "vinery:stove"
 			}]
+			rewards: [{
+				id: "11067DD1ACB0FC68"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: 0.0d
-			y: -13.5d
+			x: 6.0d
+			y: -8.5d
 			dependencies: ["781560C7E5456424"]
 			id: "3C74244434DA6038"
 			tasks: [{
@@ -1011,10 +1079,16 @@
 				type: "item"
 				item: "vinery:wood_fired_oven"
 			}]
+			rewards: [{
+				id: "477DEEF123193CBE"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: 0.0d
-			y: -12.5d
+			x: 6.0d
+			y: -7.5d
 			dependencies: ["781560C7E5456424"]
 			id: "1D502FCA68C861FE"
 			tasks: [{
@@ -1022,10 +1096,16 @@
 				type: "item"
 				item: "vinery:wine_box"
 			}]
+			rewards: [{
+				id: "67522726BD004592"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -3.0d
-			y: -11.5d
+			x: 3.0d
+			y: -6.5d
 			dependencies: ["781560C7E5456424"]
 			id: "44BD9F9063C93808"
 			tasks: [{
@@ -1039,10 +1119,16 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "561F0417F28B8578"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -2.0d
-			y: -11.5d
+			x: 4.0d
+			y: -6.5d
 			dependencies: ["781560C7E5456424"]
 			id: "672C0A24280A74BB"
 			tasks: [{
@@ -1056,10 +1142,16 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "45995117B7E8FC96"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -1.0d
-			y: -11.5d
+			x: 5.0d
+			y: -6.5d
 			dependencies: ["781560C7E5456424"]
 			id: "066A1495F0740259"
 			tasks: [{
@@ -1073,10 +1165,16 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "1E1F3A43B9B4C3CD"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: 0.0d
-			y: -11.5d
+			x: 6.0d
+			y: -6.5d
 			dependencies: ["781560C7E5456424"]
 			id: "5D5EF3BA74A12D1B"
 			tasks: [{
@@ -1090,15 +1188,24 @@
 					}
 				}
 			}]
+			rewards: [{
+				id: "5808957D1DCEEB40"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
 		}
 		{
-			x: -6.0d
-			y: -8.0d
+			title: "Nether's Delight"
+			x: -7.5d
+			y: -13.0d
+			dependencies: ["5832C1168E4E90C4"]
 			id: "5ACC3001E315D9D3"
 			tasks: [{
 				id: "7FA1840DE8B44826"
 				type: "custom"
-				title: "nether's delight"
+				title: "Netherly Delightful"
+				icon: "nethersdelight:plate_of_stuffed_hoglin_snout"
 			}]
 		}
 		{
@@ -1186,6 +1293,578 @@
 					id: "01DAC9761201A9F1"
 					type: "item"
 					item: "fantasyfurniture:decorations/venthyr_tea_cups"
+				}
+			]
+		}
+		{
+			x: -7.0d
+			y: -9.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "1B31B3877D8C8078"
+			tasks: [{
+				id: "3406F99596D72D9A"
+				type: "item"
+				item: "farmersdelight:stove"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -9.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "67404743F8078699"
+			tasks: [{
+				id: "0A103C3677980885"
+				type: "item"
+				item: "farmersdelight:cooking_pot"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -7.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "2CF2A51689349727"
+			tasks: [{
+				id: "00C2F61E1DA2426C"
+				type: "item"
+				item: "farmersdelight:basket"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -9.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "556A9D6EA04DCA7A"
+			tasks: [{
+				id: "7C3845F176F9C8FD"
+				type: "item"
+				item: "farmersdelight:cutting_board"
+			}]
+		}
+		{
+			icon: {
+				id: "farmersdelight:flint_knife"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -9.0d
+			y: -8.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "43816FB911076171"
+			tasks: [{
+				id: "000BF6DAC37565BF"
+				type: "item"
+				title: "Any #forge:tools/knives"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:tools/knives"
+					}
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: -6.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "34847079CAF3B955"
+			tasks: [{
+				id: "510D2942C1CAE946"
+				type: "item"
+				item: "farmersdelight:cabbage_seeds"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -6.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "568B722EF6C8DCF3"
+			tasks: [{
+				id: "64909E1BE2247FDF"
+				type: "item"
+				item: "farmersdelight:tomato_seeds"
+			}]
+		}
+		{
+			x: -7.0d
+			y: -6.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "28D57DDD2727DCFE"
+			tasks: [{
+				id: "53713D66A65B37D3"
+				type: "item"
+				item: "farmersdelight:rice"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -6.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "31230759DF8A3A95"
+			tasks: [{
+				id: "17D35940E9B4C32F"
+				type: "item"
+				item: "farmersdelight:onion"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -9.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "1DF1ACDFF306403D"
+			tasks: [{
+				id: "5B77EA59E783F62D"
+				type: "item"
+				item: "farmersdelight:organic_compost"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -8.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "37634DE10D22A2B0"
+			tasks: [{
+				id: "021299EF221BAB01"
+				type: "item"
+				item: "farmersdelight:rich_soil"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -7.5d
+			dependencies: ["1768153BCF19EA92"]
+			id: "15F66C6418688520"
+			tasks: [
+				{
+					id: "4238236506D7AE91"
+					type: "item"
+					item: "farmersdelight:brown_mushroom_colony"
+				}
+				{
+					id: "4610B84C72A24146"
+					type: "item"
+					item: "farmersdelight:red_mushroom_colony"
+				}
+			]
+		}
+		{
+			title: "Delightful!"
+			x: -7.5d
+			y: -8.0d
+			dependencies: ["5832C1168E4E90C4"]
+			id: "1768153BCF19EA92"
+			tasks: [{
+				id: "32EC52D478569BCD"
+				type: "item"
+				item: {
+					id: "farmersdelight:skillet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: -12.5d
+			dependencies: ["5ACC3001E315D9D3"]
+			id: "34EFD76116694440"
+			tasks: [{
+				id: "57602702E7449C14"
+				type: "item"
+				item: "nethersdelight:soul_compost"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -13.5d
+			dependencies: ["5ACC3001E315D9D3"]
+			id: "2667C4E5266CF578"
+			tasks: [{
+				id: "15B7350A24E531AF"
+				type: "item"
+				item: "nethersdelight:rich_soul_soil"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -14.5d
+			dependencies: ["5ACC3001E315D9D3"]
+			id: "3B6F28720632953D"
+			tasks: [{
+				id: "4A5F8176E5C9E5DD"
+				type: "item"
+				item: "nethersdelight:hoglin_mount"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -14.5d
+			dependencies: ["5ACC3001E315D9D3"]
+			id: "307B09DD158E5F6B"
+			tasks: [
+				{
+					id: "1B07325DD2312E71"
+					type: "item"
+					item: "nethersdelight:crimson_fungus_colony"
+				}
+				{
+					id: "15C6AD5AE6B60846"
+					type: "item"
+					item: "nethersdelight:warped_fungus_colony"
+				}
+			]
+		}
+		{
+			x: -7.0d
+			y: -14.5d
+			dependencies: ["5ACC3001E315D9D3"]
+			id: "0CF521792EB82B77"
+			tasks: [{
+				id: "44849B523967F6D5"
+				type: "item"
+				item: "nethersdelight:hoglin_hide"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -14.5d
+			dependencies: ["5ACC3001E315D9D3"]
+			id: "0185E66F05812C50"
+			tasks: [{
+				id: "28737F2A249E0C5E"
+				type: "item"
+				item: "nethersdelight:nether_skewer"
+			}]
+		}
+		{
+			icon: {
+				id: "nethersdelight:iron_machete"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -6.0d
+			y: -13.5d
+			dependencies: ["5ACC3001E315D9D3"]
+			id: "071BF618AB6C6FCB"
+			tasks: [{
+				id: "7E2AFDA80AAB9190"
+				type: "item"
+				title: "Any #nethersdelight:tools/machetes"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "nethersdelight:tools/machetes"
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -14.5d
+			dependencies: ["36B13F4A88ED533A"]
+			id: "730C1B02567A27E1"
+			tasks: [
+				{
+					id: "6A6DEAF3DE32B58E"
+					type: "item"
+					item: "croptopia:anchovy"
+				}
+				{
+					id: "485D942485C780A3"
+					type: "item"
+					item: "croptopia:calamari"
+				}
+				{
+					id: "3235E2EA1DAF5D0F"
+					type: "item"
+					item: "croptopia:clam"
+				}
+				{
+					id: "7E642BD7CB030B41"
+					type: "item"
+					item: "croptopia:crab"
+				}
+				{
+					id: "15B6943744848921"
+					type: "item"
+					item: "croptopia:glowing_calamari"
+				}
+				{
+					id: "6FF487A62BEE212F"
+					type: "item"
+					item: "croptopia:oyster"
+				}
+				{
+					id: "3384C07DF13C5CF4"
+					type: "item"
+					item: "croptopia:roe"
+				}
+				{
+					id: "0D26336A9B44536F"
+					type: "item"
+					item: "croptopia:shrimp"
+				}
+				{
+					id: "3CA39D45418AD2E9"
+					type: "item"
+					item: "croptopia:tuna"
+				}
+			]
+			rewards: [{
+				id: "4D7956ACF9ECFB85"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
+		}
+		{
+			x: 3.0d
+			y: -13.5d
+			dependencies: ["36B13F4A88ED533A"]
+			id: "3C4127EE26890FF3"
+			tasks: [
+				{
+					id: "4756A15C27B57B75"
+					type: "item"
+					item: "croptopia:pepper"
+				}
+				{
+					id: "6C831170CF57F5FA"
+					type: "item"
+					item: "croptopia:vanilla"
+				}
+				{
+					id: "0FEE18005483A1BC"
+					type: "item"
+					item: "croptopia:molasses"
+				}
+				{
+					id: "23A9BBECA689140F"
+					type: "item"
+					item: "croptopia:olive_oil"
+				}
+				{
+					id: "3174D7FC1E96804B"
+					type: "item"
+					item: "croptopia:soy_sauce"
+				}
+				{
+					id: "19221B13B4EB89A3"
+					type: "item"
+					item: "croptopia:butter"
+				}
+				{
+					id: "5F65D96B41D74773"
+					type: "item"
+					item: "croptopia:flour"
+				}
+				{
+					id: "3D2F8D79D6D51A81"
+					type: "item"
+					item: "croptopia:salt"
+				}
+				{
+					id: "31AAF7019868D0A6"
+					type: "item"
+					item: "croptopia:cinnamon"
+				}
+			]
+			rewards: [{
+				id: "6AD4AD7C9633030C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 1939749778070837881L
+			}]
+		}
+		{
+			x: 3.0d
+			y: -12.5d
+			dependencies: ["36B13F4A88ED533A"]
+			id: "24F5E9B819ABC3F1"
+			tasks: [
+				{
+					id: "766BB73BD423B2D0"
+					type: "item"
+					item: "croptopia:almond_sapling"
+				}
+				{
+					id: "525CD7CC3AD2C0A5"
+					type: "item"
+					item: "croptopia:date_sapling"
+				}
+				{
+					id: "66DF907E8DE732F8"
+					type: "item"
+					item: "croptopia:cashew_sapling"
+				}
+				{
+					id: "4D6FAE0BA35DCF58"
+					type: "item"
+					item: "croptopia:nutmeg_sapling"
+				}
+				{
+					id: "5D59D34911709102"
+					type: "item"
+					item: "croptopia:pecan_sapling"
+				}
+				{
+					id: "714E12CEDCADA1D6"
+					type: "item"
+					item: "croptopia:walnut_sapling"
+				}
+			]
+			rewards: [
+				{
+					id: "14AE7A372D83CA50"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1939749778070837881L
+				}
+				{
+					id: "029242A1CFA0F064"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1939749778070837881L
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: -11.5d
+			dependencies: ["36B13F4A88ED533A"]
+			id: "124DD84E540F9D00"
+			tasks: [
+				{
+					id: "169CC5720BDDE09F"
+					type: "item"
+					item: "croptopia:apple_sapling"
+				}
+				{
+					id: "13BD12BDBB6079D9"
+					type: "item"
+					item: "croptopia:apricot_sapling"
+				}
+				{
+					id: "5CE9CFE91A774188"
+					type: "item"
+					item: "croptopia:banana_sapling"
+				}
+				{
+					id: "5133A8DE9EA7A63D"
+					type: "item"
+					item: "croptopia:avocado_sapling"
+				}
+				{
+					id: "4F13B7F49EAA7D93"
+					type: "item"
+					item: "croptopia:cherry_sapling"
+				}
+				{
+					id: "0A0CF7213832F55A"
+					type: "item"
+					item: "croptopia:coconut_sapling"
+				}
+				{
+					id: "0483337A8AA417F6"
+					type: "item"
+					item: "croptopia:dragonfruit_sapling"
+				}
+				{
+					id: "045338FDEDC90643"
+					type: "item"
+					item: "croptopia:fig_sapling"
+				}
+				{
+					id: "2237D0F01E815EB8"
+					type: "item"
+					item: "croptopia:grapefruit_sapling"
+				}
+				{
+					id: "1F8BC456473268C7"
+					type: "item"
+					item: "croptopia:kumquat_sapling"
+				}
+				{
+					id: "65DF20777196A24C"
+					type: "item"
+					item: "croptopia:lemon_sapling"
+				}
+				{
+					id: "0A56B1CAAB091CA5"
+					type: "item"
+					item: "croptopia:lime_sapling"
+				}
+				{
+					id: "3F4B41C38A7D138E"
+					type: "item"
+					item: "croptopia:mango_sapling"
+				}
+				{
+					id: "3A5170E1DD9AFF23"
+					type: "item"
+					item: "croptopia:nectarine_sapling"
+				}
+				{
+					id: "1FA8B19C65E8A98F"
+					type: "item"
+					item: "croptopia:orange_sapling"
+				}
+				{
+					id: "167EA82E3BB49266"
+					type: "item"
+					item: "croptopia:peach_sapling"
+				}
+				{
+					id: "575E0CF1E1CCE7DF"
+					type: "item"
+					item: "croptopia:pear_sapling"
+				}
+				{
+					id: "69768C52CF7F99FD"
+					type: "item"
+					item: "croptopia:persimmon_sapling"
+				}
+				{
+					id: "03DB107291242321"
+					type: "item"
+					item: "croptopia:plum_sapling"
+				}
+				{
+					id: "006C5A8F49640B2B"
+					type: "item"
+					item: "croptopia:starfruit_sapling"
+				}
+			]
+			rewards: [
+				{
+					id: "29AD4FD9A1C7A579"
+					type: "random"
+					table_id: 1939749778070837881L
+				}
+				{
+					id: "5014EC82553C0C10"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1939749778070837881L
+				}
+				{
+					id: "64D63903EF2C0B2E"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1939749778070837881L
+				}
+				{
+					id: "1BB4F9FD8AB7F06A"
+					type: "random"
+					exclude_from_claim_all: true
+					table_id: 1939749778070837881L
 				}
 			]
 		}
