@@ -852,6 +852,8 @@
 			x: -1.5d
 			y: -8.0d
 			description: ["You have been sent here from a different realm. To grow stronger, you must consume and adapt to this one. One of the best ways to grow stronger is to eat this realm's food..."]
+			dependencies: ["72D349D10335F378"]
+			hide: true
 			id: "5832C1168E4E90C4"
 			tasks: [{
 				id: "15D53A3C2F580F0D"

@@ -267,7 +267,7 @@
 			y: 0.0d
 			description: ["Your best chance of survival is teaming up and building a fortress. Your second best is to find a bed, and sleep through the night."]
 			dependencies: ["2EE9360E051175EC"]
-			secret: true
+			hide: true
 			id: "68A6E6339577403C"
 			tasks: [{
 				id: "29BF4C10652DE15F"
