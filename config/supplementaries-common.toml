@@ -2,11 +2,23 @@
 #Server side blocks configs
 [blocks]
 
+	[blocks.urn]
+		#Chance for an urn to spawn a critter from the urn_spawn tag
+		#Range: 0.0 ~ 1.0
+		critter_spawn_chance = 0.009999999776482582
+
+	[blocks.enderman_head]
+		#Time to increase 1 power level when being looked at
+		#Range: 0 ~ 10000
+		ticks_to_increase_power = 15
+		#do enderman heads work when looked from any side?
+		work_from_any_side = false
+
 	[blocks.bamboo_spikes]
-		#Alternative mode for bamboo spikes. Allows only harmful effects to be applied on them and they obtain infinite durability
-		alternative_mode = true
 		#Allows entities killed by spikes to drop loot as if they were killed by a player
 		player_loot = false
+		#Alternative mode for bamboo spikes. Allows only harmful effects to be applied on them and they obtain infinite durability
+		alternative_mode = true
 
 	[blocks.sugar_cube]
 		#Duration in seconts of speed effect garanted to horses that eat a sugar cube
@@ -143,7 +155,7 @@
 		prevent_breaking = false
 		#Make safes simpler so they do not require keys:
 		#they will be bound to the first person that opens one and only that person will be able to interact with them
-		simple_safes = true
+		simple_safes = false
 
 	[blocks.blackboard]
 		#Enable to draw directly on a blackboard using any dye. Gui still only works in black and white
@@ -205,18 +217,6 @@
 		#Maximum allowed pole length
 		#Range: 0 ~ 256
 		pole_length = 16
-
-	[blocks.urn]
-		#Chance for an urn to spawn a critter from the urn_spawn tag
-		#Range: 0.0 ~ 1.0
-		critter_spawn_chance = 0.009999999776482582
-
-	[blocks.enderman_head]
-		#Time to increase 1 power level when being looked at
-		#Range: 0 ~ 10000
-		ticks_to_increase_power = 15
-		#do enderman heads work when looked from any side?
-		work_from_any_side = false
 
 #Configure spawning conditions
 [spawns]
