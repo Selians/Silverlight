@@ -80,7 +80,7 @@ ServerEvents.recipes(event => {
 	], {
 		A: 'silverlight:silverlightraw',
 		B: 'supplementaries:key',
-		C: 'minecraft:compass'
+		C: 'create_things_and_misc:radar'
 	});
 
 	// CREATE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

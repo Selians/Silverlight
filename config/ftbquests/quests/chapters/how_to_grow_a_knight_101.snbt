@@ -61,7 +61,7 @@
 			title: "Step 3:"
 			x: -3.0d
 			y: 0.5d
-			description: ["Now, carve out a nice face"]
+			description: ["Now, shear off a nice face"]
 			dependencies: ["39649E87EC8AE1DC"]
 			id: "001EF3B6B7472816"
 			tasks: [{

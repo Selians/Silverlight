@@ -1,7 +1,5 @@
 
 [general]
-	#Draws item name on labels
-	draw_item_name = false
 	#If text is enabled, allows it to accept the label dye color
 	colored_text = true
 	#Item texture resolution. You might want to keep this multiples of 16
