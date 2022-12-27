@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = 185.248.134.131:11329
+  is_server = false
+  world = C:/Users/Marce/curseforge/minecraft/Instances/Silverlight/saves/New World (1)
 }
 
