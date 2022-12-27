@@ -21,5 +21,4 @@ config/sound_physics_remastered/soundphysics.properties
 logs/kubejs/client.txt
 logs/kubejs/server.txt
 logs/kubejs/startup.txt
-minecraftinstance.json
 config/byg/backups/last_working_configs_backup.zip

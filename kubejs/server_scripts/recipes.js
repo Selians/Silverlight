@@ -19,6 +19,8 @@ ServerEvents.recipes(event => {
 
 	event.remove({output:'miningmaster:gem_forge'});
 
+	event.remove({output:'ftbquests:book'});
+
 	event.remove({output:'create:empty_blaze_burner'});
 	event.remove({output:'create:mechanical_arm'});
 	event.remove({output:'create_things_and_misc:radar'});
@@ -34,6 +36,11 @@ ServerEvents.recipes(event => {
 
 
 // ------------------ CUSTOM RECIPES --------------------------------
+
+	// Questbook <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+	event.shapeless('ftbquests:book',['minecraft:spyglass', 'silverlight:silverlightraw']);
+
     
 	// BLOCKY SIEGE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 

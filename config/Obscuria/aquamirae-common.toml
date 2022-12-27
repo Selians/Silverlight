@@ -1,12 +1,4 @@
 
-[IceMazeStructures]
-	#Range: 0.0 ~ 100.0
-	Ship = 1.0
-	#Range: 0.0 ~ 100.0
-	Outpost = 1.0
-	#Range: 0.0 ~ 100.0
-	Shelter = 1.0
-
 [Mobs]
 
 	[Mobs.GhostOfCaptainCornelia]
@@ -109,4 +101,12 @@
 
 [General]
 	"Stylized Bossbar" = true
+
+[IceMazeStructures]
+	#Range: 0.0 ~ 100.0
+	Ship = 1.0
+	#Range: 0.0 ~ 100.0
+	Outpost = 1.0
+	#Range: 0.0 ~ 100.0
+	Shelter = 1.0
 
