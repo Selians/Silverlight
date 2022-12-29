@@ -80,7 +80,7 @@
 			}]
 		}
 		{
-			x: -6.0d
+			x: -14.0d
 			y: -4.5d
 			description: [
 				"Want to carry more stuff? Craft a backpack!"
@@ -100,7 +100,6 @@
 			y: 5.5d
 			description: ["Have you tried crafting a shield?"]
 			dependencies: ["42A46CC6ECA6C1B1"]
-			secret: true
 			id: "7CD169119F74731B"
 			tasks: [{
 				id: "58E54B75F5EACC5F"
@@ -135,7 +134,7 @@
 			x: -11.0d
 			y: 4.5d
 			description: [
-				"Silverlight is an archaic material originating from the stars. When taken by a Champion, Silverlight becomes a flexible and sentient resource. It can adapt itself to the purpose for which it is needed, and is an essential component to complex machinery, or as a regulator for items that involve magic. "
+				"Silverlight is an archaic material originating from the stars. It is infused with the power of the moon goddess, and is a powerful resource that is essential in the creation of complex machinery and regulators which can help to amplify the magic that you wield in order to defeat even the toughest of foes. It can be used to create great tools, or it can be used to create powerful weapons. You'll have a lot of options when it comes to using Silverlight, Champion - and the decisions that you make with this powerful resource are up to you."
 				"It is only dropped from strong monsters, born from chaos, during nighttime - making it incredibly rare."
 			]
 			dependencies: ["6A7D75A1140C63C8"]
@@ -152,7 +151,7 @@
 			x: -17.0d
 			y: 1.5d
 			subtitle: "For the world is strange, and hostile."
-			description: ["You've woken to find your goddess, the goddess Moon, defeated. Her appearance broken, her power weakened. She calls to you. Open the gates to the Astral planes once more, and defeat there an evil that guards the door."]
+			description: ["Champion, you've awakened to a devastating site. Your goddess Moon has been defeated. Her appearance is broken, her power weakened. She calls to you for help. You've been asleep for a long time, and the world is more dangerous now than ever before. She needs you. Will you accept her call?"]
 			id: "7FC19C3C79232D52"
 			tasks: [{
 				id: "570628A521D80C88"
@@ -168,8 +167,8 @@
 		{
 			title: "Limited supply"
 			x: -7.5d
-			y: -3.0d
-			description: ["Perhaps you know of a time where special enchantments were traded by villagers, but sadly these are hard to come by nowadays. If you're lucky, you might find a wandering trader that still sells some."]
+			y: -1.5d
+			description: ["Perhaps you know of a time where villagers would trade special enchantments, but, sadly, these are now very rare. You may get lucky, and find a wandering trader who still sells some."]
 			dependencies: ["78144445FE83959C"]
 			secret: true
 			id: "43ED2E83E7B020B2"
@@ -206,7 +205,7 @@
 			icon: "minecraft:skeleton_skull"
 			x: -12.5d
 			y: 1.5d
-			description: ["The world has grown stronger. As you advance in it, so will your enemies increase in power and health. It'd be unwise to take on a group..."]
+			description: ["As you advance, the enemies you will face will become even more powerful, and more deadly. You must tread carefully."]
 			dependencies: ["184C127F1197DEB1"]
 			id: "243E6CA06D45695D"
 			tasks: [{
@@ -253,12 +252,25 @@
 			description: ["Bones are useful resources that can be used to craft primitive tools. You can obtain bones by killing animals, or by picking them off the ground."]
 			dependencies: ["43CB95DD9563DEC6"]
 			id: "184C127F1197DEB1"
-			tasks: [{
-				id: "4C1D0DB9C7DB48B7"
-				type: "item"
-				title: "Obtain bones"
-				item: "minecraft:bone"
-			}]
+			tasks: [
+				{
+					id: "4C1D0DB9C7DB48B7"
+					type: "item"
+					title: "Obtain bones"
+					item: "minecraft:bone"
+				}
+				{
+					id: "54D178E070AD4739"
+					type: "item"
+					item: {
+						id: "primitivestart:bone_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 		{
 			title: "Home sweet home"
@@ -286,6 +298,7 @@
 		{
 			x: -9.0d
 			y: -3.0d
+			subtitle: "Villagers love these"
 			dependencies: ["097DE4C0A402B495"]
 			secret: true
 			id: "78144445FE83959C"
@@ -317,8 +330,11 @@
 		}
 		{
 			title: "Breach the underground"
-			x: -10.5d
-			y: -4.5d
+			x: -12.5d
+			y: -3.0d
+			subtitle: "Progressing, are we?"
+			hide_dependency_lines: true
+			dependencies: ["0D320E8D9BA4E78C"]
 			secret: true
 			id: "097DE4C0A402B495"
 			tasks: [{
@@ -335,45 +351,13 @@
 			}]
 		}
 		{
-			x: -12.0d
-			y: -3.0d
-			description: [
-				"Every item that you craft or find, can have unique attributes. Think of extra protection, damage, or even special buffs to your stats."
-				"Not happy with what you got? You can upgrade stats by combining the item with a diamond in an anvil, or reroll its stats by combining it with lapis lazuli."
-			]
-			dependencies: ["097DE4C0A402B495"]
-			id: "0017E61769F2174C"
-			tasks: [{
-				id: "4AA1638C36A35342"
-				type: "checkmark"
-				title: "Item quality"
-			}]
-		}
-		{
-			title: "Make yourself comfortable"
-			x: -4.0d
-			y: 0.0d
-			dependencies: ["68A6E6339577403C"]
-			id: "4592A06ED772120B"
-			tasks: [{
-				id: "01E25A5BD90670BC"
-				type: "questsadditions:place"
-				title: "Place a campfire"
-				block_type: 0
-				block: "minecraft:campfire"
-				value: 1L
-				replaced: "minecraft:air"
-				replace: false
-			}]
-		}
-		{
 			title: "The Astral planes"
 			icon: "endrem:ancient_portal_frame"
-			x: -2.0d
+			x: -4.0d
 			y: 0.0d
 			subtitle: "Unseal the heavenly gate"
-			description: ["Long ago, the gateway to the astral planes was sealed - It's keys locked into twelve eyes, ensuring that no more divine interference would drip into the realms. Alas, it seems to have been for nothing. Our goddess Moon has been defeated, her form left battered. To ensure her survival, the gates must be reopened and her winged usurper overthrown."]
-			dependencies: ["4592A06ED772120B"]
+			description: ["Long ago, the gateway to the astral planes was sealed. Its keys were locked in twelve ancient eyes, ensuring that no more divine interference would drip into the realm. Alas, it seems that it was for nothing. Our goddess, the moon, has been defeated. Her form is left battered, and she needs our help. To ensure her survival, we must re-open the gates, and overthrow her winged usurper!"]
+			dependencies: ["68A6E6339577403C"]
 			id: "7F29758697AE8254"
 			tasks: [{
 				id: "62643E4A3A5A53AC"
@@ -390,9 +374,9 @@
 				}
 			}
 			x: -14.0d
-			y: -3.0d
-			description: ["A bone pickaxe is a good start, but you'll need something stronger in the long run. Try reinforcing it with copper, using a smithing table."]
-			dependencies: ["184C127F1197DEB1"]
+			y: -1.5d
+			description: ["Ores tend to be harder than bone and stone. Try reinforcing your bone pickaxe with copper, using a smithing table."]
+			dependencies: ["7F36F558385762C4"]
 			hide: true
 			id: "0D320E8D9BA4E78C"
 			tasks: [
@@ -414,6 +398,25 @@
 					item: "minecraft:raw_copper"
 				}
 			]
+		}
+		{
+			title: "Stone age?"
+			x: -15.5d
+			y: 0.0d
+			subtitle: "While a good start, bone tools aren't hard enough for most purposes. You'll need a stone pickaxe to mine copper."
+			dependencies: ["184C127F1197DEB1"]
+			id: "7F36F558385762C4"
+			tasks: [{
+				id: "0AC4834AF515E774"
+				type: "item"
+				item: {
+					id: "minecraft:stone_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
 		}
 	]
 	quest_links: [ ]
