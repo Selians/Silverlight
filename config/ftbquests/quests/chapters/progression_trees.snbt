@@ -23,7 +23,7 @@
 			tasks: [{
 				id: "31F34D8C9B690656"
 				type: "stat"
-				title: "Slay 100 monsters"
+				title: "A thousand-and-one kills."
 				icon: {
 					id: "knight_quest:kq_sword_steel"
 					Count: 1b
@@ -33,7 +33,7 @@
 				}
 				secret: true
 				stat: "minecraft:mob_kills"
-				value: 1000
+				value: 1001
 			}]
 		}
 		{
@@ -76,7 +76,7 @@
 				id: "3D680F7A81C086EE"
 				type: "kill"
 				entity: "minecraft:cave_spider"
-				value: 45L
+				value: 25L
 			}]
 		}
 		{

@@ -126,7 +126,7 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
         .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:nether_eye");
 
-    event.addEntityLootModifier("ob_aquamirae:captain_cornelia")
+    event.addEntityLootModifier("aquamirae:captain_cornelia")
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
@@ -148,5 +148,13 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
         .addLoot('silverlight:silverlightraw')
         .addLoot('silverlight:silverlightraw')
         .addLoot("endrem:corrupted_eye");
+
+
+// --------------------------- BLOCKS -------------------------------------
+
+    event
+        .addBlockLootModifier("vinery:cherry_leaves")
+        .randomChance(0.25)
+        .addLoot("vinery:cherry");
 
 });

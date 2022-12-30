@@ -30,13 +30,13 @@
 				type: "kill"
 				title: "Banish the ghost of captain Cornelia"
 				icon: {
-					id: "ob_aquamirae:three_bolt_helmet"
+					id: "aquamirae:three_bolt_helmet"
 					Count: 1b
 					tag: {
 						Damage: 0
 					}
 				}
-				entity: "ob_aquamirae:captain_cornelia"
+				entity: "aquamirae:captain_cornelia"
 				value: 1L
 			}]
 		}
@@ -81,7 +81,7 @@
 			tasks: [{
 				id: "549EE78CE24F25E7"
 				type: "item"
-				item: "ob_aquamirae:shell_horn"
+				item: "aquamirae:shell_horn"
 			}]
 		}
 		{

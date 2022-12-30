@@ -6,9 +6,6 @@ ServerEvents.recipes(event => {
 
 // ------------------ REMOVED --------------------------------
 
-	/* REMOVE BY RECIPE ID */
-	event.remove({id:'projectvibrantjourneys:groundcover_cobblestone'});
-
 	/* REMOVE BY OUTPUT ITEM ID */
 	event.remove({output:'endrem:exotic_eye'});
 	event.remove({output:'endrem:undead_eye'});
