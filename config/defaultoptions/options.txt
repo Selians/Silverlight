@@ -26,10 +26,10 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.5
-renderDistance:14
+renderDistance:12
 simulationDistance:5
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:3
 particles:1
 maxFps:120
 graphicsMode:1
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Better-Leaves-7.1-1.19+.zip","file/Create Style Modded Compats v14.zip","file/Crystal_Sculk_sounds_and_fixes_update.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/EmbellishedStone-1.19-1.0.0.zip","file/Soft-Weather-1.0-1.19.zip","eatinganimations_compat","resources/pack.zip","file/Sullys_Peeves-FreshAnimations COMPAT.zip","file/Fantasy_Ores_v6.1_shiny_ores.zip","file/Fantasy_Ores_Modded_v2_shiny_ores.zip","file/Better Emerald.zip","file/Hot_and_Cold_Bucket_(1.19).zip"]
-incompatibleResourcePacks:["quark:emote_resources","file/Create Style Modded Compats v14.zip","file/Sullys_Peeves-FreshAnimations COMPAT.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Better-Leaves-7.1-1.19+.zip","file/Crystal_Sculk_sounds_and_fixes_update.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/EmbellishedStone-1.19-1.0.0.zip","file/Soft-Weather-1.0-1.19.zip","eatinganimations_compat","file/Sullys_Peeves-FreshAnimations COMPAT.zip","file/Fantasy_Ores_v6.1_shiny_ores.zip","file/Fantasy_Ores_Modded_v2_shiny_ores.zip","file/Hot_and_Cold_Bucket_(1.19).zip","resources/silverlight.zip","create:legacy_copper","file/Create Style Modded Compats v15.zip","file/Create Simple Storage 1.1.zip","file/Enhanced Boss Bars 1.1.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/Sullys_Peeves-FreshAnimations COMPAT.zip","file/Create Simple Storage 1.1.zip","file/Enhanced Boss Bars 1.1.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -61,7 +61,7 @@ chatWidth:1.0
 mipmapLevels:4
 useNativeTransport:true
 mainHand:"right"
-attackIndicator:1
+attackIndicator:2
 narrator:0
 tutorialStep:none
 mouseWheelSensitivity:1.0
@@ -70,15 +70,15 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
-syncChunkWrites:true
+syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
-soundCategory_master:0.52538633
-soundCategory_music:0.0
+soundCategory_master:0.18046358
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

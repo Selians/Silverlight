@@ -11,9 +11,6 @@ ServerEvents.recipes(event => {
 	event.remove({output:'endrem:undead_eye'});
 	event.remove({output:'endrem:witch_eye'});
 
-	event.remove({output:'blocky_siege:ballista_stand'});
-	event.remove({output:'blocky_siege:cannon_stand'});
-
 	event.remove({output:'miningmaster:gem_forge'});
 
 	event.remove({output:'ftbquests:book'});
@@ -23,9 +20,12 @@ ServerEvents.recipes(event => {
 	event.remove({output:'create_things_and_misc:radar'});
 	event.remove({output:'create:schematicannon'});
 
+	event.remove({output:'alexsmobs:dimensional_carver'});
+
 	/* REMOVE BY MODID */
 	//event.remove({mod:'knight_quest'});
 	event.remove({mod:'naturescompass'});
+	event.remove({mod:'structurize'});
 	event.remove({mod:'structurecompass'});
 	event.remove({mod:'orva_alarms'});
 	event.remove({mod:'scalinghealth'});
@@ -37,21 +37,6 @@ ServerEvents.recipes(event => {
 	// Questbook <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 	event.shapeless('ftbquests:book',['minecraft:spyglass', 'silverlight:silverlightraw']);
-
-    
-	// BLOCKY SIEGE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-	event.shaped('blocky_siege:ballista_stand', [
-		'BCB',
-		'EDE',
-		'AEA'
-	], {
-		A: '#minecraft:planks',
-		B: 'comforts:rope_and_nail',
-		C: 'create:rope_pulley',
-		D: 'create_things_and_misc:radar',
-		E: 'minecraft:iron_ingot'
-	});
 
 	// MININGMASTER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -170,49 +155,108 @@ ServerEvents.recipes(event => {
 	event.shapeless('orva_alarms:v_3_siren',['orva_alarms:alarm', 'minecraft:red_dye']);
 
 
-	// KNIGHT QUEST <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	// BLOCKY SIEGE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-	/*
-	event.shaped('knight_quest:kq_goblet_empty', [
-		`A A`,
-		`ABA`,
-		` A `
+	event.remove({output:'blocky_siege:ballista_stand'});
+	event.remove({output:'blocky_siege:roaster_stand'});
+	event.remove({output:'blocky_siege:cannon'});
+
+	//CANNON
+	event.custom({
+        'type': 'create:mechanical_crafting',
+        'pattern': [
+            'LRSSS',
+            'CC   '
+        ],
+        'key': {
+            'L': {
+                'item': 'minecraft:blast_furnace'
+            },
+            'R': {
+                'item': 'create:precision_mechanism'
+            },
+            'S': {
+                'item': 'blocky_siege:block_of_cast_iron'
+            },
+            'C': {
+                'item': 'blocky_siege:gears'
+            }
+        },
+        'result': {
+            'item': 'blocky_siege:cannon'
+        },
+        'acceptMirrored': true
+    });
+
+    // BALLISTA
+    event.custom({
+        'type': 'create:mechanical_crafting',
+        'pattern': [
+            ' E ',
+            'CEC',
+            ' E ',
+            'ADA'
+        ],
+        'key': {
+            'A': {
+                'item': 'blocky_siege:charred_planks'
+            },
+            'C': {
+                'item': 'create:rope_pulley'
+            },
+            'D': {
+                'item': 'blocky_siege:gears'
+            },
+            'E': {
+                'item': 'blocky_siege:block_of_cast_iron'
+            }
+        },
+        'result': {
+            'item': 'blocky_siege:ballista_stand'
+        },
+        'acceptMirrored': true
+    });
+
+    // ROASTER
+    event.custom({
+        'type': 'create:mechanical_crafting',
+        'pattern': [
+            'EEE',
+            'ECE',
+            'EDE',
+            'ADA'
+        ],
+        'key': {
+            'A': {
+                'item': 'blocky_siege:charred_planks'
+            },
+            'C': {
+                'item': 'create:blaze_burner'
+            },
+            'D': {
+                'item': 'blocky_siege:gears'
+            },
+            'E': {
+                'item': 'blocky_siege:block_of_cast_iron'
+            }
+        },
+        'result': {
+            'item': 'blocky_siege:roaster_stand'
+        },
+        'acceptMirrored': true
+    });
+
+// BACKPACKS <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+	event.shaped('backpacked:backpack', [
+		`AAA`,
+		`BCB`,
+		`AAA`
 	], {
-		A: 'create:copper_nugget',
-		B: 'minecraft:copper_ingot'
+		A: 'born_in_chaos_v1:monster_skin',
+		B: 'minecraft:string',
+		C: 'minecraft:iron_ingot'
 	});
-
-	event.shaped('knight_quest:kq_diamon_repair', [
-		` AC`,
-		` BA`,
-		`B  `
-	], {
-		A: 'minecraft:diamond',
-		B: 'minecraft:stick',
-		C: 'silverlight:silverlightraw'
-	});
-
-	event.smithing('knight_quest:chalice_state_0', 'minecraft:cauldron', 'minecraft:copper_block')
-	event.smithing('knight_quest:kq_nether_repair', 'knight_quest:kq_diamon_repair', 'minecraft:netherite_ingot')
-
-	*/
-	// EXTRACTINATOR <<<<<<<<<<<<<<<<<<<<<<<<<<<< TEMP REMOVED
-	/*
-	event.shaped('extractinator:extractinator', [
-		'BAG',
-		'CFD',
-		'HEG'
-	], {
-		A: 'minecraft:hopper',
-		B: 'create:millstone',
-		C: 'create:mechanical_press',
-		D: 'silverlight:silverlightraw',
-		E: 'minecraft:blast_furnace',
-		F: 'create:mechanical_pump',
-		G: 'minecraft:iron_ingot',
-		H: 'minecraft:copper_block'
-	})
-	*/
 
 // EYES <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
