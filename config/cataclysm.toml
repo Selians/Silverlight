@@ -10,6 +10,11 @@
 	"ScreenShake(on/off)" = true
 	#BossMusic(on/off)
 	"BossMusic(on/off)" = true
+	#Lava Opacity for the Ignitium Helemt.
+	#Range: 0.01 ~ 1.0
+	lavaVisionOpacity = 0.5
+	#Whether to disable certain aspects of the Ignitium Helemt. Enable if issues with shaders persist.
+	shadersCompat = false
 
 ["Ender Guardian"]
 	#EnderGuardian's Health Multiplier

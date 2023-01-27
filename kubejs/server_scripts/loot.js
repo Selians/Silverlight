@@ -157,4 +157,8 @@ event.addLootTableModifier("scalinghealth:bonus_drops/hostile", "scalinghealth:b
         .randomChance(0.25)
         .addLoot("vinery:cherry");
 
+    event
+        .addBlockLootModifier("cosmosportals:block_cosmic_ore")
+        .addLoot("")
+
 });

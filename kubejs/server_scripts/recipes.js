@@ -23,13 +23,13 @@ ServerEvents.recipes(event => {
 	event.remove({output:'alexsmobs:dimensional_carver'});
 
 	/* REMOVE BY MODID */
-	//event.remove({mod:'knight_quest'});
 	event.remove({mod:'naturescompass'});
 	event.remove({mod:'structurize'});
 	event.remove({mod:'structurecompass'});
 	event.remove({mod:'orva_alarms'});
 	event.remove({mod:'scalinghealth'});
-	event.remove({mod: 'extractinator'});
+	event.remove({mod:'extractinator'});
+	event.remove({mod:'cosmosportals'});
 
 
 // ------------------ CUSTOM RECIPES --------------------------------
@@ -264,8 +264,21 @@ event.shapeless('endrem:black_eye',['#forge:tools/scavenging', 'minecraft:heart_
 
 event.shapeless('born_in_chaos_v1:infernal_evil_pumpkin_s',['born_in_chaos_v1:infernal_evil_pumpkin', 'minecraft:skeleton_skull']);
 
+event.shapeless('vinery:cherry_crate', '9x vinery:cherry')
+event.shapeless('vinery:white_grape_crate', '9x vinery:white_grape')
+event.shapeless('vinery:red_grape_crate', '9x vinery:red_grape')
+event.shapeless('vinery:apple_crate', '9x minecraft:apple')
 
+// VINERY <<<<<<<<<<<<<<<<<<<<<<<<<
 
+event.shaped('vinery:gloves', [
+	`B B`,
+	`B B`,
+	`A A`
+], {
+	A: 'create:brass_nugget',
+	B: 'minecraft:leather'
+});
 
 
 })

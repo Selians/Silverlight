@@ -37,7 +37,7 @@ ServerEvents.recipes(event => {
 		B: 'create:brass_sheet'
 	});
 	
-	event.shaped('toms_storage:ts.inventory_cable', [
+	event.shaped('4x toms_storage:ts.inventory_cable', [
 		'ABA',
 		'CCC',
 		'ABA'
@@ -47,13 +47,13 @@ ServerEvents.recipes(event => {
 		C: 'minecraft:string'
 	});
 
-	event.shaped('toms_storage:ts.inventory_cable_framed', [
+	event.shaped('4x toms_storage:ts.inventory_cable_framed', [
 		' A ',
 		'ABA',
 		' A '
 	], {
 		A: 'minecraft:glass_pane',
-		B: 'toms_storage:ts.inventory_cable_framed'
+		B: 'toms_storage:ts.inventory_cable'
 	});
 
 	event.shaped('toms_storage:ts.inventory_cable_connector', [

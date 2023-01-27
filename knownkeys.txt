@@ -206,3 +206,11 @@ gui.xaero_toggle_pac_players
 gui.xaero_toggle_pac_chunk_claims
 gui.xaero_minimap_settings
 key.ftbteams.open_gui
+key.toms_storage.open_terminal
+gui.xaero_open_map
+gui.xaero_open_settings
+gui.xaero_map_zoom_in
+gui.xaero_map_zoom_out
+gui.xaero_quick_confirm
+key.carry.desc
+gui.xaero_pac_key_open_menu

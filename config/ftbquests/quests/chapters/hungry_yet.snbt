@@ -70,9 +70,9 @@
 			dependencies: ["5832C1168E4E90C4"]
 			id: "36B13F4A88ED533A"
 			tasks: [{
-				id: "2CE870A15437429D"
-				type: "custom"
-				icon: "croptopia:guide"
+				id: "0A9ADDDAA3E32A12"
+				type: "item"
+				item: "croptopia:guide"
 			}]
 		}
 		{
